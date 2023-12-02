@@ -1,0 +1,139 @@
+{
+  "Actor": {
+    "types": [
+      "knight",
+      "npc",
+      "creature",
+      "steed",
+      "warband"
+    ],
+    "templates": {
+      "common": {
+        "biography": "",
+        "virtues": {
+          "vigour": {
+            "min": 0,
+            "max": 10,
+            "value": 10
+          },
+          "clarity": {
+            "min": 0,
+            "max": 10,
+            "value": 10
+          },
+          "spirit": {
+            "min": 0,
+            "max": 10,
+            "value": 10
+          }
+        },
+        "guard": {
+          "min": 0,
+          "max": 0,
+          "value": 0
+        },
+        "actors": []
+      }
+    },
+    "htmlFields": [
+      "biography"
+    ],
+    "knight": {
+      "templates": [
+        "common"
+      ],
+      "age": "young",
+      "rank": "knight_errant",
+      "knight": "",
+      "fatigue": false,
+      "glory": {
+        "min": 0,
+        "value": 0
+      }
+    },
+    "npc": {
+      "templates": [
+        "common"
+      ],
+      "age": "young"
+    },
+    "creature": {
+      "templates": [
+        "common"
+      ]
+    },
+    "steed": {
+      "templates": [
+        "common"
+      ],
+      "trample": ""
+    },
+    "warband": {
+      "templates": [
+        "common"
+      ]
+    }
+  },
+  "Item": {
+    "types": [
+      "ability",
+      "weapon",
+      "coat",
+      "plate",
+      "shield",
+      "helm",
+      "passion",
+      "misc",
+      "scar"
+    ],
+    "htmlFields": [
+      "description"
+    ],    
+    "ability": {
+      "description": ""
+    },
+    "passion": {
+      "description": ""
+    },
+    "weapon": {
+      "description": "",
+      "damage": "d4",
+      "hefty": false,
+      "long": false,
+      "slow": false,
+      "equipped": false
+    },
+    "coat": {
+      "description": "",
+      "armor": 1,
+      "equipped": false
+    },
+    "plate": {
+      "description": "",
+      "armor": 1,
+      "equipped": false
+    },
+    "helm": {
+      "description": "",
+      "armor": 1,
+      "equipped": false
+    },
+    "shield": {
+      "description": "",
+      "armor": 1,
+      "damage": "d4",
+      "equipped": false
+    },
+    "misc": {
+      "description": "",
+      "quantity": {
+        "min": 1,
+        "max": 1,
+        "value": 1
+      }
+    },
+    "scar": {
+      "description": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<form class="paper scrollable br-1 p-2 gap-3">
+  <div>
+    <header class="grid">
+      <label class="col col-3"></label>
+      <label class="col align-items-center text-bold" for="restore_vigour"><span>{{localize "MB.Actor.Virtues.vigour"}}</span></label>
+      <label class="col align-items-center text-bold" for="restore_clarity"><span>{{localize "MB.Actor.Virtues.clarity"}}</span></label>
+      <label class="col align-items-center text-bold" for="restore_spirit"><span>{{localize "MB.Actor.Virtues.spirit"}}</span></label>
+    </header>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regular">{{localize "MB.Restore"}}</label>
+      <div class="col align-items-center">
+        <input type="checkbox" id="restore_vigour" name="vigour" value="vigour">
+      </div>
+      <div class="col align-items-center">
+        <input type="checkbox" id="restore_clarity" name="clarity" value="clarity">
+      </div>
+      <div class="col align-items-center">
+        <input type="checkbox" id="restore_spirit" name="spirit" value="spirit">
+      </div>
+    </div>
+  </div>
+
+  <div class="grid gap-1">
+      <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
+      <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.Restore"}}</button>
+  </div>
+</form>

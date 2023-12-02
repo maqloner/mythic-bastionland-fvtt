@@ -1,0 +1,102 @@
+{
+  "id": "mythicbastionland",
+  "title": "Mythic Bastionland",
+  "description": "FoundryVTT system for playing the Mythic Bastionland.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "url": "https://github.com/maqloner/mythic-bastionland-foundry-vtt",
+  "manifest": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/releases/latest/download/system.json",
+  "download": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/releases/latest/download/system.zip",
+  "changelog": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/pirate-borg-system/main/CHANGELOG.md",
+  "authors": [
+    {
+      "name": "Chris McDowall",
+      "url": "https://www.bastionland.com/"
+    }
+  ],
+  "esmodules": [
+    "module/mythic-bastionland.js"
+  ],
+  "styles": [
+    "css/mythic-bastionland.css"
+  ],
+  "packs": [
+    {
+      "name": "mythic-bastionland-core-rolltables",
+      "label": "Core RollTables",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-core-rolltables",
+      "type": "RollTable"
+    },
+    {
+      "name": "mythic-bastionland-core-items",
+      "label": "Core Items",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-core-items",
+      "type": "Item"
+    },    
+    {
+      "name": "mythic-bastionland-core-actors",
+      "label": "Core Actors",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-core-actors",
+      "type": "Actor"
+    },
+    {
+      "name": "mythic-bastionland-knight-rolltables",
+      "label": "Knight - RollTables",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-knight-rolltables",
+      "type": "RollTable"
+    },
+    {
+      "name": "mythic-bastionland-knight-items",
+      "label": "Knight - Items",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-knight-items",
+      "type": "Item"
+    },    
+    {
+      "name": "mythic-bastionland-knight-actors",
+      "label": "Knight - Actors",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-knight-actors",
+      "type": "Actor"
+    }           
+  ],
+  "packFolders": [
+    {
+      "name": "Mythic Bastionland - Core",
+      "sorting": "a",
+      "packs": [
+        "mythic-bastionland-core-items",
+        "mythic-bastionland-core-actors",
+        "mythic-bastionland-core-rolltables"        
+      ]
+    },
+    {
+      "name": "Mythic Bastionland - Knight",
+      "sorting": "a",
+      "packs": [
+        "mythic-bastionland-knight-items",
+        "mythic-bastionland-knight-actors",
+        "mythic-bastionland-knight-rolltables"        
+      ]
+    }    
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "guard",
+  "secondaryTokenAttribute": "virtues.vigour"
+}

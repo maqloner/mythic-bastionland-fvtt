@@ -1,0 +1,54 @@
+:root {
+  --primary-color: #181f2b;
+  --secondary-color: #4b414d;
+  --hightlight-light-color: #fbebd5;
+  --hightlight-light-alt-color: #b9b393;
+  --hightlight-dark-color: #a16240;
+  --text-dark-color: #181f2b;
+  --text-light-color: #FFFFFF;  
+  --paper-image-url: url('/systems/mythicbastionland/ui/paper.png');
+  --title-font-family: 'AnglicanText Regular';
+  --text-font-family: 'TeXGyreSchola';
+  --secondary-text-font-family: 'DeliciousHandrawn Regular';
+}
+
+@font-face {
+  font-family: 'AnglicanText Regular';
+  font-weight: 400;
+  src: url("../fonts/anglicantext.regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'DeliciousHandrawn Regular';
+  font-weight: 400;
+  src: url("../fonts/DeliciousHandrawn-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'TeXGyreSchola';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/texgyreschola-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TeXGyreSchola';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/texgyreschola-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TeXGyreSchola';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts//texgyreschola-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TeXGyreSchola';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/texgyreschola-bolditalic.woff') format('woff');
+}
+

@@ -1,0 +1,49 @@
+<form class="{{cssClass}} flexcol ability" autocomplete="off">
+  <div class="paper scrollable br-1 p-2 gap-2">
+
+    <div class="grid">
+      <label class="col col-3 text-large label-large">{{localize "MB.Item.Name"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
+          placeholder="{{ localize "MB.Item.name" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Damage"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-regular" name="system.damage" type="text" value="{{data.system.damage}}"
+          placeholder="{{ localize "PB.Damage" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Hefty"}}</label>
+      <div class="col col-9">
+        <input class="input-checkbox" type="checkbox" name="system.hefty" {{checked data.system.hefty}} data-dtype="Boolean" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Long"}}</label>
+      <div class="col col-9">
+        <input class="input-checkbox" type="checkbox" name="system.long" {{checked data.system.long}} data-dtype="Boolean" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Slow"}}</label>
+      <div class="col col-9">
+        <input class="input-checkbox" type="checkbox" name="system.slow" {{checked data.system.slow}} data-dtype="Boolean" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <h2 class="col col-12 text-large">{{localize "MB.Item.Description"}}</h2>
+      <div class="col col-12 editor-container">
+        {{wysiwig content=data.system.description target="system.description" button=true owner=owner editable=true}}
+      </div>
+    </div>
+
+  </div>
+</form>

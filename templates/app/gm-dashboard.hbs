@@ -1,0 +1,311 @@
+<form class="paper br-1">
+
+  <nav class="grid sheet-tabs tabs gap-1 align-items-center" data-group="primary">
+    <a class="item col" data-tab="travel">Travel</a>
+    <a class="item col" data-tab="domains">Domain</a>
+    <a class="item col" data-tab="sparks">Sparks</a>
+    <div class="col col-3 justify-items-center pr-1">
+      <select class="" name="roll_mode" data-dtype="String">
+        {{#select "publicroll"}}
+          {{#each rollModes as |mode|}}
+            <option value="{{mode}}">{{localize (concat "MB.RollMode." . )}}</option>
+          {{/each}}
+        {{/select}}
+      </select>
+    </div>
+  </nav>
+
+  <section class="sheet-body scrollable">
+    <div class="tab tab-combat" data-group="primary" data-tab="travel">
+      <div class="col col-12 gap-1 p-1">
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Luck roll">Luck roll</button>
+          </div>
+          <div class="col col-8">
+            <button class="button-primary roll-table" data-table="Wilderness roll">Wilderness roll</button>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Travelling Blind">Travelling blind</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Local mood">Local mood</button>
+          </div>
+          <div class="col col-4">
+            <button class="button-primary roll-table" data-table="Dire weather">Dire weather</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab tab-domains" data-group="primary" data-tab="domains">
+      <div class="col col-12 gap-1 p-1">
+        <div class="grid">
+          <div class="col col-6 pr-1">
+            <button class="button-primary roll-table" data-table="Passage of time">Passage of time</button>
+          </div>
+          <div class="col col-6">
+            <button class="button-primary roll-table" data-table="Unresolved situations">Unresolved situations</button>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="col col-6 pr-1">
+            <button class="button-primary roll-table" data-table="Drama in Court">Drama in court</button>
+          </div>
+          <div class="col col-6">
+            <button class="button-primary roll-table" data-table="Increased taxes">Increased taxes</button>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="col col-6 pr-1">
+            <button class="button-primary roll-table" data-table="Crisis roll">Crisis roll</button>
+          </div>
+          <div class="col col-6">
+            <button class="button-primary roll-table" data-table="Crisis">Crisis</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab tab-sparks" data-group="primary" data-tab="sparks">
+      <div class="col col-12 p-1 gap-1">
+        <div class="grid">
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-table" data-table="Person">Person</button>
+          </div>
+          <div class="col col-6 pr-1">
+            <button class="button-primary roll-table" data-table="Name">Name</button>
+          </div>
+          <div class="col col-3">
+            <button class="button-primary roll-table" data-table="Characteristic">Characteristic</button>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-table" data-table="Object">Object</button>
+          </div>
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-table" data-table="Beast">Beast</button>
+          </div>
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-table" data-table="State">State</button>
+          </div>
+          <div class="col col-3">
+            <button class="button-primary roll-table" data-table="Theme">Theme</button>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Dwelling">Dwelling</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Sanctum">Sanctum</button>
+          </div>
+          <div class="col col-4">
+            <button class="button-primary roll-table" data-table="Monument">Monument</button>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Hazard">Hazard</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table" data-table="Ruin">Ruin</button>
+          </div>
+          <div class="col col-4">
+            <button class="button-primary roll-table" data-table="Curse">Curse</button>
+          </div>
+        </div>
+
+        <div class="col col-12 pt-1 gap-1">
+          <h2 class="text-large">Nature</h2>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Land"
+                data-tables="LAND - Character;LAND - Landscape">Land</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Sky"
+                data-tables="SKY - Tone;SKY - Texture">Sky</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Water"
+                data-tables="WATER - Tone;WATER - Texture">Water</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Weather"
+                data-tables="WEATHER - Description;WEATHER - Element">Weather</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Flora"
+                data-tables="FLORA - Nature;FLORA - Form">Flora</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Fauna"
+                data-tables="FAUNA - Nature;FAUNA - Form">Fauna</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Feature"
+                data-tables="FEATURE - Nature;FEATURE - Form">Feature</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Wonder"
+                data-tables="WONDER - Theme;WONDER - Element">Wonder</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Otherworld"
+                data-tables="OTHERWORLD - Character;OTHERWORLD - Landscape">Otherworld</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-12 pt-1 gap-1">
+          <h2 class="text-large">Civilisation</h2>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Holding"
+                data-tables="HOLDING - Style;HOLDING - Feature">Holding</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Bailey"
+                data-tables="BAILEY - Style;BAILEY - Feature">Bailey</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Keep"
+                data-tables="KEEP - Centrepiece;KEEP - Decoration">Keep</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Food"
+                data-tables="FOOD - Quality;FOOD - Type">Food</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Goods"
+                data-tables="GOODS - Theme;GOODS - Type">Goods</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Luxuries"
+                data-tables="LUXURIES - Rarity;LUXURIES - Type">Luxuries</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Drama"
+                data-tables="DRAMA - Theme;DRAMA - Detail">Drama</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Woe"
+                data-tables="WOE - Description;WOE - Incident">Woe</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="News"
+                data-tables="NEWS - Subject;NEWS - Mood">News</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-12 pt-1 gap-1">
+          <h2 class="text-large">People</h2>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Appearance"
+                data-tables="APPEARANCE - Physique;APPEARANCE - Dress">Appearance</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Voice"
+                data-tables="VOICE - Tone;VOICE - Manner">Voice</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Personality"
+                data-tables="PERSONALITY - Demeanour;PERSONALITY - Interest">Personality</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Relationship"
+                data-tables="RELATIONSHIP - State;RELATIONSHIP - Connection">Relationship</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Desire"
+                data-tables="DESIRE - Ambition;DESIRE - Motive">Desire</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Task"
+                data-tables="TASK - Action;TASK - Subject">Task</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Background"
+                data-tables="BACKGROUND - Upbringing;BACKGROUND - Memory">Background</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Ailment"
+                data-tables="AILMENT - Descriptor;AILMENT - Symptom">Ailment</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Heraldy"
+                data-tables="HERALDRY - Palette;HERALDRY - Symbol">Heraldry</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col col-12 pt-1 gap-1">
+          <h2 class="text-large">Combat</h2>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Soldier"
+                data-tables="SOLDIER - Quality;SOLDIER - Type">Soldier</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Weapon"
+                data-tables="WEAPON - Descriptor;WEAPON - Feature">Weapon</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Manoeuvres"
+                data-tables="MANOEUVRES - Action;MANOEUVRES - Intent">Manoeuvres</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Conflict"
+                data-tables="CONFLICT - Dispute;CONFLICT - Status">Conflict</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Duel"
+                data-tables="DUEL - Stipulation;DUEL - Twist">Duel</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Battlefield"
+                data-tables="BATTLEFIELD - Feature;BATTLEFIELD - Detail">Battlefield</button>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Deployment"
+                data-tables="DEPLOYMENT - Style;DEPLOYMENT - Formation">Deployment</button>
+            </div>
+            <div class="col col-4 pr-1">
+              <button class="button-primary roll-table-multi" data-label="Strategy"
+                data-tables="STRATEGY - Plan;STRATEGY - Twist">Strategy</button>
+            </div>
+            <div class="col col-4">
+              <button class="button-primary roll-table-multi" data-label="Event"
+                data-tables="EVENT - Subject;EVENT - Event">Event</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</form>

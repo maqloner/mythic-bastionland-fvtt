@@ -1,0 +1,54 @@
+<form class="paper scrollable br-1 p-2 gap-3">
+  <div>
+    <div class="col gap-1">
+      <div>
+        <div class="grid align-items-center">
+          <label class="col col-4 text-regular">{{localize "MB.Virtue"}}</label>
+          <div class="col">
+            <div class="grid align-items-center">
+              <label for="damage_vigour">{{localize "MB.Actor.Virtues.vigour"}}</label>
+              <input type="radio" id="damage_vigour" name="virtue" value="vigour" checked>
+            </div>
+          </div>
+          <div class="col">
+            <div class="grid align-items-center">
+              <label for="damage_clarity">{{localize "MB.Actor.Virtues.clarity"}}</label>
+              <input type="radio" id="damage_clarity" name="virtue" value="clarity">
+            </div>
+          </div>
+          <div class="col">
+            <div class="grid align-items-center">
+              <label for="damage_spirit">{{localize "MB.Actor.Virtues.spirit"}}</label>
+              <input type="radio" id="damage_spirit" name="virtue" value="spirit">
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      <div class="grid">
+        <label class="col col-4 text-regular">{{localize "MB.Damage"}}</label>
+        <div class="col-8 align-items-center">
+          <input class="input-simple" placeholder="0" type="number" name="damage">
+        </div>
+      </div>
+
+      <div class="grid">
+        <label class="col col-4 text-regular">{{localize "MB.Item.Armor"}}</label>
+        <div class="col-8 align-items-center">
+          <input class="input-simple" placeholder="0" type="number" name="armor" value="{{armor}}">
+        </div>
+      </div>
+
+      <div class="grid">
+        <label class="col col-4 text-regular">{{localize "MB.Exposed"}}</label>
+        <div class="col-8 align-items-center">
+          <input type="checkbox" name="exposed">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="grid gap-1">
+    <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.TakeDamage"}}</button>
+  </div>
+</form>

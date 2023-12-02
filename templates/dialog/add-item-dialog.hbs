@@ -1,0 +1,31 @@
+<form class="paper scrollable br-1 p-2 gap-3">
+  <div class="grid">
+    <div class="col col-12 gap-1">
+      <div class="grid">
+        <label class="col-5 text-regular">{{localize "MB.Name"}}</label>
+        <input class="col-7 input-simple" type="text" name="itemname" value="" placeholder="{{localize "MB.Name"}}"
+          data-dtype="String" />
+      </div>
+      <div class="grid pb-1">
+        <label class="col-5 text-regular">{{localize "MB.Type"}}</label>
+        <select class="col-7 input-simple" name="itemtype" class="add-type">
+          <option value="ability">{{localize "TYPES.Item.ability"}}</option>
+          <option value="weapon">{{localize "TYPES.Item.weapon"}}</option>
+          <option value="coat">{{localize "TYPES.Item.coat"}}</option>
+          <option value="plate">{{localize "TYPES.Item.plate"}}</option>
+          <option value="shield">{{localize "TYPES.Item.shield"}}</option>
+          <option value="helm">{{localize "TYPES.Item.helm"}}</option>
+          <option value="passion">{{localize "TYPES.Item.passion"}}</option>
+          <option value="misc">{{localize "TYPES.Item.misc"}}</option>
+          <option value="scar">{{localize "TYPES.Item.scar"}}</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div class="grid gap-1">
+    <button type="submit"
+      class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit"
+      class="col button align-items-center button-primary ok-button">{{localize "MB.Create"}}</button>
+  </div>
+</form>

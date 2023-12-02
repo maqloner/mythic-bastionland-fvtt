@@ -1,0 +1,150 @@
+<form class="{{cssClass}} flexcol knight" autocomplete="off">
+
+  {{> actions }}
+
+  <div class="paper scrollable br-1 p-2 gap-3">
+    <div class="grid">
+      <div class="col col-8 gap-1">
+
+        <div class="grid">
+          <label class="col col-5 text-large label-large">{{localize "MB.Actor.KnightName"}}</label>
+          <div class="col col-7">
+            <input class="input-large" name="name" type="text" value="{{data.name}}"
+              placeholder="{{ localize "MB.Actor.KnightName" }}" spellcheck="false" />
+          </div>
+        </div>
+
+        <div class="grid">
+          <label class="col col-5 text-large label-large">{{localize "MB.Actor.KnightType"}}</label>
+          <div class="col col-7">
+            <input class="input-large" name="system.knight" type="text"
+              value="{{data.system.knight}}" placeholder="{{ localize "MB.Actor.KnightType" }}" spellcheck="false" />
+          </div>
+        </div>
+
+        <div class="grid align-items-center">
+          <label class="col col-5 text-regular label-regular">{{localize "MB.Actor.Age.Label"}}</label>
+          <div class="col col-7">
+            <select class="input-regular" name="system.age" data-dtype="String">
+              {{#select data.system.age}}
+                {{#each config.age as |age|}}
+                  <option value="{{age}}">{{localize (concat "MB.Actor.Age." age)}}</option>
+                {{/each}}
+              {{/select}}
+            </select>
+          </div>
+        </div>
+
+        <div class="grid align-items-center">
+          <label class="col col-5 text-regular label-regular">{{localize "MB.Actor.Rank.Label"}}</label>
+          <div class="col col-7">
+            <select class="input-regular" name="system.rank" data-dtype="String">
+              {{#select data.system.rank}}
+                {{#each config.rank as |rank|}}
+                  <option value="{{rank}}">{{localize (concat "MB.Actor.Rank." rank)}}</option>
+                {{/each}}
+              {{/select}}
+            </select>
+          </div>
+        </div>
+
+        <div class="grid align-items-center">
+          <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Glory"}}</label>
+          <div class="col col-7">
+            <input class="input-number" type="number" name="system.glory.value"
+              value="{{data.system.glory.value}}" data-dtype="Number" size="2" />
+          </div>
+        </div>
+      </div>
+
+      <div class="col col-4">
+        <div class="picture shield ml-2 align-self-center">
+          <img src="{{data.img}}" data-edit="img" title="{{data.name}}" />
+        </div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="col col-8">
+        {{> virtues  }}
+      </div>
+      <div class="col col-4 text-medium text-small-caps align-items-center align-self-center">
+        <div>{{localize "MB.Actor.Oath1"}}</div>
+        <div>{{localize "MB.Actor.Oath2"}}</div>
+        <div>{{localize "MB.Actor.Oath3"}}</div>
+      </div>
+    </div>
+
+    {{> item-list title=(localize "MB.Actor.Ability") items=data.abilities }}
+    {{> item-list title=(localize "MB.Actor.Passion") items=data.passions }}
+    {{> actor-list title=(localize "MB.Actor.Steed") actors=data.steeds }}
+    {{> actor-list title=(localize "MB.Actor.Companion") actors=data.companions }}
+    {{> item-list title=(localize "MB.Actor.Property") items=data.properties }}
+    {{> item-list title=(localize "MB.Actor.Scars") items=data.scars }}
+
+    <div class="grid">
+      <div class="col col-6">
+        <h2 class="text-large">Feats</h2>
+        <div class="grid gap-1 pr-1 pl-1">
+          <div>
+            <span class="text-bold">Smite</span> - <span class="text-italic">Release your righteous fury</span>
+            <ul class="m-0">
+              <li>Use before rolling a melee attack</li>
+              <li>The attack gains either +<a class="inline-roll roll" data-mode="roll" data-flavor="Smite"
+                  data-formula="d12"><i class="fas fa-dice-d12"></i>d12</a> or Blast</li>
+              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="vigour" data-formula="d20"><i
+                    class="fas fa-dice-d20"></i>VIG Save</a> or become Fatigued</li>
+            </ul>
+          </div>
+          <div>
+            <span class="text-bold">Focus</span> - <span class="text-italic">Create an opening to exploit</span>
+            <ul class="m-0">
+              <li>Use after rolling an attack</li>
+              <li>Perform a Gambit without using a diet</li>
+              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="clarity" data-formula="d20"><i
+                    class="fas fa-dice-d20"></i>CLA Save</a> or become Fatigued</li>
+            </ul>
+          </div>
+          <div>
+            <span class="text-bold">Deny</span> - <span class="text-italic">Rebuff an attack before it lands</span>
+            <ul class="m-0">
+              <li>Use after an attack roll against you or an ally within arm’s reach</li>
+              <li>Discard one attack die</li>
+              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="spirit" data-formula="d20"><i
+                    class="fas fa-dice-d20"></i>SPI Save</a> or become Fatigued</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col col-6">
+        <div class="grid pr-1 pl-1">
+          <h2 class="text-large">Gambit</h2>
+          <ul class="m-0 pb-1">
+            <li><strong>Bolster</strong> the attack for +1 total damage</li>
+            <li><strong>Move</strong> after the attack, even if you already moved or are unable to move</li>
+            <li><strong>Repel</strong> a foe away from you</li>
+            <li><strong>Stop</strong> a foe from moving next turn</li>
+            <li><strong>Impair</strong> a weapon on their next turn</li>
+            <li><strong>Trap</strong> a shield until your next turn</li>
+            <li><strong>Dismount</strong> a foe</li>
+            <li><strong>Other effect</strong> of a similar level of impact</li>
+          </ul>
+          <h2 class="text-large">Strong Gambit</h2>
+          <ul class="m-0">
+            <li><strong>No Save</strong> is granted to the target</li>
+            <li><strong>Greater Effect</strong> such as disarming an item, breaking a wooden shield or weapon, or
+              removing a helm. This does not increase the damage from Bolster.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <h2 class="col col-12 text-large">{{localize "MB.Actor.Biography"}}</h2>
+      <div class="col col-12 editor-container">
+        {{wysiwig content=data.system.biography target="system.biography" button=true owner=owner editable=true}}
+      </div>
+    </div>
+    
+  </div>
+</form>

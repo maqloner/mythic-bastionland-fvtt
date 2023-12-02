@@ -1,0 +1,40 @@
+{
+  "name": "mythic-bastionland-foundry-vtt",
+  "version": "1.0.0",
+  "description": "FoundryVTT system for the Mythic Bastionland TTPRG",
+  "main": "./module/mythicbastionland.js",
+  "scripts": {
+    "build:css": "gulp buildCSS",
+    "build:watch": "gulp",
+    "lint": "eslint --ext .js ./module",
+    "lint:fix": "eslint --fix --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
+    "i18n:unused": "i18n-unused display-unused",
+    "i18n:missed": "i18n-unused display-missed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqloner/mythic-bastionland-foundry-vtt.git"
+  },
+  "author": "Chris McDowall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/issues"
+  },
+  "homepage": "https://github.com/maqloner/mythic-bastionland-foundry-vtt#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.23.3",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "eslint-plugin-i18n-json": "^4.0.0",
+    "eslint-plugin-import": "^2.29.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint7": "^0.3.2",
+    "gulp-if": "^3.0.0",
+    "gulp-sass": "^5.1.0",
+    "i18n-unused": "^0.16.0",
+    "merge-stream": "^2.0.0",
+    "rollup": "^4.4.0",
+    "sass": "^1.69.5"
+  }
+}

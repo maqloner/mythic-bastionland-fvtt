@@ -1,0 +1,43 @@
+<form class="{{cssClass}} flexcol knight" autocomplete="off">
+
+  {{> actions }}
+
+  <div class="paper scrollable br-1 p-2 gap-2">
+    <div class="grid">
+      <div class="col col-8 gap-2">
+        <div class="col col-12 gap-1">
+          <div class="grid">
+            <label class="col col-5 text-large label-large">{{ localize "MB.Actor.Name"}}</label>
+            <div class="col col-7">
+              <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
+                placeholder="{{ localize "MB.Actor.name" }}" spellcheck="false" />
+            </div>
+          </div>
+        </div>
+
+        {{> virtues  }}
+
+      </div>
+      <div class="col col-4">
+        <div class="picture ml-2 align-self-center">
+          <img src="{{data.img}}" data-edit="img" title="{{data.name}}" />
+        </div>
+      </div>
+    </div>
+
+    {{> item-list title=(localize "MB.Actor.Ability") items=data.abilities }}
+    {{> item-list title=(localize "MB.Actor.Passion") items=data.passions }}
+    {{> actor-list title=(localize "MB.Actor.Steed") actors=data.steeds }}
+    {{> actor-list title=(localize "MB.Actor.Companion") actors=data.companions }}
+    {{> item-list title=(localize "MB.Actor.Property") items=data.properties }}
+    {{> item-list title=(localize "MB.Actor.Scars") items=data.scars }}
+
+    <div class="grid">
+      <h2 class="col col-12 text-large">{{localize "MB.Actor.Biography"}}</h2>
+      <div class="col col-12 editor-container">
+        {{wysiwig content=data.system.biography target="system.biography" button=true owner=owner editable=true}}
+      </div>
+    </div>
+
+  </div>
+</form>

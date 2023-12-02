@@ -1,0 +1,35 @@
+<form class="paper scrollable br-1 p-2 gap-3">
+  <div>
+    <header class="grid">
+      <label class="col col-3"></label>
+      <label class="col align-items-center" for="scar_d4"><span>d4</span></label>
+      <label class="col align-items-center" for="scar_d6"><span>d6</span></label>
+      <label class="col align-items-center" for="scar_d8"><span>d8</span></label>
+      <label class="col align-items-center" for="scar_d10"><span>d10</span></label>
+      <label class="col align-items-center" for="scar_d12"><span>d12</span></label>
+    </header>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regular">{{localize "MB.Die"}}</label>
+      <div class="col align-items-center">
+        <input type="radio" id="scar_d4" name="die" value="d4">
+      </div>
+      <div class="col align-items-center">
+        <input type="radio" id="scar_d6" name="die" value="d6">
+      </div>
+      <div class="col align-items-center">
+        <input type="radio" id="scar_d8" name="die" value="d8">
+      </div>
+      <div class="col align-items-center">
+        <input type="radio" id="scar_d10" name="die" value="d10">
+      </div>
+      <div class="col align-items-center">
+        <input type="radio" id="scar_d12" name="die" value="d12">
+      </div>
+    </div>
+  </div>
+  <div class="grid gap-1">
+      <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
+      <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.Roll"}}</button>
+  </div>
+</form>

@@ -1,0 +1,44 @@
+{{#if actors.length }}
+  <div>
+    <h2 class="text-large">{{title}}</h2>
+
+    <div class="grid">
+
+      <div class="col">
+        {{#each actors as |actor|}}
+          <div class="grid item" data-item-id="{{actor._id}}">
+
+            <div class="col col-9 pr-2">
+              <div class="text-regular text-bold">
+                {{actor.name}}
+              </div>
+              <div class="item-description">
+                <span class="text-small-caps">{{localize "MB.Actor.Virtues.vigourAbr"}}</span>
+                {{actor.system.virtues.vigour.value}}<span class="text-small-caps">,
+                  {{localize "MB.Actor.Virtues.clarityAbr"}}</span> {{actor.system.virtues.clarity.value}}<span
+                  class="text-small-caps">,
+                  {{localize "MB.Actor.Virtues.spiritAbr"}}</span> {{actor.system.virtues.spirit.value}}<span>,
+                  {{actor.system.guard.value}}</span><span
+                  class="text-small-caps">{{localize "MB.Actor.GuardAbr"}}</span>{{#if actor.system.trample}}<span>, <a
+                      class="inline-roll roll" data-mode="roll" data-flavor="trample"
+                      data-formula="{{actor.system.trample}}">
+                      <i class="fas fa-dice-d20"></i>{{actor.system.trample}}</a><span
+                      class="text-lowercase">
+                      {{localize "MB.Actor.Trample"}}</span>
+                  </span>
+                {{/if}}
+              </div>
+            </div>
+            <div class="col col-3">
+              <div class="grid justify-content-end gap-1">
+                <a class="actor-action actor-edit" title="{{localize "MB.Item.Edit"}}"> <i class="fas fa-edit"></i></a>
+                <a class="actor-action actor-delete" title="{{localize "MB.Item.Delete"}}"> <i
+                    class="fas fa-trash"></i></a>
+              </div>
+            </div>
+          </div>
+        {{/each}}
+      </div>
+    </div>
+  </div>
+{{/if}}

@@ -1,0 +1,13 @@
+# Build Artifacts
+mythic-bastionland-compiled*
+mythic-bastionland.lock
+
+# IDE
+.vs/
+.vscode/
+
+# Node Modules
+node_modules/
+
+# OS Specific
+.DS_Store

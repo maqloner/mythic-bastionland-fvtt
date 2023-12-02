@@ -1,0 +1,28 @@
+<form class="{{cssClass}} flexcol  ability" autocomplete="off">
+  <div class="paper scrollable br-1 p-2 gap-2">
+
+    <div class="grid">
+      <label class="col col-3 text-large label-large">{{localize "MB.Item.Name"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
+          placeholder="{{ localize "MB.Item.name" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <label class="col col-3 text-regular label-number">{{localize "MB.Item.Armor"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-number" name="system.armor" type="number" value="{{data.system.armor}}"
+          placeholder="{{ localize "MB.Item.armor" }}" data-dtype="Number" size="1" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid">
+      <h2 class="col col-12 text-large">{{localize "MB.Item.Description"}}</h2>
+      <div class="col col-12 editor-container">
+        {{wysiwig content=data.system.description target="system.description" button=true owner=owner editable=true}}
+      </div>
+    </div>
+
+  </div>
+</form>

@@ -1,8 +1,8 @@
-import { config } from "../config.js";
+import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/dialog/add-item-dialog.hbs";
+const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/roll-scar-dialog.hbs";
 
-class AddItemDialog extends Application {
+class RollScarDialog extends Application {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
@@ -12,9 +12,9 @@ class AddItemDialog extends Application {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       template: ADD_ITEM_TEMPLATE,
-      classes: ["mythic-bastionland", "add-item-dialog"],
-      title: game.i18n.localize("MB.CreateItem"),
-      width: 420,
+      classes: ["mythic-bastionland", "roll-scar-dialog"],
+      title: game.i18n.localize("MB.RollScar"),
+      width: 500,
       height: "auto",
     });
   }
@@ -40,27 +40,26 @@ class AddItemDialog extends Application {
 
   async _onSubmit(event) {
     event.preventDefault();
-    const name = this.element.find("[name=itemname]").val();
-    const type = this.element.find("[name=itemtype]").val();
+    const die = this.element.find("[name=die]:checked").val();
 
-    if (!name || !type) {
+    if (!die) {
       return;
     }
 
     this.callback({
-      name,
-      type,
+      die,
     });
+
     await this.close();
   }
 }
 
 /**
- * @returns {Promise.<{name: String, type: String}>}
+ * @returns {Promise.<{die: String}>}
  */
-export const showAddItemDialog = (data = {}) =>
+export const showRollScarDialog = (data = {}) =>
   new Promise((resolve) => {
-    new AddItemDialog({
+    new RollScarDialog({
       ...data,
       callback: resolve,
     }).render(true);

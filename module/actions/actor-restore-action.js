@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { showRestoreDialog } from "../dialog/restore-dialog.js";
+import { showRestoreDialog } from "../applications/dialog/restore-dialog.js";
 
 /**
  * @param {Actor} actor

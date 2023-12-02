@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { showTakeDamageDialog } from "../dialog/take-damage-dialog.js";
+import { showTakeDamageDialog } from "../applications/dialog/take-damage-dialog.js";
 
 /**
  * @param {Actor} actor

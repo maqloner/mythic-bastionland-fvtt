@@ -1,8 +1,8 @@
-import { config } from "../config.js";
+import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/dialog/restore-dialog.hbs";
+const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/virtue-loss-dialog.hbs";
 
-class RestoreDialog extends Application {
+class VirtueLossDialog extends Application {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
@@ -12,8 +12,8 @@ class RestoreDialog extends Application {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       template: ADD_ITEM_TEMPLATE,
-      classes: ["mythic-bastionland", "restore-dialog"],
-      title: game.i18n.localize("MB.Restore"),
+      classes: ["mythic-bastionland", "take-damage-dialog"],
+      title: game.i18n.localize("MB.VirtueLoss"),
       width: 500,
       height: "auto",
     });
@@ -40,18 +40,16 @@ class RestoreDialog extends Application {
 
   async _onSubmit(event) {
     event.preventDefault();
-    const vigour = !!this.element.find("[name=vigour]:checked").val();
-    const spirit = !!this.element.find("[name=spirit]:checked").val();
-    const clarity = !!this.element.find("[name=clarity]:checked").val();
+    const virtue = this.element.find("[name=virtue]:checked").val();
+    const amount = parseInt(this.element.find("[name=amount]").val(), 10);
 
-    if (!(vigour || spirit || clarity)) {
+    if (!amount) {
       return;
     }
 
     this.callback({
-      vigour,
-      spirit,
-      clarity
+      amount,
+      virtue
     });
 
     await this.close();
@@ -59,11 +57,11 @@ class RestoreDialog extends Application {
 }
 
 /**
- * @returns {Promise.<{vigour: Boolean, spirit: Boolean, clarity: Boolean}>}
+ * @returns {Promise.<{damage: Boolean, virtue: String}>}
  */
-export const showRestoreDialog = (data = {}) =>
+export const showVirtueLossDialog = (data = {}) =>
   new Promise((resolve) => {
-    new RestoreDialog({
+    new VirtueLossDialog({
       ...data,
       callback: resolve,
     }).render(true);

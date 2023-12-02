@@ -1,6 +1,6 @@
-import { config } from "../config.js";
+import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/dialog/attack-dialog.hbs";
+const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/attack-dialog.hbs";
 
 class AttackDialog extends Application {
   constructor({ actor, callback } = {}) {

@@ -1,5 +1,5 @@
-import { configureEditor } from "../utils/foundry.js";
-import { config } from "../config.js";
+import { configureEditor } from "../../utils/foundry.js";
+import { config } from "../../config.js";
 // import { showAddItemDialog } from "../../dialog/add-item-dialog.js";
 
 /**
@@ -24,7 +24,7 @@ export class MBitemSheet extends ItemSheet {
 
   /** @override */
   get template() {
-    const path = "systems/mythicbastionland/templates/item/";
+    const path = "systems/mythicbastionland/templates/applications/sheet/item/";
     return `${path}/${this.item.type}-sheet.hbs`;
   }
 

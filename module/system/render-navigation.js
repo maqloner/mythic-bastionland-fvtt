@@ -1,4 +1,4 @@
-import { showGMDashboard } from "../app/gm-dashboard.js";
+import { showGMDashboard } from "../applications/gm-dashboard.js";
 
 export const renderNavigation = async (html) => {
   if (game.user.isGM) {

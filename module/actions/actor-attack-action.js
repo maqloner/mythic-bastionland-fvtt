@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { showAttackDialog } from "../dialog/attack-dialog.js";
+import { showAttackDialog } from "../applications/dialog/attack-dialog.js";
 
 
 /**

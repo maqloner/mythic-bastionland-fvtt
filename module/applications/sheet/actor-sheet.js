@@ -1,13 +1,13 @@
-import { configureEditor } from "../utils/foundry.js";
-import { config } from "../config.js";
-import { actorRestAction } from "../actions/actor-rest-action.js";
+import { configureEditor } from "../../utils/foundry.js";
+import { config } from "../../config.js";
+import { actorRestAction } from "../../actions/actor-rest-action.js";
 import { showAddItemDialog } from "../dialog/add-item-dialog.js";
-import { actorRollScarsAction } from "../actions/actor-roll-scars-action.js";
-import { actorSaveAction } from "../actions/actor-save-action.js";
-import { actorRestoreAction } from "../actions/actor-restore-action.js";
-import { actorTakeDamageAction } from "../actions/actor-take-damage-action.js";
-import { attackVirtueLossAction } from "../actions/actor-virtue-loss-action.js";
-import { actorAttackAction } from "../actions/actor-attack-action.js";
+import { actorRollScarsAction } from "../../actions/actor-roll-scars-action.js";
+import { actorSaveAction } from "../../actions/actor-save-action.js";
+import { actorRestoreAction } from "../../actions/actor-restore-action.js";
+import { actorTakeDamageAction } from "../../actions/actor-take-damage-action.js";
+import { attackVirtueLossAction } from "../../actions/actor-virtue-loss-action.js";
+import { actorAttackAction } from "../../actions/actor-attack-action.js";
 
 /**
  * @extends {ActorSheet}
@@ -33,7 +33,7 @@ export class MBActorSheet extends ActorSheet {
 
   /** @override */
   get template() {
-    const path = "systems/mythicbastionland/templates/actor/";
+    const path = "systems/mythicbastionland/templates/applications/sheet/actor/";
     return `${path}/${this.actor.type}-sheet.hbs`;
   }
 

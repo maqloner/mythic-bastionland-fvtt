@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { showVirtueLossDialog } from "../dialog/virtue-loss-dialog.js";
+import { showVirtueLossDialog } from "../applications/dialog/virtue-loss-dialog.js";
 
 /**
  * @param {Actor} actor

@@ -35,9 +35,9 @@ export const configureHandlebar = () => {
   });
 
   loadTemplates({
-    "item-list": "systems/mythicbastionland/templates/actor/common/item-list.hbs",
-    "actor-list": "systems/mythicbastionland/templates/actor/common/actor-list.hbs",
-    "virtues": "systems/mythicbastionland/templates/actor/common/virtues.hbs",
-    "actions": "systems/mythicbastionland/templates/actor/common/actions.hbs"
+    "item-list": "systems/mythicbastionland/templates/applications/sheet/actor/common/item-list.hbs",
+    "actor-list": "systems/mythicbastionland/templates/applications/sheet/actor/common/actor-list.hbs",
+    "virtues": "systems/mythicbastionland/templates/applications/sheet/actor/common/virtues.hbs",
+    "actions": "systems/mythicbastionland/templates/applications/sheet/actor/common/actions.hbs"
   });
 };

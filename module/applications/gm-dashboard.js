@@ -1,7 +1,7 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { drawTable } from "../utils/compendium.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/app/gm-dashboard.hbs";
+const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/gm-dashboard.hbs";
 
 class GMDashboard extends Application {
   constructor({ callback } = {}) {

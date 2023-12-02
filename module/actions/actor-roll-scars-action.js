@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { showRollScarDialog } from "../dialog/roll-scar-dialog.js";
+import { showRollScarDialog } from "../applications/dialog/roll-scar-dialog.js";
 import { drawScar, findTableItems } from "../utils/compendium.js";
 import { evaluateFormula } from "../utils/formula.js";
 

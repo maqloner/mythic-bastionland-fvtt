@@ -1,8 +1,8 @@
-import { config } from "../config.js";
+import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/dialog/virtue-loss-dialog.hbs";
+const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/restore-dialog.hbs";
 
-class VirtueLossDialog extends Application {
+class RestoreDialog extends Application {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
@@ -12,8 +12,8 @@ class VirtueLossDialog extends Application {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       template: ADD_ITEM_TEMPLATE,
-      classes: ["mythic-bastionland", "take-damage-dialog"],
-      title: game.i18n.localize("MB.VirtueLoss"),
+      classes: ["mythic-bastionland", "restore-dialog"],
+      title: game.i18n.localize("MB.Restore"),
       width: 500,
       height: "auto",
     });
@@ -40,16 +40,18 @@ class VirtueLossDialog extends Application {
 
   async _onSubmit(event) {
     event.preventDefault();
-    const virtue = this.element.find("[name=virtue]:checked").val();
-    const amount = parseInt(this.element.find("[name=amount]").val(), 10);
+    const vigour = !!this.element.find("[name=vigour]:checked").val();
+    const spirit = !!this.element.find("[name=spirit]:checked").val();
+    const clarity = !!this.element.find("[name=clarity]:checked").val();
 
-    if (!amount) {
+    if (!(vigour || spirit || clarity)) {
       return;
     }
 
     this.callback({
-      amount,
-      virtue
+      vigour,
+      spirit,
+      clarity
     });
 
     await this.close();
@@ -57,11 +59,11 @@ class VirtueLossDialog extends Application {
 }
 
 /**
- * @returns {Promise.<{damage: Boolean, virtue: String}>}
+ * @returns {Promise.<{vigour: Boolean, spirit: Boolean, clarity: Boolean}>}
  */
-export const showVirtueLossDialog = (data = {}) =>
+export const showRestoreDialog = (data = {}) =>
   new Promise((resolve) => {
-    new VirtueLossDialog({
+    new RestoreDialog({
       ...data,
       callback: resolve,
     }).render(true);

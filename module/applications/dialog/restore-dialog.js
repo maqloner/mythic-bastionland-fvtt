@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/restore-dialog.hbs";
-
 class RestoreDialog extends Application {
   constructor({ callback } = {}) {
     super();
@@ -11,11 +9,11 @@ class RestoreDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/restore-dialog.hbs`,
       classes: ["mythic-bastionland", "restore-dialog"],
       title: game.i18n.localize("MB.Restore"),
       width: 500,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -65,6 +63,6 @@ export const showRestoreDialog = (data = {}) =>
   new Promise((resolve) => {
     new RestoreDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

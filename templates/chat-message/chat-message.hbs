@@ -1,5 +1,5 @@
 {{#*inline "outcome"}}
-  <div class="outcome">
+  <div class="outcome" data-source="{{outcome.title}}"> 
     {{#if outcome.title}}
       <div class="outcome-title">
         <span>{{outcome.title}}</span>
@@ -15,8 +15,20 @@
           </div>
         {{/if}}
         {{#if outcome.roll}}
-          <div class="outcome-roll">
-            <span>{{outcome.roll.total}}</span>
+          <div class="outcome-rolls">
+            {{#if (eq outcome.type 'damage') }}
+              {{#each outcome.roll.terms as |term|}}
+                {{#each term.results as |result|}}
+                  <div class="outcome-roll {{printIf (gte result.result 4) 'gambit'}} {{printIf (gte result.result 8) 'greater-gambit'}}" >
+                    <span>{{result.result}}</span>
+                  </div>
+                {{/each}}
+              {{/each}}
+            {{else}}
+              <div class="outcome-roll">
+                <span>{{outcome.roll.total}}</span>
+              </div>
+            {{/if}}
           </div>
         {{/if}}
         {{#if outcome.formulaNumber}}
@@ -26,7 +38,7 @@
         {{/if}}
       </div>
     {{/if}}
-    
+
     {{#if outcome.description}}
       <div class="outcome-description">
         {{#if (isArray description)}}
@@ -39,7 +51,7 @@
       </div>
     {{/if}}
 
-    {{#if button}}  
+    {{#if button}}
       <div>
         <button type="button" class="chat-message-button button-primary" {{#each button.data}} data-{{@key}}="{{this}}"
           {{/each}} title="{{title}}">

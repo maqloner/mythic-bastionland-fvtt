@@ -18,11 +18,11 @@ export const actorRollScarsAction = async (actor) => {
     actor,
     title: game.i18n.localize("MB.RollScar"),
     outcomes: [{
-      type: 'roll-scar',
+      type: "roll-scar",
       title: item.name,
       formulaLabel: draw.roll.formula,
       roll: draw.roll,
-      description: item.system.description,
+      description: item.system.description
     }]
   });
 };

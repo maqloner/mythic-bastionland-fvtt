@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/add-item-dialog.hbs";
-
 class AddItemDialog extends Application {
   constructor({ callback } = {}) {
     super();
@@ -11,11 +9,11 @@ class AddItemDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/add-item-dialog.hbs`,
       classes: ["mythic-bastionland", "add-item-dialog"],
       title: game.i18n.localize("MB.CreateItem"),
       width: 420,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -49,7 +47,7 @@ class AddItemDialog extends Application {
 
     this.callback({
       name,
-      type,
+      type
     });
     await this.close();
   }
@@ -62,6 +60,6 @@ export const showAddItemDialog = (data = {}) =>
   new Promise((resolve) => {
     new AddItemDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

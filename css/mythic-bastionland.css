@@ -10,6 +10,8 @@
   --title-font-family: "AnglicanText Regular";
   --text-font-family: "TeXGyreSchola";
   --secondary-text-font-family: "DeliciousHandrawn Regular";
+  --green: #52345d;
+  --orange: #5c1319;
 }
 
 @font-face {
@@ -363,6 +365,10 @@
 .mythic-bastionland.chat-message .message-content .outcome .outcome-description {
   padding: 8px 0 0 0;
 }
+.mythic-bastionland.chat-message .message-content .outcome .outcome-rolls {
+  display: flex;
+  gap: 8px;
+}
 .mythic-bastionland.chat-message .message-content .outcome .outcome-roll {
   font-size: 32px;
   line-height: 32px;
@@ -376,8 +382,15 @@
   align-items: center;
   justify-content: center;
 }
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.gambit {
+  background-color: var(--green);
+}
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.greater-gambit {
+  background-color: var(--orange);
+}
 .mythic-bastionland.chat-message .message-content .outcome .chat-message-button {
-  margin-top: 8px;
+  width: auto;
+  margin-top: 16px;
 }
 .mythic-bastionland.app {
   color: var(--text-light-color);
@@ -393,7 +406,7 @@
   font-family: var(--text-font-family);
   background: none;
   font-size: 14px;
-  line-height: 21px;
+  line-height: 23px;
   padding: 0;
 }
 .mythic-bastionland.app .window-content i.fas {

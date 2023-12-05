@@ -1,6 +1,7 @@
+import { config } from "../config.js";
 import { diceSound, showDiceWithSound } from "../utils/dice.js";
 
-const CHAT_MESSAGE_TEMPLATE = "systems/mythicbastionland/templates/chat-message/chat-message.hbs";
+const CHAT_MESSAGE_TEMPLATE = `${config.systemPath}/templates/chat-message/chat-message.hbs`;
 
 /**
  * @param {Actor} [actor]
@@ -25,13 +26,14 @@ export const showChatMessage = async ({ actor, title, description, outcomes = []
       description,
       outcomes,
       buttons,
-      items,
+      items
     }),
     flags: {
-      cssClasses: ["mythic-bastionland"],
+      systemMessage: true,
+      cssClasses: ["mythic-bastionland"]
     },
     rolls: rolls,
     speaker: ChatMessage.getSpeaker({ actor }),
     ...(rolls.length ? { sound: diceSound() } : {})
-  }, rollMode ?? game.settings.get('core', 'rollMode')));
+  }, rollMode ?? game.settings.get("core", "rollMode")));
 };

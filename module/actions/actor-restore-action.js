@@ -12,8 +12,8 @@ export const actorRestoreAction = async (actor) => {
     .filter(virtue => virtue[1])
     .map(virtue => virtue[0])
     .reduce((result, virtue) => {
-      result.outcomes = [...(result.outcomes ?? []), ...[createRestoreOutcome(actor, virtue)]]
-      result.updates = { ...(result.updates ?? {}), ...{ [`system.virtues.${virtue}.value`]: actor.system.virtues[virtue].max } }
+      result.outcomes = [...(result.outcomes ?? []), ...[createRestoreOutcome(actor, virtue)]];
+      result.updates = { ...(result.updates ?? {}), ...{ [`system.virtues.${virtue}.value`]: actor.system.virtues[virtue].max } };
       return result;
     }, {});
 
@@ -27,11 +27,11 @@ export const actorRestoreAction = async (actor) => {
 };
 
 const createRestoreOutcome = (actor, virtue) => ({
-  type: 'restore',
+  type: "restore",
   title: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
   description: game.i18n.format("MB.VirtueRestored", {
     virtue: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
     value: actor.system.virtues[virtue].value,
-    max: actor.system.virtues[virtue].max,
-  }),
+    max: actor.system.virtues[virtue].max
+  })
 });

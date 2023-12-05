@@ -15,17 +15,23 @@
 {{/inline}}
 
 {{#*inline "plate-description"}}
-  <p>A{{item.system.armor}}</p>
+  {{#if item.system.armor}}
+    <p>A{{item.system.armor}}</p>
+  {{/if}}
   {{{item.system.enrichedDescription}}}
 {{/inline}}
 
 {{#*inline "coat-description"}}
-  <p>A{{item.system.armor}}</p>
+  {{#if item.system.armor}}
+    <p>A{{item.system.armor}}</p>
+  {{/if}}
   {{{item.system.enrichedDescription}}}
 {{/inline}}
 
 {{#*inline "helm-description"}}
-  <p>A{{item.system.armor}}</p>
+  {{#if item.system.armor}}
+    <p>A{{item.system.armor}}</p>
+  {{/if}}
   {{{item.system.enrichedDescription}}}
 {{/inline}}
 
@@ -55,7 +61,7 @@
     <div class="grid">
       <div class="col gap-2">
         {{#each items as |item|}}
-          <div class="grid item" data-item-id="{{item._id}}">
+          <div class="grid item" data-item-id="{{item._id}}" data-source="{{item.name}}">
 
             <div class="col col-9 pr-2">
               <div class="text-regular text-bold">

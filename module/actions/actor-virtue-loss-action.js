@@ -11,17 +11,17 @@ export const attackVirtueLossAction = async (actor) => {
   const value = actor.system.virtues[virtue].value;
   const newValue = Math.max(value - amount, 0);
 
-  const isExhausted = newValue === 0 && virtue === 'vigour';
-  const isExposed = newValue === 0 && virtue === 'clarity';
-  const isImpaired = newValue === 0 && virtue === 'spirit';
+  const isExhausted = newValue === 0 && virtue === "vigour";
+  const isExposed = newValue === 0 && virtue === "clarity";
+  const isImpaired = newValue === 0 && virtue === "spirit";
 
   const outcome = {
-    type: 'take-damage',
+    type: "take-damage",
     title: getTitle({ isExhausted, isExposed, isImpaired }),
     description: getDescription({ virtue, value, newValue, isExhausted, isExposed, isImpaired }),
     formulaLabel: game.i18n.localize("MB.VirtueLoss"),
     formulaNumber: amount
-  }
+  };
 
   await actor.update({
     [`system.virtues.${virtue}.value`]: newValue
@@ -43,7 +43,7 @@ const getTitle = ({ isExhausted, isExposed, isImpaired }) => {
     case isImpaired:
       return game.i18n.localize("MB.Impaired");
   }
-}
+};
 
 const getDescription = ({ virtue, value, newValue, isExhausted, isExposed, isImpaired }) => {
   const description = [];
@@ -69,4 +69,4 @@ const getDescription = ({ virtue, value, newValue, isExhausted, isExposed, isImp
   }
 
   return description;
-}
+};

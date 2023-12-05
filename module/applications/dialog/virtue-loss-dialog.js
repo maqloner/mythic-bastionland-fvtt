@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/virtue-loss-dialog.hbs";
-
 class VirtueLossDialog extends Application {
   constructor({ callback } = {}) {
     super();
@@ -11,11 +9,11 @@ class VirtueLossDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/virtue-loss-dialog.hbs`,
       classes: ["mythic-bastionland", "take-damage-dialog"],
       title: game.i18n.localize("MB.VirtueLoss"),
       width: 500,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -63,6 +61,6 @@ export const showVirtueLossDialog = (data = {}) =>
   new Promise((resolve) => {
     new VirtueLossDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

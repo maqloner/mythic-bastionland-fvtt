@@ -1,13 +1,17 @@
 /** @name CONFIG.MB */
 export const config = {};
 
-config.flagScope = "mythicbastionland";
+config.systemPath = "systems/mythicbastionland/";
+config.coreRollTable = "mythicbastionland.mythic-bastionland-core-rolltables";
+config.coreItems = "mythicbastionland.mythic-bastionland-core-items";
+config.coreActors = "mythicbastionland.mythic-bastionland-core-actors";
 
 config.actorTypes = {
   knight: "knight",
   npc: "npc",
   creature: "creature",
   steed: "steed",
+  squire: "squire",
   warband: "warband"
 };
 
@@ -39,74 +43,82 @@ config.age = {
 
 config.actorDefaults = {
   [config.actorTypes.knight]: {
-    img: "systems/mythicbastionland/tokens/actors/knight.png",
+    img: `${config.systemPath}/tokens/actors/knight.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true,
-    },
+      vision: true
+    }
   },
   [config.actorTypes.npc]: {
-    img: "systems/mythicbastionland/tokens/actors/npc.png",
+    img: `${config.systemPath}/tokens/actors/npc.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true,
-    },
+      vision: true
+    }
+  },
+  [config.actorTypes.squire]: {
+    img: `${config.systemPath}/tokens/actors/squire.png`,
+    prototypeToken: {
+      actorLink: true,
+      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
+      vision: true
+    }
   },
   [config.actorTypes.creature]: {
-    img: "systems/mythicbastionland/tokens/actors/creature.png",
+    img: `${config.systemPath}/tokens/actors/creature.png`,
     prototypeToken: {
       actorLink: false,
       disposition: CONST.TOKEN_DISPOSITIONS.HOSTILE,
-      vision: false,
-    },
+      vision: false
+    }
   },
   [config.actorTypes.steed]: {
-    img: "systems/mythicbastionland/tokens/actors/steed.png",
+    img: `${config.systemPath}/tokens/actors/steed.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true,
-    },
+      vision: true
+    }
   },
   [config.actorTypes.warband]: {
-    img: "systems/mythicbastionland/tokens/actors/warband.png",
+    img: `${config.systemPath}/tokens/actors/warband.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true,
-    },
-  },
+      vision: true
+    }
+  }
 };
 
 config.itemDefaults = {
   [config.itemTypes.ability]: {
-    img: "systems/mythicbastionland/tokens/items/ability.png",
+    img: `${config.systemPath}/tokens/items/ability.png`
   },
   [config.itemTypes.coat]: {
-    img: "systems/mythicbastionland/tokens/items/coat.png",
+    img: `${config.systemPath}/tokens/items/coat.png`
   },
   [config.itemTypes.helm]: {
-    img: "systems/mythicbastionland/tokens/items/helm.png",
+    img: `${config.systemPath}/tokens/items/helm.png`
   },
   [config.itemTypes.misc]: {
-    img: "systems/mythicbastionland/tokens/items/misc.png",
+    img: `${config.systemPath}/tokens/items/misc.png`
   },
   [config.itemTypes.passion]: {
-    img: "systems/mythicbastionland/tokens/items/passion.png",
+    img: `${config.systemPath}/tokens/items/passion.png`
   },
   [config.itemTypes.plate]: {
-    img: "systems/mythicbastionland/tokens/items/plate.png",
+    img: `${config.systemPath}/tokens/items/plate.png`
   },
   [config.itemTypes.scar]: {
-    img: "systems/mythicbastionland/tokens/items/scar.png",
+    img: `${config.systemPath}/tokens/items/scar.png`
   },
   [config.itemTypes.shield]: {
-    img: "systems/mythicbastionland/tokens/items/shield.png",
+    img: `${config.systemPath}/tokens/items/shield.png`
   },
   [config.itemTypes.weapon]: {
-    img: "systems/mythicbastionland/tokens/items/weapon.png",
-  },                
-}
+    img: `${config.systemPath}/tokens/items/weapon.png`
+  }                
+};
 CONFIG.MB = config;

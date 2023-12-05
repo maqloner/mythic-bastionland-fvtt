@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/attack-dialog.hbs";
-
 class AttackDialog extends Application {
   constructor({ actor, callback } = {}) {
     super();
@@ -12,11 +10,11 @@ class AttackDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/attack-dialog.hbs`,
       classes: ["mythic-bastionland", "attack-dialog"],
       title: game.i18n.localize("MB.VirtueLoss"),
       width: 500,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -47,8 +45,8 @@ class AttackDialog extends Application {
     const impairedWeapons = this.element.find("input[name='weapon_impaired[]']:checked").map((i, input) => $(input).val()).get();
     const items = weapons.map((id) => {
       const item = this.actor.items.get(id);
-      return impairedWeapons.includes(id) ? 'd4' : item.system.damage
-    }) 
+      return impairedWeapons.includes(id) ? "d4" : item.system.damage;
+    }); 
 
     console.log(weapons, impairedWeapons, items);
 
@@ -59,7 +57,7 @@ class AttackDialog extends Application {
     }
 
     this.callback({
-      amount,
+      amount
       // virtue
     });
 
@@ -74,6 +72,6 @@ export const showAttackDialog = (data = {}) =>
   new Promise((resolve) => {
     new AttackDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

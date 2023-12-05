@@ -54,6 +54,11 @@
         padding: 8px 0 0 0;
       }
 
+      .outcome-rolls {
+        display: flex;
+        gap: 8px;
+      }
+
       .outcome-roll {
         font-size: 32px;
         line-height: 32px;
@@ -66,10 +71,19 @@
         display: flex;
         align-items: center;
         justify-content: center;
+
+        &.gambit {
+          background-color: var(--green);
+        }
+
+        &.greater-gambit {
+          background-color: var(--orange);
+        }        
       }
 
       .chat-message-button {
-        margin-top: 8px;
+        width: auto;
+        margin-top: 16px;
       }
     }
   }

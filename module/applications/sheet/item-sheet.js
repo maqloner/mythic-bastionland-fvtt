@@ -1,6 +1,5 @@
-import { configureEditor } from "../../utils/foundry.js";
+import { actorInlineRollAction } from "../../actions/actor-inline-roll-action.js";
 import { config } from "../../config.js";
-// import { showAddItemDialog } from "../../dialog/add-item-dialog.js";
 
 /**
  * @extends {ItemSheet}
@@ -12,7 +11,7 @@ export class MBitemSheet extends ItemSheet {
     return mergeObject(super.defaultOptions, {
       classes: ["mythic-bastionland", "sheet", "item"],
       width: 400,
-      scrollY: [".scrollable"],
+      scrollY: [".scrollable"]
     });
   }
 
@@ -24,7 +23,7 @@ export class MBitemSheet extends ItemSheet {
 
   /** @override */
   get template() {
-    const path = "systems/mythicbastionland/templates/applications/sheet/item/";
+    const path = `${config.systemPath}/templates/applications/sheet/item/`;
     return `${path}/${this.item.type}-sheet.hbs`;
   }
 
@@ -32,35 +31,86 @@ export class MBitemSheet extends ItemSheet {
   async getData(options) {
     const data = super.getData(options);
     data.config = config;
-    console.log(data)
     return data;
   }
 
+  /**
+   * @param {MouseEvent} event
+   * @param {String} data 
+   * @returns {String}
+   */
+  getClosestData(event, data) {
+    return $(event.target).closest(`[data-${data}]`).data(data);
+  }
 
-  /** @override */
-  async _updateObject(event, formData) {
-    if ('system.armor' in formData) {
-      formData['system.armor'] = Math.max(formData['system.armor'], 0);
+  /**
+   * @param {String} event
+   * @param {Object} listeners
+   */
+  bindSelectorsEvent(event, listeners) {
+    for (const [selector, callback] of Object.entries(listeners)) {
+      this.element.find(selector).on(event, callback.bind(this));
     }
-    if ('system.damage' in formData) {
-      formData['system.damage'] = Roll.validate(formData['system.damage']) ? formData['system.damage'] : 'd4';
-    }
-    if ('system.quantity.value' in formData) {
-      formData['system.quantity.value'] = Math.max(formData['system.quantity.value'], 0);
-    }
-    if ('system.quantity.max' in formData) {
-      formData['system.quantity.max'] = Math.max(formData['system.quantity.max'], 1);
-    }
+  }
 
-    this.render();
-    return super._updateObject(event, formData);
+  /**
+   * @param {MouseEvent} event 
+   * @param {Function} action 
+   * @param  {...any} args 
+   */
+  async invokeAction(event, action, ...args) {
+    event.preventDefault();
+    event.stopPropagation();
+    await action(...args);
   }
 
   /**
    * @override
+   *
+   * @param {JQuery.<HTMLElement>} html
    */
-  activateEditor(name, options = {}, initialContent = "") {
-    configureEditor(options);
-    super.activateEditor(name, options, initialContent);
+  activateListeners(html) {
+    super.activateListeners(html);
+    this.bindSelectorsEvent("click", {
+      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, null, ...this.getOnlineRollData(event))
+    });
+  }
+
+  /**
+   * @private
+   *
+   * @param {MouseEvent} event
+   */
+  getOnlineRollData(event) {
+    return [
+      this.getClosestData(event, "formula"),
+      this.getClosestData(event, "flavor"),
+      this.getClosestData(event, "source"),
+      this.getClosestData(event, "fatigue")
+    ];
+  }
+
+  async _onSubmit(event, { updateData = null, preventClose = false } = {}) {
+    const damage = this.element.find("[name='system.damage']");
+    if (damage.length) {
+      damage.val(Roll.validate($(damage).val()) ? $(damage).val() : "d4");
+    }
+
+    const armor = this.element.find("[name='system.armor']");
+    if (armor.length) {
+      armor.val(Math.max(armor.val(), 0));
+    }
+
+    const quantityValue = this.element.find("[name='system.quantity.value']");
+    if (quantityValue.length) {
+      quantityValue.val(Math.max(quantityValue.val(), 0));
+    }
+
+    const quantityMax = this.element.find("[name='system.quantity.max']");
+    if (quantityMax.length) {
+      quantityMax.val(Math.max(quantityMax.val(), 1));
+    }
+
+    return super._onSubmit(event, { updateData, preventClose });
   }
 }

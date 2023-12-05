@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/take-damage-dialog.hbs";
-
 class TakeDamageDialog extends Application {
   constructor({ actor, callback } = {}) {
     super();
@@ -12,11 +10,11 @@ class TakeDamageDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/take-damage-dialog.hbs`,
       classes: ["mythic-bastionland", "take-damage-dialog"],
       title: game.i18n.localize("MB.TakeDamage"),
       width: 500,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -26,7 +24,7 @@ class TakeDamageDialog extends Application {
     data.config = config;
     data.armor = this.actor.items.reduce((armor, item) => {
       armor += ((item.system.armor ?? 0) && item.system.equipped) ? item.system.armor : 0;
-      return armor
+      return armor;
     }, 0);
     return data;
   }
@@ -72,6 +70,6 @@ export const showTakeDamageDialog = (data = {}) =>
   new Promise((resolve) => {
     new TakeDamageDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

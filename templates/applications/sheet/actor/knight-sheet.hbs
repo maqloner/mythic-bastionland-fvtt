@@ -74,66 +74,61 @@
         <div>{{localize "MB.Actor.Oath3"}}</div>
       </div>
     </div>
-
+ 
     {{> item-list title=(localize "MB.Actor.Ability") items=data.abilities }}
     {{> item-list title=(localize "MB.Actor.Passion") items=data.passions }}
     {{> actor-list title=(localize "MB.Actor.Steed") actors=data.steeds }}
     {{> actor-list title=(localize "MB.Actor.Companion") actors=data.companions }}
     {{> item-list title=(localize "MB.Actor.Property") items=data.properties }}
     {{> item-list title=(localize "MB.Actor.Scars") items=data.scars }}
-
+  
     <div class="grid">
       <div class="col col-6">
-        <h2 class="text-large">Feats</h2>
+        <h2 class="text-large">{{localize "MB.Actor.Feats"}}</h2>
         <div class="grid gap-1 pr-1 pl-1">
-          <div>
-            <span class="text-bold">Smite</span> - <span class="text-italic">Release your righteous fury</span>
+          <div data-source="{{localize "MB.Smite"}}">
+            {{{localize "MB.Actor.Smite"}}}
             <ul class="m-0">
-              <li>Use before rolling a melee attack</li>
-              <li>The attack gains either +<a class="inline-roll roll" data-mode="roll" data-flavor="Smite"
-                  data-formula="d12"><i class="fas fa-dice-d12"></i>d12</a> or Blast</li>
-              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="vigour" data-formula="d20"><i
-                    class="fas fa-dice-d20"></i>VIG Save</a> or become Fatigued</li>
+              <li>{{{localize "MB.Actor.SmiteLine1"}}}</li>
+              <li>{{{localize "MB.Actor.SmiteLine2"}}}</li>
+              <li>{{{localize "MB.Actor.SmiteLine3"}}}</li>
             </ul>
           </div>
-          <div>
-            <span class="text-bold">Focus</span> - <span class="text-italic">Create an opening to exploit</span>
+          <div data-source="{{localize "MB.Focus"}}">
+            {{{localize "MB.Actor.Focus"}}}
             <ul class="m-0">
-              <li>Use after rolling an attack</li>
-              <li>Perform a Gambit without using a diet</li>
-              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="clarity" data-formula="d20"><i
-                    class="fas fa-dice-d20"></i>CLA Save</a> or become Fatigued</li>
+              <li>{{{localize "MB.Actor.FocusLine1"}}}</li>
+              <li>{{{localize "MB.Actor.FocusLine2"}}}</li>
+              <li>{{{localize "MB.Actor.FocusLine3"}}}</li>
             </ul>
           </div>
-          <div>
-            <span class="text-bold">Deny</span> - <span class="text-italic">Rebuff an attack before it lands</span>
+          <div data-source="{{localize "MB.Deny"}}">
+            {{{localize "MB.Actor.Deny"}}}
             <ul class="m-0">
-              <li>Use after an attack roll against you or an ally within arm’s reach</li>
-              <li>Discard one attack die</li>
-              <li>Pass a <a class="inline-roll roll" data-mode="roll" data-flavor="spirit" data-formula="d20"><i
-                    class="fas fa-dice-d20"></i>SPI Save</a> or become Fatigued</li>
+              <li>{{{localize "MB.Actor.DenyLine1"}}}</li>
+              <li>{{{localize "MB.Actor.DenyLine2"}}}</li>
+              <li>{{{localize "MB.Actor.DenyLine3"}}}</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="col col-6">
         <div class="grid pr-1 pl-1">
-          <h2 class="text-large">Gambit</h2>
+          <h2 class="text-large">{{{localize "MB.Actor.Gambit"}}}</h2>
           <ul class="m-0 pb-1">
-            <li><strong>Bolster</strong> the attack for +1 total damage</li>
-            <li><strong>Move</strong> after the attack, even if you already moved or are unable to move</li>
-            <li><strong>Repel</strong> a foe away from you</li>
-            <li><strong>Stop</strong> a foe from moving next turn</li>
-            <li><strong>Impair</strong> a weapon on their next turn</li>
-            <li><strong>Trap</strong> a shield until your next turn</li>
-            <li><strong>Dismount</strong> a foe</li>
-            <li><strong>Other effect</strong> of a similar level of impact</li>
+            <li>{{{localize "MB.Actor.Bolster"}}}</li>
+            <li>{{{localize "MB.Actor.Move"}}}</li>
+            <li>{{{localize "MB.Actor.Repel"}}}</li>
+            <li>{{{localize "MB.Actor.Stop"}}}</li>
+            <li>{{{localize "MB.Actor.Impair"}}}</li>
+            <li>{{{localize "MB.Actor.Trap"}}}</li>
+            <li>{{{localize "MB.Actor.Dismount"}}}</li>
+            <li>{{{localize "MB.Actor.OtherEffect"}}}</li>
           </ul>
-          <h2 class="text-large">Strong Gambit</h2>
+          <h2 class="text-large">{{{localize "MB.Actor.StrongGambit"}}}</h2>
           <ul class="m-0">
-            <li><strong>No Save</strong> is granted to the target</li>
-            <li><strong>Greater Effect</strong> such as disarming an item, breaking a wooden shield or weapon, or
-              removing a helm. This does not increase the damage from Bolster.</li>
+            <li>{{{localize "MB.Actor.NoSave"}}}</li>
+            <li>{{{localize "MB.Actor.GreaterEffect"}}}</li>
           </ul>
         </div>
       </div>

@@ -1,3 +1,5 @@
+import { config } from "../config.js";
+
 /**
  * @param {String} compendiumString
  * @returns {Array.<String>}
@@ -38,7 +40,7 @@ export const drawTable = async (compendiumName, tableName, options = {}) => {
  * @param {String} table
  * @returns {Promise.<String>}
  */
-export const drawTableText = async (compendium, table) => (await drawTable(compendium, table)).results[0].getChatText();
+export const drawTableText = async (compendium, table, options = {}) => (await drawTable(compendium, table, options)).results[0].getChatText();
 
 /**
  * @param {String} compendium
@@ -56,7 +58,7 @@ export const drawTableItem = async (compendium, table) => {
  * @param {Number} amount
  * @returns {Promise.<Array.<PBItem>>}
  */
-export const drawTableItems = async (compendium, table, amount) => {
+export const drawTableItems = async (compendium, table, amount = 1) => {
   let results = [];
   for (let i = 0; i < amount; i++) {
     results = results.concat(await drawTableItem(compendium, table));
@@ -137,5 +139,17 @@ export const executeCompendiumMacro = async (compendiumMacro, parameters = {}) =
  * @param {Object} options
  * @returns {Promise.<RollTableDraw>}
  */
-export const drawScar = async (options = {}) => drawTable("mythicbastionland.mythic-bastionland-core-rolltables", "Scars", options);
+export const drawSystemTable = async (name, options = {}) => drawTable(config.coreRollTable, name, options);
+
+/**
+ * @param {Object} options
+ * @returns {Promise.<RollTableDraw>}
+ */
+export const drawSystemTableText = async (name, options = {}) => drawTableText(config.coreRollTable, name, options);
+
+/**
+ * @param {Object} options
+ * @returns {Promise.<RollTableDraw>}
+ */
+export const drawScar = async (name, options = {}) => drawSystemTable("Scars", options);
 

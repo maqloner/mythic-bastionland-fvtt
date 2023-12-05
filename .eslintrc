@@ -9,36 +9,12 @@
     "eslint:recommended",
     "plugin:i18n-json/recommended",
     "plugin:import/errors",
-    "plugin:import/warnings"
+    "plugin:import/warnings",
+    "@typhonjs-fvtt/eslint-config-foundry.js"    
   ],
-  "plugins": ["import"],
+  "plugins": ["import", "@stylistic"],
   "globals": {
-    "PIXI": "readonly",
-    "PoolTerm": "readonly",
-    "Sequencer": "readonly",
-    "Sequence": "readonly",
-    "dragRuler": "readonly",
-    "AutoAnimations": "readonly",
-    "Hooks": "readonly",
-    "game": "readonly",
-    "ChatMessage": "readonly",
-    "renderTemplate": "readonly",
-    "CONST": "readonly",
-    "Application": "readonly",
-    "mergeObject": "readonly",
-    "TextEditor": "readonly",
-    "fromUuid": "readonly",
-    "Roll": "readonly",
-    "AudioHelper": "readonly",
-    "ActorSheet": "readonly",
-    "ItemSheet": "readonly",
-    "Handlebars": "readonly",
-    "Dialog": "readonly",
-    "HandlebarsHelpers": "readonly",
-    "loadTemplates": "readonly",
-    "Actors": "readonly",
-    "Items": "readonly",
-    "CONFIG": "readonly"
+    "PoolTerm": "readonly"
   },
   "parserOptions": {
     "ecmaVersion": "latest",
@@ -46,21 +22,13 @@
   },
   "rules": {
     "prefer-const": 2,
-    "i18n-json/valid-message-syntax": [
-      2,
-      {
-        "syntax": "icu"
-      }
-    ],
+    "comma-dangle": ["error", "never"],
+    "semi": ["error", "always"],
+    "quotes": ["error", "double"],
+    "no-return-await": "error",
+    "i18n-json/valid-message-syntax": [ 2, { "syntax": "non-empty-string" }],
     "i18n-json/valid-json": 2,
-    "i18n-json/sorted-keys": [
-      2,
-      {
-        "order": "asc",
-        "indentSpaces": 2
-      }
-    ],
-    "i18n-json/identical-keys": 0,
-    "no-return-await": "error"
+    "i18n-json/sorted-keys": [ 2, { "order": "asc", "indentSpaces": 2 }],
+    "i18n-json/identical-keys": 0
   }
 }

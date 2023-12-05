@@ -22,7 +22,7 @@ export const actorTakeDamageAction = async (actor) => {
   const isSlain = newValue === 0;
 
   const outcome = {
-    type: 'take-damage',
+    type: "take-damage",
     title: getTitle({ isScar, isSlain, isEvaded, isWounded, isMortalWound }),
     description: getDescription({ exposed, armor, virtue, guard, newGuard, value, newValue }),
     formulaLabel: game.i18n.format("MB.MessageDamage", {
@@ -31,12 +31,12 @@ export const actorTakeDamageAction = async (actor) => {
     }),
     formulaNumber: finalDamage,
     button: getButton({ isScar })
-  }
+  };
 
   await actor.update({
     "system.guard.value": newGuard,
     [`system.virtues.${virtue}.value`]: newValue
-  })
+  });
 
   await showChatMessage({
     actor,
@@ -58,7 +58,7 @@ const getTitle = ({ isScar, isSlain, isEvaded, isWounded, isMortalWound }) => {
     case isScar:
       return game.i18n.localize("MB.Scar");
   }
-}
+};
 
 const getDescription = ({ exposed, virtue, guard, newGuard, value, newValue }) => {
   const description = [];
@@ -83,7 +83,7 @@ const getDescription = ({ exposed, virtue, guard, newGuard, value, newValue }) =
   }
 
   return description;
-}
+};
 
 const getButton = ({ isScar }) => {
   if (isScar) {
@@ -92,7 +92,7 @@ const getButton = ({ isScar }) => {
       data: {
         "action": "roll-scar"
       }
-    }
+    };
   }
   return;
-}
+};

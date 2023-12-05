@@ -6,10 +6,11 @@
   "scripts": {
     "build:css": "gulp buildCSS",
     "build:watch": "gulp",
-    "lint": "eslint --ext .js ./module",
+    "lint": "eslint --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "lint:fix": "eslint --fix --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "i18n:unused": "i18n-unused display-unused",
-    "i18n:missed": "i18n-unused display-missed"
+    "i18n:missed": "i18n-unused display-missed",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,10 @@
   "homepage": "https://github.com/maqloner/mythic-bastionland-foundry-vtt#readme",
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.3",
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
     "@rollup/plugin-node-resolve": "^15.2.3",
+    "@stylistic/eslint-plugin": "^1.5.0",
+    "@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",
     "eslint-plugin-i18n-json": "^4.0.0",
     "eslint-plugin-import": "^2.29.0",
     "gulp": "^4.0.2",
@@ -35,6 +39,7 @@
     "i18n-unused": "^0.16.0",
     "merge-stream": "^2.0.0",
     "rollup": "^4.4.0",
-    "sass": "^1.69.5"
+    "sass": "^1.69.5",
+    "husky": "^8.0.0"
   }
 }

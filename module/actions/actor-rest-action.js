@@ -11,19 +11,19 @@ export const actorRestAction = async (actor) => {
 
   if (originalValue !== maxValue) {
     outcomes.push({
-      type: 'rest',
+      type: "rest",
       title: game.i18n.localize("MB.Actor.Guard"),
       description: game.i18n.format("MB.VirtueRestored", {
         virtue: game.i18n.localize("MB.Actor.Guard"),
         value: originalValue,
         max: maxValue
-      }),
+      })
     });
   }
 
   if (actor.system.fatigue) {
     outcomes.push({
-      type: 'fatigue',
+      type: "fatigue",
       title: game.i18n.localize("MB.Actor.Fatigue"),
       description: game.i18n.localize("MB.FatigueRemoved")
     });

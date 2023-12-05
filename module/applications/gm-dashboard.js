@@ -1,7 +1,6 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { drawTable } from "../utils/compendium.js";
-
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/gm-dashboard.hbs";
+import { config } from "../config.js";
+import { drawSystemTable } from "../utils/compendium.js";
 
 class GMDashboard extends Application {
   constructor({ callback } = {}) {
@@ -12,9 +11,9 @@ class GMDashboard extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/gm-dashboard.hbs`,
       classes: ["mythic-bastionland", "sheet", "gm-dashboard"],
-      title: game.i18n.localize("MB.Dashboard"),
+      title: game.i18n.localize("MB.Dashboard.Label"),
       width: 400,
       resizable: false,
       height: "auto",
@@ -23,8 +22,8 @@ class GMDashboard extends Application {
         {
           navSelector: ".sheet-tabs",
           contentSelector: ".sheet-body",
-          initial: "travel",
-        },
+          initial: "travel"
+        }
       ]
     });
   }
@@ -38,7 +37,7 @@ class GMDashboard extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    console.log('activate listeners', html.find(".roll-table"));
+    console.log("activate listeners", html.find(".roll-table"));
     html.find(".roll-table").on("click", this._onRollTable.bind(this));
     html.find(".roll-table-multi").on("click", this._onRollTableMulti.bind(this));
   }
@@ -46,13 +45,13 @@ class GMDashboard extends Application {
   async _onRollTable(event) {
     event.preventDefault();
     const tableName = $(event.target).closest("button").data("table");
-    const draw = (await drawTable("mythicbastionland.mythic-bastionland-core-rolltables", tableName));
+    const draw = (await drawSystemTable(tableName));
     const result = draw.results.pop();
 
     await showChatMessage({
       title: result.parent.name,
       outcomes: [{
-        type: 'roll-table',
+        type: "roll-table",
         formulaLabel: draw.roll.formula,
         roll: draw.roll,
         description: result.text
@@ -67,15 +66,15 @@ class GMDashboard extends Application {
     const tableNames = $(event.target).closest("button").data("tables").split(";");
     const outcomes = [];
     for (const tableName of tableNames) {
-      const draw = (await drawTable("mythicbastionland.mythic-bastionland-core-rolltables", tableName));
+      const draw = (await drawSystemTable(tableName));
       const result = draw.results.pop();
       outcomes.push({
-        type: 'roll-table-multi',
+        type: "roll-table-multi",
         title: result.parent.name.split(" - ")[1],
         formulaLabel: draw.roll.formula,
         roll: draw.roll,
         description: result.text
-      })
+      });
     }
 
     await showChatMessage({
@@ -102,7 +101,7 @@ export const showGMDashboard = (data = {}) =>
     if (!dashboard) {
       dashboard = new GMDashboard({
         ...data,
-        callback: resolve,
+        callback: resolve
       });
     }
     dashboard.render(true);

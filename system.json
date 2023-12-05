@@ -26,21 +26,21 @@
   "packs": [
     {
       "name": "mythic-bastionland-core-rolltables",
-      "label": "Core RollTables",
+      "label": "Core - RollTables",
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-core-rolltables",
       "type": "RollTable"
     },
     {
       "name": "mythic-bastionland-core-items",
-      "label": "Core Items",
+      "label": "Core - Items",
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-core-items",
       "type": "Item"
     },    
     {
       "name": "mythic-bastionland-core-actors",
-      "label": "Core Actors",
+      "label": "Core - Actors",
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-core-actors",
       "type": "Actor"
@@ -65,7 +65,14 @@
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-knight-actors",
       "type": "Actor"
-    }           
+    },
+    {
+      "name": "mythic-bastionland-knight-macros",
+      "label": "Knight - Macros",
+      "system": "mythicbastionland",
+      "path": "./packs/mythic-bastionland-knight-macros",
+      "type": "Macro"
+    }                 
   ],
   "packFolders": [
     {
@@ -83,7 +90,8 @@
       "packs": [
         "mythic-bastionland-knight-items",
         "mythic-bastionland-knight-actors",
-        "mythic-bastionland-knight-rolltables"        
+        "mythic-bastionland-knight-rolltables",  
+        "mythic-bastionland-knight-macros"
       ]
     }    
   ],

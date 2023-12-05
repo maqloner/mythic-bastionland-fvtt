@@ -1,7 +1,5 @@
 import { config } from "../../config.js";
 
-const ADD_ITEM_TEMPLATE = "systems/mythicbastionland/templates/applications/dialog/roll-scar-dialog.hbs";
-
 class RollScarDialog extends Application {
   constructor({ callback } = {}) {
     super();
@@ -11,11 +9,11 @@ class RollScarDialog extends Application {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      template: ADD_ITEM_TEMPLATE,
+      template: `${config.systemPath}/templates/applications/dialog/roll-scar-dialog.hbs`,
       classes: ["mythic-bastionland", "roll-scar-dialog"],
       title: game.i18n.localize("MB.RollScar"),
       width: 500,
-      height: "auto",
+      height: "auto"
     });
   }
 
@@ -47,7 +45,7 @@ class RollScarDialog extends Application {
     }
 
     this.callback({
-      die,
+      die
     });
 
     await this.close();
@@ -61,6 +59,6 @@ export const showRollScarDialog = (data = {}) =>
   new Promise((resolve) => {
     new RollScarDialog({
       ...data,
-      callback: resolve,
+      callback: resolve
     }).render(true);
   });

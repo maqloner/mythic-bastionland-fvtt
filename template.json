@@ -5,6 +5,7 @@
       "npc",
       "creature",
       "steed",
+      "squire",
       "warband"
     ],
     "templates": {
@@ -57,6 +58,11 @@
       ],
       "age": "young"
     },
+    "squire": {
+      "templates": [
+        "common"
+      ]
+    },    
     "creature": {
       "templates": [
         "common"

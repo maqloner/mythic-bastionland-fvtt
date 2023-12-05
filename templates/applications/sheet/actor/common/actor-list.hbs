@@ -6,7 +6,7 @@
 
       <div class="col">
         {{#each actors as |actor|}}
-          <div class="grid item" data-item-id="{{actor._id}}">
+          <div class="grid item" data-actor-id="{{actor._id}}">
 
             <div class="col col-9 pr-2">
               <div class="text-regular text-bold">
@@ -20,7 +20,7 @@
                   {{localize "MB.Actor.Virtues.spiritAbr"}}</span> {{actor.system.virtues.spirit.value}}<span>,
                   {{actor.system.guard.value}}</span><span
                   class="text-small-caps">{{localize "MB.Actor.GuardAbr"}}</span>{{#if actor.system.trample}}<span>, <a
-                      class="inline-roll roll" data-mode="roll" data-flavor="trample"
+                      class="inline-roll roll" data-mode="roll" data-flavor="damage"
                       data-formula="{{actor.system.trample}}">
                       <i class="fas fa-dice-d20"></i>{{actor.system.trample}}</a><span
                       class="text-lowercase">

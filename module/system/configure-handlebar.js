@@ -1,6 +1,8 @@
+import { config } from "../config.js";
+
 export const configureHandlebar = () => {
 
-  Handlebars.registerHelper('concat', (...args) => [...args].slice(0, -1).join(''));
+  Handlebars.registerHelper("concat", (...args) => [...args].slice(0, -1).join(""));
 
   Handlebars.registerHelper("printIf", (cond, v1) => (cond ? v1 : ""));
 
@@ -19,7 +21,7 @@ export const configureHandlebar = () => {
   Handlebars.registerHelper("or", (...args) => [...args].slice(0, -1).some(arg => !!arg));
 
   Handlebars.registerHelper("isArray", (v1) => {
-    return Array.isArray(v1)
+    return Array.isArray(v1);
   });
 
   Handlebars.registerHelper("wysiwig", function (options) {
@@ -35,9 +37,9 @@ export const configureHandlebar = () => {
   });
 
   loadTemplates({
-    "item-list": "systems/mythicbastionland/templates/applications/sheet/actor/common/item-list.hbs",
-    "actor-list": "systems/mythicbastionland/templates/applications/sheet/actor/common/actor-list.hbs",
-    "virtues": "systems/mythicbastionland/templates/applications/sheet/actor/common/virtues.hbs",
-    "actions": "systems/mythicbastionland/templates/applications/sheet/actor/common/actions.hbs"
+    "item-list": `${config.systemPath}/templates/applications/sheet/actor/common/item-list.hbs`,
+    "actor-list": `${config.systemPath}/templates/applications/sheet/actor/common/actor-list.hbs`,
+    "virtues": `${config.systemPath}/templates/applications/sheet/actor/common/virtues.hbs`,
+    "actions": `${config.systemPath}/templates/applications/sheet/actor/common/actions.hbs`
   });
 };

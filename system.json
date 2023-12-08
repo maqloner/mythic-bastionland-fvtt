@@ -65,14 +65,7 @@
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-knight-actors",
       "type": "Actor"
-    },
-    {
-      "name": "mythic-bastionland-knight-macros",
-      "label": "Knight - Macros",
-      "system": "mythicbastionland",
-      "path": "./packs/mythic-bastionland-knight-macros",
-      "type": "Macro"
-    }                 
+    }      
   ],
   "packFolders": [
     {
@@ -90,8 +83,7 @@
       "packs": [
         "mythic-bastionland-knight-items",
         "mythic-bastionland-knight-actors",
-        "mythic-bastionland-knight-rolltables",  
-        "mythic-bastionland-knight-macros"
+        "mythic-bastionland-knight-rolltables"
       ]
     }    
   ],

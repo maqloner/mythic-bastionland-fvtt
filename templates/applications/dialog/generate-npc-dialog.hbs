@@ -1,0 +1,179 @@
+<form class="paper scrollable br-1 p-2 gap-3">
+  <div class="col gap-1">
+    <div>
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular">{{localize "MB.Type"}}</label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="type_npc" name="type" value="person" {{printIf (eq config.type "person") "checked"}}>
+            <label for="type_npc">{{localize "MB.GeneratePerson"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="type_knight" name="type" value="knight" {{printIf (eq config.type "knight") "checked"}}>
+            <label for="type_knight">{{localize "MB.GenerateKnight"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="type_soldier" name="type" value="soldier" {{printIf (eq config.type "soldier") "checked"}}>
+            <label for="type_soldier">{{localize "MB.GenerateSoldier"}}</label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col gap-1">
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular">{{localize "MB.Disposition"}}</label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="disposition_friendly" name="disposition" value="friendly" {{printIf (eq config.disposition "friendly") "checked"}}>
+            <label for="disposition_friendly">{{localize "MB.Friendly"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="disposition_neutral" name="disposition" value="neutral" {{printIf (eq config.disposition "neutral") "checked"}}>
+            <label for="disposition_neutral">{{localize "MB.Neutral"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="radio" id="disposition_hostile" name="disposition" value="hostile" {{printIf (eq config.disposition "hostile") "checked"}}>
+            <label for="disposition_hostile">{{localize "MB.Hostile"}}</label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-4 text-regular">{{localize "MB.Actor.Virtues.Label"}}</label>
+      <div class="col-2 align-items-center">
+        <input class="input-simple" placeholder="1d12 + 1d6" value="{{config.virtues}}" type="text" name="virtues">
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-4 text-regular">{{localize "MB.Actor.Guard"}}</label>
+      <div class="col-2 align-items-center">
+        <input class="input-simple" placeholder="d6" value="{{config.guard}}" type="text" name="guard">
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-4 text-regular">{{localize "MB.RandomWeapons"}}</label>
+      <div class="col-2 align-items-center">
+          <input class="input-simple" placeholder="d6" value="{{config.weapons}}" type="text" name="weapons">
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-4 text-regular">{{localize "MB.RandomArmors"}}</label>
+      <div class="col-2 align-items-center">
+        <input class="input-simple" placeholder="d6" value="{{config.armors}}" type="text" name="armors">
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-4 text-regular">{{localize "MB.RandomTools"}}</label>
+      <div class="col-2 align-items-center">
+        <input class="input-simple" placeholder="d6" value="{{config.tools}}" type="text" name="tools">
+      </div>
+    </div>
+
+    <div class="col gap-1">
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular">{{localize "MB.Actor.Companion"}}</label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="beast" {{printIf (eq config.beast true) "checked"}}>
+            <label class="ml-1" for="beast">{{localize "MB.Beast"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="person" {{printIf (eq config.person true) "checked"}}>
+            <label class="ml-1" for="person">{{localize "MB.Person"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="squire" {{printIf (eq config.squire true) "checked"}}>
+            <label class="ml-1" for="squire">{{localize "MB.Squire"}}</label>
+          </div>
+        </div>
+      </div>
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular"></label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="steed" {{printIf (eq config.steed true) "checked"}}>
+            <label class="ml-1" for="steed">{{localize "MB.Steed"}}</label>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col gap-1">
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular">{{localize "MB.Actor.Biography"}}</label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="personality" {{printIf (eq config.personality true) "checked"}}>
+            <label class="ml-1" for="personality">{{localize "MB.Personality"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="desire" {{printIf (eq config.desire true) "checked"}}>
+            <label class="ml-1" for="desire">{{localize "MB.Desire"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="task" {{printIf (eq config.task true) "checked"}}>
+            <label class="ml-1" for="task">{{localize "MB.Task"}}</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular"></label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="conflict" {{printIf (eq config.conflict true) "checked"}}>
+            <label class="ml-1" for="conflict">{{localize "MB.Conflict"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="heraldry" {{printIf (eq config.heraldry true) "checked"}}>
+            <label class="ml-1" for="heraldry">{{localize "MB.Heraldry"}}</label>
+          </div>
+        </div>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="battlefield" {{printIf (eq config.battlefield true) "checked"}}>
+            <label class="ml-1" for="battlefield">{{localize "MB.Battlefield"}}</label>
+          </div>
+        </div>
+      </div>
+      <div class="grid align-items-center">
+        <label class="col col-4 text-regular"></label>
+        <div class="col">
+          <div class="grid align-items-center">
+            <input type="checkbox" name="ailment" {{printIf (eq config.ailment true) "checked"}}>
+            <label class="ml-1" for="ailment">{{localize "MB.Ailment"}}</label>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid gap-1">
+    <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.Generate"}}</button>
+  </div>
+</form>

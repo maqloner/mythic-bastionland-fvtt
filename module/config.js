@@ -24,7 +24,8 @@ config.itemTypes = {
   helm: "helm",
   passion: "passion",
   misc: "misc",
-  scar: "scar"
+  scar: "scar",
+  knight: "knight"
 };
 
 config.rank = {
@@ -43,7 +44,7 @@ config.age = {
 
 config.actorDefaults = {
   [config.actorTypes.knight]: {
-    img: `${config.systemPath}/tokens/actors/knight.png`,
+    img: `${config.systemPath}tokens/actors/knight.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
@@ -51,7 +52,7 @@ config.actorDefaults = {
     }
   },
   [config.actorTypes.npc]: {
-    img: `${config.systemPath}/tokens/actors/npc.png`,
+    img: `${config.systemPath}tokens/actors/npc.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
@@ -59,7 +60,7 @@ config.actorDefaults = {
     }
   },
   [config.actorTypes.squire]: {
-    img: `${config.systemPath}/tokens/actors/squire.png`,
+    img: `${config.systemPath}tokens/actors/squire.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
@@ -67,7 +68,7 @@ config.actorDefaults = {
     }
   },
   [config.actorTypes.creature]: {
-    img: `${config.systemPath}/tokens/actors/creature.png`,
+    img: `${config.systemPath}tokens/actors/creature.png`,
     prototypeToken: {
       actorLink: false,
       disposition: CONST.TOKEN_DISPOSITIONS.HOSTILE,
@@ -75,7 +76,7 @@ config.actorDefaults = {
     }
   },
   [config.actorTypes.steed]: {
-    img: `${config.systemPath}/tokens/actors/steed.png`,
+    img: `${config.systemPath}tokens/actors/steed.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
@@ -83,7 +84,7 @@ config.actorDefaults = {
     }
   },
   [config.actorTypes.warband]: {
-    img: `${config.systemPath}/tokens/actors/warband.png`,
+    img: `${config.systemPath}tokens/actors/warband.png`,
     prototypeToken: {
       actorLink: true,
       disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
@@ -94,31 +95,33 @@ config.actorDefaults = {
 
 config.itemDefaults = {
   [config.itemTypes.ability]: {
-    img: `${config.systemPath}/tokens/items/ability.png`
+    img: `${config.systemPath}tokens/items/ability.png`
   },
   [config.itemTypes.coat]: {
-    img: `${config.systemPath}/tokens/items/coat.png`
+    img: `${config.systemPath}tokens/items/coat.png`
   },
   [config.itemTypes.helm]: {
-    img: `${config.systemPath}/tokens/items/helm.png`
+    img: `${config.systemPath}tokens/items/helm.png`
   },
   [config.itemTypes.misc]: {
-    img: `${config.systemPath}/tokens/items/misc.png`
+    img: `${config.systemPath}tokens/items/misc.png`
   },
   [config.itemTypes.passion]: {
-    img: `${config.systemPath}/tokens/items/passion.png`
+    img: `${config.systemPath}tokens/items/passion.png`
   },
   [config.itemTypes.plate]: {
-    img: `${config.systemPath}/tokens/items/plate.png`
+    img: `${config.systemPath}tokens/items/plate.png`
   },
   [config.itemTypes.scar]: {
-    img: `${config.systemPath}/tokens/items/scar.png`
+    img: `${config.systemPath}tokens/items/scar.png`
   },
   [config.itemTypes.shield]: {
-    img: `${config.systemPath}/tokens/items/shield.png`
+    img: `${config.systemPath}tokens/items/shield.png`
   },
   [config.itemTypes.weapon]: {
-    img: `${config.systemPath}/tokens/items/weapon.png`
-  }                
+    img: `${config.systemPath}tokens/items/weapon.png`
+  },
+  [config.itemTypes.knight]: {
+    img: `${config.systemPath}tokens/items/knight.png`
+  }   
 };
-CONFIG.MB = config;

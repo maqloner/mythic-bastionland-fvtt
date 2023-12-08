@@ -1,8 +1,8 @@
 import { config } from "../config.js";
-import { generateKnight } from "../generators/generate-knight.js";
-import { generateNpc } from "../generators/generate-npc.js";
-import { generateSquire } from "../generators/generate-squire.js";
-import { generateWarband } from "../generators/generate-warband.js";
+import { createKnight } from "../generators/knight.js";
+import { createNpc } from "../generators/npc.js";
+import { createSquire } from "../generators/squire.js";
+import { createWarband } from "../generators/warband.js";
 
 /**
  * @param {Actor} actor 
@@ -13,14 +13,15 @@ export const actorRegenerateAction = async (actor) => {
     content: game.i18n.localize("MB.RegenerateConfirmContent"),
     yes: () => {
       switch (true) {
-        case actor.type === config.actorTypes.knight:
-          return generateKnight(actor);
+        case actor.type === config.actorTypes.knight && !("generator" in actor.flags):
+          return createKnight(actor);
+        case actor.type === config.actorTypes.knight && ("generator" in actor.flags):
         case actor.type === config.actorTypes.npc:
-          return generateNpc(actor);
+          return createNpc(actor);
         case actor.type === config.actorTypes.warband:
-          return generateWarband();
+          return createWarband(actor);
         case actor.type === config.actorTypes.squire:
-          return generateSquire(actor);
+          return createSquire(actor);
       }
     },
     defaultYes: false

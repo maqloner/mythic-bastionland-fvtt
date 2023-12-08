@@ -385,7 +385,7 @@
 .mythic-bastionland.chat-message .message-content .outcome .outcome-roll.gambit {
   background-color: var(--green);
 }
-.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.greater-gambit {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.strong-gambit {
   background-color: var(--orange);
 }
 .mythic-bastionland.chat-message .message-content .outcome .chat-message-button {
@@ -613,6 +613,10 @@
   margin-top: 6px !important;
   margin-left: 8px !important;
 }
+.mythic-bastionland input:disabled {
+  background: rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.2);
+}
 .mythic-bastionland .text-bold {
   font-weight: 700;
 }
@@ -684,7 +688,7 @@
   height: 160px;
   border-radius: 16px;
   border: 4px solid var(--primary-color);
-  background-color: white;
+  background-color: var(--primary-color);
   overflow: hidden;
 }
 .mythic-bastionland.sheet .picture img {

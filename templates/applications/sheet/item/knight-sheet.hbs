@@ -1,0 +1,44 @@
+<form class="{{cssClass}} flexcol ability" autocomplete="off" source="{{item.name}}">
+  <div class="paper scrollable br-1 p-2 gap-2">
+
+    <div class="grid">
+      <label class="col col-3 text-large label-large">{{localize "MB.Item.Name"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
+          placeholder="{{ localize "MB.Item.Name" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regular">{{localize "MB.Item.Description"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-simple" name="system.description" type="text" value="{{data.system.description}}"
+          placeholder="{{ localize "MB.Item.Description" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regularr">{{localize "MB.Item.Flavor"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-simple" name="system.flavor" type="text" value="{{data.system.flavor}}"
+          placeholder="{{ localize "MB.Item.Flavor" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regular">{{localize "MB.Item.FlavorLabel1"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-simple" name="system.flavorLabel1" type="text" value="{{data.system.flavorLabel1}}"
+          placeholder="{{ localize "MB.Item.FlavorLabel1" }}" spellcheck="false" />
+      </div>
+    </div>
+
+    <div class="grid align-items-center">
+      <label class="col col-3 text-regular">{{localize "MB.Item.FlavorLabel2"}}</label>
+      <div class="col col-9">
+        <input class="br-1 input-simple" name="system.flavorLabel2" type="text" value="{{data.system.flavorLabel2}}"
+          placeholder="{{ localize "MB.Item.FlavorLabel2" }}" spellcheck="false" />
+      </div>
+    </div>
+  </div>
+</form>

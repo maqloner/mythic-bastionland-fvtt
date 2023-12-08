@@ -40,12 +40,16 @@ export class MBActorSheet extends ActorSheet {
 
   /** @override */
   _getHeaderButtons() {
-    return [{
-      class: `regenerate-button-${this.actor.id}`,
-      label: game.i18n.localize("MB.Regenerate"),
-      icon: "fas fa-dice-d20",
-      onclick: event => this.invokeAction(event, actorRegenerateAction, this.actor)
-    }, ...super._getHeaderButtons()];
+    const additionalButton = [];
+    if ([config.actorTypes.knight, config.actorTypes.npc, config.actorTypes.squire, config.actorTypes.warband].includes(this.actor.type)) {
+      additionalButton.push({
+        class: `regenerate-button-${this.actor.id}`,
+        label: game.i18n.localize("MB.Regenerate"),
+        icon: "fas fa-dice-d20",
+        onclick: event => this.invokeAction(event, actorRegenerateAction, this.actor)
+      });
+    }
+    return [...additionalButton, ...super._getHeaderButtons()];
   }
 
   /** @override */
@@ -86,8 +90,8 @@ export class MBActorSheet extends ActorSheet {
         actors.push((await actor.sheet.getData()).data);
       }
     }
-    data.data.steeds = actors.filter((actor) => actor.type === "steed");
-    data.data.companions = actors.filter((actor) => actor.type === "npc");
+    data.data.steeds = actors.filter((actor) => actor.type === config.actorTypes.steed);
+    data.data.companions = actors.filter((actor) => [config.actorTypes.npc, config.actorTypes.creature, config.actorTypes.squire].includes(actor.type));
     return data;
   }
 
@@ -114,7 +118,7 @@ export class MBActorSheet extends ActorSheet {
    * @returns {PBItem}
    */
   getActor(event) {
-    return game.actors.get(this.getClosestData(event, "item-id"));
+    return game.actors.get(this.getClosestData(event, "actor-id"));
   }
 
   /**
@@ -162,8 +166,6 @@ export class MBActorSheet extends ActorSheet {
    * @param {MouseEvent} event
    */
   getOnlineRollData(actor, event) {
-    console.log(this.getClosestData(event, "data-actor-id"));
-    console.log(game.actors.get(this.getClosestData(event, "actor-id")) );
     return [
       game.actors.get(this.getClosestData(event, "actor-id")) ?? actor,
       this.getClosestData(event, "formula"),
@@ -295,7 +297,7 @@ export class MBActorSheet extends ActorSheet {
    */
   async _onDropActor(event, actorData) {
     const actor = await fromUuid(actorData.uuid);
-    if ([config.actorTypes.steed, config.actorTypes.npc].includes(actor.type)) {
+    if ([config.actorTypes.steed, config.actorTypes.npc, config.actorTypes.squire].includes(actor.type)) {
       this.actor.update({ "system.actors": [...new Set([...this.actor.system.actors, actorData.uuid])] });
     }
   }

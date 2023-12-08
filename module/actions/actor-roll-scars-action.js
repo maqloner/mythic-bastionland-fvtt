@@ -1,7 +1,7 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { showRollScarDialog } from "../applications/dialog/roll-scar-dialog.js";
 import { drawScar, findTableItems } from "../utils/compendium.js";
-import { evaluateFormula } from "../utils/formula.js";
+import { evaluateFormula } from "../utils/utils.js";
 
 /**
  * @param {Actor} actor

@@ -1,6 +1,6 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
-import { evaluateFormula } from "../utils/formula.js";
+import { evaluateFormula } from "../utils/utils.js";
 import { actorSaveAction } from "./actor-save-action.js";
 
 /**

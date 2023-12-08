@@ -1,5 +1,5 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
-import { evaluateFormula } from "../utils/formula.js";
+import { evaluateFormula } from "../utils/utils.js";
 
 /**
  * @param {Actor} actor

@@ -1,15 +1,9 @@
 import { config } from "../config.js";
 
 /**
- * @param {String} compendiumString
- * @returns {Array.<String>}
- */
-export const compendiumInfoFromString = (compendiumString) => compendiumString.split(";");
-
-/**
  * @param {String} compendiumName
  * @param {String} itemName
- * @returns {Promise.<PBItem|RollTable|undefined>}
+ * @returns {Promise.<Item|RollTable|undefined>}
  */
 export const findCompendiumItem = async (compendiumName, itemName) => {
   const compendium = game.packs.get(compendiumName);
@@ -45,7 +39,7 @@ export const drawTableText = async (compendium, table, options = {}) => (await d
 /**
  * @param {String} compendium
  * @param {String} table
- * @returns {Promise.<PBItem[]>}
+ * @returns {Promise.<Item[]>}
  */
 export const drawTableItem = async (compendium, table) => {
   const draw = await drawTable(compendium, table);
@@ -56,7 +50,7 @@ export const drawTableItem = async (compendium, table) => {
  * @param {String} compendium
  * @param {String} table
  * @param {Number} amount
- * @returns {Promise.<Array.<PBItem>>}
+ * @returns {Promise.<Array.<Item>>}
  */
 export const drawTableItems = async (compendium, table, amount = 1) => {
   let results = [];
@@ -67,44 +61,8 @@ export const drawTableItems = async (compendium, table, amount = 1) => {
 };
 
 /**
- * @param {String} compendium
- * @param {String} table
- * @param {String} formula
- * @returns {Promise.<RollTableDraw>}
- */
-export const rollTable = async (compendium, table, formula) => {
-  const rollTable = await findCompendiumItem(compendium, table);
-  return rollTable.roll({ roll: new Roll(formula) });
-};
-
-/**
- * @param {String} compendium
- * @param {String} table
- * @param {String} formula
- * @returns {Promise.<Array.<PBItem>>}
- */
-export const rollTableItems = async (compendium, table, formula) => {
-  const draw = await rollTable(compendium, table, formula);
-  return findTableItems(draw.results);
-};
-
-/**
- @param {String} compendiumString
- * @returns {Promise.<PBItem[]>}
- */
-export const findItemsFromCompendiumString = async (compendiumString) => {
-  const compendiumsItems = compendiumString.split("\n").filter((item) => item);
-  const results = [];
-  for (const compendiumsItem of compendiumsItems) {
-    const [compendium, table] = compendiumInfoFromString(compendiumsItem);
-    results.push(await findCompendiumItem(compendium, table));
-  }
-  return results;
-};
-
-/**
  * @param {TableResult[]} results
- * @returns {Promise.<PBItem[]>}
+ * @returns {Promise.<Item[]>}
  */
 export const findTableItems = async (results) => {
   const items = [];
@@ -120,20 +78,6 @@ export const findTableItems = async (results) => {
   }
   return items;
 };
-
-/**
- * @param {String} compendiumMacro
- * @param {Object} parameters
- */
-/*
-export const executeCompendiumMacro = async (compendiumMacro, parameters = {}) => {
-  const [compendium, macroName] = compendiumInfoFromString(compendiumMacro ?? "");
-  if (compendium && macroName) {
-    const macro = await findCompendiumItem(compendium, macroName);
-    wait executeMacro(macro, parameters);
-  }
-};
-*/
 
 /**
  * @param {Object} options

@@ -3,9 +3,8 @@ import { config } from "../config.js";
 import { drawSystemTable } from "../utils/compendium.js";
 
 class GMDashboard extends Application {
-  constructor({ callback } = {}) {
+  constructor() {
     super();
-    this.callback = callback;
   }
 
   /** @override */
@@ -27,6 +26,7 @@ class GMDashboard extends Application {
       ]
     });
   }
+
   /** @override */
   async getData(options) {
     const data = super.getData(options);
@@ -37,7 +37,6 @@ class GMDashboard extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    console.log("activate listeners", html.find(".roll-table"));
     html.find(".roll-table").on("click", this._onRollTable.bind(this));
     html.find(".roll-table-multi").on("click", this._onRollTableMulti.bind(this));
   }
@@ -56,7 +55,7 @@ class GMDashboard extends Application {
         roll: draw.roll,
         description: result.text
       }],
-      rollMode: this.getRollMode()
+      rollMode: this.element.find("[name=roll_mode]").val()
     });
   }
 
@@ -80,14 +79,8 @@ class GMDashboard extends Application {
     await showChatMessage({
       title: label,
       outcomes: outcomes,
-      rollMode: this.getRollMode()
+      rollMode: this.element.find("[name=roll_mode]").val()
     });
-  }
-
-  getRollMode() {
-    const rollMode =  this.element.find("[name=roll_mode]").val();
-    console.log(rollMode);
-    return rollMode;
   }
 }
 
@@ -96,11 +89,10 @@ let dashboard = null;
 /**
  * @returns {Promise.<{damage: Boolean, virtue: String}>}
  */
-export const showGMDashboard = (data = {}) =>
+export const showGMDashboard = () =>
   new Promise((resolve) => {
     if (!dashboard) {
       dashboard = new GMDashboard({
-        ...data,
         callback: resolve
       });
     }

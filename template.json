@@ -90,7 +90,8 @@
       "helm",
       "passion",
       "misc",
-      "scar"
+      "scar",
+      "knight"
     ],
     "htmlFields": [
       "description"
@@ -140,6 +141,13 @@
     },
     "scar": {
       "description": ""
+    },
+    "knight": {
+      "name": "",
+      "description": "",
+      "flavor": "",
+      "flavorLabel1": "",
+      "flavorLabel2": ""
     }
   }
 }

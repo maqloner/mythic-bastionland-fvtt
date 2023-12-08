@@ -11,7 +11,7 @@ export const actorTakeDamageAction = async (actor) => {
   const guard = actor.system.guard.value;
   const value = actor.system.virtues[virtue].value;
 
-  const finalDamage = damage - armor;
+  const finalDamage = Math.max(damage - armor, 0);
   const leftover = exposed ? -finalDamage : guard - finalDamage;
   const isScar = leftover === 0;
   const isEvaded = leftover > 0;

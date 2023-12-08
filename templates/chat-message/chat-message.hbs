@@ -1,5 +1,5 @@
 {{#*inline "outcome"}}
-  <div class="outcome" data-source="{{outcome.title}}"> 
+  <div class="outcome" data-source="{{outcome.title}}">
     {{#if outcome.title}}
       <div class="outcome-title">
         <span>{{outcome.title}}</span>
@@ -19,7 +19,9 @@
             {{#if (eq outcome.type 'damage') }}
               {{#each outcome.roll.terms as |term|}}
                 {{#each term.results as |result|}}
-                  <div class="outcome-roll {{printIf (gte result.result 4) 'gambit'}} {{printIf (gte result.result 8) 'greater-gambit'}}" >
+                  <div
+                    class="outcome-roll {{printIf (gte result.result 4) "gambit"}} {{printIf (gte result.result 8) "strong-gambit"}}"
+                    title="{{printIf (gte result.result 4) (localize "MB.Actor.Gambit")}} {{printIf (gte result.result 8) (localize "MB.Actor.StrongGambit")}}">
                     <span>{{result.result}}</span>
                   </div>
                 {{/each}}

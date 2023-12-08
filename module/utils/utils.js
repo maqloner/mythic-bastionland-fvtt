@@ -7,3 +7,10 @@ export const evaluateFormula = async (formula, data) => {
   const roll = new Roll(formula, data);
   return roll.evaluate({ async: true });
 };
+
+/**
+ * @param {Number} min 
+ * @param {Number} max 
+ * @returns 
+ */
+export const randomNumber = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);

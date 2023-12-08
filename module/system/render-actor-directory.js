@@ -1,7 +1,7 @@
-import { generateKnight } from "../generators/generate-knight.js";
-import { generateNpc } from "../generators/generate-npc.js";
-import { generateSquire } from "../generators/generate-squire.js";
-import { generateWarband } from "../generators/generate-warband.js";
+import { createKnight } from "../generators/knight.js";
+import { createNpc } from "../generators/npc.js";
+import { createSquire } from "../generators/squire.js";
+import { createWarband } from "../generators/warband.js";
 
 /**
  * @param {Application} app
@@ -35,19 +35,19 @@ export const renderActorDirectory = (app, html) => {
     );
 
     header.querySelector(".generate-knight-button").addEventListener("click", () => {
-      generateKnight();
+      createKnight();
     });
 
     header.querySelector(".generate-squire-button").addEventListener("click", () => {
-      generateSquire();
+      createSquire();
     });
 
     if (game.user.isGM) {
       header.querySelector(".generate-npc-button").addEventListener("click", () => {
-        generateNpc();
+        createNpc();
       });
       header.querySelector(".generate-warband-button").addEventListener("click", () => {
-        generateWarband();
+        createWarband();
       });
     }
   }

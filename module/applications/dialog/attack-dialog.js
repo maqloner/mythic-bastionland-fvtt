@@ -48,8 +48,6 @@ class AttackDialog extends Application {
       return impairedWeapons.includes(id) ? "d4" : item.system.damage;
     }); 
 
-    console.log(weapons, impairedWeapons, items);
-
     const amount = parseInt(this.element.find("[name=amount]").val(), 10);
 
     if (!amount) {

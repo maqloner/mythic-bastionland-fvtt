@@ -29,7 +29,7 @@ export const actorTakeDamageAction = async (actor) => {
       armor
     }),
     formulaNumber: finalDamage,
-    buttons: [getButton({ isScar })]
+    buttons: getButton({ isScar })
   };
 
   await actor.update({
@@ -86,12 +86,12 @@ const getDescription = ({ virtue, guard, newGuard, value, newValue, exposed = fa
 
 const getButton = ({ isScar = false }) => {
   if (isScar) {
-    return {
+    return [{
       title: game.i18n.localize("MB.RollScar"),
       data: {
         "action": "roll-scar"
       }
-    };
+    }];
   }
   return;
 };

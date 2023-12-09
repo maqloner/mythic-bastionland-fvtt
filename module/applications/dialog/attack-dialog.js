@@ -56,7 +56,7 @@ class AttackDialog extends Application {
     const smite = !!this.element.find("[name=smite]:checked").val();
     const smiteType = this.element.find("[name=smite_type]:checked").val();
     const impaired = !!this.element.find("[name=impaired]:checked").val();
-    const bonusDice = this.element.find("[name=bonus_damage]").val();
+    const bonusDice = this.element.find("[name=bonus_dice]").val();
     const overrideDamage = this.element.find("[name=override_damage]").val();
 
     if (!impaired && !bonusDice && !overrideDamage && !weapons.length && !steeds.length) {

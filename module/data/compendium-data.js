@@ -372,7 +372,7 @@ export const compendiumData = {
             {
               type: "scar",
               name: "Stun",
-              description: "<p><em>Pain drowns the senses</em></p><p>Lose [[/roll d6]] CLA</p>. <p>If your max GD is 4 or less, increase it by [[/roll d6]].</p>"
+              description: "<p><em>Pain drowns the senses</em></p><p>Lose [[/roll d6]] CLA.</p><p>If your max GD is 4 or less, increase it by [[/roll d6]].</p>"
             },
             {
               type: "scar",

@@ -1,13 +1,10 @@
 {{#if actors.length }}
   <div>
     <h2 class="text-large">{{title}}</h2>
-
     <div class="grid">
-
       <div class="col gap-2">
         {{#each actors as |actor|}}
           <div class="grid item" data-actor-id="{{actor._id}}">
-
             <div class="col col-9 pr-2">
               <div class="text-regular text-bold">
                 {{actor.name}}
@@ -22,8 +19,7 @@
                   class="text-small-caps">{{localize "MB.Actor.GuardAbr"}}</span>{{#if actor.system.trample}}<span>, <a
                       class="inline-roll roll" data-mode="roll" data-flavor="damage"
                       data-formula="{{actor.system.trample}}">
-                      <i class="fas fa-dice-d20"></i>{{actor.system.trample}}</a><span
-                      class="text-lowercase">
+                      <i class="fas fa-dice-d20"></i>{{actor.system.trample}}</a><span class="text-lowercase">
                       {{localize "MB.Actor.Trample"}}</span>
                   </span>
                 {{/if}}

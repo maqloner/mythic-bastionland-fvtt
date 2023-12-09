@@ -126,7 +126,6 @@ export const generateKnightBiography = async ({ item, tables }) => `
   </p>
 `;
 
-
 export const generatePersonality = async () => {
   return game.i18n.format("MB.Biography.Personality", {
     characteristic: (await drawSystemTableText("Characteristic")).toLowerCase(),

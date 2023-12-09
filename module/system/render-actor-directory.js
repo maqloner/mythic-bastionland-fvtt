@@ -16,13 +16,13 @@ export const renderActorDirectory = (app, html) => {
     dirHeader.parentNode.insertBefore(header, dirHeader);
 
     const buttons = [
-      "<button class=\"generate-knight-button\"><i class=\"fas fa-dice-d20\"></i>Generate Knight</button>",
-      "<button class=\"generate-squire-button\"><i class=\"fas fa-dice-d20\"></i>Generate Squire</button>"
+      `<button class="generate-knight-button"><i class="fas fa-dice-d20"></i>${game.i18n.localize("MB.GenerateKnight")}</button>`,
+      `<button class="generate-squire-button"><i class="fas fa-dice-d20"></i>${game.i18n.localize("MB.GenerateSquire")}</button>`
     ];
 
     if (game.user.isGM) {
-      buttons.push("<button class=\"generate-warband-button\"><i class=\"fas fa-dice-d20\"></i>Generate Warband</button>");
-      buttons.push("<button class=\"generate-npc-button\"><i class=\"fas fa-dice-d20\"></i>Generate NPC</button>");
+      buttons.push(`<button class="generate-warband-button"><i class="fas fa-dice-d20"></i>${game.i18n.localize("MB.GenerateWarband")}</button>`);
+      buttons.push(`<button class="generate-npc-button"><i class="fas fa-dice-d20"></i>${game.i18n.localize("MB.GenerateNPC")}</button>`);
     }
 
     header.insertAdjacentHTML(
@@ -34,21 +34,11 @@ export const renderActorDirectory = (app, html) => {
       `
     );
 
-    header.querySelector(".generate-knight-button").addEventListener("click", () => {
-      createKnight();
-    });
-
-    header.querySelector(".generate-squire-button").addEventListener("click", () => {
-      createSquire();
-    });
-
+    header.querySelector(".generate-knight-button").addEventListener("click", () => createKnight());
+    header.querySelector(".generate-squire-button").addEventListener("click", () => createSquire());
     if (game.user.isGM) {
-      header.querySelector(".generate-npc-button").addEventListener("click", () => {
-        createNpc();
-      });
-      header.querySelector(".generate-warband-button").addEventListener("click", () => {
-        createWarband();
-      });
+      header.querySelector(".generate-npc-button").addEventListener("click", () => createNpc());
+      header.querySelector(".generate-warband-button").addEventListener("click", () => createWarband());
     }
   }
 };

@@ -46,49 +46,48 @@ config.actorDefaults = {
   [config.actorTypes.knight]: {
     img: `${config.systemPath}tokens/actors/knight.png`,
     prototypeToken: {
+      texture: { src: `${config.systemPath}tokens/actors/knight-token.png` },
       actorLink: true,
-      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true
+      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY
     }
   },
   [config.actorTypes.npc]: {
     img: `${config.systemPath}tokens/actors/npc.png`,
     prototypeToken: {
+      texture: { src: `${config.systemPath}tokens/actors/npc-token.png` },
       actorLink: true,
-      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true
+      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY
     }
   },
   [config.actorTypes.squire]: {
     img: `${config.systemPath}tokens/actors/squire.png`,
     prototypeToken: {
-      actorLink: true,
-      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true
+      texture: { src: `${config.systemPath}tokens/actors/squire-token.png` },
+      actorLink: true
     }
   },
   [config.actorTypes.creature]: {
     img: `${config.systemPath}tokens/actors/creature.png`,
     prototypeToken: {
+      texture: { src: `${config.systemPath}tokens/actors/creature-token.png` },
       actorLink: false,
-      disposition: CONST.TOKEN_DISPOSITIONS.HOSTILE,
-      vision: false
+      disposition: CONST.TOKEN_DISPOSITIONS.HOSTILE
     }
   },
   [config.actorTypes.steed]: {
     img: `${config.systemPath}tokens/actors/steed.png`,
     prototypeToken: {
+      texture: { src: `${config.systemPath}tokens/actors/steed-token.png` },
       actorLink: true,
-      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true
+      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY
     }
   },
   [config.actorTypes.warband]: {
     img: `${config.systemPath}tokens/actors/warband.png`,
     prototypeToken: {
-      actorLink: true,
-      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY,
-      vision: true
+      texture: { src: `${config.systemPath}tokens/actors/warband-token.png` },
+      actorLink: false,
+      disposition: CONST.TOKEN_DISPOSITIONS.FRIENDLY
     }
   }
 };
@@ -123,5 +122,5 @@ config.itemDefaults = {
   },
   [config.itemTypes.knight]: {
     img: `${config.systemPath}tokens/items/knight.png`
-  }   
+  }
 };

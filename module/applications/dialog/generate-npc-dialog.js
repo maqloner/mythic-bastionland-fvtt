@@ -57,7 +57,6 @@ class GenerateNpcDialog extends Application {
   getDefaultGeneratorConfig() {
     return {
       type: "person",
-      disposition: "friendly",
       virtues: "1d12 + d6",
       guard: "1d6",
       weapons: "1d2 - 1",
@@ -125,7 +124,6 @@ class GenerateNpcDialog extends Application {
     });
 
     const type = this.element.find("[name=type]:checked").val();
-    const disposition = this.element.find("[name=disposition]").val();
     const virtues = this.element.find("[name=virtues]").val();
     const guard = this.element.find("[name=guard]").val();
     const weapons = this.element.find("[name=weapons]").val();
@@ -147,7 +145,6 @@ class GenerateNpcDialog extends Application {
 
     this.callback({
       type,
-      disposition,
       virtues,
       guard,
       weapons,
@@ -170,6 +167,27 @@ class GenerateNpcDialog extends Application {
   }
 }
 
+/**
+ * @returns {Promise.<{
+*   type: String, 
+*   virtues: String, 
+*   guard: String, 
+*   weapons: String, 
+*   armors: String 
+*   tools: String, 
+*   beast: Boolean,
+*   person: Boolean,
+*   steed: Boolean,
+*   squire: Boolean,
+*   personality: Boolean,
+*   desire: Boolean,
+*   conflict: Boolean,
+*   task: Boolean,
+*   heraldry: Boolean,
+*   battlefield: Boolean,
+*   ailment: Boolean
+* }>}
+*/
 export const showGenerateNpcDialog = (generatorConfig) =>
   new Promise((resolve) => {
     new GenerateNpcDialog({

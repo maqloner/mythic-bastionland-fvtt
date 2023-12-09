@@ -10,8 +10,7 @@
       <div class="col align-items-center">
         {{#if outcome.formulaLabel}}
           <div class="outcome-formula-label">
-            <span>{{outcome.formulaLabel}} {{#if outcome.dr}}{{localize "PB.Vs"}} {{localize "PB.DR"}}
-                {{outcome.dr}}{{/if}}</span>
+            <span>{{outcome.formulaLabel}}</span>
           </div>
         {{/if}}
         {{#if outcome.roll}}
@@ -19,10 +18,13 @@
             {{#if (eq outcome.type 'damage') }}
               {{#each outcome.roll.terms as |term|}}
                 {{#each term.results as |result|}}
-                  <div
-                    class="outcome-roll {{printIf (gte result.result 4) "gambit"}} {{printIf (gte result.result 8) "strong-gambit"}}"
-                    title="{{printIf (gte result.result 4) (localize "MB.Actor.Gambit")}} {{printIf (gte result.result 8) (localize "MB.Actor.StrongGambit")}}">
-                    <span>{{result.result}}</span>
+                  <div class="outcome-roll-result">
+                    <div class="outime-roll-term">d{{term.faces}}</div>
+                    <div
+                      class="outcome-roll {{printIf (gte result.result 4) "gambit"}} {{printIf (gte result.result 8) "strong-gambit"}}"
+                      title="{{printIf (gte result.result 4) (localize "MB.Actor.Gambit")}} {{printIf (gte result.result 8) (localize "MB.Actor.StrongGambit")}}">
+                      <span>{{result.result}}</span>
+                    </div>
                   </div>
                 {{/each}}
               {{/each}}
@@ -53,12 +55,14 @@
       </div>
     {{/if}}
 
-    {{#if button}}
+    {{#if buttons}}
       <div>
-        <button type="button" class="chat-message-button button-primary" {{#each button.data}} data-{{@key}}="{{this}}"
-          {{/each}} title="{{title}}">
-          {{button.title}}
-        </button>
+        {{#each buttons as |button|}}
+          <button type="button" class="chat-message-button button-primary" {{#each button.data}}
+            data-{{@key}}="{{this}}" {{/each}} title="{{title}}">
+            {{button.title}}
+          </button>
+        {{/each}}
       </div>
     {{/if}}
   </div>
@@ -78,7 +82,15 @@
     {{/each}}
 
     {{#if description}}
-      <div class="card-description">{{{description}}}</div>
+      <div class="card-description">
+        {{#if (isArray description)}}
+          {{#each description}}
+            <p>{{{.}}}</p>
+          {{/each}}
+        {{else}}
+          {{{description}}}
+        {{/if}}
+      </div>
     {{/if}}
 
     {{#each outcomes as |outcome| }}

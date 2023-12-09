@@ -3,7 +3,6 @@ import { showVirtueLossDialog } from "../applications/dialog/virtue-loss-dialog.
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
  */
 export const attackVirtueLossAction = async (actor) => {
   const { amount, virtue } = await showVirtueLossDialog({ actor });
@@ -34,7 +33,7 @@ export const attackVirtueLossAction = async (actor) => {
   });
 };
 
-const getTitle = ({ isExhausted, isExposed, isImpaired }) => {
+const getTitle = ({ isExhausted = false, isExposed = false, isImpaired = false }) => {
   switch (true) {
     case isExhausted:
       return game.i18n.localize("MB.Exhausted");
@@ -45,7 +44,7 @@ const getTitle = ({ isExhausted, isExposed, isImpaired }) => {
   }
 };
 
-const getDescription = ({ virtue, value, newValue, isExhausted, isExposed, isImpaired }) => {
+const getDescription = ({ virtue, value, newValue, isExhausted = false, isExposed = false, isImpaired = false }) => {
   const description = [];
   
   if (value !== newValue) {

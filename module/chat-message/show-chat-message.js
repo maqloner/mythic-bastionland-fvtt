@@ -10,8 +10,7 @@ const CHAT_MESSAGE_TEMPLATE = `${config.systemPath}/templates/chat-message/chat-
  * @param {String} [description]
  * @param {Object[]} [outcomes]
  * @param {Object[]} [buttons]
- * @param {PBItem[]} [items]
- * @return {Promise<ChatMessage>}
+  * @return {Promise<ChatMessage>}
  */
 export const showChatMessage = async ({ actor, title, description, outcomes = [], buttons = [], items = [], rollMode } = {}) => {
   const rolls = outcomes.map((outcome) => outcome.roll).filter((roll) => roll);

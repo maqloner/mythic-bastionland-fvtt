@@ -1,4 +1,4 @@
-<div>
+<div class="col col-12 gap-2">
   <div class="grid">
     <h2 class="text-large">{{localize "MB.Actor.Virtues.Label"}}</h2>
     <div class="col col-12 gap-1">
@@ -17,7 +17,6 @@
           </div>
         </div>
       </div>
-
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Virtues.clarity"}}</label>
         <div class="col col-7">
@@ -33,7 +32,6 @@
           </div>
         </div>
       </div>
-
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Virtues.spirit"}}</label>
         <div class="col col-7">
@@ -49,7 +47,6 @@
           </div>
         </div>
       </div>
-
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Guard"}}</label>
         <div class="col col-7">
@@ -62,13 +59,16 @@
           </div>
         </div>
       </div>
-
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Fatigue"}}</label>
         <div class="col col-7">
           <input class="input-checkbox" type="checkbox" name="system.fatigue" {{checked data.system.fatigue}}
             data-dtype="Boolean" />
         </div>
+      </div>
+      <div class="grid">
+        <label class="col col-5 text-regular label-number">{{localize "MB.Item.Armor"}}</label>
+        <div class="col col-7 input-number clear-bg">{{data.totalArmor}}</div>
       </div>
     </div>
   </div>

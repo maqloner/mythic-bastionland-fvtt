@@ -16,16 +16,17 @@
   }
 
   .editor-container {
-    height: 200px;
+    min-height: 200px;
 
     .editor {
-      height: 100%;
+      min-height: 200px;
       width: 100%;
 
       .editor-content {
         background-color: rgba(0, 0, 0, 0.05);
         border-radius: 8px;
         padding: 8px;
+        min-height: 200px;
       }
     }
   }

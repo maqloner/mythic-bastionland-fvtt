@@ -1,99 +1,110 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { showAttackDialog } from "../applications/dialog/attack-dialog.js";
+import { findlinkedActors } from "../utils/actor.js";
+import { evaluateFormula } from "../utils/utils.js";
+import { config } from "../config.js";
 
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
  */
 export const actorAttackAction = async (actor) => {
-  const { damage, armor, virtue, exposed } = await showAttackDialog({ actor });
-
-  const guard = actor.system.guard.value;
-  const value = actor.system.virtues[virtue].value;
-
-  const finalDamage = damage - armor;
-  const leftover = exposed ? -finalDamage : guard - finalDamage;
-  const isScar = leftover === 0;
-  const isEvaded = leftover > 0;
-  const isWounded = leftover < 0;
-  const newValue = isWounded ? Math.max(value + leftover, 0) : value;
-  const newGuard = exposed ? guard : (isWounded ? 0 : guard - finalDamage);
-  const isMortalWound = isWounded ? newValue <= (value / 2) : false;
-  const isSlain = newValue === 0;
+  const data = await showAttackDialog({ actor });
+  const damageSources = await getDamageSources(actor, data);
+  const roll = await evaluateFormula(getRollFormula(damageSources, data));
 
   const outcome = {
-    type: "take-damage",
-    title: getTitle({ isScar, isSlain, isEvaded, isWounded, isMortalWound }),
-    description: getDescription({ exposed, armor, virtue, guard, newGuard, value, newValue }),
-    formulaLabel: game.i18n.format("MB.MessageDamage", {
-      damage, 
-      armor
-    }),
-    formulaNumber: finalDamage,
-    button: getButton({ isScar })
+    type: "damage",
+    title: game.i18n.localize("MB.Damage"),
+    roll: roll,
+    description: (data.smite && data.smiteType === "blast") ? game.i18n.localize("MB.Blast") : "",
+    buttons: getButtons(actor, data)
   };
-
-  await actor.update({
-    "system.guard.value": newGuard,
-    [`system.virtues.${virtue}.value`]: newValue
-  });
 
   await showChatMessage({
     actor,
-    title: game.i18n.localize("MB.TakeDamage"),
+    title: game.i18n.localize("MB.Attack"),
+    description: getDescription(damageSources, data),
     outcomes: [outcome]
   });
 };
 
-const getTitle = ({ isScar, isSlain, isEvaded, isWounded, isMortalWound }) => {
-  switch (true) {
-    case isSlain:
-      return game.i18n.localize("MB.Slain");
-    case isMortalWound:
-      return game.i18n.localize("MB.MortalWounded");
-    case isWounded:
-      return game.i18n.localize("MB.Wounded");
-    case isEvaded:
-      return game.i18n.localize("MB.Evaded");
-    case isScar:
-      return game.i18n.localize("MB.Scar");
+const getDamageSources = async (actor, { weapons = [], steeds = [], impairedWeapons = [], impairedSteeds = [], bonusDice = "", overrideDamage = "", impaired = false, smite = false, smiteType = "damage" }) => {
+  let damageSources = [];
+  if (impaired) {
+    damageSources.push({
+      name: game.i18n.localize("MB.Impaired"),
+      impaired: false,
+      damage: "d4"
+    });
+  } else if (overrideDamage) {
+    damageSources.push({
+      name: game.i18n.localize("MB.Override"),
+      impaired: false,
+      damage: overrideDamage
+    });
+  } else {
+    const linkedActors = (await findlinkedActors(actor)).filter(actor => steeds.includes(actor.id));
+
+    damageSources = damageSources.concat(weapons.map(id => {
+      const item = actor.items.get(id);
+      return {
+        name: item.name,
+        impaired: impairedWeapons.includes(id),
+        damage: item.system.damage
+      };
+    }));
+
+    damageSources = damageSources.concat(linkedActors.map(actor => ({
+      name: actor.name,
+      impaired: impairedSteeds.includes(actor.id),
+      damage: actor.system.trample
+    })));
   }
+
+  if (bonusDice) {
+    damageSources.push({
+      name: game.i18n.localize("MB.BonusDice"),
+      impaired: false,
+      damage: bonusDice
+    });
+  }
+
+  if (smite && smiteType === "damage") {
+    damageSources.push({
+      name: game.i18n.localize("MB.Smite"),
+      impaired: false,
+      damage: "d12"
+    });
+  }
+
+  return damageSources;
 };
 
-const getDescription = ({ exposed, virtue, guard, newGuard, value, newValue }) => {
-  const description = [];
-
-  if (exposed) {
-    description.push(game.i18n.localize("MB.Exposed"));
-  }
-
-  if (guard !== newGuard) {
-    description.push(game.i18n.format("MB.MessageGuard", {
-      guard,
-      newGuard
-    }));
-  }
-
-  if (value !== newValue) {
-    description.push(game.i18n.format("MB.MessageVirtueDamage", {
-      virtue: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
-      value,
-      newValue
-    }));
-  }
-
-  return description;
+const getDescription = (damageSources) => {
+  return damageSources
+    .map(source => `${source.name} (${source.impaired ? `d4, ${game.i18n.localize("MB.Impaired")}` : source.damage})`);
 };
 
-const getButton = ({ isScar }) => {
-  if (isScar) {
-    return {
-      title: game.i18n.localize("MB.RollScar"),
-      data: {
-        "action": "roll-scar"
-      }
-    };
+
+const getRollFormula = (damageSources) => damageSources.map(source => source.impaired ? "d4" : source.damage).join(" + ");
+
+const getButtons = (actor, { smite = false }) => {
+  const buttons = [];
+
+  if (actor.type === config.actorTypes.knight) {
+    buttons.push({
+      title: game.i18n.localize("MB.Focus"),
+      data: { "action": "focus" }
+    });
   }
-  return;
+
+  if (smite) {
+    buttons.push({
+      title: game.i18n.localize("MB.Smite"),
+      data: { "action": "smite" }
+    });
+  }
+
+  return buttons;
 };

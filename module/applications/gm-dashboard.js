@@ -3,10 +3,6 @@ import { config } from "../config.js";
 import { drawSystemTable } from "../utils/compendium.js";
 
 class GMDashboard extends Application {
-  constructor() {
-    super();
-  }
-
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
@@ -86,15 +82,10 @@ class GMDashboard extends Application {
 
 
 let dashboard = null;
-/**
- * @returns {Promise.<{damage: Boolean, virtue: String}>}
- */
 export const showGMDashboard = () =>
-  new Promise((resolve) => {
+  new Promise(() => {
     if (!dashboard) {
-      dashboard = new GMDashboard({
-        callback: resolve
-      });
+      dashboard = new GMDashboard();
     }
     dashboard.render(true);
   });

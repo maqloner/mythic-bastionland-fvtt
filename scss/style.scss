@@ -117,12 +117,6 @@ input[type="checkbox"].input-checkbox {
   margin-left: 8px !important;
 }
 
-input {
-  &:disabled {
-    background: rgba(0, 0, 0, 0.1);
-    color: rgba(0, 0, 0, 0.2);
-}
-
 .text-bold {
   font-weight: 700;
 }
@@ -142,6 +136,10 @@ input {
 .bg-primary {
   background-color: var(--primary-color);
   color: var(--text-light-color);
+}
+
+.clear-bg {
+  background: none;
 }
 
 .button-primary {

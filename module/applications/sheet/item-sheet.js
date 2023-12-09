@@ -39,7 +39,7 @@ export class MBitemSheet extends ItemSheet {
    * @param {String} data 
    * @returns {String}
    */
-  getClosestData(event, data) {
+  getEventData(event, data) {
     return $(event.target).closest(`[data-${data}]`).data(data);
   }
 
@@ -72,7 +72,7 @@ export class MBitemSheet extends ItemSheet {
   activateListeners(html) {
     super.activateListeners(html);
     this.bindSelectorsEvent("click", {
-      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, null, ...this.getOnlineRollData(event))
+      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, null, this.getOnlineRollData(event))
     });
   }
 
@@ -82,12 +82,12 @@ export class MBitemSheet extends ItemSheet {
    * @param {MouseEvent} event
    */
   getOnlineRollData(event) {
-    return [
-      this.getClosestData(event, "formula"),
-      this.getClosestData(event, "flavor"),
-      this.getClosestData(event, "source"),
-      this.getClosestData(event, "fatigue")
-    ];
+    return {
+      formula: this.getEventData(event, "formula"),
+      flavor: this.getEventData(event, "flavor"),
+      source: this.getEventData(event, "source"),
+      applyFatigue: this.getEventData(event, "fatigue")
+    };
   }
 
   async _onSubmit(event, { updateData = null, preventClose = false } = {}) {
@@ -104,11 +104,6 @@ export class MBitemSheet extends ItemSheet {
     const quantityValue = this.element.find("[name='system.quantity.value']");
     if (quantityValue.length) {
       quantityValue.val(Math.max(quantityValue.val(), 0));
-    }
-
-    const quantityMax = this.element.find("[name='system.quantity.max']");
-    if (quantityMax.length) {
-      quantityMax.val(Math.max(quantityMax.val(), 1));
     }
 
     return super._onSubmit(event, { updateData, preventClose });

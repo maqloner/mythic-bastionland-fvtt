@@ -4,13 +4,19 @@ import { evaluateFormula } from "../utils/utils.js";
 import { actorSaveAction } from "./actor-save-action.js";
 
 /**
- * @param {Actor} actor
- * @returns {Promise.<void>}
+ * 
+ * @param {Actor} actor 
+ * @param {Object} data
+ * @param {String} data.formula 
+ * @param {String} [data.flavor]
+ * @param {String} [data.source]
+ * @param {Boolean} [data.applyFatigue=false]
+ * @returns 
  */
-export const actorInlineRollAction = async (actor, formula, flavor, source, applyFatigue) => {
+export const actorInlineRollAction = async (actor, { formula, flavor, source, applyFatigue = false }) => {
 
   if (["vigour", "clarity", "spirit"].includes(flavor)) {
-    return actorSaveAction(actor, flavor, applyFatigue);
+    return actorSaveAction(actor, { virtue: flavor, applyFatigue });
   }
 
   const roll = await evaluateFormula(formula);
@@ -18,19 +24,19 @@ export const actorInlineRollAction = async (actor, formula, flavor, source, appl
   const outcome = {
     type: flavor ?? "inline-roll",
     title: source ?? "",
-    formulaLabel: roll.formula,
+    formulaLabel: flavor === "damage" ? "" : roll.formula,
     roll: roll,
-    button: getButton(actor, flavor)
+    buttons: getButtons(actor, { flavor })
   };
 
   await showChatMessage({
     actor,
-    title: getTitle(flavor),
+    title: getTitle({ flavor }),
     outcomes: [outcome]
   });
 };
 
-const getTitle = (flavor) => {
+const getTitle = ({ flavor }) => {
   switch (true) {
     case flavor === "damage":
       return game.i18n.localize("MB.Damage");
@@ -39,14 +45,14 @@ const getTitle = (flavor) => {
   }
 };
 
-const getButton = (actor, flavor) => {
+const getButtons = (actor, { flavor }) => {
   switch (true) {
     case actor && actor.type === config.actorTypes.knight && flavor === "damage":
-      return {
+      return [{
         title: game.i18n.localize("MB.Focus"),
         data: {
           "action": "focus"
         }
-      };
+      }];
   }
 };

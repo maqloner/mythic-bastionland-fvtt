@@ -3,8 +3,7 @@ import { showTakeDamageDialog } from "../applications/dialog/take-damage-dialog.
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
- */
+  */
 export const actorTakeDamageAction = async (actor) => {
   const { damage, armor, virtue, exposed } = await showTakeDamageDialog({ actor });
 
@@ -26,11 +25,11 @@ export const actorTakeDamageAction = async (actor) => {
     title: getTitle({ isScar, isSlain, isEvaded, isWounded, isMortalWound }),
     description: getDescription({ exposed, armor, virtue, guard, newGuard, value, newValue }),
     formulaLabel: game.i18n.format("MB.MessageDamage", {
-      damage, 
+      damage,
       armor
     }),
     formulaNumber: finalDamage,
-    button: getButton({ isScar })
+    buttons: [getButton({ isScar })]
   };
 
   await actor.update({
@@ -45,7 +44,7 @@ export const actorTakeDamageAction = async (actor) => {
   });
 };
 
-const getTitle = ({ isScar, isSlain, isEvaded, isWounded, isMortalWound }) => {
+const getTitle = ({ isScar = false, isSlain = false, isEvaded = false, isWounded = false, isMortalWound = false }) => {
   switch (true) {
     case isSlain:
       return game.i18n.localize("MB.Slain");
@@ -60,7 +59,7 @@ const getTitle = ({ isScar, isSlain, isEvaded, isWounded, isMortalWound }) => {
   }
 };
 
-const getDescription = ({ exposed, virtue, guard, newGuard, value, newValue }) => {
+const getDescription = ({ virtue, guard, newGuard, value, newValue, exposed = false }) => {
   const description = [];
 
   if (exposed) {
@@ -85,7 +84,7 @@ const getDescription = ({ exposed, virtue, guard, newGuard, value, newValue }) =
   return description;
 };
 
-const getButton = ({ isScar }) => {
+const getButton = ({ isScar = false }) => {
   if (isScar) {
     return {
       title: game.i18n.localize("MB.RollScar"),

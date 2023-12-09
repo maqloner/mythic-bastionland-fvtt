@@ -3,10 +3,11 @@ import { evaluateFormula } from "../utils/utils.js";
 
 /**
  * @param {Actor} actor
- * @param {String} virtue
- * @returns {Promise.<void>}
+ * @param {Object} data
+ * @param {String} [data.virtue]
+ * @param {Boolean} [data.applyFatigue=false]
  */
-export const actorSaveAction = async (actor, virtue, applyFatigue = false) => {
+export const actorSaveAction = async (actor, { virtue, applyFatigue = false }) => {
   const roll = await evaluateFormula("d20");
   const success = roll.total <= actor.system.virtues[virtue].value;
 

@@ -1,3 +1,4 @@
+import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
 
 export const preCreateItem = (item) => item.updateSource(config.itemDefaults[item.type]);
@@ -20,5 +21,32 @@ export const updateActor = (actor) => {
     if (parentActor && parentActor.sheet.rendered) {
       parentActor.sheet.render(true);
     }
+  }
+};
+
+export const ready = async () => {
+  if (game.user.isGM) {
+    await showChatMessage({
+      title: "Mythic Bastionland",
+      description: "by Chris McDowall",
+      outcomes: [
+        {
+          title: "Bastionland",
+          description: "<a href='https://www.bastionland.com/'>Bastionland Blog</a>"
+        },
+        {
+          title: "Buy the Book",
+          description: "<a href='https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd'>Kickstarter</a>"
+        },
+        {
+          title: "Quickstart Rules",
+          description: "<a href='https://bit.ly/mbplaytest'>Quickstart Rules</a>"
+        },
+        {
+          title: "Foundry VTT",
+          description: "<a href='https://github.com/maqloner/mythic-bastionland/blob/main/how-to-use-this-system.md'>How to use this system</a>"
+        }
+      ]
+    });
   }
 };

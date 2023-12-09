@@ -2,7 +2,6 @@ import { showChatMessage } from "../chat-message/show-chat-message.js";
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
  */
 export const actorRestAction = async (actor) => {
   const originalValue = actor.system.guard.value;

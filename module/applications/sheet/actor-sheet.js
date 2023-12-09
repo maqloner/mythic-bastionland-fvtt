@@ -78,6 +78,9 @@ export class MBActorSheet extends ActorSheet {
     data.data.passions = data.data.items.filter((item) => item.type === config.itemTypes.passion);
     data.data.scars = data.data.items.filter((item) => item.type === config.itemTypes.scar);
     data.data.properties = data.data.items.filter((item) => ([config.itemTypes.weapon, config.itemTypes.coat, config.itemTypes.plate, config.itemTypes.helm, config.itemTypes.shield, config.itemTypes.misc].includes(item.type)));
+    data.data.totalArmor = data.data.items.reduce((totalArmor, item) => {
+      return totalArmor + (item.system.equipped ? (item.system.armor ?? 0) : 0);
+    }, 0);
 
     return data;
   }
@@ -107,27 +110,27 @@ export class MBActorSheet extends ActorSheet {
 
   /**
    * @param {MouseEvent} event
-   * @returns {PBItem}
-   */
-  getItem(event) {
-    return this.actor.items.get(this.getClosestData(event, "item-id"));
-  }
-
-  /**
-   * @param {MouseEvent} event
-   * @returns {PBItem}
-   */
-  getActor(event) {
-    return game.actors.get(this.getClosestData(event, "actor-id"));
-  }
-
-  /**
-   * @param {MouseEvent} event
    * @param {String} data 
    * @returns {String}
    */
-  getClosestData(event, data) {
+  getEventData(event, data) {
     return $(event.target).closest(`[data-${data}]`).data(data);
+  }
+
+  /**
+   * @param {MouseEvent} event
+   * @returns {Item}
+   */
+  getItem(event) {
+    return this.actor.items.get(this.getEventData(event, "item-id"));
+  }
+
+  /**
+   * @param {MouseEvent} event
+   * @returns {Item}
+   */
+  getActor(event) {
+    return game.actors.get(this.getEventData(event, "actor-id"));
   }
 
   /**
@@ -148,7 +151,7 @@ export class MBActorSheet extends ActorSheet {
       ".actor-delete": this._onActorDelete,
       ".item-qty-plus": this._onItemAddQuantity,
       ".item-qty-minus": this._onItemSubtractQuantity,
-      ".roll-save": event => this.invokeAction(event, actorSaveAction, this.actor, this.getClosestData(event, "virtue")),
+      ".roll-save": event => this.invokeAction(event, actorSaveAction, this.actor, { virtue: this.getEventData(event, "virtue") }),
       ".button-add-item": event => this.invokeAction(event, actorAddItemAction, this.actor),
       ".button-rest": event => this.invokeAction(event, actorRestAction, this.actor),
       ".button-roll-scars": event => this.invokeAction(event, actorRollScarsAction, this.actor),
@@ -156,7 +159,7 @@ export class MBActorSheet extends ActorSheet {
       ".button-take-damage": event => this.invokeAction(event, actorTakeDamageAction, this.actor),
       ".button-virtue-loss": event => this.invokeAction(event, attackVirtueLossAction, this.actor),
       ".button-attack": event => this.invokeAction(event, actorAttackAction, this.actor),
-      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, ...this.getOnlineRollData(this.actor, event))
+      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, this.getActor(event) ?? this.actor, this.getOnlineRollData(event))
     });
   }
 
@@ -165,14 +168,13 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  getOnlineRollData(actor, event) {
-    return [
-      game.actors.get(this.getClosestData(event, "actor-id")) ?? actor,
-      this.getClosestData(event, "formula"),
-      this.getClosestData(event, "flavor"),
-      this.getClosestData(event, "source"),
-      this.getClosestData(event, "fatigue")
-    ];
+  getOnlineRollData(event) {
+    return {
+      formula: this.getEventData(event, "formula"),
+      flavor: this.getEventData(event, "flavor"),
+      source: this.getEventData(event, "source"),
+      applyFatigue: this.getEventData(event, "fatigue")
+    };
   }
 
   /**
@@ -242,7 +244,7 @@ export class MBActorSheet extends ActorSheet {
   async _onItemAddQuantity(event) {
     event.preventDefault();
     const item = this.getItem(event);
-    await item.update({ "system.quantity.value": Math.min(item.system.quantity.value + 1, item.system.quantity.max) });
+    await item.update({ "system.quantity.value": item.system.quantity.max ? Math.min(item.system.quantity.value + 1, item.system.quantity.max) : item.system.quantity.value + 1 });
   }
 
   /**

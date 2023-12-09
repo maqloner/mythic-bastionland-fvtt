@@ -3,85 +3,121 @@
 
   <div class="grid">
     <div class="col gap-2">
-      <div>
-        <h class="text-large">Weapons</h2>
-        {{#if equippedItems.length }}
-          {{#each equippedItems as |item|}}
-            <div class="grid align-items-center">
-              <label class="col col-4 text-regular">{{item.name}} ({{item.system.damage}})</label>
-              <div class="col-2 align-items-center">
-                <input type="checkbox" name="weapon[]" value="{{item._id}}" checked>
-              </div>
-              <div class="col-6 align-items-center">
-                <div class="grid align-items-center">
-                  <label class="col col-4 text-regular">{{localize "MB.Impaired"}}</label>
-                  <div class="col-8 align-items-center">
-                    <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
+      {{#if (or equippedItems.length unequippedItems.length steeds.length)}}
+        <div class="col gap-1">
+
+          {{#if equippedItems.length }}
+            {{#each equippedItems as |item|}}
+              <div class="grid align-items-center">
+                <div class="col col-1 align-items-center">
+                  <input type="checkbox" name="weapon[]" value="{{item._id}}" checked>
+                </div>
+                <label class="col col-8 text-regular">
+                  {{item.name}}
+                  ({{item.system.damage}}{{#if item.system.hefty}},
+                    {{localize "MB.Item.Hefty"}}{{/if}}{{#if item.system.long}},
+                    {{localize "MB.Item.Long"}}{{/if}}{{#if item.system.slow}}, {{localize "MB.Item.Slow"}}{{/if}})
+                </label>
+                <div class="col col-3">
+                  <div class="grid align-items-center">
+                    <div class="col col-4 align-items-center">
+                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
+                    </div>
+                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
                   </div>
                 </div>
               </div>
-            </div>
-          {{/each}}
+            {{/each}}
+          {{/if}}
 
+          {{#if unequippedItems.length }}
+            {{#each unequippedItems as |item|}}
+              <div class="grid align-items-center">
+                <div class="col col-1 align-items-center">
+                  <input type="checkbox" name="weapon[]" value="{{item._id}}">
+                </div>
+                <label class="col col-8 text-regular">{{item.name}} ({{item.system.damage}})</label>
+                <div class="col col-3">
+                  <div class="grid align-items-center">
+                    <div class="col col-4 align-items-center">
+                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
+                    </div>
+                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
+                  </div>
+                </div>
+              </div>
+            {{/each}}
+          {{/if}}
+
+          {{#if steeds.length }}
+            {{#each steeds as |steed|}}
+              <div class="grid align-items-center">
+                <div class="col col-1 align-items-center">
+                  <input type="checkbox" name="steed[]" value="{{steed._id}}">
+                </div>
+                <label class="col col-8 text-regular">{{steed.name}} ({{steed.system.trample}})</label>
+                <div class="col col-3">
+                  <div class="grid align-items-center">
+                    <div class="col col-4 align-items-center">
+                      <input type="checkbox" name="steed_impaired[]" value="{{steed._id}}">
+                    </div>
+                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
+                  </div>
+                </div>
+              </div>
+            {{/each}}
+          {{/if}}
+
+        </div>
+      {{/if}}
+      <div class="col gap-1">
+        {{#if isKnight }}
+          <div class="grid align-items-center">
+            <div class="col col-1 align-items-center">
+              <input type="checkbox" name="smite">
+            </div>
+            <label class="col col-2 text-regular">{{localize "MB.Smite"}}</label>
+            <label class="col col-2 text-regular">
+              <div class="grid align-items-center">+d12 <input type="radio" name="smite_type" value="damage" checked></div>
+            </label>
+            <label class="col col-2 text-regular">
+              <div class="grid align-items-center">{{localize "MB.Blast"}} <input type="radio" name="smite_type" value="blast"></div>
+            </label>
+          </div>
         {{/if}}
 
-        {{#if unequippedItems.length }}
-          {{#each unequippedItems as |item|}}
-            <div class="grid align-items-center">
-              <label class="col col-4 text-regular">{{item.name}} ({{item.system.damage}})</label>
-              <div class="col-2 align-items-center">
-                <input type="checkbox" name="weapon[]" value="{{item._id}}">
-              </div>
-              <div class="col-6 align-items-center">
-                <div class="grid align-items-center">
-                  <label class="col col-4 text-regular">{{localize "MB.Impaired"}}</label>
-                  <div class="col-8 align-items-center">
-                    <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
-                  </div>
-                </div>
-              </div>
-            </div>
-          {{/each}}
-      </div>
-      <div>
-        <h2 class="text-large">Options</h2>
-
         <div class="grid align-items-center">
-          <label class="col col-4 text-regular">{{localize "MB.Smite"}}</label>
-          <div class="col-8 align-items-center">
-            <input type="checkbox" name="smite">
-          </div>
-        </div>
-
-        <div class="grid align-items-center">
-          <label class="col col-4 text-regular">{{localize "MB.Impaired"}}</label>
-          <div class="col-8 align-items-center">
+          <div class="col col-1 align-items-center">
             <input type="checkbox" name="impaired">
           </div>
+          <label class="col col-6 text-regular">{{localize "MB.Impaired"}}</label>
         </div>
+      </div>
+
+      <div class="col gap-1">
 
         <div class="grid align-items-center">
-          <label class="col col-4 text-regular">{{localize "MB.Additional Dice"}}</label>
-          <div class="col-8 align-items-center">
-            <input class="input-simple" placeholder="d4" type="number" name="additional_damage">
+          <label class="col col-4 text-regular">{{localize "MB.BonusDice"}}</label>
+          <div class="col col-4 align-items-center">
+            <input class="input-simple" placeholder="d4" type="text" name="bonus_dice">
           </div>
         </div>
 
         <div class="grid align-items-center">
           <label class="col col-4 text-regular">{{localize "MB.Override"}}</label>
-          <div class="col-8 align-items-center">
-            <input class="input-simple" placeholder="2d6" type="number" name="override_damage">
+          <div class="col col-4 align-items-center">
+            <input class="input-simple" placeholder="2d6" type="text" name="override_damage">
           </div>
         </div>
+
       </div>
     </div>
-    {{/if}}
   </div>
 
   <div class="grid gap-1">
     <button type="submit"
       class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
     <button type="submit"
-      class="col button align-items-center button-primary ok-button">{{localize "MB.Create"}}</button>
+      class="col button align-items-center button-primary ok-button">{{localize "MB.Attack"}}</button>
   </div>
 </form>

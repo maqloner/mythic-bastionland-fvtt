@@ -6,7 +6,7 @@ export const processAll = async () => {
   await processActors();
 };
 
-export const processItems = async () =>  process(compendiumData.items, "Item", createItem);
+export const processItems = async () => process(compendiumData.items, "Item", createItem);
 
 export const processRollTables = async () => process(compendiumData.tables, "RollTable", createRollTable);
 
@@ -29,7 +29,7 @@ const process = async (data, type, creator, folderId = null) => {
 
 const createItem = async ({ type, name, ...system }, folder = null) => Item.create({ type, name, system: createItemSystem(system), folder: folder });
 
-const createItemSystem = ({ quantity, ...system }) => ({ ...system, ...quantity && { value: quantity, max: quantity } });
+const createItemSystem = ({ quantity, ...system }) => ({ ...system, ...quantity && { value: quantity } });
 
 const createActor = async ({ type, name, items, ...system }, folder = null) => Actor.create({ type, name, items: createActorItems(items ?? []), system: createActorSystem(system), folder: folder });
 
@@ -50,3 +50,4 @@ const createActorSystem = ({ vigour, clarity, spirit, guard, ...system }) => ({
 const createRollTable = async ({ name, formula, results }, folder = null) => RollTable.create({ name, formula, results: createRollTableResult(results), folder: folder });
 
 const createRollTableResult = results => results.map(([min, max, text]) => ({ text, range: [min, max] }));
+

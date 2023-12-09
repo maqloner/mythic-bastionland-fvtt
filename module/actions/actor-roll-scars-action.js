@@ -5,7 +5,6 @@ import { evaluateFormula } from "../utils/utils.js";
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
  */
 export const actorRollScarsAction = async (actor) => {
   const { die } = await showRollScarDialog(actor);

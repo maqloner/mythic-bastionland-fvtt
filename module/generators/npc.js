@@ -56,7 +56,7 @@ const generatePerson = async (generatorConfig) => {
 
 const generateSoldier = async (generatorConfig) => {
   const npcData = await generateBaseNPC(generatorConfig);
-  npcData.name = `${npcData.name} ${await generateSoldierType()}`;
+  npcData.name = await generateSoldierType();
   npcData.items = [
     ...await findRandomCoreTools(generatorConfig.tools),
     ...await findRandomCoreWeapons(generatorConfig.weapons),

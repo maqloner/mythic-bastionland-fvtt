@@ -22,9 +22,9 @@ export class MBChatMessage extends ChatMessage {
   async onInlineRollClick(event) {
     event.preventDefault();
     event.stopPropagation();
-    const getClosestData = (event, data) => $(event.target).closest(`[data-${data}]`).data(data);
+
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    actorInlineRollAction(actor, getClosestData(event, "formula"), getClosestData(event, "flavor"), getClosestData(event, "source"));
+    await actorInlineRollAction(actor, this.getOnlineRollData(event));
   }
 
   async onButtonClick(event) {
@@ -36,13 +36,33 @@ export class MBChatMessage extends ChatMessage {
     await this.handleButtons(actor, event.currentTarget);
   }
 
+  getEventData(event, data) {
+    return $(event.target).closest(`[data-${data}]`).data(data);
+  }
+
+  /**
+ * @private
+ *
+ * @param {MouseEvent} event
+ */
+  getOnlineRollData(event) {
+    return {
+      formula: this.getEventData(event, "formula"),
+      flavor: this.getEventData(event, "flavor"),
+      source: this.getEventData(event, "source"),
+      applyFatigue: this.getEventData(event, "fatigue")
+    };
+  }
+
   async handleButtons(actor, button) {
     const action = $(button).data("action");
     switch (true) {
       case action === "roll-scar":
         return actorRollScarsAction(actor);
       case action === "focus":
-        return actorSaveAction(actor, "clarity", true);
+        return actorSaveAction(actor, { virtue: "clarity", applyFatigue: true });
+      case action === "smite":
+        return actorSaveAction(actor, { virtue: "vigour", applyFatigue: true });
     }
   }
 }

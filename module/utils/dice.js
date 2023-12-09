@@ -5,7 +5,6 @@
  */
 export const showDice = async (roll) => {
   if (game.dice3d) {
-    // we pass synchronize=true so DSN dice appear on all players' screens
     await game.dice3d.showForRoll(roll, game.user, true, null, false);
   }
 };
@@ -45,8 +44,12 @@ export const showDiceWithSound = async (rolls) => {
 export const waitForMessageRoll = (targetMessageId) => {
   const createHook = (resolve) => {
     Hooks.once("diceSoNiceRollComplete", (messageId) => {
-      if (targetMessageId === messageId) resolve(true);
-      else createHook(resolve);
+      if (targetMessageId === messageId) {
+        resolve(true);
+      }
+      else {
+        createHook(resolve);
+      }
     });
   };
   return new Promise((resolve) => {

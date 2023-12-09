@@ -50,6 +50,7 @@
 }
 .mythic-bastionland {
   --color-shadow-primary: var(--hightlight-dark-color);
+  --color-text-hyperlink: var(--hightlight-dark-color);
 }
 .mythic-bastionland .grid {
   box-sizing: border-box;
@@ -367,6 +368,8 @@
 }
 .mythic-bastionland.chat-message .message-content .outcome .outcome-rolls {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 8px;
 }
 .mythic-bastionland.chat-message .message-content .outcome .outcome-roll {
@@ -422,7 +425,7 @@
   flex-direction: column;
 }
 .mythic-bastionland.app .window-content form input[type=radio] {
-  margin: 8px;
+  margin: 5px;
   top: auto;
 }
 .mythic-bastionland.app .window-content form input[type=checkbox] {
@@ -613,10 +616,6 @@
   margin-top: 6px !important;
   margin-left: 8px !important;
 }
-.mythic-bastionland input:disabled {
-  background: rgba(0, 0, 0, 0.1);
-  color: rgba(0, 0, 0, 0.2);
-}
 .mythic-bastionland .text-bold {
   font-weight: 700;
 }
@@ -632,6 +631,9 @@
 .mythic-bastionland .bg-primary {
   background-color: var(--primary-color);
   color: var(--text-light-color);
+}
+.mythic-bastionland .clear-bg {
+  background: none;
 }
 .mythic-bastionland .button-primary {
   background: var(--secondary-color);
@@ -672,16 +674,17 @@
   max-height: 400px;
 }
 .mythic-bastionland.sheet .editor-container {
-  height: 200px;
+  min-height: 200px;
 }
 .mythic-bastionland.sheet .editor-container .editor {
-  height: 100%;
+  min-height: 200px;
   width: 100%;
 }
 .mythic-bastionland.sheet .editor-container .editor .editor-content {
   background-color: rgba(0, 0, 0, 0.05);
   border-radius: 8px;
   padding: 8px;
+  min-height: 200px;
 }
 .mythic-bastionland.sheet .picture {
   width: 140px;

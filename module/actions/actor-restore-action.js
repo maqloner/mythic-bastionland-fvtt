@@ -3,7 +3,6 @@ import { showRestoreDialog } from "../applications/dialog/restore-dialog.js";
 
 /**
  * @param {Actor} actor
- * @returns {Promise.<void>}
  */
 export const actorRestoreAction = async (actor) => {
   const virtues = await showRestoreDialog(actor);

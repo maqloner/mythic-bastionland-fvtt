@@ -24,30 +24,6 @@
       </div>
     </div>
 
-    <div class="col gap-1">
-      <div class="grid align-items-center">
-        <label class="col col-4 text-regular">{{localize "MB.Disposition"}}</label>
-        <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="disposition_friendly" name="disposition" value="friendly" {{printIf (eq config.disposition "friendly") "checked"}}>
-            <label for="disposition_friendly">{{localize "MB.Friendly"}}</label>
-          </div>
-        </div>
-        <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="disposition_neutral" name="disposition" value="neutral" {{printIf (eq config.disposition "neutral") "checked"}}>
-            <label for="disposition_neutral">{{localize "MB.Neutral"}}</label>
-          </div>
-        </div>
-        <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="disposition_hostile" name="disposition" value="hostile" {{printIf (eq config.disposition "hostile") "checked"}}>
-            <label for="disposition_hostile">{{localize "MB.Hostile"}}</label>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <div class="grid align-items-center">
       <label class="col col-4 text-regular">{{localize "MB.Actor.Virtues.Label"}}</label>
       <div class="col-2 align-items-center">

@@ -24,18 +24,6 @@ export const configureHandlebar = () => {
     return Array.isArray(v1);
   });
 
-  Handlebars.registerHelper("wysiwig", function (options) {
-    const content = options.hash.content;
-    delete options.hash.content;
-
-    const documents = options.hash.documents !== false;
-    const owner = Boolean(options.hash.owner);
-    const rollData = options.hash.rollData;
-
-    const enrichedContent = TextEditor.enrichHTML(content, { secrets: owner, documents, rollData, async: false });
-    return HandlebarsHelpers.editor(enrichedContent, options);
-  });
-
   loadTemplates({
     "item-list": `${config.systemPath}/templates/applications/sheet/actor/common/item-list.hbs`,
     "actor-list": `${config.systemPath}/templates/applications/sheet/actor/common/actor-list.hbs`,

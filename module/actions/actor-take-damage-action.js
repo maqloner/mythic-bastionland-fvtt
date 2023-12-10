@@ -60,28 +60,15 @@ const getTitle = ({ isScar = false, isSlain = false, isEvaded = false, isWounded
 };
 
 const getDescription = ({ virtue, guard, newGuard, value, newValue, exposed = false }) => {
-  const description = [];
+  const exposedDescription = exposed ? [game.i18n.localize("MB.Exposed")] : [];
+  const guardDescription = guard !== newGuard ? [game.i18n.format("MB.MessageGuard", { guard, newGuard })] : [];
+  const virtueDescription = value !== newValue ? [game.i18n.format("MB.MessageVirtueDamage", {
+    virtue: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
+    value,
+    newValue
+  })] : [];
 
-  if (exposed) {
-    description.push(game.i18n.localize("MB.Exposed"));
-  }
-
-  if (guard !== newGuard) {
-    description.push(game.i18n.format("MB.MessageGuard", {
-      guard,
-      newGuard
-    }));
-  }
-
-  if (value !== newValue) {
-    description.push(game.i18n.format("MB.MessageVirtueDamage", {
-      virtue: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
-      value,
-      newValue
-    }));
-  }
-
-  return description;
+  return [...exposedDescription, ...guardDescription, virtueDescription];
 };
 
 const getButton = ({ isScar = false }) => {
@@ -93,5 +80,4 @@ const getButton = ({ isScar = false }) => {
       }
     }];
   }
-  return;
 };

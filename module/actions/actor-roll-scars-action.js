@@ -1,6 +1,6 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { showRollScarDialog } from "../applications/dialog/roll-scar-dialog.js";
-import { drawScar, findTableItems } from "../utils/compendium.js";
+import { drawScar, findPackTableDocuments } from "../utils/compendium.js";
 import { evaluateFormula } from "../utils/utils.js";
 
 /**
@@ -9,7 +9,7 @@ import { evaluateFormula } from "../utils/utils.js";
 export const actorRollScarsAction = async (actor) => {
   const { die } = await showRollScarDialog(actor);
   const draw = await drawScar({ roll: await evaluateFormula(die) });
-  const item = (await findTableItems(draw.results))[0];
+  const item = (await findPackTableDocuments(draw.results))[0];
 
   await actor.createEmbeddedDocuments("Item", [item]);
 

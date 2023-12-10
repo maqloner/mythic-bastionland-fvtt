@@ -28,14 +28,12 @@ export class MBActorSheet extends ActorSheet {
 
   /** @override */
   get title() {
-    const title = super.title;
-    return `${title} - ${game.i18n.localize(`TYPES.Actor.${this.actor.type}`)}`;
+    return `${super.title} - ${game.i18n.localize(`TYPES.Actor.${this.actor.type}`)}`;
   }
 
   /** @override */
   get template() {
-    const path = `${config.systemPath}/templates/applications/sheet/actor/`;
-    return `${path}/${this.actor.type}-sheet.hbs`;
+    return `${config.systemPath}/templates/applications/sheet/actor/${this.actor.type}-sheet.hbs`;
   }
 
   /** @override */
@@ -46,7 +44,7 @@ export class MBActorSheet extends ActorSheet {
         class: `regenerate-button-${this.actor.id}`,
         label: game.i18n.localize("MB.Regenerate"),
         icon: "fas fa-dice-d20",
-        onclick: event => this.invokeAction(event, actorRegenerateAction, this.actor)
+        onclick: event => this.#invokeAction(event, actorRegenerateAction, this.actor)
       });
     }
     return [...additionalButton, ...super._getHeaderButtons()];
@@ -56,16 +54,15 @@ export class MBActorSheet extends ActorSheet {
   async getData(options) {
     let data = super.getData(options);
     data.config = config;
-
-    data = await this.prepareActors(data);
-    data = await this.prepareItems(data);
+    data = await this.#prepareActors(data);
+    data = await this.#prepareItems(data);
+    data.data.system.biography = await TextEditor.enrichHTML(data.data.system.biography, { secret: data.editable });
 
     console.log(data);
-
     return data;
   }
 
-  async prepareItems(data) {
+  async #prepareItems(data) {
     const itemTypeOrders = { weapon: 1, shield: 2, plate: 3, coat: 4, helm: 5, misc: 6, passion: 7, ability: 7, scar: 7 };
     data.data.items = data.data.items.sort((a, b) => itemTypeOrders[a.type] - itemTypeOrders[b.type] || a.name.localeCompare(b.name));
 
@@ -85,7 +82,7 @@ export class MBActorSheet extends ActorSheet {
     return data;
   }
 
-  async prepareActors(data) {
+  async #prepareActors(data) {
     const actors = [];
     for (const uuid of data.data.system.actors ?? []) {
       const actor = await fromUuid(uuid);
@@ -102,7 +99,7 @@ export class MBActorSheet extends ActorSheet {
    * @param {String} event
    * @param {Object} listeners
    */
-  bindSelectorsEvent(event, listeners) {
+  #bindSelectorsEvent(event, listeners) {
     for (const [selector, callback] of Object.entries(listeners)) {
       this.element.find(selector).on(event, callback.bind(this));
     }
@@ -113,7 +110,7 @@ export class MBActorSheet extends ActorSheet {
    * @param {String} data 
    * @returns {String}
    */
-  getEventData(event, data) {
+  #getEventData(event, data) {
     return $(event.target).closest(`[data-${data}]`).data(data);
   }
 
@@ -121,16 +118,16 @@ export class MBActorSheet extends ActorSheet {
    * @param {MouseEvent} event
    * @returns {Item}
    */
-  getItem(event) {
-    return this.actor.items.get(this.getEventData(event, "item-id"));
+  #getItem(event) {
+    return this.actor.items.get(this.#getEventData(event, "item-id"));
   }
 
   /**
    * @param {MouseEvent} event
    * @returns {Item}
    */
-  getActor(event) {
-    return game.actors.get(this.getEventData(event, "actor-id"));
+  #getActor(event) {
+    return game.actors.get(this.#getEventData(event, "actor-id"));
   }
 
   /**
@@ -143,23 +140,23 @@ export class MBActorSheet extends ActorSheet {
 
     if (!this.options.editable) return;
 
-    this.bindSelectorsEvent("click", {
-      ".item-toggle-equipped": this._onToggleEquipped,
-      ".item-edit": this._onItemEdit,
-      ".item-delete": this._onItemDelete,
-      ".actor-edit": this._onActorEdit,
-      ".actor-delete": this._onActorDelete,
-      ".item-qty-plus": this._onItemAddQuantity,
-      ".item-qty-minus": this._onItemSubtractQuantity,
-      ".roll-save": event => this.invokeAction(event, actorSaveAction, this.actor, { virtue: this.getEventData(event, "virtue") }),
-      ".button-add-item": event => this.invokeAction(event, actorAddItemAction, this.actor),
-      ".button-rest": event => this.invokeAction(event, actorRestAction, this.actor),
-      ".button-roll-scars": event => this.invokeAction(event, actorRollScarsAction, this.actor),
-      ".button-restore": event => this.invokeAction(event, actorRestoreAction, this.actor),
-      ".button-take-damage": event => this.invokeAction(event, actorTakeDamageAction, this.actor),
-      ".button-virtue-loss": event => this.invokeAction(event, attackVirtueLossAction, this.actor),
-      ".button-attack": event => this.invokeAction(event, actorAttackAction, this.actor),
-      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, this.getActor(event) ?? this.actor, this.getOnlineRollData(event))
+    this.#bindSelectorsEvent("click", {
+      ".item-toggle-equipped": this.#onToggleEquipped,
+      ".item-edit": this.#onItemEdit,
+      ".item-delete": this.#onItemDelete,
+      ".actor-edit": this.#onActorEdit,
+      ".actor-delete": this.#onActorDelete,
+      ".item-qty-plus": this.#onItemAddQuantity,
+      ".item-qty-minus": this.#onItemSubtractQuantity,
+      ".roll-save": event => this.#invokeAction(event, actorSaveAction, this.actor, { virtue: this.#getEventData(event, "virtue") }),
+      ".button-add-item": event => this.#invokeAction(event, actorAddItemAction, this.actor),
+      ".button-rest": event => this.#invokeAction(event, actorRestAction, this.actor),
+      ".button-roll-scars": event => this.#invokeAction(event, actorRollScarsAction, this.actor),
+      ".button-restore": event => this.#invokeAction(event, actorRestoreAction, this.actor),
+      ".button-take-damage": event => this.#invokeAction(event, actorTakeDamageAction, this.actor),
+      ".button-virtue-loss": event => this.#invokeAction(event, attackVirtueLossAction, this.actor),
+      ".button-attack": event => this.#invokeAction(event, actorAttackAction, this.actor),
+      ".inline-roll": event => this.#invokeAction(event, actorInlineRollAction, this.#getActor(event) ?? this.actor, this.#getOnlineRollData(event))
     });
   }
 
@@ -168,12 +165,12 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  getOnlineRollData(event) {
+  #getOnlineRollData(event) {
     return {
-      formula: this.getEventData(event, "formula"),
-      flavor: this.getEventData(event, "flavor"),
-      source: this.getEventData(event, "source"),
-      applyFatigue: this.getEventData(event, "fatigue")
+      formula: this.#getEventData(event, "formula"),
+      flavor: this.#getEventData(event, "flavor"),
+      source: this.#getEventData(event, "source"),
+      applyFatigue: this.#getEventData(event, "fatigue")
     };
   }
 
@@ -182,7 +179,7 @@ export class MBActorSheet extends ActorSheet {
    * @param {Function} action 
    * @param  {...any} args 
    */
-  async invokeAction(event, action, ...args) {
+  async #invokeAction(event, action, ...args) {
     event.preventDefault();
     event.stopPropagation();
     await action(...args);
@@ -193,9 +190,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onItemEdit(event) {
+  async #onItemEdit(event) {
     event.preventDefault();
-    const item = this.getItem(event);
+    const item = this.#getItem(event);
     if (item) {
       item.sheet.render(true);
     }
@@ -206,9 +203,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onActorEdit(event) {
+  async #onActorEdit(event) {
     event.preventDefault();
-    const actor = this.getActor(event);
+    const actor = this.#getActor(event);
     if (actor) {
       actor.sheet.render(true);
     }
@@ -219,9 +216,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onItemDelete(event) {
+  async #onItemDelete(event) {
     event.preventDefault();
-    const item = this.getItem(event);
+    const item = this.#getItem(event);
     await this.actor.deleteEmbeddedDocuments("Item", [item.id]);
   }
 
@@ -230,9 +227,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onActorDelete(event) {
+  async #onActorDelete(event) {
     event.preventDefault();
-    const actor = this.getActor(event);
+    const actor = this.#getActor(event);
     this.actor.update({ "system.actors": this.actor.system.actors.filter((a) => a !== actor.uuid) });
   }
 
@@ -241,9 +238,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onItemAddQuantity(event) {
+  async #onItemAddQuantity(event) {
     event.preventDefault();
-    const item = this.getItem(event);
+    const item = this.#getItem(event);
     await item.update({ "system.quantity.value": item.system.quantity.max ? Math.min(item.system.quantity.value + 1, item.system.quantity.max) : item.system.quantity.value + 1 });
   }
 
@@ -252,9 +249,9 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onItemSubtractQuantity(event) {
+  async #onItemSubtractQuantity(event) {
     event.preventDefault();
-    const item = this.getItem(event);
+    const item = this.#getItem(event);
     await item.update({ "system.quantity.value": Math.max(item.system.quantity.value - 1, 0) });
   }
 
@@ -263,12 +260,13 @@ export class MBActorSheet extends ActorSheet {
    *
    * @param {MouseEvent} event
    */
-  async _onToggleEquipped(event) {
-    const item = this.getItem(event);
+  async #onToggleEquipped(event) {
+    const item = this.#getItem(event);
     await item.update({ "system.equipped": !item.system.equipped });
   }
 
   /**
+   * @override
    * @param {Event} event 
    * @param {{updateData: Object, preventClose: Boolean}}
    * @returns 
@@ -293,13 +291,14 @@ export class MBActorSheet extends ActorSheet {
   }
 
   /**
+   * @override
    * @param {DragEvent} event
    * @param {ActorSheet.DropData.Actor} actorData
    * @private
    */
   async _onDropActor(event, actorData) {
     const actor = await fromUuid(actorData.uuid);
-    if ([config.actorTypes.steed, config.actorTypes.npc, config.actorTypes.squire].includes(actor.type)) {
+    if ([config.actorTypes.steed, config.actorTypes.npc, config.actorTypes.squire, config.actorTypes.creature].includes(actor.type)) {
       this.actor.update({ "system.actors": [...new Set([...this.actor.system.actors, actorData.uuid])] });
     }
   }

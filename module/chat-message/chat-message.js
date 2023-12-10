@@ -13,30 +13,30 @@ export class MBChatMessage extends ChatMessage {
       if (this.flags.cssClasses) {
         html.addClass(this.flags.cssClasses);
       }
-      html.on("click", ".inline-roll", this.onInlineRollClick.bind(this));
-      html.on("click", "button.chat-message-button", this.onButtonClick.bind(this));
+      html.on("click", ".inline-roll", (event) => this.#onInlineRollClick(event));
+      html.on("click", "button.chat-message-button", (event) => this.#onButtonClick(event));
     }
     return html;
   }
 
-  async onInlineRollClick(event) {
+  async #onInlineRollClick(event) {
     event.preventDefault();
     event.stopPropagation();
 
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    await actorInlineRollAction(actor, this.getOnlineRollData(event));
+    await actorInlineRollAction(actor, this.#getOnlineRollData(event));
   }
 
-  async onButtonClick(event) {
+  async #onButtonClick(event) {
     event.preventDefault();
     const actor = ChatMessage.getSpeakerActor(this.speaker);
     if (!actor) {
       return;
     }
-    await this.handleButtons(actor, event.currentTarget);
+    await this.#handleButtons(actor, event.currentTarget);
   }
 
-  getEventData(event, data) {
+  #getEventData(event, data) {
     return $(event.target).closest(`[data-${data}]`).data(data);
   }
 
@@ -45,16 +45,16 @@ export class MBChatMessage extends ChatMessage {
  *
  * @param {MouseEvent} event
  */
-  getOnlineRollData(event) {
+  #getOnlineRollData(event) {
     return {
-      formula: this.getEventData(event, "formula"),
-      flavor: this.getEventData(event, "flavor"),
-      source: this.getEventData(event, "source"),
-      applyFatigue: this.getEventData(event, "fatigue")
+      formula: this.#getEventData(event, "formula"),
+      flavor: this.#getEventData(event, "flavor"),
+      source: this.#getEventData(event, "source"),
+      applyFatigue: this.#getEventData(event, "fatigue")
     };
   }
 
-  async handleButtons(actor, button) {
+  async #handleButtons(actor, button) {
     const action = $(button).data("action");
     switch (true) {
       case action === "roll-scar":

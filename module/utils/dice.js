@@ -1,5 +1,4 @@
 /**
- * Show roll in Dice So Nice if it's available.
  * @param {Roll} roll
  * @return {Promise<void>}
  */
@@ -10,7 +9,6 @@ export const showDice = async (roll) => {
 };
 
 /**
- * Dice sound to use for ChatMessage. False if Dice So Nice is available.
  * @return {string|null}
  */
 export const diceSound = () => {
@@ -20,9 +18,6 @@ export const diceSound = () => {
   return CONFIG.sounds.dice;
 };
 
-/**
- * Play a die sound if Dice so Nice is not available
- */
 export const playDiceSound = () => {
   if (!game.dice3d) {
     AudioHelper.play({ src: CONFIG.sounds.dice, volume: 0.8, autoplay: true, loop: false }, true);

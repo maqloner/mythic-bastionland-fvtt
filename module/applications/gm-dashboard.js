@@ -33,11 +33,11 @@ class GMDashboard extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    html.find(".roll-table").on("click", this._onRollTable.bind(this));
-    html.find(".roll-table-multi").on("click", this._onRollTableMulti.bind(this));
+    html.find(".roll-table").on("click", (event) => this.#onRollTable(event));
+    html.find(".roll-table-multi").on("click", (event) => this.#onRollTableMulti(event));
   }
 
-  async _onRollTable(event) {
+  async #onRollTable(event) {
     event.preventDefault();
     const tableName = $(event.target).closest("button").data("table");
     const draw = (await drawSystemTable(tableName));
@@ -55,7 +55,7 @@ class GMDashboard extends Application {
     });
   }
 
-  async _onRollTableMulti(event) {
+  async #onRollTableMulti(event) {
     event.preventDefault();
     const label = $(event.target).closest("button").data("label");
     const tableNames = $(event.target).closest("button").data("tables").split(";");

@@ -28,7 +28,7 @@
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Item.Description"}}</h2>
       <div class="col col-12 editor-container">
-        {{wysiwig content=data.system.description target="system.description" button=true owner=owner editable=true}}
+        {{editor data.system.description target="system.description" button=editable editable=editable}}
       </div>
     </div>
 

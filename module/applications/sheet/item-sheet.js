@@ -17,20 +17,18 @@ export class MBitemSheet extends ItemSheet {
 
   /** @override */
   get title() {
-    const title = super.title;
-    return `${title} - ${game.i18n.localize(`TYPES.Item.${this.item.type}`)}`;
+    return `${super.title} - ${game.i18n.localize(`TYPES.Item.${this.item.type}`)}`;
   }
 
   /** @override */
   get template() {
-    const path = `${config.systemPath}/templates/applications/sheet/item/`;
-    return `${path}/${this.item.type}-sheet.hbs`;
+    return `${config.systemPath}/templates/applications/sheet/item/${this.item.type}-sheet.hbs`;
   }
 
   /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.config = config;
+    data.data.system.description = await TextEditor.enrichHTML(data.data.system.description, { secret: data.editable });
     return data;
   }
 
@@ -39,7 +37,7 @@ export class MBitemSheet extends ItemSheet {
    * @param {String} data 
    * @returns {String}
    */
-  getEventData(event, data) {
+  #getEventData(event, data) {
     return $(event.target).closest(`[data-${data}]`).data(data);
   }
 
@@ -47,7 +45,7 @@ export class MBitemSheet extends ItemSheet {
    * @param {String} event
    * @param {Object} listeners
    */
-  bindSelectorsEvent(event, listeners) {
+  #bindSelectorsEvent(event, listeners) {
     for (const [selector, callback] of Object.entries(listeners)) {
       this.element.find(selector).on(event, callback.bind(this));
     }
@@ -58,7 +56,7 @@ export class MBitemSheet extends ItemSheet {
    * @param {Function} action 
    * @param  {...any} args 
    */
-  async invokeAction(event, action, ...args) {
+  async #invokeAction(event, action, ...args) {
     event.preventDefault();
     event.stopPropagation();
     await action(...args);
@@ -71,8 +69,8 @@ export class MBitemSheet extends ItemSheet {
    */
   activateListeners(html) {
     super.activateListeners(html);
-    this.bindSelectorsEvent("click", {
-      ".inline-roll": event => this.invokeAction(event, actorInlineRollAction, null, this.getOnlineRollData(event))
+    this.#bindSelectorsEvent("click", {
+      ".inline-roll": event => this.#invokeAction(event, actorInlineRollAction, null, this.#getOnlineRollData(event))
     });
   }
 
@@ -81,12 +79,12 @@ export class MBitemSheet extends ItemSheet {
    *
    * @param {MouseEvent} event
    */
-  getOnlineRollData(event) {
+  #getOnlineRollData(event) {
     return {
-      formula: this.getEventData(event, "formula"),
-      flavor: this.getEventData(event, "flavor"),
-      source: this.getEventData(event, "source"),
-      applyFatigue: this.getEventData(event, "fatigue")
+      formula: this.#getEventData(event, "formula"),
+      flavor: this.#getEventData(event, "flavor"),
+      source: this.#getEventData(event, "source"),
+      applyFatigue: this.#getEventData(event, "fatigue")
     };
   }
 

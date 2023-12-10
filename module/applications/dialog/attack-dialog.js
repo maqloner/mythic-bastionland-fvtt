@@ -22,7 +22,6 @@ class AttackDialog extends Application {
   /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.config = config;
     data.equippedItems = this.actor.items.filter((item) => item.system.equipped && item.system.damage);
     data.unequippedItems = this.actor.items.filter((item) => !item.system.equipped && item.system.damage);
     data.steeds = (await findlinkedActors(this.actor)).filter((actor) => actor.system.trample);
@@ -33,16 +32,16 @@ class AttackDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    html.find(".cancel-button").on("click", this._onCancel.bind(this));
-    html.find(".ok-button").on("click", this._onSubmit.bind(this));
+    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
+    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
   }
 
-  async _onCancel(event) {
+  async #onCancel(event) {
     event.preventDefault();
     await this.close();
   }
 
-  async _onSubmit(event) {
+  async #onSubmit(event) {
     event.preventDefault();
 
     $(this.element).find("input[type='text']").each((index, input) => {

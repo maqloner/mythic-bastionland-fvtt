@@ -25,7 +25,7 @@ export const attackVirtueLossAction = async (actor) => {
   await actor.update({
     [`system.virtues.${virtue}.value`]: newValue
   });
-  
+
   await showChatMessage({
     actor,
     title: game.i18n.localize("MB.VirtueLoss"),
@@ -45,27 +45,16 @@ const getTitle = ({ isExhausted = false, isExposed = false, isImpaired = false }
 };
 
 const getDescription = ({ virtue, value, newValue, isExhausted = false, isExposed = false, isImpaired = false }) => {
-  const description = [];
-  
-  if (value !== newValue) {
-    description.push(game.i18n.format("MB.MessageVirtueDamage", {
+  const damage = value !== newValue ? [
+    game.i18n.format("MB.MessageVirtueDamage", {
       virtue: game.i18n.localize(`MB.Actor.Virtues.${virtue}`),
       value,
       newValue
-    }));
-  }
+    })] : [];
 
-  switch (true) {
-    case isExhausted:
-      description.push(game.i18n.localize("MB.ExhaustedMessage"));
-      break;
-    case isExposed:
-      description.push(game.i18n.localize("MB.ExposedMessage"));
-      break;
-    case isImpaired:
-      description.push(game.i18n.localize("MB.ImpairedMessage"));
-      break;
-  }
+  const exhausted = isExhausted ? [game.i18n.localize("MB.ExhaustedMessage")] : [];
+  const exposed = isExposed ? [game.i18n.localize("MB.ExposedMessage")] : [];
+  const impaired = isImpaired ? [game.i18n.localize("MB.ImpairedMessage")] : [];
 
-  return description;
+  return [...damage, ...exhausted, ...exposed, ...impaired];
 };

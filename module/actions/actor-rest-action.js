@@ -6,27 +6,24 @@ import { showChatMessage } from "../chat-message/show-chat-message.js";
 export const actorRestAction = async (actor) => {
   const originalValue = actor.system.guard.value;
   const maxValue = actor.system.guard.max;
-  const outcomes = [];
 
-  if (originalValue !== maxValue) {
-    outcomes.push({
-      type: "rest",
-      title: game.i18n.localize("MB.Actor.Guard"),
-      description: game.i18n.format("MB.VirtueRestored", {
-        virtue: game.i18n.localize("MB.Actor.Guard"),
-        value: originalValue,
-        max: maxValue
-      })
-    });
-  }
+  const virtueOutcome = originalValue !== maxValue ? [{
+    type: "rest",
+    title: game.i18n.localize("MB.Actor.Guard"),
+    description: game.i18n.format("MB.VirtueRestored", {
+      virtue: game.i18n.localize("MB.Actor.Guard"),
+      value: originalValue,
+      max: maxValue
+    })
+  }] : [];
 
-  if (actor.system.fatigue) {
-    outcomes.push({
-      type: "fatigue",
-      title: game.i18n.localize("MB.Actor.Fatigue"),
-      description: game.i18n.localize("MB.FatigueRemoved")
-    });
-  }
+  const fatigueOutcome = actor.system.fatigue ? [{
+    type: "fatigue",
+    title: game.i18n.localize("MB.Actor.Fatigue"),
+    description: game.i18n.localize("MB.FatigueRemoved")
+  }] : [];
+
+  const outcomes = [...virtueOutcome, ...fatigueOutcome];
 
   if (outcomes.length) {
     await actor.update({

@@ -1,61 +1,61 @@
 import { config } from "../config.js";
 
 /**
- * @param {String} compendiumName
+ * @param {String} packName
  * @param {String} itemName
  * @returns {Promise.<Item|RollTable|undefined>}
  */
-export const findCompendiumItem = async (compendiumName, itemName) => {
-  const compendium = game.packs.get(compendiumName);
+export const findPackDocument = async (packName, itemName) => {
+  const compendium = game.packs.get(packName);
   if (compendium) {
     const documents = await compendium.getDocuments();
-    const item = documents.find((i) => i.name === itemName);
-    if (!item) {
-      console.warn(`findCompendiumItem: Could not find item (${itemName}) in compendium (${compendiumName})`);
+    const document = documents.find((i) => i.name === itemName);
+    if (!document) {
+      console.warn(`findCompendiumItem: Could not find item (${itemName}) in compendium (${packName})`);
     }
-    return item;
+    return document;
   }
-  console.warn(`findCompendiumItem: Could not find compendium (${compendiumName})`);
+  console.warn(`findCompendiumItem: Could not find compendium (${packName})`);
 };
 
 /**
- * @param {String} compendiumName
+ * @param {String} packName
  * @param {String} tableName
  * @param {Object} options
  * @returns {Promise.<RollTableDraw>}
  */
-export const drawTable = async (compendiumName, tableName, options = {}) => {
-  const table = await findCompendiumItem(compendiumName, tableName);
+export const drawPackTable = async (packName, tableName, options = {}) => {
+  const table = await findPackDocument(packName, tableName);
   return table.draw({ displayChat: false, ...options });
 };
 
 /**
- * @param {String} compendium
+ * @param {String} packName
  * @param {String} table
  * @returns {Promise.<String>}
  */
-export const drawTableText = async (compendium, table, options = {}) => (await drawTable(compendium, table, options)).results[0].getChatText();
+export const drawPackTableText = async (packName, table, options = {}) => (await drawPackTable(packName, table, options)).results[0].getChatText();
 
 /**
- * @param {String} compendium
+ * @param {String} packName
  * @param {String} table
  * @returns {Promise.<Item[]>}
  */
-export const drawTableItem = async (compendium, table) => {
-  const draw = await drawTable(compendium, table);
-  return findTableItems(draw.results);
+export const drawPackTableDocument = async (packName, table) => {
+  const draw = await drawPackTable(packName, table);
+  return findPackTableDocuments(draw.results);
 };
 
 /**
- * @param {String} compendium
+ * @param {String} packName
  * @param {String} table
  * @param {Number} amount
  * @returns {Promise.<Array.<Item>>}
  */
-export const drawTableItems = async (compendium, table, amount = 1) => {
+export const drawPackTableDocuments = async (packName, table, amount = 1) => {
   let results = [];
   for (let i = 0; i < amount; i++) {
-    results = results.concat(await drawTableItem(compendium, table));
+    results = results.concat(await drawPackTableDocument(packName, table));
   }
   return results;
 };
@@ -64,32 +64,32 @@ export const drawTableItems = async (compendium, table, amount = 1) => {
  * @param {TableResult[]} results
  * @returns {Promise.<Item[]>}
  */
-export const findTableItems = async (results) => {
-  const items = [];
-  let item = null;
+export const findPackTableDocuments = async (results) => {
+  const documents = [];
+  let document = null;
   for (const result of results) {
     const type = result.type;
     if (type === CONST.TABLE_RESULT_TYPES.COMPENDIUM) {
-      item = await findCompendiumItem(result.documentCollection, result.text);
-      if (item) {
-        items.push(item);
+      document = await findPackDocument(result.documentCollection, result.text);
+      if (document) {
+        documents.push(document);
       }
     }
   }
-  return items;
+  return documents;
 };
 
 /**
  * @param {Object} options
  * @returns {Promise.<RollTableDraw>}
  */
-export const drawSystemTable = async (name, options = {}) => drawTable(config.coreRollTable, name, options);
+export const drawSystemTable = async (name, options = {}) => drawPackTable(config.coreRollTable, name, options);
 
 /**
  * @param {Object} options
  * @returns {Promise.<RollTableDraw>}
  */
-export const drawSystemTableText = async (name, options = {}) => drawTableText(config.coreRollTable, name, options);
+export const drawSystemTableText = async (name, options = {}) => drawPackTableText(config.coreRollTable, name, options);
 
 /**
  * @param {Object} options

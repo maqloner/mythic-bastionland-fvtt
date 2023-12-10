@@ -50,9 +50,7 @@ const getButtons = (actor, { flavor }) => {
     case actor && actor.type === config.actorTypes.knight && flavor === "damage":
       return [{
         title: game.i18n.localize("MB.Focus"),
-        data: {
-          "action": "focus"
-        }
+        data: { "action": "focus" }
       }];
   }
 };

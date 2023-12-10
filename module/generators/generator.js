@@ -1,5 +1,5 @@
 import { config } from "../config.js";
-import { drawSystemTableText, drawTableItems, findCompendiumItem } from "../utils/compendium.js";
+import { drawSystemTableText, drawPackTableDocuments, findPackDocument } from "../utils/compendium.js";
 import { evaluateFormula, randomNumber } from "../utils/utils.js";
 
 export const generateAttribute = async (formula) => {
@@ -43,11 +43,11 @@ export const findRandomCoreItems = async (folderName, amountFormula) => findRand
 
 export const findRandomCoreActors = async (folderName, amountFormula) => findRandomFolderDocuments(config.coreActors, folderName, amountFormula);
 
-export const findCoreRollTableItems = async (rollTable) => prepareItems(await drawTableItems(config.coreRollTable, rollTable), { equipped: true });
+export const findCoreRollTableItems = async (rollTable) => prepareItems(await drawPackTableDocuments(config.coreRollTable, rollTable), { equipped: true });
 
-export const findCoreItem = async (itemName) => prepareItem(await findCompendiumItem(config.coreItems, itemName), { equipped: true });
+export const findCoreItem = async (itemName) => prepareItem(await findPackDocument(config.coreItems, itemName), { equipped: true });
 
-export const findCoreActor = async (actorName) => prepareItem(await findCompendiumItem(config.coreActors, actorName));
+export const findCoreActor = async (actorName) => prepareItem(await findPackDocument(config.coreActors, actorName));
 
 export const findRandomCoreTools = async (amountFormula) => prepareItems(await findRandomCoreItems("Tools", amountFormula));
 
@@ -204,23 +204,23 @@ const prepareItem = (item, system = {}) => {
 
 const findKnightCompendiums = (type) => game.packs.filter(pack => pack.title.startsWith("Knight") && pack.documentName === type);
 
-const findFolderDocuments = async (compendiumName, folderName) => {
-  const compendium = game.packs.get(compendiumName);
-  const items = compendium
+const findFolderDocuments = async (packName, folderName) => {
+  const packs = game.packs.get(packName);
+  const items = packs
     .folders.find(folder => folder.name === folderName)
     .contents.map(item => item.uuid);
   return fromUuids(items);
 };
 
 const findRandomFolderDocuments = async (compendiumName, folderName, amountFormula = "1") => {
-  const items = await findFolderDocuments(compendiumName, folderName);
+  const documents = await findFolderDocuments(compendiumName, folderName);
   const amount = (await evaluateFormula(amountFormula)).total;
-  return Array(amount).fill().map(() => items[randomNumber(0, items.length - 1)]);
+  return Array(amount).fill().map(() => documents[randomNumber(0, documents.length - 1)]);
 };
 
 const findKnightFolderDocuments = (type, folderName) => {
-  const compendiums = findKnightCompendiums(type);
-  const documents = compendiums
+  const packs = findKnightCompendiums(type);
+  const documents = packs
     .reduce((documents, pack) => {
       const folders = pack.folders.filter(folder => folder.name === folderName);
       return documents.concat(folders.map(folder => folder.contents));

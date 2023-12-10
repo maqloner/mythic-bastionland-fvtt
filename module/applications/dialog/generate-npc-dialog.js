@@ -21,40 +21,40 @@ class GenerateNpcDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    html.find("input[name=type]").on("change", this._onTypeChange.bind(this));
-    html.find(".cancel-button").on("click", this._onCancel.bind(this));
-    html.find(".ok-button").on("click", this._onSubmit.bind(this));
+    html.find("input[name=type]").on("change", (event) => this.#onTypeChange(event));
+    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
+    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
   }
 
   /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.config = mergeObject(this.getDefaultGeneratorConfig(), this.generatorConfig);
+    data.config = mergeObject(this.#getDefaultGeneratorConfig(), this.generatorConfig);
     return data;
   }
 
-  async _onCancel(event) {
+  async #onCancel(event) {
     event.preventDefault();
     await this.close();
   }
 
-  async _onTypeChange() {
+  async #onTypeChange() {
     const type = $("input[name=type]:checked").val();
     switch (type) {
       case "person":
-        this.generatorConfig = this.getDefaultGeneratorConfig();
+        this.generatorConfig = this.#getDefaultGeneratorConfig();
         break;
       case "soldier":
-        this.generatorConfig = this.getSoldierConfig();
+        this.generatorConfig = this.#getSoldierConfig();
         break;
       case "knight":
-        this.generatorConfig = this.getKnightConfig();
+        this.generatorConfig = this.#getKnightConfig();
         break;
     }
     this.render();
   }
 
-  getDefaultGeneratorConfig() {
+  #getDefaultGeneratorConfig() {
     return {
       type: "person",
       virtues: "1d12 + d6",
@@ -76,8 +76,8 @@ class GenerateNpcDialog extends Application {
     };
   }
 
-  getSoldierConfig() {
-    return mergeObject(this.getDefaultGeneratorConfig(), {
+  #getSoldierConfig() {
+    return mergeObject(this.#getDefaultGeneratorConfig(), {
       type: "soldier",
       weapons: "1d2",
       armors: "1d2",
@@ -96,8 +96,8 @@ class GenerateNpcDialog extends Application {
     });
   }
 
-  getKnightConfig() {
-    return mergeObject(this.getDefaultGeneratorConfig(), {
+  #getKnightConfig() {
+    return mergeObject(this.#getDefaultGeneratorConfig(), {
       type: "knight",
       weapons: "1d2",
       armors: "1d3",
@@ -116,7 +116,7 @@ class GenerateNpcDialog extends Application {
     });
   }
 
-  async _onSubmit(event) {
+  async #onSubmit(event) {
     event.preventDefault();
 
     $(this.element).find("input[type='text']").each((index, input) => {

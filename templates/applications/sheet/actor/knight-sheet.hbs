@@ -1,5 +1,5 @@
 <form class="{{cssClass}} flexcol knight" autocomplete="off">
-  
+
   {{> actions }}
 
   <div class="paper scrollable br-1 p-2 gap-3">
@@ -137,7 +137,7 @@
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Actor.Biography"}}</h2>
       <div class="col col-12 editor-container">
-        {{wysiwig content=data.system.biography target="system.biography" button=true owner=owner editable=true}}
+        {{editor data.system.biography target="system.biography" button=editable editable=editable}}
       </div>
     </div>
     

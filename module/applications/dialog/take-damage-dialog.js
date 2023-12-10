@@ -32,16 +32,16 @@ class TakeDamageDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    html.find(".cancel-button").on("click", this._onCancel.bind(this));
-    html.find(".ok-button").on("click", this._onSubmit.bind(this));
+    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
+    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
   }
 
-  async _onCancel(event) {
+  async #onCancel(event) {
     event.preventDefault();
     await this.close();
   }
 
-  async _onSubmit(event) {
+  async #onSubmit(event) {
     event.preventDefault();
     const virtue = this.element.find("[name=virtue]:checked").val();
     const exposed = !!this.element.find("[name=exposed]:checked").val();

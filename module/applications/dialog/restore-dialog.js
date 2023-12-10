@@ -18,25 +18,18 @@ class RestoreDialog extends Application {
   }
 
   /** @override */
-  async getData(options) {
-    const data = super.getData(options);
-    data.config = config;
-    return data;
-  }
-
-  /** @override */
   activateListeners(html) {
     super.activateListeners(html);
-    html.find(".cancel-button").on("click", this._onCancel.bind(this));
-    html.find(".ok-button").on("click", this._onSubmit.bind(this));
+    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
+    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
   }
 
-  async _onCancel(event) {
+  async #onCancel(event) {
     event.preventDefault();
     await this.close();
   }
 
-  async _onSubmit(event) {
+  async #onSubmit(event) {
     event.preventDefault();
     const vigour = !!this.element.find("[name=vigour]:checked").val();
     const spirit = !!this.element.find("[name=spirit]:checked").val();

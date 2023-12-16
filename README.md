@@ -34,7 +34,7 @@ Embark on a quest like no other with Mythic Bastionland, a tabletop RPG set in t
 
 ## Questions? Suggestions? Bugs?
 
-[Report an issue](https://github.com/maqloner/mythic-bastionland/issues), or join the [Bastionland Discord](https://discord.gg/gvv84mV4).
+[Report an issue](https://github.com/maqloner/mythic-bastionland/issues), or join the [Bastionland Discord](https://discord.gg/UJyuP2VTjJ).
 
 ## Buy the Book
 

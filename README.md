@@ -1,6 +1,6 @@
 # Mythic Bastionland for Foundry VTT
 
-![Latest Release Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/latest/total) ![Total Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/total)
+![Latest Release Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/latest/system.zip) ![Total Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/system.zip)
 
 An unofficial, community-driven system for playing [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd/) on [Foundry VTT](http://foundryvtt.com/).
 

@@ -1,6 +1,6 @@
 # Mythic Bastionland for Foundry VTT
 
-![Latest Release Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/latest/total) ![Total Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/total)
+![Latest Release Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/latest/system.zip) ![Total Download Count](https://img.shields.io/github/downloads/maqloner/mythic-bastionland/system.zip)
 
 An unofficial, community-driven system for playing [Mythic Bastionland](https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd/) on [Foundry VTT](http://foundryvtt.com/).
 
@@ -34,7 +34,7 @@ Embark on a quest like no other with Mythic Bastionland, a tabletop RPG set in t
 
 ## Questions? Suggestions? Bugs?
 
-[Report an issue](https://github.com/maqloner/mythic-bastionland/issues), or join the [Bastionland Discord](https://discord.gg/gvv84mV4).
+[Report an issue](https://github.com/maqloner/mythic-bastionland/issues), or join the [Bastionland Discord](https://discord.gg/UJyuP2VTjJ).
 
 ## Buy the Book
 

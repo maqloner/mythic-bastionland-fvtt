@@ -1001,7 +1001,7 @@ export const compendiumData = {
             {
               type: "passion",
               name: "Apathy",
-              description: "Restore SPI when you reject a call for comfort.."
+              description: "Restore SPI when you reject a call for comfort."
             },
             {
               type: "coat",
@@ -1013,7 +1013,7 @@ export const compendiumData = {
               name: "Jagged Spear",
               damage: "d8",
               hefty: true,
-              description: "+[[/roll d8 #damage]] against a target you have Wounded or Scarred),"
+              description: "+[[/roll d8 #damage]] against a target you have Wounded or Scarred"
             },
             {
               type: "weapon",
@@ -1448,7 +1448,7 @@ export const compendiumData = {
               trample: "d8"
             }
           ]
-        }                 
+        }
       ]
     },
     {
@@ -1670,7 +1670,7 @@ export const compendiumData = {
               name: "Wilderness roll",
               formula: "d6",
               results: [
-                [1, 1, "Encounter the next Omen from a Random Myth in this Realm."],
+                [1, 1, "Encounter the next Omen from a Random Myth [/roll d6] in this Realm."],
                 [2, 3, "Encounter the next Omen from the Nearest Myth."],
                 [4, 6, "Encounter the Hex’s Landmark. Otherwise All Clear."]
               ]
@@ -3039,26 +3039,26 @@ export const compendiumData = {
                 [14, 14, "Onfroi"],
                 [15, 15, "Druet"],
                 [16, 16, "Helyot"],
-                [17, 17, "Gawn"],                                                                
+                [17, 17, "Gawn"],
                 [18, 18, "Teodric"],
                 [19, 19, "Gervase"],
                 [20, 20, "Philibert"],
                 [21, 21, "Houdart"],
                 [22, 22, "Hicket"],
-                [23, 23, "Ulric"],                                                                                                
-                [24, 24, "Moss"],         
+                [23, 23, "Ulric"],
+                [24, 24, "Moss"],
                 [25, 25, "Ingelram"],
                 [26, 26, "Benger"],
                 [27, 27, "Evrat"],
                 [28, 28, "Conrad"],
-                [29, 29, "Terricus"],                                                                
+                [29, 29, "Terricus"],
                 [30, 30, "Galeren"],
                 [31, 31, "Hamelen"],
                 [32, 32, "Guimond"],
                 [33, 33, "Fouquaut"],
                 [34, 34, "Brom"],
-                [35, 35, "Jep"],                                                                                                
-                [36, 36, "Henriot"]                                                                                                                    
+                [35, 35, "Jep"],
+                [36, 36, "Henriot"]
               ]
             },
             {
@@ -3250,6 +3250,276 @@ export const compendiumData = {
                 [10, 10, "Crumbled Bridge"],
                 [11, 11, "Broken Fort"],
                 [12, 12, "Impact Crater"]]
+            }
+          ]
+        },
+        {
+          name: "Myths",
+          items: [
+
+            {
+              name: "THE DEATHLY MALADY - Fatal Symptom",
+              formula: "d6",
+              results: [
+                [1, 1, "Bleeding"],
+                [2, 2, "Choking"],
+                [3, 3, "Swelling"],
+                [4, 4, "Wasting"],
+                [5, 5, "Lethargy"],
+                [6, 6, "Convulsion"]]
+            },
+            {
+              name: "THE DEATHLY MALADY - Transmission",
+              formula: "d6",
+              results: [
+                [1, 1, "Skin Contact"],
+                [2, 2, "Breath"],
+                [3, 3, "Bodily Fluids"],
+                [4, 4, "Ingestion"],
+                [5, 5, "Rats"],
+                [6, 6, "Flies"]]
+            },
+            {
+              name: "STRETCHES OF WALL - Condition",
+              formula: "d6",
+              results: [
+                [1, 1, "Crumbling"],
+                [2, 2, "Reinforced"],
+                [3, 3, "Under Repair"],
+                [4, 4, "Overgrown"],
+                [5, 5, "Mid Inspection"],
+                [6, 6, "Breached"]]
+            },
+            {
+              name: "STRETCHES OF WALL - Watch Post",
+              formula: "d6",
+              results: [
+                [1, 1, "Isolated"],
+                [2, 2, "Overstaffed"],
+                [3, 3, "In the Clouds"],
+                [4, 4, "Leaning"],
+                [5, 5, "Hostile"],
+                [6, 6, "Abandoned"]]
+            },
+            {
+              name: "MOURNFUL FORMS - Shape",
+              formula: "d6",
+              results: [
+                [1, 1, "Robed"],
+                [2, 2, "Skeletal"],
+                [3, 3, "Rotund"],
+                [4, 4, "Knightly"],
+                [5, 5, "Childish"],
+                [6, 6, "Amorphous"]]
+            },
+            {
+              name: "MOURNFUL FORMS - Matter",
+              formula: "d6",
+              results: [
+                [1, 1, "Glow"],
+                [2, 2, "Frost"],
+                [3, 3, "Fire"],
+                [4, 4, "Mist"],
+                [5, 5, "Shadow"],
+                [6, 6, "Water"]]
+            },
+            {
+              name: "RIVERBOATS - Travellers",
+              formula: "d6",
+              results: [
+                [1, 1, "Family"],
+                [2, 2, "Elder"],
+                [3, 3, "Youths"],
+                [4, 4, "Soldiers"],
+                [5, 5, "Acolytes"],
+                [6, 6, "Knight"]]
+            },
+            {
+              name: "RIVERBOATS - Intent",
+              formula: "d6",
+              results: [
+                [1, 1, "Raiding"],
+                [2, 2, "Trade"],
+                [3, 3, "Adventure"],
+                [4, 4, "Safety"],
+                [5, 5, "Hunting"],
+                [6, 6, "Pilgrimage"]]
+            },
+            {
+              name: "THE POISONOUS YOUNG - Form",
+              formula: "d6",
+              results: [
+                [1, 1, "Adder"],
+                [2, 2, "Newt"],
+                [3, 3, "Frog"],
+                [4, 4, "Weasel"],
+                [5, 5, "Scorpion"],
+                [6, 6, "Swan"]]
+            },
+            {
+              name: "THE POISONOUS YOUNG - Abomination",
+              formula: "d6",
+              results: [
+                [1, 1, "Barbed Scales"],
+                [2, 2, "Unhinged Jaw"],
+                [3, 3, "Prehensile Tongue"],
+                [4, 4, "Bloated Stomach"],
+                [5, 5, "Twin Tails"],
+                [6, 6, "Horned Snout"]]
+            },
+            {
+              name: "TRADING THE LOST - Selling",
+              formula: "d6",
+              results: [
+                [1, 1, "Keys"],
+                [2, 2, "Letters"],
+                [3, 3, "Rings"],
+                [4, 4, "Memories"],
+                [5, 5, "Birds"],
+                [6, 6, "Scarves"]]
+            },
+            {
+              name: "TRADING THE LOST - Seeking",
+              formula: "d6",
+              results: [
+                [1, 1, "Silver"],
+                [2, 2, "Dogs"],
+                [3, 3, "Needles"],
+                [4, 4, "Hats"],
+                [5, 5, "Knives"],
+                [6, 6, "Shoes"]]
+            },
+            {
+              name: "THE VERDY MAZE - Place",
+              formula: "d6",
+              results: [
+                [1, 1, "Entwined Wall of Trunks and Roots"],
+                [2, 2, "Descent into Damp Earth"],
+                [3, 3, "Mossy Stone Pile"],
+                [4, 4, "Leafy Clearing"],
+                [5, 5, "Tree Bridge"],
+                [6, 6, "Trailway"]]
+            },
+            {
+              name: "THE VERDY MAZE - Omen",
+              formula: "d6",
+              results: [
+                [1, 1, "Riders Approaching"],
+                [2, 2, "Frantic Movement in the Branches"],
+                [3, 3, "Twisting in the Roots"],
+                [4, 4, "Fading Light"],
+                [5, 5, "Rising Mist"],
+                [6, 6, "Watching Eyes"]]
+            },
+            {
+              name: "THE SIGNS - First Sign",
+              formula: "d6",
+              results: [
+                [1, 1, "Golden Flowers"],
+                [2, 2, "Violet Sunrise"],
+                [3, 3, "Singing Swans"],
+                [4, 4, "Milk to Honey"],
+                [5, 5, "Chimes from Below"],
+                [6, 6, "Miraculous Cures"]]
+            },
+            {
+              name: "THE SIGNS - Second Sign",
+              formula: "d6",
+              results: [
+                [1, 1, "Harvest of Snakes"],
+                [2, 2, "Sudden Winter"],
+                [3, 3, "Night Terrors"],
+                [4, 4, "Sleeping Mist"],
+                [5, 5, "Earthquake"],
+                [6, 6, "Burning Graves"]]
+            },
+            {
+              name: "COMPANY OF THE ORDER - Scholar-Knight",
+              formula: "d6",
+              results: [
+                [1, 1, "A lone scholar-knight"],
+                [2, 2, "2 scholar-knights"],
+                [3, 3, "A scholar-knight on foot, their steed slain"],
+                [4, 4, "3 scholar-knights"],
+                [5, 5, "1 scholar-knight and their apprentice 5GD, blade (d6)"],
+                [6, 6, "5 scholar-knights"]]
+            },
+            {
+              name: "COMPANY OF THE ORDER - Retinue",
+              formula: "d6",
+              results: [
+                [1, 1, "None"],
+                [2, 2, "2 riders 3GD, axes (d8), steeds"],
+                [3, 3, "8 conscripts 2GD, billhooks (d10)"],
+                [4, 4, "6 archers 3GD, d6 shortbows "],
+                [5, 5, "4 mercenaries 5GD, longaxes (d10)"],
+                [6, 6, "3 Scouts 2GD, shortbows (d6)"]]
+            },
+            {
+              name: "THE COST OF UNLIFE - Raised by",
+              formula: "d6",
+              results: [
+                [1, 1, "Noble intentions"],
+                [2, 2, "A paranoid castellan"],
+                [3, 3, "An ambitious bandit"],
+                [4, 4, "A deal with death"],
+                [5, 5, "A curious seer"],
+                [6, 6, "A lonely apothecary"]]
+            },
+            {
+              name: "THE COST OF UNLIFE - The Cost",
+              formula: "d6",
+              results: [
+                [1, 1, "Intolerance of sunlight"],
+                [2, 2, "Hatred of plant life"],
+                [3, 3, "Fear of running water"],
+                [4, 4, "Vulnerability to fire"],
+                [5, 5, "Craven cowardice"],
+                [6, 6, "Insatiable hunger"]]
+            },
+            {
+              name: "A VOICE IN THE DARKNESS - Origin",
+              formula: "d6",
+              results: [
+                [1, 1, "Whispering from the violet fungi"],
+                [2, 2, "Singing from the drifting lights"],
+                [3, 3, "Murmuring from the mirrored pools"],
+                [4, 4, "Taunting from the shadows"],
+                [5, 5, "Beckoning from the distant dark"],
+                [6, 6, "Chattering in the cold"]]
+            },
+            {
+              name: "A VOICE IN THE DARKNESS - Purpose",
+              formula: "d6",
+              results: [
+                [1, 1, "Scare them back to the surface"],
+                [2, 2, "Lure them deeper "],
+                [3, 3, "Show them things they cannot take home"],
+                [4, 4, "Sow discontent "],
+                [5, 5, "Wear them down"],
+                [6, 6, "Provide a little comfort"]]
+            },
+            {
+              name: "WURM BEHAVIOUR - Conversation",
+              formula: "d6",
+              results: [
+                [1, 1, "Spout Hatred"],
+                [2, 2, "Spread Fear"],
+                [3, 3, "Aggrandise"],
+                [4, 4, "Insult Enemies"],
+                [5, 5, "Seek Submission"],
+                [6, 6, "Entice Fealty"]]
+            },
+            {
+              name: "WURM BEHAVIOUR - Combat",
+              formula: "d6",
+              results: [
+                [1, 1, "Cut off escape"],
+                [2, 2, "Trap them and leave"],
+                [3, 3, "Self Target the weak"],
+                [4, 4, "Break their arms"],
+                [5, 5, "Flee to better ground"],
+                [6, 6, "Blunt assault"]]
             }
           ]
         }

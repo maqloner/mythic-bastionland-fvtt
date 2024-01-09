@@ -24,7 +24,7 @@ export const actorSaveAction = async (actor, { virtue, applyFatigue = false }) =
       value: actor.system.virtues[virtue].value
     }),
     roll: roll,
-    description: (applyFatigue && !success) ? game.i18n.localize("MB.Actor.ApplyFatigue") : ""
+    description: (applyFatigue && !success) ? game.i18n.localize("MB.Actor.ApplyFatigued") : ""
   };
 
   await showChatMessage({

@@ -1,5 +1,6 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
+import { generateHolding, generateLand, generatePerson, generateSkyWeather, generateBeast } from "../generators/generator.js";
 import { drawSystemTable } from "../utils/compendium.js";
 
 class GMDashboard extends Application {
@@ -9,7 +10,7 @@ class GMDashboard extends Application {
       template: `${config.systemPath}/templates/applications/gm-dashboard.hbs`,
       classes: ["mythic-bastionland", "sheet", "gm-dashboard"],
       title: game.i18n.localize("MB.Dashboard.Label"),
-      width: 400,
+      width: 450,
       resizable: false,
       height: "auto",
       scrollY: [".scrollable"],
@@ -35,7 +36,27 @@ class GMDashboard extends Application {
     super.activateListeners(html);
     html.find(".roll-table").on("click", (event) => this.#onRollTable(event));
     html.find(".roll-table-multi").on("click", (event) => this.#onRollTableMulti(event));
+
+    html.find(".roll-sky-weather").on("click", (event) => this.#onRollGenerator(event, generateSkyWeather));
+    html.find(".roll-person").on("click", (event) => this.#onRollGenerator(event, generatePerson));
+    html.find(".roll-land").on("click", (event) => this.#onRollGenerator(event, generateLand));    
+    html.find(".roll-holding").on("click", (event) => this.#onRollGenerator(event, generateHolding));   
+    html.find(".roll-beast").on("click", (event) => this.#onRollGenerator(event, generateBeast));       
   }
+
+  async #onRollGenerator(event, generatorAction) {
+    event.preventDefault();
+    const title = $(event.target).closest("button").data("title");
+
+    await showChatMessage({
+      title,
+      outcomes: [{
+        type: "generator-action",
+        description: await generatorAction()
+      }]
+    });
+  }
+
 
   async #onRollTable(event) {
     event.preventDefault();
@@ -57,9 +78,11 @@ class GMDashboard extends Application {
 
   async #onRollTableMulti(event) {
     event.preventDefault();
-    const label = $(event.target).closest("button").data("label");
+    const rollMode = this.element.find("[name=roll_mode]").val();
+    const title = $(event.target).closest("button").data("label");
     const tableNames = $(event.target).closest("button").data("tables").split(";");
     const outcomes = [];
+
     for (const tableName of tableNames) {
       const draw = (await drawSystemTable(tableName));
       const result = draw.results.pop();
@@ -73,9 +96,9 @@ class GMDashboard extends Application {
     }
 
     await showChatMessage({
-      title: label,
-      outcomes: outcomes,
-      rollMode: this.element.find("[name=roll_mode]").val()
+      title,
+      outcomes,
+      rollMode
     });
   }
 }

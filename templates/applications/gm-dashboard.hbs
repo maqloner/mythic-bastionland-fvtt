@@ -2,8 +2,10 @@
 
   <nav class="grid sheet-tabs tabs gap-1 align-items-center" data-group="primary">
     <a class="item col" data-tab="travel">{{localize "MB.Dashboard.Travel"}}</a>
-    <a class="item col" data-tab="domains">{{localize "MB.Dashboard.Domain"}}</a>
+    <a class="item col" data-tab="realm">{{localize "MB.Dashboard.Realm"}}</a>
     <a class="item col" data-tab="sparks">{{localize "MB.Dashboard.Sparks"}}</a>
+    <a class="item col" data-tab="myths">{{localize "MB.Dashboard.Myths"}}</a>
+    <a class="item col" data-tab="extras">{{localize "MB.Dashboard.Extras"}}</a>
     <div class="col col-3 justify-items-center pr-1">
       <select class="" name="roll_mode" data-dtype="String">
         {{#select "publicroll"}}
@@ -16,51 +18,61 @@
   </nav>
 
   <section class="sheet-body scrollable">
-    <div class="tab tab-combat" data-group="primary" data-tab="travel">
+    <div class="tab tab-travel" data-group="primary" data-tab="travel">
       <div class="col col-12 gap-1 p-1">
         <div class="grid">
           <div class="col col-4 pr-1">
-            <button class="button-primary roll-table" data-table="Luck roll">{{localize "MB.Dashboard.LuckRoll"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Luck roll">{{localize "MB.Dashboard.LuckRoll"}}</button>
           </div>
           <div class="col col-8">
-            <button class="button-primary roll-table" data-table="Wilderness roll">{{localize "MB.Dashboard.WildernessRoll"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Wilderness roll">{{localize "MB.Dashboard.WildernessRoll"}}</button>
           </div>
         </div>
         <div class="grid">
           <div class="col col-4 pr-1">
-            <button class="button-primary roll-table" data-table="Travelling Blind">{{localize "MB.Dashboard.TravellingBlind"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Travelling Blind">{{localize "MB.Dashboard.TravellingBlind"}}</button>
           </div>
           <div class="col col-4 pr-1">
-            <button class="button-primary roll-table" data-table="Local mood">{{localize "MB.Dashboard.LocalMood"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Local mood">{{localize "MB.Dashboard.LocalMood"}}</button>
           </div>
           <div class="col col-4">
-            <button class="button-primary roll-table" data-table="Dire weather">{{localize "MB.Dashboard.DireWeather"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Dire weather">{{localize "MB.Dashboard.DireWeather"}}</button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="tab tab-domains" data-group="primary" data-tab="domains">
+    <div class="tab tab-realm" data-group="primary" data-tab="realm">
       <div class="col col-12 gap-1 p-1">
         <div class="grid">
           <div class="col col-6 pr-1">
-            <button class="button-primary roll-table" data-table="Passage of time">{{localize "MB.Dashboard.PassageOfTime"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Passage of time">{{localize "MB.Dashboard.PassageOfTime"}}</button>
           </div>
           <div class="col col-6">
-            <button class="button-primary roll-table" data-table="Unresolved situations">{{localize "MB.Dashboard.UnresolvedSituations"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Unresolved situations">{{localize "MB.Dashboard.UnresolvedSituations"}}</button>
           </div>
         </div>
         <div class="grid">
           <div class="col col-6 pr-1">
-            <button class="button-primary roll-table" data-table="Drama in Court">{{localize "MB.Dashboard.DramaInCourt"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Drama in Court">{{localize "MB.Dashboard.DramaInCourt"}}</button>
           </div>
           <div class="col col-6">
-            <button class="button-primary roll-table" data-table="Increased taxes">{{localize "MB.Dashboard.IncreasedTaxes"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Increased taxes">{{localize "MB.Dashboard.IncreasedTaxes"}}</button>
           </div>
         </div>
         <div class="grid">
           <div class="col col-6 pr-1">
-            <button class="button-primary roll-table" data-table="Crisis roll">{{localize "MB.Dashboard.CrisisRoll"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Crisis roll">{{localize "MB.Dashboard.CrisisRoll"}}</button>
           </div>
           <div class="col col-6">
             <button class="button-primary roll-table" data-table="Crisis">{{localize "MB.Dashboard.Crisis"}}</button>
@@ -79,7 +91,8 @@
             <button class="button-primary roll-table" data-table="Name">{{localize "MB.Dashboard.Name"}}</button>
           </div>
           <div class="col col-3">
-            <button class="button-primary roll-table" data-table="Characteristic">{{localize "MB.Dashboard.Characteristic"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Characteristic">{{localize "MB.Dashboard.Characteristic"}}</button>
           </div>
         </div>
 
@@ -100,13 +113,15 @@
 
         <div class="grid">
           <div class="col col-4 pr-1">
-            <button class="button-primary roll-table" data-table="Dwelling">{{localize "MB.Dashboard.Dwelling"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Dwelling">{{localize "MB.Dashboard.Dwelling"}}</button>
           </div>
           <div class="col col-4 pr-1">
             <button class="button-primary roll-table" data-table="Sanctum">{{localize "MB.Dashboard.Sanctum"}}</button>
           </div>
           <div class="col col-4">
-            <button class="button-primary roll-table" data-table="Monument">{{localize "MB.Dashboard.Monument"}}</button>
+            <button class="button-primary roll-table"
+              data-table="Monument">{{localize "MB.Dashboard.Monument"}}</button>
           </div>
         </div>
 
@@ -126,43 +141,43 @@
           <h2 class="text-large">{{localize "MB.Dashboard.Nature"}}</h2>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Land"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Land"}}"
                 data-tables="LAND - Character;LAND - Landscape">{{localize "MB.Dashboard.Land"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Sky"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Sky"}}"
                 data-tables="SKY - Tone;SKY - Texture">{{localize "MB.Dashboard.Sky"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Water"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Water"}}"
                 data-tables="WATER - Tone;WATER - Texture">{{localize "MB.Dashboard.Water"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Weather"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Weather"}}"
                 data-tables="WEATHER - Description;WEATHER - Element">{{localize "MB.Dashboard.Weather"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Flora"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Flora"}}"
                 data-tables="FLORA - Nature;FLORA - Form">{{localize "MB.Dashboard.Flora"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Fauna"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Fauna"}}"
                 data-tables="FAUNA - Nature;FAUNA - Form">{{localize "MB.Dashboard.Fauna"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Feature"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Feature"}}"
                 data-tables="FEATURE - Nature;FEATURE - Form">{{localize "MB.Dashboard.Feature"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Wonder"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Wonder"}}"
                 data-tables="WONDER - Theme;WONDER - Element">{{localize "MB.Dashboard.Wonder"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Otherworld"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Otherworld"}}"
                 data-tables="OTHERWORLD - Character;OTHERWORLD - Landscape">{{localize "MB.Dashboard.Otherworld"}}</button>
             </div>
           </div>
@@ -172,43 +187,43 @@
           <h2 class="text-large">{{localize "MB.Dashboard.Civilisation"}}</h2>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Holding"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Holding"}}"
                 data-tables="HOLDING - Style;HOLDING - Feature">{{localize "MB.Dashboard.Holding"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Bailey"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Bailey"}}"
                 data-tables="BAILEY - Style;BAILEY - Feature">{{localize "MB.Dashboard.Bailey"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Keep"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Keep"}}"
                 data-tables="KEEP - Centrepiece;KEEP - Decoration">{{localize "MB.Dashboard.Keep"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Food"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Food"}}"
                 data-tables="FOOD - Quality;FOOD - Type">{{localize "MB.Dashboard.Food"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Goods"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Goods"}}"
                 data-tables="GOODS - Theme;GOODS - Type">{{localize "MB.Dashboard.Goods"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Luxuries"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Luxuries"}}"
                 data-tables="LUXURIES - Rarity;LUXURIES - Type">{{localize "MB.Dashboard.Luxuries"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Drama"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Drama"}}"
                 data-tables="DRAMA - Theme;DRAMA - Detail">{{localize "MB.Dashboard.Drama"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Woe"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Woe"}}"
                 data-tables="WOE - Description;WOE - Incident">{{localize "MB.Dashboard.Woe"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="News"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.News"}}"
                 data-tables="NEWS - Subject;NEWS - Mood">{{localize "MB.Dashboard.News"}}</button>
             </div>
           </div>
@@ -218,43 +233,43 @@
           <h2 class="text-large">{{localize "MB.Dashboard.People"}}</h2>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Appearance"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Appearance"}}"
                 data-tables="APPEARANCE - Physique;APPEARANCE - Dress">{{localize "MB.Dashboard.Appearance"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Voice"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Voice"}}"
                 data-tables="VOICE - Tone;VOICE - Manner">{{localize "MB.Dashboard.Voice"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Personality"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Personality"}}"
                 data-tables="PERSONALITY - Demeanour;PERSONALITY - Interest">{{localize "MB.Dashboard.Personality"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Relationship"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Relationship"}}"
                 data-tables="RELATIONSHIP - State;RELATIONSHIP - Connection">{{localize "MB.Dashboard.Relationship"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Desire"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Desire"}}"
                 data-tables="DESIRE - Ambition;DESIRE - Motive">{{localize "MB.Dashboard.Desire"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Task"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Task"}}"
                 data-tables="TASK - Action;TASK - Subject">{{localize "MB.Dashboard.Task"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Background"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Background"}}"
                 data-tables="BACKGROUND - Upbringing;BACKGROUND - Memory">{{localize "MB.Dashboard.Background"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Ailment"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Ailment"}}"
                 data-tables="AILMENT - Descriptor;AILMENT - Symptom">{{localize "MB.Dashboard.Ailment"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Heraldry"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Heraldry"}}"
                 data-tables="HERALDRY - Palette;HERALDRY - Symbol">{{localize "MB.Dashboard.Heraldry"}}</button>
             </div>
           </div>
@@ -264,47 +279,142 @@
           <h2 class="text-large">{{localize "MB.Dashboard.Combat"}}</h2>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Soldier"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Soldier"}}"
                 data-tables="SOLDIER - Quality;SOLDIER - Type">{{localize "MB.Dashboard.Soldier"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Weapon"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Weapon"}}"
                 data-tables="WEAPON - Descriptor;WEAPON - Feature">{{localize "MB.Dashboard.Weapon"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Manoeuvres"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Manoeuvres"}}"
                 data-tables="MANOEUVRES - Action;MANOEUVRES - Intent">{{localize "MB.Dashboard.Manoeuvres"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Conflict"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Conflict"}}"
                 data-tables="CONFLICT - Dispute;CONFLICT - Status">{{localize "MB.Dashboard.Conflict"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Duel"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Duel"}}"
                 data-tables="DUEL - Stipulation;DUEL - Twist">{{localize "MB.Dashboard.Duel"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Battlefield"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Battlefield"}}"
                 data-tables="BATTLEFIELD - Feature;BATTLEFIELD - Detail">{{localize "MB.Dashboard.Battlefield"}}</button>
             </div>
           </div>
           <div class="grid">
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Deployment"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Deployment"}}"
                 data-tables="DEPLOYMENT - Style;DEPLOYMENT - Formation">{{localize "MB.Dashboard.Deployment"}}</button>
             </div>
             <div class="col col-4 pr-1">
-              <button class="button-primary roll-table-multi" data-label="Strategy"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Strategy"}}"
                 data-tables="STRATEGY - Plan;STRATEGY - Twist">{{localize "MB.Dashboard.Strategy"}}</button>
             </div>
             <div class="col col-4">
-              <button class="button-primary roll-table-multi" data-label="Event"
+              <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Event"}}"
                 data-tables="EVENT - Subject;EVENT - Event">{{localize "MB.Dashboard.Event"}}</button>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+
+    <div class="tab tab-myths" data-group="primary" data-tab="myths">
+      <div class="col col-12 p-1 gap-1">
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheDeadlyMalady"}}"
+              data-tables="THE DEATHLY MALADY - Fatal Symptom;THE DEATHLY MALADY - Transmission">{{localize "MB.Dashboard.TheDeadlyMalady"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.StretchesOfWall"}}"
+              data-tables="STRETCHES OF WALL - Condition;STRETCHES OF WALL - Watch Post">{{localize "MB.Dashboard.StretchesOfWall"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.MournfulForms"}}"
+              data-tables="MOURNFUL FORMS - Shape;MOURNFUL FORMS - Matter">{{localize "MB.Dashboard.MournfulForms"}}</button>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Riverboats"}}"
+              data-tables="RIVERBOATS - Travellers;RIVERBOATS - Intent">{{localize "MB.Dashboard.Riverboats"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.ThePoisonousYoung"}}"
+              data-tables="THE POISONOUS YOUNG - Form;THE POISONOUS YOUNG - Abomination">{{localize "MB.Dashboard.ThePoisonousYoung"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TradingTheLost"}}"
+              data-tables="TRADING THE LOST - Selling;TRADING THE LOST - Seeking">{{localize "MB.Dashboard.TradingTheLost"}}</button>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheVerdyMaze"}}"
+              data-tables="THE VERDY MAZE - Place;THE VERDY MAZE - Omen">{{localize "MB.Dashboard.TheVerdyMaze"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheSigns"}}"
+              data-tables="THE SIGNS - First Sign;THE SIGNS - Second Sign">{{localize "MB.Dashboard.TheSigns"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.CompanyOfTheOrder"}}"
+              data-tables="COMPANY OF THE ORDER - Scholar-Knight;TRADING THE LOST - Seeking">{{localize "MB.Dashboard.CompanyOfTheOrder"}}</button>
+          </div>
+        </div>
+
+
+        <div class="grid">
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheCostOfUnlife"}}"
+              data-tables="THE COST OF UNLIFE - Raised by;THE COST OF UNLIFE - The Cost">{{localize "MB.Dashboard.TheCostOfUnlife"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.AVoiceInTheDarkness"}}"
+              data-tables="A VOICE IN THE DARKNESS - Origin;A VOICE IN THE DARKNESS - Purpose">{{localize "MB.Dashboard.AVoiceInTheDarkness"}}</button>
+          </div>
+          <div class="col col-4 pr-1">
+            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.WurmBehaviour"}}"
+              data-tables="WURM BEHAVIOUR - Conversation;WURM BEHAVIOUR - Combat">{{localize "MB.Dashboard.WurmBehaviour"}}</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tab tab-extras" data-group="primary" data-tab="extras">
+      <div class="col col-12 gap-1 p-1">
+        <div class="grid">
+          <div class="col col-12">
+            <button class="button-primary roll-sky-weather"
+              data-title="{{localize "MB.Dashboard.SkyWeather"}}">{{localize "MB.Dashboard.SkyWeather"}}</button>
+          </div>
+        </div>
+
+        <div class="grid">
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-person"
+              data-title="{{localize "MB.Dashboard.Person"}}">{{localize "MB.Dashboard.Person"}}</button>
+          </div>
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-holding"
+              data-title="{{localize "MB.Dashboard.Holding"}}">{{localize "MB.Dashboard.Holding"}}</button>
+          </div>          
+          <div class="col col-3 pr-1">
+            <button class="button-primary roll-land"
+              data-title="{{localize "MB.Dashboard.Land"}}">{{localize "MB.Dashboard.Land"}}</button>
+          </div>          
+          <div class="col col-3">
+            <button class="button-primary roll-beast"
+              data-title="{{localize "MB.Dashboard.Beast"}}">{{localize "MB.Dashboard.Beast"}}</button>
+          </div>          
+        </div>
+
       </div>
     </div>
   </section>

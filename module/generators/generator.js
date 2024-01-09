@@ -127,7 +127,21 @@ export const generateKnightBiography = async ({ item, tables }) => `
 `;
 
 export const generatePersonality = async () => {
-  return game.i18n.format("MB.Biography.Personality", {
+  return game.i18n.format("MB.Generator.Personality", {
+    characteristic: (await drawSystemTableText("Characteristic")).toLowerCase(),
+    physique: (await drawSystemTableText("APPEARANCE - Physique")).toLowerCase(),
+    dress: (await drawSystemTableText("APPEARANCE - Dress")).toLowerCase(),
+    tone: (await drawSystemTableText("VOICE - Tone")).toLowerCase(),
+    manner: (await drawSystemTableText("VOICE - Manner")).toLowerCase(),
+    demeanour: (await drawSystemTableText("PERSONALITY - Demeanour")).toLowerCase(),
+    interest: (await drawSystemTableText("PERSONALITY - Interest")).toLowerCase()
+  });
+};
+
+export const generatePerson = async () => {
+  return game.i18n.format("MB.Generator.Person", {
+    name: await drawSystemTableText("Name"),
+    person: await drawSystemTableText("Person"),
     characteristic: (await drawSystemTableText("Characteristic")).toLowerCase(),
     physique: (await drawSystemTableText("APPEARANCE - Physique")).toLowerCase(),
     dress: (await drawSystemTableText("APPEARANCE - Dress")).toLowerCase(),
@@ -139,7 +153,7 @@ export const generatePersonality = async () => {
 };
 
 export const generateConflict = async () => {
-  return game.i18n.format("MB.Biography.Warband", {
+  return game.i18n.format("MB.Generator.Conflict", {
     style: (await drawSystemTableText("DEPLOYMENT - Style")).toLowerCase(),
     formation: (await drawSystemTableText("DEPLOYMENT - Formation")).toLowerCase(),
     action: (await drawSystemTableText("MANOEUVRES - Action")).toLowerCase(),
@@ -151,46 +165,95 @@ export const generateConflict = async () => {
   });
 };
 
+export const generateHolding = async () => {
+  return game.i18n.format("MB.Generator.Holding", {
+    holding_style: (await drawSystemTableText("HOLDING - Style")).toLowerCase(),
+    holding_feature: (await drawSystemTableText("HOLDING - Feature")).toLowerCase(),
+    bailey_style: (await drawSystemTableText("BAILEY - Style")).toLowerCase(),
+    bailey_feature: (await drawSystemTableText("BAILEY - Feature")).toLowerCase(),    
+    land_character: (await drawSystemTableText("LAND - Character")).toLowerCase(),
+    land_landscape: (await drawSystemTableText("LAND - Landscape")).toLowerCase(),
+    food_quality: (await drawSystemTableText("FOOD - Quality")).toLowerCase(),
+    food_type: (await drawSystemTableText("FOOD - Type")).toLowerCase(),
+    good_theme: (await drawSystemTableText("GOODS - Theme")).toLowerCase(),
+    good_type: (await drawSystemTableText("GOODS - Type")).toLowerCase(),
+    news_subject: (await drawSystemTableText("NEWS - Subject")).toLowerCase(),
+    news_mood: (await drawSystemTableText("NEWS - Mood")).toLowerCase()
+  });
+};
+
+export const generateBeast = async () => {
+  return game.i18n.format("MB.Generator.Beast", {
+    beast: (await drawSystemTableText("Beast")).toLowerCase(),
+    state: (await drawSystemTableText("State")).toLowerCase(),
+    land_character: (await drawSystemTableText("LAND - Character")).toLowerCase(),
+    land_landscape: (await drawSystemTableText("LAND - Landscape")).toLowerCase(),
+    flora_nature: (await drawSystemTableText("FLORA - Nature")).toLowerCase(),
+    flora_form: (await drawSystemTableText("FLORA - Form")).toLowerCase()
+  });
+};
+
 export const generateDesire = async () => {
-  return game.i18n.format("MB.Biography.Goal", {
+  return game.i18n.format("MB.Generator.Goal", {
     ambition: (await drawSystemTableText("DESIRE - Ambition")).toLowerCase(),
     motive: (await drawSystemTableText("DESIRE - Motive")).toLowerCase()
   });
 };
 
 export const generateTask = async () => {
-  return game.i18n.format("MB.Biography.Action", {
+  return game.i18n.format("MB.Generator.Action", {
     action: (await drawSystemTableText("TASK - Action")).toLowerCase(),
     subject: (await drawSystemTableText("TASK - Subject")).toLowerCase()
   });
 };
 
 export const generateSoldierType = async () => {
-  return game.i18n.format("MB.Biography.Soldier", {
+  return game.i18n.format("MB.Generator.Soldier", {
     quality: (await drawSystemTableText("SOLDIER - Quality")),
     type: (await drawSystemTableText("SOLDIER - Type"))
   });
 };
 
-
 export const generateHeraldry = async () => {
-  return game.i18n.format("MB.Biography.Heraldry", {
+  return game.i18n.format("MB.Generator.Heraldry", {
     palette: (await drawSystemTableText("HERALDRY - Palette")),
     symbol: (await drawSystemTableText("HERALDRY - Symbol"))
   });
 };
 
 export const generateBattlefield = async () => {
-  return game.i18n.format("MB.Biography.Battlefield", {
+  return game.i18n.format("MB.Generator.Battlefield", {
     feature: (await drawSystemTableText("BATTLEFIELD - Feature")),
     detail: (await drawSystemTableText("BATTLEFIELD - Detail"))
   });
 };
 
 export const generateAilment = async () => {
-  return game.i18n.format("MB.Biography.Ailment", {
+  return game.i18n.format("MB.Generator.Ailment", {
     descriptor: (await drawSystemTableText("AILMENT - Descriptor")),
     symptom: (await drawSystemTableText("AILMENT - Symptom"))
+  });
+};
+
+export const generateSkyWeather = async () => {
+  return game.i18n.format("MB.Generator.SkyWeather", {
+    tone: (await drawSystemTableText("SKY - Tone")).toLowerCase(),
+    texture: (await drawSystemTableText("SKY - Texture")).toLowerCase(),
+    description: (await drawSystemTableText("WEATHER - Description")).toLowerCase(),
+    element: (await drawSystemTableText("WEATHER - Element")).toLowerCase()
+  });
+};
+
+export const generateLand = async () => {
+  return game.i18n.format("MB.Generator.Land", {
+    land_character: (await drawSystemTableText("LAND - Character")).toLowerCase(),
+    land_landscape: (await drawSystemTableText("LAND - Landscape")).toLowerCase(),
+    flora_nature: (await drawSystemTableText("FLORA - Nature")).toLowerCase(),
+    flora_form: (await drawSystemTableText("FLORA - Form")).toLowerCase(),
+    fauna_nature: (await drawSystemTableText("FAUNA - Nature")).toLowerCase(),
+    fauna_form: (await drawSystemTableText("FAUNA - Form")).toLowerCase(),
+    feature_nature: (await drawSystemTableText("FEATURE - Nature")).toLowerCase(),
+    feature_form: (await drawSystemTableText("FEATURE - Form")).toLowerCase()
   });
 };
 

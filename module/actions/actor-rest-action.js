@@ -19,8 +19,8 @@ export const actorRestAction = async (actor) => {
 
   const fatigueOutcome = actor.system.fatigue ? [{
     type: "fatigue",
-    title: game.i18n.localize("MB.Actor.Fatigue"),
-    description: game.i18n.localize("MB.FatigueRemoved")
+    title: game.i18n.localize("MB.Actor.Fatigued"),
+    description: game.i18n.localize("MB.FatiguedRemoved")
   }] : [];
 
   const outcomes = [...virtueOutcome, ...fatigueOutcome];

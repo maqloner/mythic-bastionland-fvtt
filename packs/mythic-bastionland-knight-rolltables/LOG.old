@@ -1,7 +1,24 @@
-2024/01/04-12:01:22.168 3ca4 Recovering log #80
-2024/01/04-12:01:22.208 3ca4 Delete type=3 #78
-2024/01/04-12:01:22.210 3ca4 Delete type=0 #80
-2024/01/05-10:16:01.668 3050 Level-0 table #85: started
-2024/01/05-10:16:01.669 3050 Level-0 table #85: 0 bytes OK
-2024/01/05-10:16:01.671 3050 Delete type=0 #83
-2024/01/05-10:16:01.678 3050 Manual compaction at level-0 from '!folders!1Kq9GZ7PfVEhdtzC' @ 72057594037927935 : 1 .. '!tables.results!zFAwRRmOWGbkJxfD.qZE9KNMTIYUVHkBf' @ 0 : 0; will stop at (end)
+2024/02/13-09:46:47.356 297c Recovering log #95
+2024/02/13-09:46:47.362 297c Level-0 table #98: started
+2024/02/13-09:46:47.374 297c Level-0 table #98: 97801 bytes OK
+2024/02/13-09:46:47.386 297c Delete type=0 #95
+2024/02/13-09:46:47.387 297c Delete type=3 #1
+2024/02/13-09:46:47.389 297c Delete type=3 #94
+2024/02/13-09:46:47.416 504c Compacting 3@0 + 0@1 files
+2024/02/13-09:46:47.425 504c Generated table #100@0: 1224 keys, 105262 bytes
+2024/02/13-09:46:47.425 504c Compacted 3@0 + 0@1 files => 105262 bytes
+2024/02/13-09:46:47.426 504c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-09:46:47.427 504c Delete type=2 #27
+2024/02/13-09:46:47.429 504c Delete type=2 #96
+2024/02/13-09:46:47.430 504c Delete type=2 #98
+2024/02/13-21:22:30.579 504c Level-0 table #102: started
+2024/02/13-21:22:30.586 504c Level-0 table #102: 4215 bytes OK
+2024/02/13-21:22:30.612 504c Delete type=0 #99
+2024/02/13-21:22:30.683 504c Manual compaction at level-0 from '!folders!0XZgtZVckrsuR6pn' @ 72057594037927935 : 1 .. '!tables.results!zbaHFh4UzM9XDye7.wczY1Xaqjc3LYk7k' @ 0 : 0; will stop at '!tables.results!zFAwRRmOWGbkJxfD.qZE9KNMTIYUVHkBf' @ 4003 : 0
+2024/02/13-21:22:30.683 504c Compacting 1@0 + 1@1 files
+2024/02/13-21:22:30.693 504c Generated table #103@0: 1080 keys, 96502 bytes
+2024/02/13-21:22:30.693 504c Compacted 1@0 + 1@1 files => 96502 bytes
+2024/02/13-21:22:30.694 504c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-21:22:30.696 504c Delete type=2 #100
+2024/02/13-21:22:30.697 504c Delete type=2 #102
+2024/02/13-21:22:30.700 504c Manual compaction at level-0 from '!tables.results!zFAwRRmOWGbkJxfD.qZE9KNMTIYUVHkBf' @ 4003 : 0 .. '!tables.results!zbaHFh4UzM9XDye7.wczY1Xaqjc3LYk7k' @ 0 : 0; will stop at (end)

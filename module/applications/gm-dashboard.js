@@ -28,6 +28,7 @@ class GMDashboard extends Application {
   async getData(options) {
     const data = super.getData(options);
     data.rollModes = CONST.DICE_ROLL_MODES;
+    data.myths = await this.#getMythTables();
     return data;
   }
 
@@ -39,9 +40,20 @@ class GMDashboard extends Application {
 
     html.find(".roll-sky-weather").on("click", (event) => this.#onRollGenerator(event, generateSkyWeather));
     html.find(".roll-person").on("click", (event) => this.#onRollGenerator(event, generatePerson));
-    html.find(".roll-land").on("click", (event) => this.#onRollGenerator(event, generateLand));    
-    html.find(".roll-holding").on("click", (event) => this.#onRollGenerator(event, generateHolding));   
-    html.find(".roll-beast").on("click", (event) => this.#onRollGenerator(event, generateBeast));       
+    html.find(".roll-land").on("click", (event) => this.#onRollGenerator(event, generateLand));
+    html.find(".roll-holding").on("click", (event) => this.#onRollGenerator(event, generateHolding));
+    html.find(".roll-beast").on("click", (event) => this.#onRollGenerator(event, generateBeast));
+  }
+
+  async #getMythTables() {
+    return game.packs
+      .get(config.coreRollTable)
+      .folders.find(folder => folder.name === "Myths")
+      .children.map(child => ({
+        name: child.folder.name,        
+        title: child.entries[0].name.split(" - ")[0].trim(),
+        tables: child.entries.map(entry => entry.name).join(";")
+      }));
   }
 
   async #onRollGenerator(event, generatorAction) {
@@ -53,7 +65,8 @@ class GMDashboard extends Application {
       outcomes: [{
         type: "generator-action",
         description: await generatorAction()
-      }]
+      }],
+      rollMode: this.element.find("[name=roll_mode]").val()
     });
   }
 

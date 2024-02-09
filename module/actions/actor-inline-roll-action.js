@@ -1,5 +1,7 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
+import { drawKnightRollTables } from "../generators/generator.js";
+
 import { evaluateFormula } from "../utils/utils.js";
 import { actorSaveAction } from "./actor-save-action.js";
 
@@ -14,11 +16,18 @@ import { actorSaveAction } from "./actor-save-action.js";
  * @returns 
  */
 export const actorInlineRollAction = async (actor, { formula, flavor, source, applyFatigue = false }) => {
-
   if (["vigour", "clarity", "spirit"].includes(flavor)) {
     return actorSaveAction(actor, { virtue: flavor, applyFatigue });
   }
 
+  if (flavor.includes("table-knight")) {
+    return await knightTableRoll(actor, { flavor });
+  }
+
+  await standardRoll(actor, { formula, flavor, source });
+};
+
+const standardRoll = async (actor, { formula, flavor, source }) => {
   const roll = await evaluateFormula(formula);
 
   const outcome = {
@@ -34,7 +43,7 @@ export const actorInlineRollAction = async (actor, { formula, flavor, source, ap
     title: getTitle({ flavor }),
     outcomes: [outcome]
   });
-};
+}
 
 const getTitle = ({ flavor }) => {
   switch (true) {
@@ -54,3 +63,26 @@ const getButtons = (actor, { flavor }) => {
       }];
   }
 };
+
+const knightTableRoll = async (actor, { flavor }) => {
+  const draw = await drawKnightRollTables(flavor
+    .replace("table-knight-", "")
+    .replace(/^[-]*(.)/, (_, c) => c.toUpperCase())
+    .replace(/[-]+(.)/g, (_, c) => ' ' + c.toUpperCase())
+  )
+
+  return await showChatMessage({
+    actor,
+    title: game.i18n.localize("MB.Draw"),
+    outcomes: [{
+      type: "table-knight",
+      title: Object.keys(draw)[0],
+      description: Object.values(draw)[0]
+    },
+    {
+      type: "table-knight",
+      title: Object.keys(draw)[1],
+      description: Object.values(draw)[1]
+    }]
+  });
+}

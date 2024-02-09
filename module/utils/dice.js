@@ -2,9 +2,10 @@
  * @param {Roll} roll
  * @return {Promise<void>}
  */
-export const showDice = async (roll) => {
+export const showDice = async (roll, rollMode = game.settings.get("core", "rollMode")) => {
   if (game.dice3d) {
-    await game.dice3d.showForRoll(roll, game.user, true, null, false);
+    const { whisper, blind } = ChatMessage.applyRollMode({}, rollMode);
+    await game.dice3d.showForRoll(roll, game.user, true, whisper.length > 0 ? whisper : null, blind);
   }
 };
 
@@ -26,9 +27,10 @@ export const playDiceSound = () => {
 
 /**
  * @param {Roll[]} rolls
+ * @param {String} rollMode
  */
-export const showDiceWithSound = async (rolls) => {
-  await showDice(Roll.fromTerms([PoolTerm.fromRolls(rolls)]));
+export const showDiceWithSound = async (rolls, rollMode = game.settings.get("core", "rollMode")) => {
+  await showDice(Roll.fromTerms([PoolTerm.fromRolls(rolls)]), rollMode);
   playDiceSound();
 };
 

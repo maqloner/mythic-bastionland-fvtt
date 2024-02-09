@@ -24,6 +24,22 @@ export const configureHandlebar = () => {
     return Array.isArray(v1);
   });
 
+  Handlebars.registerHelper('each-chunk', function (size, source, options) {
+    let chunk = [];
+    let out = "";
+    if (source && source.length > 0) {
+      for (let index = 0; index < source.length; index++) {
+        if (index > 0 && index % size === 0) {
+          out += options.fn(chunk);
+          chunk = [];
+        }
+        chunk.push(source[index]);
+      }
+      out += options.fn(chunk);
+    }
+    return out;
+  });
+
   loadTemplates({
     "item-list": `${config.systemPath}/templates/applications/sheet/actor/common/item-list.hbs`,
     "actor-list": `${config.systemPath}/templates/applications/sheet/actor/common/actor-list.hbs`,

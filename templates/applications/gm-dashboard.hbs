@@ -325,65 +325,16 @@
 
     <div class="tab tab-myths" data-group="primary" data-tab="myths">
       <div class="col col-12 p-1 gap-1">
-        <div class="grid">
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheDeadlyMalady"}}"
-              data-tables="THE DEATHLY MALADY - Fatal Symptom;THE DEATHLY MALADY - Transmission">{{localize "MB.Dashboard.TheDeadlyMalady"}}</button>
+        {{#each-chunk 3 myths}}
+          <div class="grid">          
+            {{#each this as |myth|}}
+              <div class="col col-4 pr-1">
+                <button class="button-primary roll-table-multi" data-label="{{myth.name}}"
+                  data-tables="{{myth.tables}}">{{myth.name}}</button>
+              </div>
+            {{/each}}
           </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.StretchesOfWall"}}"
-              data-tables="STRETCHES OF WALL - Condition;STRETCHES OF WALL - Watch Post">{{localize "MB.Dashboard.StretchesOfWall"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.MournfulForms"}}"
-              data-tables="MOURNFUL FORMS - Shape;MOURNFUL FORMS - Matter">{{localize "MB.Dashboard.MournfulForms"}}</button>
-          </div>
-        </div>
-        <div class="grid">
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.Riverboats"}}"
-              data-tables="RIVERBOATS - Travellers;RIVERBOATS - Intent">{{localize "MB.Dashboard.Riverboats"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.ThePoisonousYoung"}}"
-              data-tables="THE POISONOUS YOUNG - Form;THE POISONOUS YOUNG - Abomination">{{localize "MB.Dashboard.ThePoisonousYoung"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TradingTheLost"}}"
-              data-tables="TRADING THE LOST - Selling;TRADING THE LOST - Seeking">{{localize "MB.Dashboard.TradingTheLost"}}</button>
-          </div>
-        </div>
-
-        <div class="grid">
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheVerdyMaze"}}"
-              data-tables="THE VERDY MAZE - Place;THE VERDY MAZE - Omen">{{localize "MB.Dashboard.TheVerdyMaze"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheSigns"}}"
-              data-tables="THE SIGNS - First Sign;THE SIGNS - Second Sign">{{localize "MB.Dashboard.TheSigns"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.CompanyOfTheOrder"}}"
-              data-tables="COMPANY OF THE ORDER - Scholar-Knight;TRADING THE LOST - Seeking">{{localize "MB.Dashboard.CompanyOfTheOrder"}}</button>
-          </div>
-        </div>
-
-
-        <div class="grid">
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.TheCostOfUnlife"}}"
-              data-tables="THE COST OF UNLIFE - Raised by;THE COST OF UNLIFE - The Cost">{{localize "MB.Dashboard.TheCostOfUnlife"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.AVoiceInTheDarkness"}}"
-              data-tables="A VOICE IN THE DARKNESS - Origin;A VOICE IN THE DARKNESS - Purpose">{{localize "MB.Dashboard.AVoiceInTheDarkness"}}</button>
-          </div>
-          <div class="col col-4 pr-1">
-            <button class="button-primary roll-table-multi" data-label="{{localize "MB.Dashboard.WurmBehaviour"}}"
-              data-tables="WURM BEHAVIOUR - Conversation;WURM BEHAVIOUR - Combat">{{localize "MB.Dashboard.WurmBehaviour"}}</button>
-          </div>
-        </div>
+        {{/each-chunk}}
       </div>
     </div>
 
@@ -404,15 +355,15 @@
           <div class="col col-3 pr-1">
             <button class="button-primary roll-holding"
               data-title="{{localize "MB.Dashboard.Holding"}}">{{localize "MB.Dashboard.Holding"}}</button>
-          </div>          
+          </div>
           <div class="col col-3 pr-1">
             <button class="button-primary roll-land"
               data-title="{{localize "MB.Dashboard.Land"}}">{{localize "MB.Dashboard.Land"}}</button>
-          </div>          
+          </div>
           <div class="col col-3">
             <button class="button-primary roll-beast"
               data-title="{{localize "MB.Dashboard.Beast"}}">{{localize "MB.Dashboard.Beast"}}</button>
-          </div>          
+          </div>
         </div>
 
       </div>

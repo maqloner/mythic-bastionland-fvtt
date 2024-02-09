@@ -16,7 +16,7 @@ export const showChatMessage = async ({ actor, title, description, outcomes = []
   const rolls = outcomes.map((outcome) => outcome.roll).filter((roll) => roll);
 
   if (rolls.length) {
-    await showDiceWithSound(rolls);
+    await showDiceWithSound(rolls, rollMode);
   }
 
   return ChatMessage.create(ChatMessage.applyRollMode({

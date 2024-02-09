@@ -7,10 +7,10 @@
     "minimum": "11",
     "verified": "11.315"
   },
-  "url": "https://github.com/maqloner/mythic-bastionland-foundry-vtt",
-  "manifest": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/releases/latest/download/system.json",
-  "download": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/releases/latest/download/system.zip",
-  "changelog": "https://github.com/maqloner/mythic-bastionland-foundry-vtt/pirate-borg-system/main/CHANGELOG.md",
+  "url": "https://github.com/maqloner/mythic-bastionland-fvtt",
+  "manifest": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.json",
+  "download": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.zip",
+  "changelog": "https://github.com/maqloner/mythic-bastionland-fvtt/blob/main/CHANGELOG.md",
   "authors": [
     {
       "name": "Loner",

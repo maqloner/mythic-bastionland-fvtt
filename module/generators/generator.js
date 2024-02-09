@@ -121,8 +121,8 @@ export const generateKnightBiography = async ({ item, tables }) => `
   </p>
   <p>
     <strong>${item.system.flavor}</strong><br>
-    ${item.system.flavorLabel1} (${tables[item.system.flavorLabel1]})<br>
-    ${item.system.flavorLabel2} (${tables[item.system.flavorLabel2]})  
+    ${item.system.flavorLabel1}: ${tables[item.system.flavorLabel1]}<br>
+    ${item.system.flavorLabel2}: ${tables[item.system.flavorLabel2]}  
   </p>
 `;
 

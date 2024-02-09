@@ -1,4 +1,5 @@
 import { compendiumData } from "./compendium-data.js";
+export { compendiumData } from "./compendium-data.js";
 
 export const processAll = async () => {
   await processItems();

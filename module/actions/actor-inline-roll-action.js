@@ -21,7 +21,7 @@ export const actorInlineRollAction = async (actor, { formula, flavor, source, ap
   }
 
   if (flavor.includes("table-knight")) {
-    return await knightTableRoll(actor, { flavor });
+    return knightTableRoll(actor, { flavor });
   }
 
   await standardRoll(actor, { formula, flavor, source });
@@ -43,7 +43,7 @@ const standardRoll = async (actor, { formula, flavor, source }) => {
     title: getTitle({ flavor }),
     outcomes: [outcome]
   });
-}
+};
 
 const getTitle = ({ flavor }) => {
   switch (true) {
@@ -68,10 +68,10 @@ const knightTableRoll = async (actor, { flavor }) => {
   const draw = await drawKnightRollTables(flavor
     .replace("table-knight-", "")
     .replace(/^[-]*(.)/, (_, c) => c.toUpperCase())
-    .replace(/[-]+(.)/g, (_, c) => ' ' + c.toUpperCase())
-  )
+    .replace(/[-]+(.)/g, (_, c) => " " + c.toUpperCase())
+  );
 
-  return await showChatMessage({
+  return showChatMessage({
     actor,
     title: game.i18n.localize("MB.Draw"),
     outcomes: [{
@@ -85,4 +85,4 @@ const knightTableRoll = async (actor, { flavor }) => {
       description: Object.values(draw)[1]
     }]
   });
-}
+};

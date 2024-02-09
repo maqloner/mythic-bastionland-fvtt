@@ -24,7 +24,7 @@ export const configureHandlebar = () => {
     return Array.isArray(v1);
   });
 
-  Handlebars.registerHelper('each-chunk', function (size, source, options) {
+  Handlebars.registerHelper("each-chunk", function (size, source, options) {
     let chunk = [];
     let out = "";
     if (source && source.length > 0) {

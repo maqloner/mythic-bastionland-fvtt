@@ -1037,28 +1037,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Strands of Past",
-              description: "By studying the ground for a whole Phase you can ask a single yes or no question about what happened here in the past few days.",
+              description: "By studying the ground for a whole Phase you can ask a single yes or no question about what happened here in the past few days."
             },
             {
               type: "passion",
               name: "Fear",
-              description: "Restore SPI when refusing to go into the dark.",
+              description: "Restore SPI when refusing to go into the dark."
             },
             {
               type: "weapon",
               name: "Crow-beak axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Beaten gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Sanguine lens",
-              description: "Traces of blood appear obvious when viewed through this",
+              description: "Traces of blood appear obvious when viewed through this"
             }
           ]
         },
@@ -1076,28 +1076,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Patient Strike",
-              description: "Make a melee Attack when you have not moved this turn. +[[/roll d10 #damage]] to the Attack. Ignore the target’s Armour and immunities of any sort. If this fails to defeat the opponent, take [[/roll d6 #damage]] Damage yourself.",
+              description: "Make a melee Attack when you have not moved this turn. +[[/roll d10 #damage]] to the Attack. Ignore the target’s Armour and immunities of any sort. If this fails to defeat the opponent, take [[/roll d6 #damage]] Damage yourself."
             },
             {
               type: "passion",
               name: "Avarice",
-              description: "Restore SPI when you gain significant wealth.",
+              description: "Restore SPI when you gain significant wealth."
             },
             {
               type: "weapon",
               name: "Ancient greatblade",
               damage: "2d10",
-              slow: true,
+              slow: true
             },
             {
               type: "coat",
               name: "Ancient mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Amber amulet",
-              description: "If placed in a fire, carries its warmth for a whole day",
+              description: "If placed in a fire, carries its warmth for a whole day"
             }
           ]
         },
@@ -1115,28 +1115,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Pack Tactics",
-              description: "Use before attacking with at least one ally. You may combine any number of dice into larger dice with a value equal to the total of the combined dice, to a maximum of d12 Damage. For example, combining a d4 and a d8 into a d12.",
+              description: "Use before attacking with at least one ally. You may combine any number of dice into larger dice with a value equal to the total of the combined dice, to a maximum of d12 Damage. For example, combining a d4 and a d8 into a d12."
             },
             {
               type: "passion",
               name: "Prestige",
-              description: "Restore SPI when you take credit for the deeds of another.",
+              description: "Restore SPI when you take credit for the deeds of another."
             },
             {
               type: "weapon",
               name: "Blunt sword",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Ringed mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Rations from home",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -1154,30 +1154,30 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Fade to Green",
-              description: "Use when hiding still and silent in greenery. You cannot be found by any means. While hiding you can only perform a specific type of action without revealing yourself, but also benefit from a heightened sense (see below).",
+              description: "Use when hiding still and silent in greenery. You cannot be found by any means. While hiding you can only perform a specific type of action without revealing yourself, but also benefit from a heightened sense (see below)."
             },
             {
               type: "passion",
               name: "Elegance",
-              description: "Restore SPI when you leave a place more beautiful than you found it.",
+              description: "Restore SPI when you leave a place more beautiful than you found it."
             },
             {
               type: "weapon",
               name: "Branchspear",
               description: "When stabbed into a tree it is immovable by anyone but you",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Cloaked mail",
-              description: "A1 in verdant environments only",
+              description: "A1 in verdant environments only"
             },
             {
               type: "shield",
               name: "Shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -1195,24 +1195,24 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Will of the Irons",
-              description: "Move a single chain that you touch as if it was a limb. You can lash out with both ends ([[/roll d6 #damage]] each), grasp opponents, and otherwise move it to your will.",
+              description: "Move a single chain that you touch as if it was a limb. You can lash out with both ends ([[/roll d6 #damage]] each), grasp opponents, and otherwise move it to your will."
             },
             {
               type: "passion",
               name: "Abyss",
-              description: "Restore SPI when sleeping underground in complete darkness",
+              description: "Restore SPI when sleeping underground in complete darkness"
             },
             {
               type: "weapon",
               name: "Pronged mace",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Oubliette mail",
               description: "Wrapped in a Long iron chain",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -1230,29 +1230,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Rousing Presence",
-              description: "Use once per Attack when you are part of a group Attack. You may reroll the entire pool of Attack dice once only.",
+              description: "Use once per Attack when you are part of a group Attack. You may reroll the entire pool of Attack dice once only."
             },
             {
               type: "passion",
               name: "Sensitivity",
-              description: "Restore SPI when receiving social approval.",
+              description: "Restore SPI when receiving social approval."
             },
             {
               type: "weapon",
               name: "Banner-pike",
               description: "See below, lose [[/roll d6]] SPI if the banner ever falls to the ground in battle",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "Spikehammer",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "coat",
               name: "Ornate mail .",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -1270,25 +1270,25 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Wayfinder Sense",
-              description: "Sense the direction in which a particular goal lies, but not the best route to travel there. You cannot use this to find your lost home or the City.",
+              description: "Sense the direction in which a particular goal lies, but not the best route to travel there. You cannot use this to find your lost home or the City."
             },
             {
               type: "passion",
               name: "Inquisition",
-              description: "Restore SPI when you wrangle the truth out of an uncooperative person.",
+              description: "Restore SPI when you wrangle the truth out of an uncooperative person."
             },
             {
               type: "weapon",
               name: "Bitterglaive",
               description: "+[[/roll d8 #damage]] vs targets within their home",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Patchwork mail with hooded cloak",
               description: "Can be used to vanish into a significantly large crowd",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -1306,34 +1306,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Death Ward",
-              description: "Use when a nearby ally would take a Mortal Wound or be killed outright. You take a Mortal Wound instead.",
+              description: "Use when a nearby ally would take a Mortal Wound or be killed outright. You take a Mortal Wound instead."
             },
             {
               type: "passion",
               name: "Mortality",
-              description: "Restore SPI when you see an ally suffer a Mortal Wound.",
+              description: "Restore SPI when you see an ally suffer a Mortal Wound."
             },
             {
               type: "weapon",
               name: "Dull sword",
               damage: "2d6",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Tattered gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "shield",
               name: "Cracked shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Soothing salve",
-              description: "You prepare enough for one use each day, restores VIG, see below",
+              description: "You prepare enough for one use each day, restores VIG, see below"
             }
           ]
         },
@@ -1351,28 +1351,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Pain Strike",
-              description: "Make a melee Attack on your own. Damage is applied to GD as normal, but then to SPI in place of VIG. If the target loses half of their SPI from this Attack they lie broken before you.",
+              description: "Make a melee Attack on your own. Damage is applied to GD as normal, but then to SPI in place of VIG. If the target loses half of their SPI from this Attack they lie broken before you."
             },
             {
               type: "passion",
               name: "Reverence",
-              description: "Restore SPI when offering respectful homage to the dead.",
+              description: "Restore SPI when offering respectful homage to the dead."
             },
             {
               type: "weapon",
               name: "Spiny mace",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "weapon",
               name: "Whip",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Strange herbs",
-              description: "Different effect each time, see below. Enough for one dose each day. Effects wear off after an hour, but Virtue Loss remains",
+              description: "Different effect each time, see below. Enough for one dose each day. Effects wear off after an hour, but Virtue Loss remains"
             }
           ]
         },
@@ -1390,34 +1390,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Knight to mark it with your seal.",
-              description: "They can use Deny as if they were a Knight, but then the seal is removed.",
+              description: "They can use Deny as if they were a Knight, but then the seal is removed."
             },
             {
               type: "passion",
               name: "Modesty",
-              description: "Restore SPI when refusing a reward",
+              description: "Restore SPI when refusing a reward"
             },
             {
               type: "weapon",
               name: "Stout halberd",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Siege plate",
               description: "When the wearer braces against a door it cannot be breached",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "3 runic scrolls",
-              description: "See below, can only be read by Seers, who value them greatly",
+              description: "See below, can only be read by Seers, who value them greatly"
             }
           ]
         },
@@ -1435,30 +1435,30 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Carnage Fanfare",
-              description: "Blow the wild horn in battle. For the rest of this battle any VIG lost through Damage is doubled. This affects all involved in the battle, whether they hear the horn or not.",
+              description: "Blow the wild horn in battle. For the rest of this battle any VIG lost through Damage is doubled. This affects all involved in the battle, whether they hear the horn or not."
             },
             {
               type: "passion",
               name: "Bluntness",
-              description: "Restore SPI when you move the conversation in a way that somebody is avoiding.",
+              description: "Restore SPI when you move the conversation in a way that somebody is avoiding."
             },
             {
               type: "weapon",
               name: "Antler-halberd",
               description: "+[[/roll d10 #damage]] vs horned or antlered opponents",
               damage: "d8",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "Bow",
               damage: "d6",
-              long: true,
+              long: true
             },
             {
               type: "misc",
               name: "Wild horn",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -1476,34 +1476,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Strike of Serenity",
-              description: "Make a melee Attack against a wounded target. Get +[[/roll d8 #damage]] to the Attack. If this defeats the target then all allies restore SPI.",
+              description: "Make a melee Attack against a wounded target. Get +[[/roll d8 #damage]] to the Attack. If this defeats the target then all allies restore SPI."
             },
             {
               type: "passion",
               name: "Vengeance",
-              description: "Restore SPI when achieving a worthy revenge",
+              description: "Restore SPI when achieving a worthy revenge"
             },
             {
               type: "weapon",
               name: "Stout blade",
               damage: "2d6",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Gambeson ,",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Winged scale",
               description: "Can’t fly, but see below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Bright weeds",
-              description: "Create a cool glow when crushed to a powder",
+              description: "Create a cool glow when crushed to a powder"
             }
           ]
         },
@@ -1521,33 +1521,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Weaver of Fate",
-              description: "Just before night falls, tell a story related to a nearby place, noting two details past, present, or future. The Referee secretly chooses one of them to become truth. This can only be performed once per location.",
+              description: "Just before night falls, tell a story related to a nearby place, noting two details past, present, or future. The Referee secretly chooses one of them to become truth. This can only be performed once per location."
             },
             {
               type: "passion",
               name: "Showmanship",
-              description: "Restore SPI when you deliberately draw unwanted attention.",
+              description: "Restore SPI when you deliberately draw unwanted attention."
             },
             {
               type: "weapon",
               name: "Crook-blade",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Bronzestudded brigandine",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Book of stories",
-              description: "Something for everyone, see below for a random tale",
+              description: "Something for everyone, see below for a random tale"
             }
           ]
         },
@@ -1565,28 +1565,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Unbreakable Shell",
-              description: "Use at the start of your turn. You cannot move, but double the Armour score of your shield and gain +[[/roll d6 #damage]] when attacking with a shield.",
+              description: "Use at the start of your turn. You cannot move, but double the Armour score of your shield and gain +[[/roll d6 #damage]] when attacking with a shield."
             },
             {
               type: "passion",
               name: "Wellrestedness",
-              description: "Restore SPI when you sleep for two consecutive Phases.",
+              description: "Restore SPI when you sleep for two consecutive Phases."
             },
             {
               type: "weapon",
               name: "Beakhammer",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "shield",
               name: "Battered tower shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Drinking horn",
-              description: "Makes even disgusting liquids taste good, see below",
+              description: "Makes even disgusting liquids taste good, see below"
             }
           ]
         },
@@ -1604,34 +1604,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Retroactive Forethought",
-              description: "Once per day, produce a common item from your backpack that you could have reasonably acquired at a recent point.",
+              description: "Once per day, produce a common item from your backpack that you could have reasonably acquired at a recent point."
             },
             {
               type: "passion",
               name: "Distraction",
-              description: "Restore SPI when you abandon a set plan.",
+              description: "Restore SPI when you abandon a set plan."
             },
             {
               type: "weapon",
               name: "Horned axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Kite shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Ring of keys",
-              description: "For any lock there’s a 1-in-3 chance you can find a key that fits",
+              description: "For any lock there’s a 1-in-3 chance you can find a key that fits"
             },
             {
               type: "misc",
               name: "Bag of ill-gotten gains",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -1649,29 +1649,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Wading Stance",
-              description: "Gain 1 Armour and +[[/roll d6 #damage]] to all attacks when fighting in at least waist-high water.",
+              description: "Gain 1 Armour and +[[/roll d6 #damage]] to all attacks when fighting in at least waist-high water."
             },
             {
               type: "passion",
               name: "Filth",
-              description: "Restore SPI when you become utterly filthy.",
+              description: "Restore SPI when you become utterly filthy."
             },
             {
               type: "weapon",
               name: "Spiked flail",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Barbed mail",
               description: "Anyone trying to grab or hold you takes [[/roll d6 #damage]] Damage",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Moat shovel",
-              description: "Any hole dug with this immediately begins to fill with water, stopping when full",
+              description: "Any hole dug with this immediately begins to fill with water, stopping when full"
             }
           ]
         },
@@ -1689,34 +1689,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Unstoppable Dash",
-              description: "When you are in motion you cannot be stopped, but sustain [[/roll d12 #damage]] Damage if breaking through a solid wall or object. You cannot sustain this motion for long distances.",
+              description: "When you are in motion you cannot be stopped, but sustain [[/roll d12 #damage]] Damage if breaking through a solid wall or object. You cannot sustain this motion for long distances."
             },
             {
               type: "passion",
               name: "Strength",
-              description: "Restore SPI when you complete a physical task that somebody else was struggling with.",
+              description: "Restore SPI when you complete a physical task that somebody else was struggling with."
             },
             {
               type: "weapon",
               name: "Siege hammer",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Fancy plate",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Hand-written book",
-              description: "“Of Time-Tested Guidance in the Construction and Destruction of Fortresses, Ramparts, and Castles”",
+              description: "“Of Time-Tested Guidance in the Construction and Destruction of Fortresses, Ramparts, and Castles”"
             }
           ]
         },
@@ -1734,34 +1734,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Humble Glamourie",
-              description: "After eating and drinking with somebody for a few hours they consider you trustworthy enough to speak openly about anything you ask about. The next day they come to their senses and realise if they revealed too much.",
+              description: "After eating and drinking with somebody for a few hours they consider you trustworthy enough to speak openly about anything you ask about. The next day they come to their senses and realise if they revealed too much."
             },
             {
               type: "passion",
               name: "Revelry",
-              description: "Restore SPI when socially overindulging.",
+              description: "Restore SPI when socially overindulging."
             },
             {
               type: "weapon",
               name: "Eagle axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Roundshield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "coat",
               name: "Mail shirt",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Scar from a friend betrayed",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -1779,28 +1779,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Arboreal Archive",
-              description: "Spend a Phase running hands over a tree to access its memory, seeing anything that happened under its shade or over its roots.",
+              description: "Spend a Phase running hands over a tree to access its memory, seeing anything that happened under its shade or over its roots."
             },
             {
               type: "passion",
               name: "Alertness",
-              description: "Restore SPI when you spot an ambush, trap, or surprise attack.",
+              description: "Restore SPI when you spot an ambush, trap, or surprise attack."
             },
             {
               type: "weapon",
               name: "Blade-staff",
               damage: "2d8",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Ringmail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Sack of books",
-              description: "1-in-2 chance you have a small snippet of information on any particular topic at hand, otherwise you find a miscellaneous tome, as below",
+              description: "1-in-2 chance you have a small snippet of information on any particular topic at hand, otherwise you find a miscellaneous tome, as below"
             }
           ]
         },
@@ -1818,28 +1818,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Unnoticed Deed",
-              description: "Once per day you can retroactively declare an action that you took earlier that day, such as giving instructions to an ally, or gathering a specific piece of information. This cannot be used to acquire new items.",
+              description: "Once per day you can retroactively declare an action that you took earlier that day, such as giving instructions to an ally, or gathering a specific piece of information. This cannot be used to acquire new items."
             },
             {
               type: "passion",
               name: "Anonymity",
-              description: "Restore SPI when somebody believes in a false identity you are portraying.",
+              description: "Restore SPI when somebody believes in a false identity you are portraying."
             },
             {
               type: "weapon",
               name: "Glaive",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "3 throwing axes",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Cloak and hood",
-              description: "See below, while fully cloaked and hooded, people will see you in the moment, but have no memory of you once you pass from sight",
+              description: "See below, while fully cloaked and hooded, people will see you in the moment, but have no memory of you once you pass from sight"
             }
           ]
         },
@@ -1857,12 +1857,12 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Shattering Charge",
-              description: "Once per day, make a solo mounted charging Attack with a lance. The Attack gains +[[/roll d12 #damage]], Blast, and Gambits caused by the Attack count as strong. The lance is shattered.",
+              description: "Once per day, make a solo mounted charging Attack with a lance. The Attack gains +[[/roll d12 #damage]], Blast, and Gambits caused by the Attack count as strong. The lance is shattered."
             },
             {
               type: "passion",
               name: "Adventure",
-              description: "Restore SPI when you enter a Myth Hex.",
+              description: "Restore SPI when you enter a Myth Hex."
             },
             {
               type: "weapon",
@@ -1870,24 +1870,24 @@ export const compendiumData = {
               description: "Hefty if mounted",
               damage: "d10",
               long: true,
-              hefty: true,
+              hefty: true
             },
             {
               type: "weapon",
               name: "Spiked mace",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Kite shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Mystic sight",
-              description: "You can see something you shouldn't be able to, see below",
+              description: "You can see something you shouldn't be able to, see below"
             }
           ]
         },
@@ -1905,33 +1905,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Pledge Quest",
-              description: "Swear a quest to somebody who cares. Until you complete the quest you cannot regain lost GD, but get +[[/roll d12 #damage]] on all attacks against those who stand in your way. Lose [[/roll d12]] SPI if you abandon the quest.",
+              description: "Swear a quest to somebody who cares. Until you complete the quest you cannot regain lost GD, but get +[[/roll d12 #damage]] on all attacks against those who stand in your way. Lose [[/roll d12]] SPI if you abandon the quest."
             },
             {
               type: "passion",
               name: "Impetuosity",
-              description: "Restore SPI when you are first to fight.",
+              description: "Restore SPI when you are first to fight."
             },
             {
               type: "weapon",
               name: "Ancient sword",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "shield",
               name: "Kite shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "weapon",
               name: "3 javelins",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Cold stone",
-              description: "Can absorb a single ailment from the wielder before vanishing in a burning light",
+              description: "Can absorb a single ailment from the wielder before vanishing in a burning light"
             }
           ]
         },
@@ -1949,28 +1949,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Unbreakable Circle",
-              description: "Draw a circle in the ground, with yourself in the centre. Until you leave the circle, no other living being can enter or leave it.",
+              description: "Draw a circle in the ground, with yourself in the centre. Until you leave the circle, no other living being can enter or leave it."
             },
             {
               type: "passion",
               name: "Respectfulness",
-              description: "Restore SPI when returning something to its rightful owner after it was lost or taken.",
+              description: "Restore SPI when returning something to its rightful owner after it was lost or taken."
             },
             {
               type: "weapon",
               name: "Long mace",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Violet mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Pair of rings",
-              description: "See below, can only be put on or removed at sunrise",
+              description: "See below, can only be put on or removed at sunrise"
             }
           ]
         },
@@ -1988,12 +1988,12 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Tempering Strike",
-              description: "When you cause a Wound with a melee weapon, that weapon receives +[[/roll d6 #damage]] until the end of combat. This effect can stack.",
+              description: "When you cause a Wound with a melee weapon, that weapon receives +[[/roll d6 #damage]] until the end of combat. This effect can stack."
             },
             {
               type: "passion",
               name: "Burning",
-              description: "Restore SPI when you are wounded by fire.",
+              description: "Restore SPI when you are wounded by fire."
             },
             {
               type: "weapon",
@@ -2001,27 +2001,27 @@ export const compendiumData = {
               description: "Long in melee or slow in ranged",
               damage: "d10",
               long: true,
-              slow: true,
+              slow: true
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Scale",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Scars from the forge",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "misc",
               name: "Pots of forge dust",
-              description: "Spreads irritating gas in the area when broken, Impairing attacks from within. You can make more anywhere with a forge",
+              description: "Spreads irritating gas in the area when broken, Impairing attacks from within. You can make more anywhere with a forge"
             }
           ]
         },
@@ -2039,33 +2039,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Destinous Sigil",
-              description: "At sunset, etch a cosmic rune somewhere secret on your person. Choose a number. When a die rolls that number you may adjust it to any other value on that die. This can be performed a number of times equal to the chosen number. A different number is chosen next sunset.",
+              description: "At sunset, etch a cosmic rune somewhere secret on your person. Choose a number. When a die rolls that number you may adjust it to any other value on that die. This can be performed a number of times equal to the chosen number. A different number is chosen next sunset."
             },
             {
               type: "passion",
               name: "Foresight",
-              description: "Restore SPI when your prediction is proven to be correct.",
+              description: "Restore SPI when your prediction is proven to be correct."
             },
             {
               type: "weapon",
               name: "Pillar of inscribed stone",
               damage: "2d10",
-              slow: true,
+              slow: true
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Iron chestplate",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Sealed crystal flask",
-              description: "See below, roll once only, and you know the effect",
+              description: "See below, roll once only, and you know the effect"
             }
           ]
         },
@@ -2083,29 +2083,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Carrion’s Call",
-              description: "Speak with scavenger creatures, and summon them to you. They’re only helpful if you’re providing them with food.",
+              description: "Speak with scavenger creatures, and summon them to you. They’re only helpful if you’re providing them with food."
             },
             {
               type: "passion",
               name: "Misery",
-              description: "Restore SPI when you meet somebody new and complain to them about something.",
+              description: "Restore SPI when you meet somebody new and complain to them about something."
             },
             {
               type: "weapon",
               name: "Neck-catcher",
               description: "Wounded targets are snared securely around the neck, provided they have one",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "misc",
               name: "Salvaged armour",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "misc",
               name: "Titan beads",
-              description: "3 polished stones. When thrown they transform into a huge boulder mid-air, striking for [[/roll d10 #damage]] blast",
+              description: "3 polished stones. When thrown they transform into a huge boulder mid-air, striking for [[/roll d10 #damage]] blast"
             }
           ]
         },
@@ -2123,33 +2123,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Dawn Contemplation",
-              description: "At sunrise each day, choose any area of knowledge. You can ask the Referee three questions within this area, which they answer honestly with yes, no, or maybe if uncertain.",
+              description: "At sunrise each day, choose any area of knowledge. You can ask the Referee three questions within this area, which they answer honestly with yes, no, or maybe if uncertain."
             },
             {
               type: "passion",
               name: "Introversion",
-              description: "Restore SPI when you refuse a formal social gathering, or leave early.",
+              description: "Restore SPI when you refuse a formal social gathering, or leave early."
             },
             {
               type: "weapon",
               name: "Heavy staff",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Brass-studded brigandine",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Perfect recall",
-              description: "You remember everything you have ever experienced perfectly, with a few limitations, see below",
+              description: "You remember everything you have ever experienced perfectly, with a few limitations, see below"
             }
           ]
         },
@@ -2167,29 +2167,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Star Fall",
-              description: "You never suffer Damage from falling, unless landing on something harmful. When you land from a fall of at least 12ft you may release a shockwave ([[/roll d8 #damage]] blast).",
+              description: "You never suffer Damage from falling, unless landing on something harmful. When you land from a fall of at least 12ft you may release a shockwave ([[/roll d8 #damage]] blast)."
             },
             {
               type: "passion",
               name: "Authenticity",
-              description: "Restore SPI when you reveal your identity or intentions at an inconvenient moment.",
+              description: "Restore SPI when you reveal your identity or intentions at an inconvenient moment."
             },
             {
               type: "weapon",
               name: "Elaborate trident",
               description: "See below",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Brass mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Moon oil",
-              description: "When rubbed on an object you could lift it renders the object weightless until washed with water",
+              description: "When rubbed on an object you could lift it renders the object weightless until washed with water"
             }
           ]
         },
@@ -2207,33 +2207,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Glimpse of Fate",
-              description: "Once per day you can undo a single action performed by you or your Company, declaring it was in fact a minor vision you received. Play as if it never happened.",
+              description: "Once per day you can undo a single action performed by you or your Company, declaring it was in fact a minor vision you received. Play as if it never happened."
             },
             {
               type: "passion",
               name: "Respect",
-              description: "Restore SPI when you yield to a Seer.",
+              description: "Restore SPI when you yield to a Seer."
             },
             {
               type: "misc",
               name: "Toothed blade",
               description: "D8 , +[[/roll d8 #damage]] against Seers",
-              hefty: true,
+              hefty: true
             },
             {
               type: "misc",
               name: "Tapestry cloak",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Flickerlamp",
-              description: "A warm lantern that casts its shadows toward the nearest Seer",
+              description: "A warm lantern that casts its shadows toward the nearest Seer"
             }
           ]
         },
@@ -2251,29 +2251,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Lowly Shroud",
-              description: "At any time you may choose to have somebody observing you be utterly convinced that you are just a humble, unarmed peasant, and your steed a mule.",
+              description: "At any time you may choose to have somebody observing you be utterly convinced that you are just a humble, unarmed peasant, and your steed a mule."
             },
             {
               type: "passion",
               name: "Kindness",
-              description: "Restore SPI when you stop an act of cruelty.",
+              description: "Restore SPI when you stop an act of cruelty."
             },
             {
               type: "weapon",
               name: "Weighted staff",
               description: "Long",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Polished chainmail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "3 explosives",
-              description: "[[/roll d8 #damage]] blast, see below",
+              description: "[[/roll d8 #damage]] blast, see below"
             }
           ]
         },
@@ -2291,34 +2291,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Luminous Eruption",
-              description: "Use once per Phase. A light source you are holding briefly illuminates the entire Hex and causes [[/roll d12 #damage]] Damage to nearby beings who live in darkness.",
+              description: "Use once per Phase. A light source you are holding briefly illuminates the entire Hex and causes [[/roll d12 #damage]] Damage to nearby beings who live in darkness."
             },
             {
               type: "passion",
               name: "Valour",
-              description: "Restore SPI when you engage in combat against the odds.",
+              description: "Restore SPI when you engage in combat against the odds."
             },
             {
               type: "weapon",
               name: "Crescent axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Ringmail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "shield",
               name: "Kite shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Mistvial",
-              description: "When broken, thick mist rolls in over the whole Hex for the rest of the Phase. See below for repair requirements",
+              description: "When broken, thick mist rolls in over the whole Hex for the rest of the Phase. See below for repair requirements"
             }
           ]
         },
@@ -2336,34 +2336,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Heightened Sharpness",
-              description: "When you perform a Strong Gambit with a bladed weapon you may choose one of the following as the effect, the target receiving a Save as normal: • Take a limb • Take a head if their GD is 0",
+              description: "When you perform a Strong Gambit with a bladed weapon you may choose one of the following as the effect, the target receiving a Save as normal: • Take a limb • Take a head if their GD is 0"
             },
             {
               type: "passion",
               name: "Diligence",
-              description: "Restore SPI when refusing a shortcut.",
+              description: "Restore SPI when refusing a shortcut."
             },
             {
               type: "weapon",
               name: "Cleavingblade",
               description: "See below",
               damage: "2d8",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Plate pauldrons",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Inscribed scabbard",
-              description: "Shows a different scene each morning, hinting at the nearest Myth",
+              description: "Shows a different scene each morning, hinting at the nearest Myth"
             }
           ]
         },
@@ -2381,34 +2381,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Reflection of Blood",
-              description: "When you are Wounded, the attacker suffers the same amount of VIG loss as you. When you are Scarred the attacker gets the same Scar.",
+              description: "When you are Wounded, the attacker suffers the same amount of VIG loss as you. When you are Scarred the attacker gets the same Scar."
             },
             {
               type: "passion",
               name: "Egality",
-              description: "Restore SPI when you give somebody else their fair share.",
+              description: "Restore SPI when you give somebody else their fair share."
             },
             {
               type: "weapon",
               name: "Hook-axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "weapon",
               name: "3 throwing axes",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "shield",
               name: "Round shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Hushingbell",
-              description: "Those who hear the bell hear nothing else",
+              description: "Those who hear the bell hear nothing else"
             }
           ]
         },
@@ -2426,33 +2426,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Sunder Memory",
-              description: "When you Wound a target you can rob them of a single specific memory. If it is a Mortal Wound then you can remove all memory of a specific place, thing, person, or event.",
+              description: "When you Wound a target you can rob them of a single specific memory. If it is a Mortal Wound then you can remove all memory of a specific place, thing, person, or event."
             },
             {
               type: "passion",
               name: "Temperance",
-              description: "Restore SPI when you refuse a luxury.",
+              description: "Restore SPI when you refuse a luxury."
             },
             {
               type: "weapon",
               name: "Longhammer",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "3 javelins",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Pouch of wolfnuts",
-              description: "Repellent to canines",
+              description: "Repellent to canines"
             },
             {
               type: "misc",
               name: "Poem on tattered parchment",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -2470,39 +2470,39 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Thrown to Chance",
-              description: "Use instead of attacking normally. Flip a coin. Heads the target is killed, tails you are killed. This is final.",
+              description: "Use instead of attacking normally. Flip a coin. Heads the target is killed, tails you are killed. This is final."
             },
             {
               type: "passion",
               name: "Generosity",
-              description: "Restore SPI when you give generously to somebody in need.",
+              description: "Restore SPI when you give generously to somebody in need."
             },
             {
               type: "weapon",
               name: "Morningstar",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Roundshield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Stone-studded brigandine",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Jaunty flute",
-              description: "Can only play a certain type of music, see below",
+              description: "Can only play a certain type of music, see below"
             }
           ]
         },
@@ -2520,24 +2520,24 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Impression of Life",
-              description: "You do not need to breathe, eat, drink, sleep, or love, but still feel the drives.",
+              description: "You do not need to breathe, eat, drink, sleep, or love, but still feel the drives."
             },
             {
               type: "passion",
               name: "Imitation",
-              description: "Restore SPI when you pass for human while under scrutiny.",
+              description: "Restore SPI when you pass for human while under scrutiny."
             },
             {
               type: "weapon",
               name: "War flail",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "plate",
               name: "Unnatural body concealed beneath plate suit, hood, and clothes",
               description: "See below",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -2555,34 +2555,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Thousand Faces",
-              description: "You can assume the face of anybody you have touched, but your body and voice are unchanged.",
+              description: "You can assume the face of anybody you have touched, but your body and voice are unchanged."
             },
             {
               type: "passion",
               name: "Vigilance",
-              description: "Restore SPI when you prevent a betrayal.",
+              description: "Restore SPI when you prevent a betrayal."
             },
             {
               type: "weapon",
               name: "Splittingaxe",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "helm",
               name: "Masked helm",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Star ink and parchment",
-              description: "Writing only shows under starlight at night",
+              description: "Writing only shows under starlight at night"
             }
           ]
         },
@@ -2600,28 +2600,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Bone Magnate",
-              description: "When you make a genuine trade, a bone for a bone, learn something about the individual that the acquired bone came from, or something that they knew in life.",
+              description: "When you make a genuine trade, a bone for a bone, learn something about the individual that the acquired bone came from, or something that they knew in life."
             },
             {
               type: "passion",
               name: "Acumen",
-              description: "Restore SPI when you come out better from a bargain.",
+              description: "Restore SPI when you come out better from a bargain."
             },
             {
               type: "misc",
               name: "Needledagger",
-              description: "D6, +[[/roll d6 #damage]] against armoured targets",
+              description: "D6, +[[/roll d6 #damage]] against armoured targets"
             },
             {
               type: "shield",
               name: "Jagged buckler",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Box of bones",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -2639,33 +2639,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Inspire Ire",
-              description: "Activate at the end of your turn. Until the next turn, any enemies that Attack targets other than you lose [[/roll d10]] SPI after the Attack.",
+              description: "Activate at the end of your turn. Until the next turn, any enemies that Attack targets other than you lose [[/roll d10]] SPI after the Attack."
             },
             {
               type: "passion",
               name: "Mettle",
-              description: "Restore SPI when accepting a non-combat challenge with the odds set against you.",
+              description: "Restore SPI when accepting a non-combat challenge with the odds set against you."
             },
             {
               type: "weapon",
               name: "Spined mace",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "weapon",
               name: "Javelin",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "coat",
               name: "Coraline mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Everflask",
-              description: "Contains an endless supply of fresh water as  as its thirst is sated with each use, see below",
+              description: "Contains an endless supply of fresh water as  as its thirst is sated with each use, see below"
             }
           ]
         },
@@ -2683,33 +2683,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Light Beyond Light",
-              description: "You can cause any metal object you hold to emit a bright light that only you can see. Bees, butterflies, and hedgehogs can also see the light.",
+              description: "You can cause any metal object you hold to emit a bright light that only you can see. Bees, butterflies, and hedgehogs can also see the light."
             },
             {
               type: "passion",
               name: "Positivity",
-              description: "Restore SPI when you raise somebody’s mood.",
+              description: "Restore SPI when you raise somebody’s mood."
             },
             {
               type: "weapon",
               name: "Grand mace",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Reflective scale",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Flattering handmirror",
-              description: "Shows the viewer’s ideal vision of themselves",
+              description: "Shows the viewer’s ideal vision of themselves"
             }
           ]
         },
@@ -2727,22 +2727,22 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Celestial Retreat",
-              description: "While you can see the sky you can instantly vanish to a distant sanctuary, leaving a small glowing stone behind. You can rematerialise at the stone at any time.",
+              description: "While you can see the sky you can instantly vanish to a distant sanctuary, leaving a small glowing stone behind. You can rematerialise at the stone at any time."
             },
             {
               type: "passion",
               name: "Constellations",
-              description: "Restore SPI when you get tell somebody new about the stars as you point to them.",
+              description: "Restore SPI when you get tell somebody new about the stars as you point to them."
             },
             {
               type: "weapon",
               name: "Strange crossbow",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "misc",
               name: "Echostone",
-              description: "Can record and repeat one spoken phrase",
+              description: "Can record and repeat one spoken phrase"
             }
           ]
         },
@@ -2760,33 +2760,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Site of Respite",
-              description: "You may declare a building that you occupy as peaceful ground. Nobody within the building can bring themselves to attack until you leave.",
+              description: "You may declare a building that you occupy as peaceful ground. Nobody within the building can bring themselves to attack until you leave."
             },
             {
               type: "passion",
               name: "Quietude",
-              description: "Restore SPI when bringing peaceful order to a chaotic place.",
+              description: "Restore SPI when bringing peaceful order to a chaotic place."
             },
             {
               type: "weapon",
               name: "Spear",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "misc",
-              name: "White cloak",
+              name: "White cloak"
             },
             {
               type: "shield",
               name: "Broadshield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Mummified snake",
-              description: "Reptiles will not attack anyone holding it, it speaks to your mind directly, see below",
+              description: "Reptiles will not attack anyone holding it, it speaks to your mind directly, see below"
             }
           ]
         },
@@ -2804,40 +2804,40 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Cunning Ploy",
-              description: "Once per day, declare your current self to be an illusion, dispersing into smoke. The real you is watching from a safe place nearby.",
+              description: "Once per day, declare your current self to be an illusion, dispersing into smoke. The real you is watching from a safe place nearby."
             },
             {
               type: "passion",
               name: "Wits",
-              description: "Restore SPI when you avoid being tricked or outwitted.",
+              description: "Restore SPI when you avoid being tricked or outwitted."
             },
             {
               type: "weapon",
               name: "Jagged blade",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Buckler",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "helm",
               name: "Foxhelm",
-              armor: 1,
+              armor: 1
             },
             {
               type: "weapon",
               name: "Hidden blade",
               description: "See below",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Sealing wax",
-              description: "Can render any container watertight and airtight",
+              description: "Can render any container watertight and airtight"
             }
           ]
         },
@@ -2855,33 +2855,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Guiding Gust",
-              description: "Ascend to the top of a vertical surface you are touching, lifted on a burst of wind.",
+              description: "Ascend to the top of a vertical surface you are touching, lifted on a burst of wind."
             },
             {
               type: "passion",
               name: "Joy",
-              description: "Restore SPI when you deliver good news.",
+              description: "Restore SPI when you deliver good news."
             },
             {
               type: "weapon",
               name: "Hooked blade",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Patchwork mail",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
-              name: "Patterned cloak",
+              name: "Patterned cloak"
             },
             {
               type: "misc",
               name: "Blinding bracelet",
-              description: "Anybody wearing the bracelet is blind until they take it off",
+              description: "Anybody wearing the bracelet is blind until they take it off"
             }
           ]
         },
@@ -2899,28 +2899,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Scourer’s Sense",
-              description: "If you are searching for something specific you always know for sure whether it is in your immediate surroundings or not.",
+              description: "If you are searching for something specific you always know for sure whether it is in your immediate surroundings or not."
             },
             {
               type: "passion",
               name: "Heraldry",
-              description: "Restore SPI when you announce the owner of a banner, crest, or coat of arms, which you can always recognise.",
+              description: "Restore SPI when you announce the owner of a banner, crest, or coat of arms, which you can always recognise."
             },
             {
               type: "weapon",
               name: "Heavy cudgel",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "weapon",
               name: "3 javelins",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Twofold pouch containing a memento",
-              description: "Items you place in the pouch can only be retrieved by you, see below",
+              description: "Items you place in the pouch can only be retrieved by you, see below"
             }
           ]
         },
@@ -2938,33 +2938,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Spirit Call",
-              description: "Once per day, release the invisible spirit from your reliquary. It will follow a single, specific command. It acts with the general capacities of a normal human but can be invisible and immaterial as needed.",
+              description: "Once per day, release the invisible spirit from your reliquary. It will follow a single, specific command. It acts with the general capacities of a normal human but can be invisible and immaterial as needed."
             },
             {
               type: "passion",
               name: "Tradition",
-              description: "Restore SPI when you ensure a tradition is thoroughly honoured.",
+              description: "Restore SPI when you ensure a tradition is thoroughly honoured."
             },
             {
               type: "weapon",
               name: "War sickle",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Gambeson",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Carved plate",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Sack of history tomes, treasured reliquary",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -2982,28 +2982,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Carrion Casting",
-              description: "Spread the innards of the recently dead across the ground. Ask a single question, they point you in a direction that would help.",
+              description: "Spread the innards of the recently dead across the ground. Ask a single question, they point you in a direction that would help."
             },
             {
               type: "passion",
               name: "Thrift",
-              description: "Restore SPI when you make good use of something you found discarded.",
+              description: "Restore SPI when you make good use of something you found discarded."
             },
             {
               type: "misc",
               name: "Black axe",
-              description: "D10 , +[[/roll d10 #damage]] vs wounded targets",
+              description: "D10 , +[[/roll d10 #damage]] vs wounded targets"
             },
             {
               type: "coat",
               name: "Sinister mail",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Spidernip nuts",
-              description: "Acts as a pleasing stimulant for insects and arachnids when ground to a powder",
+              description: "Acts as a pleasing stimulant for insects and arachnids when ground to a powder"
             }
           ]
         },
@@ -3021,30 +3021,30 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Bond Breaker",
-              description: "Strike a chain or lock with a metal weapon. Both shatter loudly.",
+              description: "Strike a chain or lock with a metal weapon. Both shatter loudly."
             },
             {
               type: "passion",
               name: "Liberty",
-              description: "Restore SPI when you release somebody from an unwanted bond.",
+              description: "Restore SPI when you release somebody from an unwanted bond."
             },
             {
               type: "weapon",
               name: "Hooked flail",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Hexshield",
               description: "See below",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Tempest chest",
-              description: "When empty, it can draw a storm within, restoring calm weather. If opened when full the storm is released",
+              description: "When empty, it can draw a storm within, restoring calm weather. If opened when full the storm is released"
             }
           ]
         },
@@ -3062,29 +3062,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Adamant Gossamer",
-              description: "You can draw thin strands of silky string of any length from your mouth. They are utterly unbreakable, but burn to ash in an instant.",
+              description: "You can draw thin strands of silky string of any length from your mouth. They are utterly unbreakable, but burn to ash in an instant."
             },
             {
               type: "passion",
               name: "Mercy",
-              description: "Restore SPI when you accept a surrender or plea for forgiveness.",
+              description: "Restore SPI when you accept a surrender or plea for forgiveness."
             },
             {
               type: "weapon",
               name: "Delicate halberd",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Woven coat armour",
               description: "No protection against fire",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Intricate brass puzzle",
-              description: "Compelling but impossible",
+              description: "Compelling but impossible"
             }
           ]
         },
@@ -3102,28 +3102,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Bestial Renown",
-              description: "Each time you defeat an animal in a contest befitting its strengths, all animals of that type will react favourably to you.",
+              description: "Each time you defeat an animal in a contest befitting its strengths, all animals of that type will react favourably to you."
             },
             {
               type: "passion",
               name: "Closure",
-              description: "Restore SPI when you get an answer that you’ve been seeking for some time.",
+              description: "Restore SPI when you get an answer that you’ve been seeking for some time."
             },
             {
               type: "weapon",
               name: "Fang blades",
               description: "[[/roll d8 #damage]] each when wielded as a pair",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "coat",
               name: "Knotted coat",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "3 phoenix feathers",
-              description: "Erupts in flame when dropped on the ground, [[/roll d8 #damage]] blast",
+              description: "Erupts in flame when dropped on the ground, [[/roll d8 #damage]] blast"
             }
           ]
         },
@@ -3141,34 +3141,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Nature’s Vault",
-              description: "You can wield branches as javelins ([[/roll d6 #damage]]) or greatspears ([[/roll d10 #damage]] long) and eat leaves as a satisfying meal.",
+              description: "You can wield branches as javelins ([[/roll d6 #damage]]) or greatspears ([[/roll d10 #damage]] long) and eat leaves as a satisfying meal."
             },
             {
               type: "passion",
               name: "Gourmet",
-              description: "Restore SPI when you eat a new type of fruit or vegetable.",
+              description: "Restore SPI when you eat a new type of fruit or vegetable."
             },
             {
               type: "weapon",
               name: "Hooked club",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Verdant leather",
               description: "While within foliage",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Useful stick",
-              description: "See below",
+              description: "See below"
             },
             {
               type: "misc",
               name: "Murmur box",
-              description: "Creates the illusion of indistinct conversation when open",
+              description: "Creates the illusion of indistinct conversation when open"
             }
           ]
         },
@@ -3186,29 +3186,29 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Touch of Glass",
-              description: "You can see through any surface that you place your hand upon.",
+              description: "You can see through any surface that you place your hand upon."
             },
             {
               type: "passion",
               name: "Curiosity",
-              description: "Restore SPI when looking somewhere you really shouldn’t.",
+              description: "Restore SPI when looking somewhere you really shouldn’t."
             },
             {
               type: "weapon",
               name: "Two-pronged pike",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Painted mail",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Witching needle",
-              description: "A six-inch spike, can be stuck into any material, and cannot be removed by anybody but you or a Seer",
+              description: "A six-inch spike, can be stuck into any material, and cannot be removed by anybody but you or a Seer"
             }
           ]
         },
@@ -3226,28 +3226,28 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Chrysaline Rebirth",
-              description: "At night you may immerse yourself in a cocoon through means you do not fully understand (see below). After a full day you emerge, your VIG restored, and any physical harm cured. This cannot cure death unless the process requires it.",
+              description: "At night you may immerse yourself in a cocoon through means you do not fully understand (see below). After a full day you emerge, your VIG restored, and any physical harm cured. This cannot cure death unless the process requires it."
             },
             {
               type: "passion",
               name: "Community",
-              description: "Restore SPI when you leave a community better off than when you arrived.",
+              description: "Restore SPI when you leave a community better off than when you arrived."
             },
             {
               type: "weapon",
               name: "Rootbow",
               damage: "d6",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "Countless daggers",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Tidal resin",
-              description: "When burned, all nearby water becomes still and solid for a while",
+              description: "When burned, all nearby water becomes still and solid for a while"
             }
           ]
         },
@@ -3265,33 +3265,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Rebuked by Death",
-              description: "Use when you are dead. Return to life. Your body is as you left it, as are your Guard and Virtue scores.",
+              description: "Use when you are dead. Return to life. Your body is as you left it, as are your Guard and Virtue scores."
             },
             {
               type: "passion",
               name: "Acceptance",
-              description: "Restore SPI when warmly welcomed into somebody’s home.",
+              description: "Restore SPI when warmly welcomed into somebody’s home."
             },
             {
               type: "weapon",
               name: "Bearded axe",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Dusty mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Cleaner salt ,",
-              description: "Renders even the most rotten food safe and delicious",
+              description: "Renders even the most rotten food safe and delicious"
             },
             {
               type: "misc",
               name: "Wooden animal miniature",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -3309,35 +3309,35 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Warp & Weft",
-              description: "Swap the positions of an object you are holding and another object you can see. They must be of a similar size and shape, such as two swords.",
+              description: "Swap the positions of an object you are holding and another object you can see. They must be of a similar size and shape, such as two swords."
             },
             {
               type: "passion",
               name: "Detachment",
-              description: "Restore SPI when you discard something that you want.",
+              description: "Restore SPI when you discard something that you want."
             },
             {
               type: "weapon",
               name: "Two-headed axe",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Bronze buckler",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "weapon",
               name: "Thrown weapon",
               description: "See below",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "misc",
               name: "Hushcloth",
-              description: "Items fully wrapped in this cloth create no noise",
+              description: "Items fully wrapped in this cloth create no noise"
             }
           ]
         },
@@ -3355,24 +3355,24 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Voice of the Skies",
-              description: "While outdoors, you can shout loud enough to be heard clearly throughout the whole Hex and all adjacent Hexes.",
+              description: "While outdoors, you can shout loud enough to be heard clearly throughout the whole Hex and all adjacent Hexes."
             },
             {
               type: "passion",
               name: "Discord",
-              description: "Restore SPI when you disrupt a place of order.",
+              description: "Restore SPI when you disrupt a place of order."
             },
             {
               type: "weapon",
               name: "Forked spear",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "shield",
               name: "Oakshield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             }
           ]
         },
@@ -3390,33 +3390,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Aqueous Repulsion",
-              description: "You can forcefully repel liquids with an outstretched hand, enough to hold a river at bay for a while.",
+              description: "You can forcefully repel liquids with an outstretched hand, enough to hold a river at bay for a while."
             },
             {
               type: "passion",
               name: "Entitlement",
-              description: "Restore SPI when you get something that you were promised but initially denied.",
+              description: "Restore SPI when you get something that you were promised but initially denied."
             },
             {
               type: "weapon",
               name: "Old hammer",
-              damage: "d8",
+              damage: "d8"
             },
             {
               type: "shield",
               name: "Inscribed shield",
               damage: "d4",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Beckoning net",
-              description: "Fish wilfully swim into this fishing net",
+              description: "Fish wilfully swim into this fishing net"
             },
             {
               type: "misc",
               name: "Preserved fish",
-              description: "See below",
+              description: "See below"
             }
           ]
         },
@@ -3434,33 +3434,33 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Sink Teeth",
-              description: "You can bite (d6) someone, choosing one of the following effects before the bite, occurring only if you Wound them: Regain VIG equal to the VIG that they lose, lower them into normal sleep, show them one of your memories",
+              description: "You can bite (d6) someone, choosing one of the following effects before the bite, occurring only if you Wound them: Regain VIG equal to the VIG that they lose, lower them into normal sleep, show them one of your memories"
             },
             {
               type: "passion",
               name: "Melancholy",
-              description: "Restore SPI when you dampen the mood.",
+              description: "Restore SPI when you dampen the mood."
             },
             {
               type: "weapon",
               name: "Forked blade",
               damage: "d8",
-              hefty: true,
+              hefty: true
             },
             {
               type: "coat",
               name: "Mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Shell plates",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Ancient scroll",
-              description: "Has references to places in this Realm, but outdated, see below",
+              description: "Has references to places in this Realm, but outdated, see below"
             }
           ]
         },
@@ -3478,34 +3478,34 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Gift from the Deep",
-              description: "Produce one pearl each morning, unless you haven’t given or traded your previous pearl. You can see through the eyes of anybody that is carrying one of your pearls.",
+              description: "Produce one pearl each morning, unless you haven’t given or traded your previous pearl. You can see through the eyes of anybody that is carrying one of your pearls."
             },
             {
               type: "passion",
               name: "Gossip",
-              description: "Restore SPI when you share or receive gossip.",
+              description: "Restore SPI when you share or receive gossip."
             },
             {
               type: "weapon",
               name: "Cleaving blade",
               description: "See below",
               damage: "2d8",
-              long: true,
+              long: true
             },
             {
               type: "coat",
               name: "Glossy mail",
-              armor: 1,
+              armor: 1
             },
             {
               type: "plate",
               name: "Demi-plate",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Salincense",
-              description: "Smoke from this candle causes plants to wither and die in seconds",
+              description: "Smoke from this candle causes plants to wither and die in seconds"
             }
           ]
         },
@@ -3523,37 +3523,37 @@ export const compendiumData = {
             {
               type: "ability",
               name: "Verminform",
-              description: "Take the form of a rat to squeeze into any space that a rat could fit into. You return to your normal form as soon as you are in a space that allows it. You can also speak with rats, who are generally helpful.",
+              description: "Take the form of a rat to squeeze into any space that a rat could fit into. You return to your normal form as soon as you are in a space that allows it. You can also speak with rats, who are generally helpful."
             },
             {
               type: "passion",
               name: "Trust",
-              description: "Restore SPI when giving the benefit of the doubt in a way that leaves you vulnerable.",
+              description: "Restore SPI when giving the benefit of the doubt in a way that leaves you vulnerable."
             },
             {
               type: "weapon",
               name: "Pole sickle",
               damage: "d10",
-              long: true,
+              long: true
             },
             {
               type: "weapon",
               name: "3 darts",
-              damage: "d6",
+              damage: "d6"
             },
             {
               type: "coat",
               name: "Modified gambeson",
               description: "See below",
-              armor: 1,
+              armor: 1
             },
             {
               type: "misc",
               name: "Listening horn",
-              description: "When placed against a wall, hear everything from the other side in perfect clarity",
+              description: "When placed against a wall, hear everything from the other side in perfect clarity"
             }
           ]
-        },
+        }
 
       ]
     }
@@ -3976,7 +3976,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 13,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -3990,7 +3990,7 @@ export const compendiumData = {
               clarity: 10,
               spirit: 5,
               guard: 3,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4004,7 +4004,7 @@ export const compendiumData = {
               clarity: 7,
               spirit: 5,
               guard: 3,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4017,7 +4017,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 14,
               spirit: 5,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4030,7 +4030,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 12,
               spirit: 3,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4044,7 +4044,7 @@ export const compendiumData = {
               clarity: 8,
               spirit: 5,
               guard: 3,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4058,7 +4058,7 @@ export const compendiumData = {
               vigour: 7,
               clarity: 8,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4071,7 +4071,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 4,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4084,7 +4084,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 8,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4097,7 +4097,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 8,
               spirit: 5,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4111,7 +4111,7 @@ export const compendiumData = {
               clarity: 6,
               spirit: 5,
               guard: 2,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4125,7 +4125,7 @@ export const compendiumData = {
               vigour: 14,
               clarity: 5,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4138,7 +4138,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 14,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4151,7 +4151,7 @@ export const compendiumData = {
               vigour: 14,
               clarity: 5,
               spirit: 6,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4164,7 +4164,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 10,
               spirit: 3,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4178,7 +4178,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 6,
               spirit: 6,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4191,7 +4191,7 @@ export const compendiumData = {
               vigour: 14,
               clarity: 8,
               spirit: 6,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4205,7 +4205,7 @@ export const compendiumData = {
               clarity: 5,
               spirit: 6,
               guard: 2,
-              trample: "d8",
+              trample: "d8"
             }
           ]
         },
@@ -4218,7 +4218,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 10,
               spirit: 6,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4231,7 +4231,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 9,
               spirit: 5,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4245,7 +4245,7 @@ export const compendiumData = {
               clarity: 6,
               spirit: 4,
               guard: 3,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4259,7 +4259,7 @@ export const compendiumData = {
               clarity: 6,
               spirit: 6,
               guard: 1,
-              trample: "d8",
+              trample: "d8"
             }
           ]
         },
@@ -4273,7 +4273,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 8,
               spirit: 7,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4288,7 +4288,7 @@ export const compendiumData = {
               clarity: 4,
               spirit: 5,
               guard: 4,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4302,7 +4302,7 @@ export const compendiumData = {
               clarity: 8,
               spirit: 5,
               guard: 3,
-              trample: "d8",
+              trample: "d8"
             }
           ]
         },
@@ -4315,7 +4315,7 @@ export const compendiumData = {
               vigour: 9,
               clarity: 7,
               spirit: 4,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4328,7 +4328,7 @@ export const compendiumData = {
               vigour: 9,
               clarity: 8,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4342,7 +4342,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4355,7 +4355,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 10,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4368,7 +4368,7 @@ export const compendiumData = {
               vigour: 14,
               clarity: 7,
               spirit: 6,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4382,7 +4382,7 @@ export const compendiumData = {
               vigour: 15,
               clarity: 5,
               spirit: 7,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4395,7 +4395,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 7,
               spirit: 6,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4409,7 +4409,7 @@ export const compendiumData = {
               vigour: 9,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4422,7 +4422,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 6,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4436,7 +4436,7 @@ export const compendiumData = {
               vigour: 14,
               clarity: 8,
               spirit: 7,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4450,7 +4450,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 6,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4463,7 +4463,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4477,7 +4477,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4490,7 +4490,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4504,7 +4504,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 4,
-              guard: 1,
+              guard: 1
             }
           ]
         },
@@ -4518,7 +4518,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4532,7 +4532,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 9,
               spirit: 6,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4546,7 +4546,7 @@ export const compendiumData = {
               vigour: 10,
               clarity: 10,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4560,7 +4560,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 7,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4574,7 +4574,7 @@ export const compendiumData = {
               clarity: 5,
               spirit: 5,
               guard: 2,
-              trample: "A1",
+              trample: "A1"
             }
           ]
         },
@@ -4587,7 +4587,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 6,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4600,7 +4600,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 9,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4614,7 +4614,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 8,
               spirit: 5,
-              guard: 2,
+              guard: 2
             }
           ]
         },
@@ -4628,7 +4628,7 @@ export const compendiumData = {
               vigour: 9,
               clarity: 8,
               spirit: 6,
-              guard: 1,
+              guard: 1
             }
           ]
         },
@@ -4642,7 +4642,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 9,
               spirit: 5,
-              guard: 5,
+              guard: 5
             }
           ]
         },
@@ -4655,7 +4655,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 5,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4669,7 +4669,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 8,
               spirit: 6,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4682,7 +4682,7 @@ export const compendiumData = {
               vigour: 11,
               clarity: 10,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4696,7 +4696,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4710,7 +4710,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 9,
               spirit: 5,
-              guard: 1,
+              guard: 1
             }
           ]
         },
@@ -4724,7 +4724,7 @@ export const compendiumData = {
               vigour: 2,
               clarity: 6,
               spirit: 3,
-              guard: 5,
+              guard: 5
             },
             {
               type: "steed",
@@ -4733,7 +4733,7 @@ export const compendiumData = {
               clarity: 6,
               spirit: 5,
               guard: 2,
-              trample: "d6",
+              trample: "d6"
             }
           ]
         },
@@ -4747,7 +4747,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 9,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4760,7 +4760,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 5,
               spirit: 7,
-              guard: 4,
+              guard: 4
             }
           ]
         },
@@ -4773,7 +4773,7 @@ export const compendiumData = {
               vigour: 12,
               clarity: 9,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
         },
@@ -4786,10 +4786,10 @@ export const compendiumData = {
               vigour: 12,
               clarity: 8,
               spirit: 5,
-              guard: 3,
+              guard: 3
             }
           ]
-        },
+        }
       ]
     }
   ],

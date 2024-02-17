@@ -9777,8 +9777,8 @@ export const compendiumData = {
                 [2, 2, "Breathe fire once([[/roll d8 #damage]] blast)"],
                 [3, 3, "Speak remotely with any one person"],
                 [4, 4, "No pain (A1)"],
-                [5, 5, "Restore one"],
-                [6, 6, "Restore all"]]
+                [5, 5, "Restore one Virtue"],
+                [6, 6, "Restore all Virtues"]]
             },
             {
               name: "Side Effect",
@@ -9788,8 +9788,8 @@ export const compendiumData = {
                 [2, 2, "Unable to speak"],
                 [3, 3, "Hazy vision"],
                 [4, 4, "Lose [[/roll d6]] VIG"],
-                [5, 5, "Virtue Lose [[/roll d6]] CLA"],
-                [6, 6, "Virtues Lose [[/roll d6]] SPI"]]
+                [5, 5, "Lose [[/roll d6]] CLA"],
+                [6, 6, "Lose [[/roll d6]] SPI"]]
             }
           ]
         },

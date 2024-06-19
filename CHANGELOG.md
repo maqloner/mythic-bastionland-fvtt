@@ -1,3 +1,9 @@
+# v1.0.4
+- Support for Foundry V12
+- Prevent the GM Dashboard from closing with the ESC key
+- Fix the issue with Scars always rolling a d12
+- Correct typos in the Whip Knight roll tables
+
 # v1.0.3
 - Add all 72 knights to the character generator
 - Add all roll tables for Myths

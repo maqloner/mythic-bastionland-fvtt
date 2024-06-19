@@ -10,7 +10,7 @@ class AttackDialog extends Application {
 
   /** @override */
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/dialog/attack-dialog.hbs`,
       classes: ["mythic-bastionland", "attack-dialog"],
       title: game.i18n.localize("MB.Attack"),

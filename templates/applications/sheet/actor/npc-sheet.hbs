@@ -19,11 +19,7 @@
             <label class="col col-5 text-regular label-regular">{{localize "MB.Actor.Age.Label"}}</label>
             <div class="col col-7">
               <select class="br-1 input-regular" name="system.age" data-dtype="String">
-                {{#select data.system.age}}
-                  {{#each config.age as |age|}}
-                    <option value="{{age}}">{{localize (concat "MB.Actor.Age." age)}}</option>
-                  {{/each}}
-                {{/select}}
+                {{selectOptions ages selected=data.system.age localize=true}}
               </select>
             </div>
           </div>

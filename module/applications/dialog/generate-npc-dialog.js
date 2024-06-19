@@ -9,7 +9,7 @@ class GenerateNpcDialog extends Application {
 
   /** @override */
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/dialog/generate-npc-dialog.hbs`,
       classes: ["mythic-bastionland", "generate-npc-dialog"],
       title: game.i18n.localize("MB.GenerateDialogTitle"),
@@ -29,7 +29,7 @@ class GenerateNpcDialog extends Application {
   /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.config = mergeObject(this.#getDefaultGeneratorConfig(), this.generatorConfig);
+    data.config = foundry.utils.mergeObject(this.#getDefaultGeneratorConfig(), this.generatorConfig);
     return data;
   }
 
@@ -77,7 +77,7 @@ class GenerateNpcDialog extends Application {
   }
 
   #getSoldierConfig() {
-    return mergeObject(this.#getDefaultGeneratorConfig(), {
+    return foundry.utils.mergeObject(this.#getDefaultGeneratorConfig(), {
       type: "soldier",
       weapons: "1d2",
       armors: "1d2",
@@ -97,7 +97,7 @@ class GenerateNpcDialog extends Application {
   }
 
   #getKnightConfig() {
-    return mergeObject(this.#getDefaultGeneratorConfig(), {
+    return foundry.utils.mergeObject(this.#getDefaultGeneratorConfig(), {
       type: "knight",
       weapons: "1d2",
       armors: "1d3",

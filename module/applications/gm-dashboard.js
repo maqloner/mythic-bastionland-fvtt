@@ -6,7 +6,7 @@ import { drawSystemTable } from "../utils/compendium.js";
 class GMDashboard extends Application {
   /** @override */
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/gm-dashboard.hbs`,
       classes: ["mythic-bastionland", "sheet", "gm-dashboard"],
       title: game.i18n.localize("MB.Dashboard.Label"),
@@ -25,9 +25,22 @@ class GMDashboard extends Application {
   }
 
   /** @override */
+  _getHeaderButtons() {
+    const buttons = [
+      {
+        label: "Close",
+        class: "close",
+        icon: "fas fa-times",
+        onclick: () => this.close({force: true})
+      }
+    ];
+    return buttons;
+  }
+
+  /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.rollModes = CONST.DICE_ROLL_MODES;
+    data.rollModes = Object.values(CONST.DICE_ROLL_MODES).map((rollMode) => ({label: `MB.RollMode.${rollMode}`, value: rollMode}));
     data.myths = await this.#getMythTables();
     return data;
   }
@@ -45,6 +58,12 @@ class GMDashboard extends Application {
     html.find(".roll-beast").on("click", (event) => this.#onRollGenerator(event, generateBeast));
   }
 
+  async close(options) {    
+    if (options.force) {
+      return super.close(options);
+    }
+  }
+
   async #getMythTables() {
     return game.packs
       .get(config.coreRollTable)
@@ -58,7 +77,10 @@ class GMDashboard extends Application {
 
   async #onRollGenerator(event, generatorAction) {
     event.preventDefault();
-    const title = $(event.target).closest("button").data("title");
+    const button = $(event.target).closest("button");
+    const title = button.data("title");
+
+    button.attr("disabled", true);
 
     await showChatMessage({
       title,
@@ -68,12 +90,16 @@ class GMDashboard extends Application {
       }],
       rollMode: this.element.find("[name=roll_mode]").val()
     });
+    button.removeAttr("disabled");
   }
-
 
   async #onRollTable(event) {
     event.preventDefault();
-    const tableName = $(event.target).closest("button").data("table");
+    const button = $(event.target).closest("button");
+    const tableName = button.data("table");
+
+    button.attr("disabled", true);
+
     const draw = (await drawSystemTable(tableName));
     const result = draw.results.pop();
 
@@ -87,14 +113,20 @@ class GMDashboard extends Application {
       }],
       rollMode: this.element.find("[name=roll_mode]").val()
     });
+
+    button.removeAttr("disabled");
   }
 
   async #onRollTableMulti(event) {
     event.preventDefault();
+    const button = $(event.target).closest("button");
+
     const rollMode = this.element.find("[name=roll_mode]").val();
-    const title = $(event.target).closest("button").data("label");
+    const title = button.data("label");
     const tableNames = $(event.target).closest("button").data("tables").split(";");
     const outcomes = [];
+
+    button.attr("disabled", true);
 
     for (const tableName of tableNames) {
       const draw = (await drawSystemTable(tableName));
@@ -113,6 +145,8 @@ class GMDashboard extends Application {
       outcomes,
       rollMode
     });
+
+    button.removeAttr("disabled");
   }
 }
 

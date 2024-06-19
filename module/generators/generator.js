@@ -262,7 +262,7 @@ const prepareItems = (items, system = {}) => {
 };
 
 const prepareItem = (item, system = {}) => {
-  return mergeObject(item.toObject(true), { folder: null, system });
+  return foundry.utils.mergeObject(item.toObject(true), { folder: null, system });
 };
 
 const findKnightCompendiums = (type) => game.packs.filter(pack => pack.title.startsWith("Knight") && pack.documentName === type);

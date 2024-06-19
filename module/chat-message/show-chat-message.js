@@ -12,7 +12,7 @@ const CHAT_MESSAGE_TEMPLATE = `${config.systemPath}/templates/chat-message/chat-
  * @param {Object[]} [buttons]
   * @return {Promise<ChatMessage>}
  */
-export const showChatMessage = async ({ actor, title, description, outcomes = [], buttons = [], items = [], rollMode } = {}) => {
+export const showChatMessage = async ({ actor, title, description, outcomes = [], buttons = [], items = [], rollMode = game.settings.get("core", "rollMode") } = {}) => {
   const rolls = outcomes.map((outcome) => outcome.roll).filter((roll) => roll);
 
   if (rolls.length) {
@@ -31,8 +31,9 @@ export const showChatMessage = async ({ actor, title, description, outcomes = []
       systemMessage: true,
       cssClasses: ["mythic-bastionland"]
     },
-    rolls: rolls,
+    rolls,
+    rollMode,
     speaker: ChatMessage.getSpeaker({ actor }),
     ...(rolls.length ? { sound: diceSound() } : {})
-  }, rollMode ?? game.settings.get("core", "rollMode")));
+  }, rollMode));
 };

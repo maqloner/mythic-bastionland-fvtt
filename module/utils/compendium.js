@@ -95,5 +95,5 @@ export const drawSystemTableText = async (name, options = {}) => drawPackTableTe
  * @param {Object} options
  * @returns {Promise.<RollTableDraw>}
  */
-export const drawScar = async (name, options = {}) => drawSystemTable("Scars", options);
+export const drawScar = async (options = {}) => drawSystemTable("Scars", options);
 

@@ -8,7 +8,7 @@ class AddItemDialog extends Application {
 
   /** @override */
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/dialog/add-item-dialog.hbs`,
       classes: ["mythic-bastionland", "add-item-dialog"],
       title: game.i18n.localize("MB.CreateItem"),

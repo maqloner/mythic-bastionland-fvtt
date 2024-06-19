@@ -646,6 +646,9 @@
   margin: 0;
   padding: 8px;
 }
+.mythic-bastionland .button-primary:disabled {
+  opacity: 0.8;
+}
 .mythic-bastionland .paper {
   background-image: var(--paper-image-url);
   background-attachment: local;

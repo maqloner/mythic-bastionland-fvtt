@@ -1,24 +1,7 @@
-2024/02/13-09:46:47.356 297c Recovering log #95
-2024/02/13-09:46:47.362 297c Level-0 table #98: started
-2024/02/13-09:46:47.374 297c Level-0 table #98: 97801 bytes OK
-2024/02/13-09:46:47.386 297c Delete type=0 #95
-2024/02/13-09:46:47.387 297c Delete type=3 #1
-2024/02/13-09:46:47.389 297c Delete type=3 #94
-2024/02/13-09:46:47.416 504c Compacting 3@0 + 0@1 files
-2024/02/13-09:46:47.425 504c Generated table #100@0: 1224 keys, 105262 bytes
-2024/02/13-09:46:47.425 504c Compacted 3@0 + 0@1 files => 105262 bytes
-2024/02/13-09:46:47.426 504c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-09:46:47.427 504c Delete type=2 #27
-2024/02/13-09:46:47.429 504c Delete type=2 #96
-2024/02/13-09:46:47.430 504c Delete type=2 #98
-2024/02/13-21:22:30.579 504c Level-0 table #102: started
-2024/02/13-21:22:30.586 504c Level-0 table #102: 4215 bytes OK
-2024/02/13-21:22:30.612 504c Delete type=0 #99
-2024/02/13-21:22:30.683 504c Manual compaction at level-0 from '!folders!0XZgtZVckrsuR6pn' @ 72057594037927935 : 1 .. '!tables.results!zbaHFh4UzM9XDye7.wczY1Xaqjc3LYk7k' @ 0 : 0; will stop at '!tables.results!zFAwRRmOWGbkJxfD.qZE9KNMTIYUVHkBf' @ 4003 : 0
-2024/02/13-21:22:30.683 504c Compacting 1@0 + 1@1 files
-2024/02/13-21:22:30.693 504c Generated table #103@0: 1080 keys, 96502 bytes
-2024/02/13-21:22:30.693 504c Compacted 1@0 + 1@1 files => 96502 bytes
-2024/02/13-21:22:30.694 504c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-21:22:30.696 504c Delete type=2 #100
-2024/02/13-21:22:30.697 504c Delete type=2 #102
-2024/02/13-21:22:30.700 504c Manual compaction at level-0 from '!tables.results!zFAwRRmOWGbkJxfD.qZE9KNMTIYUVHkBf' @ 4003 : 0 .. '!tables.results!zbaHFh4UzM9XDye7.wczY1Xaqjc3LYk7k' @ 0 : 0; will stop at (end)
+2024/06/18-21:48:50.214580 7f8351890b38 Recovering log #121
+2024/06/18-21:48:50.216603 7f8351890b38 Delete type=0 #121
+2024/06/18-21:48:50.216648 7f8351890b38 Delete type=3 #120
+2024/06/18-22:31:16.012205 7f7e4f22eb38 Level-0 table #125: started
+2024/06/18-22:31:16.012233 7f7e4f22eb38 Level-0 table #125: 0 bytes OK
+2024/06/18-22:31:16.012679 7f7e4f22eb38 Delete type=0 #123
+2024/06/18-22:31:16.015644 7f7e4f22eb38 Manual compaction at level-0 from '!folders!0XZgtZVckrsuR6pn' @ 72057594037927935 : 1 .. '!tables.results!zbaHFh4UzM9XDye7.wczY1Xaqjc3LYk7k' @ 0 : 0; will stop at (end)

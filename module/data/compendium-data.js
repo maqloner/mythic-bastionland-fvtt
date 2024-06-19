@@ -352,7 +352,7 @@ export const compendiumData = {
           ]
         },
         {
-          name: "Scars",
+          name: "`Scar`s",
           items: [
             {
               type: "scar",
@@ -407,7 +407,7 @@ export const compendiumData = {
             {
               type: "scar",
               name: "Doom",
-              description: "<p><em>A cheated death haunts you</em></p><p>Roll [[/roll 1d6]]</p><p>If you take a Mortal Wound this season you are Slain instead.</p>"
+              description: "<p><em>A cheated death haunts you</em></p><p>If you take a Mortal Wound this season you are Slain instead.</p>"
             },
             {
               type: "scar",

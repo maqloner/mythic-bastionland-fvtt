@@ -8,7 +8,7 @@ class VirtueLossDialog extends Application {
 
   /** @override */
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/dialog/virtue-loss-dialog.hbs`,
       classes: ["mythic-bastionland", "take-damage-dialog"],
       title: game.i18n.localize("MB.VirtueLoss"),

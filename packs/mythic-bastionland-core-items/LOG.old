@@ -1,14 +1,14 @@
-2024/02/13-09:46:47.273 297c Recovering log #113
-2024/02/13-09:46:47.285 297c Delete type=0 #113
-2024/02/13-09:46:47.286 297c Delete type=3 #1
-2024/02/13-09:46:47.288 297c Delete type=3 #112
-2024/02/13-21:22:30.562 504c Level-0 table #118: started
-2024/02/13-21:22:30.564 504c Level-0 table #118: 0 bytes OK
-2024/02/13-21:22:30.566 504c Delete type=0 #116
-2024/02/13-21:22:30.616 504c Manual compaction at level-0 from '!folders!F2JV9SSTb0uUwaLY' @ 72057594037927935 : 1 .. '!items!zwjSURqLPaoINaPz' @ 0 : 0; will stop at '!items!zwjSURqLPaoINaPz' @ 364 : 1
-2024/02/13-21:22:30.618 504c Compacting 1@0 + 0@1 files
-2024/02/13-21:22:30.625 504c Generated table #119@0: 81 keys, 12999 bytes
-2024/02/13-21:22:30.626 504c Compacted 1@0 + 0@1 files => 12999 bytes
-2024/02/13-21:22:30.627 504c compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-21:22:30.628 504c Delete type=2 #45
-2024/02/13-21:22:30.698 504c Manual compaction at level-0 from '!items!zwjSURqLPaoINaPz' @ 364 : 1 .. '!items!zwjSURqLPaoINaPz' @ 0 : 0; will stop at (end)
+2024/06/18-21:48:50.177207 7f835108db38 Recovering log #137
+2024/06/18-21:48:50.179539 7f835108db38 Delete type=3 #136
+2024/06/18-21:48:50.179776 7f835108db38 Delete type=0 #137
+2024/06/18-22:31:16.010271 7f7e4f22eb38 Level-0 table #141: started
+2024/06/18-22:31:16.011414 7f7e4f22eb38 Level-0 table #141: 787 bytes OK
+2024/06/18-22:31:16.012095 7f7e4f22eb38 Delete type=0 #139
+2024/06/18-22:31:16.013213 7f7e4f22eb38 Manual compaction at level-0 from '!folders!F2JV9SSTb0uUwaLY' @ 72057594037927935 : 1 .. '!items!zwjSURqLPaoINaPz' @ 0 : 0; will stop at '!items!zwjSURqLPaoINaPz' @ 492 : 1
+2024/06/18-22:31:16.013222 7f7e4f22eb38 Compacting 1@0 + 1@1 files
+2024/06/18-22:31:16.014623 7f7e4f22eb38 Generated table #142@0: 81 keys, 14107 bytes
+2024/06/18-22:31:16.014638 7f7e4f22eb38 Compacted 1@0 + 1@1 files => 14107 bytes
+2024/06/18-22:31:16.015263 7f7e4f22eb38 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/06/18-22:31:16.015392 7f7e4f22eb38 Delete type=2 #141
+2024/06/18-22:31:16.015495 7f7e4f22eb38 Delete type=2 #131
+2024/06/18-22:31:16.016600 7f7e4f22eb38 Manual compaction at level-0 from '!items!zwjSURqLPaoINaPz' @ 492 : 1 .. '!items!zwjSURqLPaoINaPz' @ 0 : 0; will stop at (end)

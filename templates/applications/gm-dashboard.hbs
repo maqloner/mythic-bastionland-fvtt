@@ -8,11 +8,7 @@
     <a class="item col" data-tab="extras">{{localize "MB.Dashboard.Extras"}}</a>
     <div class="col col-3 justify-items-center pr-1">
       <select class="" name="roll_mode" data-dtype="String">
-        {{#select "publicroll"}}
-          {{#each rollModes as |mode|}}
-            <option value="{{mode}}">{{localize (concat "MB.RollMode." . )}}</option>
-          {{/each}}
-        {{/select}}
+        {{selectOptions rollModes localize=true}}
       </select>
     </div>
   </nav>

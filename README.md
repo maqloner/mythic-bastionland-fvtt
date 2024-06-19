@@ -24,10 +24,15 @@ Embark on a quest like no other with Mythic Bastionland, a tabletop RPG set in t
 - A referee dashboard simplifies the process of rolling all tables and generating sparks.
 - Integration with [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice/)
  
-## Installation - Manual - Foundry V11+
+## Installation - Manual - Foundry V12+
 
 1. In the Game Systems Tab, click `Install System`
 2. Enter the Manifest URL: `https://github.com/maqloner/mythic-bastionland/releases/latest/download/system.json`
+ 
+## Installation - Manual - Foundry V11
+
+1. In the Game Systems Tab, click `Install System`
+2. Enter the Manifest URL: `https://github.com/maqloner/mythic-bastionland-fvtt/releases/download/v1.0.3/system.json`
 
 ## Getting Started
 - Read [how to use this system](https://github.com/maqloner/mythic-bastionland/blob/main/how-to-use-this-system.md)

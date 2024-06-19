@@ -154,6 +154,10 @@ input[type="checkbox"].input-checkbox {
   padding: 8px;
 }
 
+.button-primary:disabled {
+  opacity: 0.8;
+}
+
 .paper {
   background-image: var(--paper-image-url);
   background-attachment: local;

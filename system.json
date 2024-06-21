@@ -2,7 +2,7 @@
   "id": "mythicbastionland",
   "title": "Mythic Bastionland",
   "description": "FoundryVTT system for playing the Mythic Bastionland.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "12",
     "verified": "12.327"

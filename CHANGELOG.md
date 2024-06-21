@@ -1,3 +1,6 @@
+# v1.0.5
+- Fix Dice So Nice Integration
+ 
 # v1.0.4
 - Support for Foundry V12
 - Prevent the GM Dashboard from closing with the ESC key

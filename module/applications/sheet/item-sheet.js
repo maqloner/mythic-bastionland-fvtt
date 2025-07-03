@@ -4,7 +4,7 @@ import { config } from "../../config.js";
 /**
  * @extends {ItemSheet}
  */
-export class MBitemSheet extends ItemSheet {
+export class MBitemSheet extends foundry.appv1.sheets.ItemSheet {
 
   /** @override */
   static get defaultOptions() {
@@ -28,7 +28,7 @@ export class MBitemSheet extends ItemSheet {
   /** @override */
   async getData(options) {
     const data = super.getData(options);
-    data.data.system.description = await TextEditor.enrichHTML(data.data.system.description, { secret: data.editable });
+    data.data.system.description = await foundry.applications.ux.TextEditor.implementation.enrichHTML(data.data.system.description, { secret: data.editable });
     return data;
   }
 

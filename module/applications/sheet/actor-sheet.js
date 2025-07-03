@@ -13,7 +13,7 @@ import { actorInlineRollAction } from "../../actions/actor-inline-roll-action.js
 /**
  * @extends {ActorSheet}
  */
-export class MBActorSheet extends ActorSheet {
+export class MBActorSheet extends foundry.appv1.sheets.ActorSheet {
 
   /** @override */
   static get defaultOptions() {
@@ -58,9 +58,9 @@ export class MBActorSheet extends ActorSheet {
     data.ranks = Object.values(config.rank).map(value => ({value, label: `MB.Actor.Rank.${value}`}));
     data = await this.#prepareActors(data);
     data = await this.#prepareItems(data);
-    data.data.system.biography = await TextEditor.enrichHTML(data.data.system.biography, { secret: data.editable });
+    data.data.system.biography = await foundry.applications.ux.TextEditor.implementation.enrichHTML(data.data.system.biography, { secret: data.editable });
 
-    console.log(data);
+    //console.log(data);
     return data;
   }
 
@@ -69,7 +69,7 @@ export class MBActorSheet extends ActorSheet {
     data.data.items = data.data.items.sort((a, b) => itemTypeOrders[a.type] - itemTypeOrders[b.type] || a.name.localeCompare(b.name));
 
     for (const item of data.data.items) {
-      item.system.enrichedDescription = await TextEditor.enrichHTML(item.system.description);
+      item.system.enrichedDescription = await foundry.applications.ux.TextEditor.implementation.enrichHTML(item.system.description);
       item.system.isEquippable = [config.itemTypes.weapon, config.itemTypes.coat, config.itemTypes.plate, config.itemTypes.helm, config.itemTypes.shield].includes(item.type);
     }
 

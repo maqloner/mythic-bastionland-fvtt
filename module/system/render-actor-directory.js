@@ -4,16 +4,27 @@ import { createSquire } from "../generators/squire.js";
 import { createWarband } from "../generators/warband.js";
 
 /**
- * @param {Application} app
- * @param {jQuery} html
+ * @param {AppDirectory} app_directory
  */
-export const renderActorDirectory = (app, html) => {
+export const renderActorDirectory = () => {
+  
+  if(document.querySelector(".mtl-actor-buttons")) {
+    // If the buttons already exist, do not add them again
+    return;
+  }
+  
   if (game.user.can("ACTOR_CREATE")) {
+
+    const sectionElement = document.querySelector("#actors");
+
     const header = document.createElement("header");
     header.classList.add("directory-header");
+    header.classList.add("flexcol");
+    header.classList.add("mtl-actor-buttons");
 
-    const dirHeader = html[0].querySelector(".directory-header");
-    dirHeader.parentNode.insertBefore(header, dirHeader);
+    
+    const existingButtons = sectionElement.querySelector(".directory-header");
+    sectionElement.insertBefore(header, existingButtons);
 
     const buttons = [
       `<button class="generate-knight-button"><i class="fas fa-dice-d20"></i>${game.i18n.localize("MB.GenerateKnight")}</button>`,
@@ -28,7 +39,7 @@ export const renderActorDirectory = (app, html) => {
     header.insertAdjacentHTML(
       "afterbegin",
       `
-      <div class="action-buttons flexrow">
+      <div class="header actions action-buttons flexrow">
         ${buttons.join("")}
       </div>
       `

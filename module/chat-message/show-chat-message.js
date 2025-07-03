@@ -16,7 +16,7 @@ export const showChatMessage = async ({ actor, title, description, outcomes = []
   const rolls = outcomes.map((outcome) => outcome.roll).filter((roll) => roll);
 
   return ChatMessage.create(ChatMessage.applyRollMode({
-    content: await renderTemplate(CHAT_MESSAGE_TEMPLATE, {
+    content: await foundry.applications.handlebars.renderTemplate(CHAT_MESSAGE_TEMPLATE, {
       title,
       description,
       outcomes,

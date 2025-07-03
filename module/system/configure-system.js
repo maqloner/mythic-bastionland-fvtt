@@ -6,17 +6,17 @@ export const configureSystem = () => {
 
   CONFIG.ChatMessage.documentClass = MBChatMessage;
 
-  Actors.unregisterSheet("core", ActorSheet);
+  foundry.documents.collections.Actors.unregisterSheet("core", ActorSheet);
   
-  Actors.registerSheet(game.system.id, MBActorSheet, {
+  foundry.documents.collections.Actors.registerSheet(game.system.id, MBActorSheet, {
     types: ["knight", "npc", "creature", "steed", "warband", "squire"],
     makeDefault: true,
     label: "MB.SheetActor"
   });
 
-  Items.unregisterSheet("core", ItemSheet);
+  foundry.documents.collections.Items.unregisterSheet("core", ItemSheet);
 
-  Items.registerSheet(game.system.id, MBitemSheet, {
+  foundry.documents.collections.Items.registerSheet(game.system.id, MBitemSheet, {
     makeDefault: true,
     label: "MB.SheetItem"
   });

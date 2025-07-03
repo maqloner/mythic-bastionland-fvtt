@@ -317,84 +317,6 @@
 .mythic-bastionland .text-indent-1 {
   text-indent: 8px;
 }
-.mythic-bastionland.chat-message {
-  background: var(--primary-color);
-  border: none;
-}
-.mythic-bastionland.chat-message .message-header {
-  padding: 4px 8px;
-  color: white;
-}
-.mythic-bastionland.chat-message .message-content {
-  background: var(--paper-image-url);
-  background-attachment: local;
-  font-family: var(--text-font-family);
-  text-align: center;
-  font-size: 14px;
-  line-height: 21px;
-  padding: 8px 8px 24px 8px;
-  border-radius: 8px;
-  color: var(--text-dark-color);
-}
-.mythic-bastionland.chat-message .message-content p {
-  margin: 0 0 4px 0;
-}
-.mythic-bastionland.chat-message .message-content p:last-of-type {
-  margin: 0;
-}
-.mythic-bastionland.chat-message .message-content .card-title {
-  font-size: 16px;
-  line-height: 32px;
-  background-color: var(--secondary-color);
-  color: white;
-  border-radius: 8px;
-}
-.mythic-bastionland.chat-message .message-content .card-description {
-  font-style: italic;
-}
-.mythic-bastionland.chat-message .message-content .outcome {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-title {
-  font-size: 18px;
-  line-height: 32px;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-description {
-  padding: 8px 0 0 0;
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-rolls {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-roll {
-  font-size: 32px;
-  line-height: 32px;
-  background-color: var(--hightlight-dark-color);
-  color: white;
-  border-radius: 8px;
-  min-width: 48px;
-  min-height: 48px;
-  padding: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.gambit {
-  background-color: var(--green);
-}
-.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.strong-gambit {
-  background-color: var(--orange);
-}
-.mythic-bastionland.chat-message .message-content .outcome .chat-message-button {
-  width: auto;
-  margin-top: 16px;
-}
 .mythic-bastionland.app {
   color: var(--text-light-color);
   background-color: var(--primary-color);
@@ -727,4 +649,83 @@
 }
 .mythic-bastionland.sheet .tab {
   width: 100%;
+}
+
+.chat-message {
+  background: var(--primary-color);
+  border: none;
+}
+.chat-message .message-header {
+  padding: 4px 8px;
+  color: white;
+}
+.chat-message .message-content {
+  background: var(--paper-image-url);
+  background-attachment: local;
+  font-family: var(--text-font-family);
+  text-align: center;
+  font-size: 14px;
+  line-height: 21px;
+  padding: 8px 8px 24px 8px;
+  border-radius: 8px;
+  color: var(--text-dark-color);
+}
+.chat-message .message-content p {
+  margin: 0 0 4px 0;
+}
+.chat-message .message-content p:last-of-type {
+  margin: 0;
+}
+.chat-message .message-content .card-title {
+  font-size: 16px;
+  line-height: 32px;
+  background-color: var(--secondary-color);
+  color: white;
+  border-radius: 8px;
+}
+.chat-message .message-content .card-description {
+  font-style: italic;
+}
+.chat-message .message-content .outcome {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.chat-message .message-content .outcome .outcome-title {
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.chat-message .message-content .outcome .outcome-description {
+  padding: 8px 0 0 0;
+}
+.chat-message .message-content .outcome .outcome-rolls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+.chat-message .message-content .outcome .outcome-roll {
+  font-size: 32px;
+  line-height: 32px;
+  background-color: var(--hightlight-dark-color);
+  color: white;
+  border-radius: 8px;
+  min-width: 48px;
+  min-height: 48px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.chat-message .message-content .outcome .outcome-roll.gambit {
+  background-color: var(--green);
+}
+.chat-message .message-content .outcome .outcome-roll.strong-gambit {
+  background-color: var(--orange);
+}
+.chat-message .message-content .outcome .chat-message-button {
+  width: auto;
+  margin-top: 16px;
 }

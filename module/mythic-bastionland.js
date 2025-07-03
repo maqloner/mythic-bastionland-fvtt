@@ -31,6 +31,6 @@ Hooks.on("updateActor", updateActor);
 Hooks.on("preCreateItem", preCreateItem);
 Hooks.on("ready", ready);
 
-Hooks.on("getSceneNavigationContext", renderNavigation);
+Hooks.on("renderSceneNavigation", renderNavigation);
 Hooks.on("renderActorDirectory", renderActorDirectory);
 

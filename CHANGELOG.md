@@ -1,5 +1,6 @@
 # v1.0.6
 - Foundry13 compatibility
+- Add a bigger border to the chat message to help differentiate the types 
   
 # v1.0.5
 - Fix Dice So Nice Integration

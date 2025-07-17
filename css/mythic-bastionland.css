@@ -376,12 +376,17 @@
   box-shadow: none;
   margin: 8px 0;
 }
-.mythic-bastionland.nav-item.gm-dashboard {
+.mythic-bastionland.gm-dashboard-nav-item .gm-dashboard {
   flex: 0;
   height: 34px;
   background: rgba(0, 0, 0, 0.5);
-  text-align: center;
   white-space: nowrap;
+  margin-bottom: 8px;
+  font-size: var(--font-size-12);
+  padding: 8px;
+}
+.mythic-bastionland.gm-dashboard-nav-item .gm-dashboard i {
+  padding-right: 4px;
 }
 .mythic-bastionland .text-large {
   color: var(--text-dark-color);
@@ -450,6 +455,7 @@
   border-radius: 0;
   padding: 0;
   padding-left: 4px;
+  box-shadow: none;
   font-size: 24px;
   line-height: 32px;
   height: 32px;
@@ -473,6 +479,7 @@
   border-radius: 0;
   padding: 0;
   padding-left: 4px;
+  box-shadow: none;
   font-size: 24px;
   line-height: 28px;
   height: 28px;
@@ -496,6 +503,7 @@
   border-radius: 0;
   padding: 0;
   padding-left: 4px;
+  box-shadow: none;
   font-family: var(--text-font-family);
   font-size: 13px;
   line-height: 28px;
@@ -518,6 +526,7 @@
   border-radius: 0;
   padding: 0;
   padding-left: 4px;
+  box-shadow: none;
   font-size: 30px;
   line-height: 28px;
   height: 28px;
@@ -586,6 +595,12 @@
 .mythic-bastionland .inline-roll i {
   color: var(--text-dark-color);
 }
+.mythic-bastionland.directory-header {
+  margin-bottom: 0;
+}
+.mythic-bastionland.directory-header button {
+  flex: 0 0 calc(50% - 4px);
+}
 .mythic-bastionland.sheet.item {
   min-width: 400px;
   max-width: 400px;
@@ -650,16 +665,15 @@
 .mythic-bastionland.sheet .tab {
   width: 100%;
 }
-
-.chat-message {
+.mythic-bastionland.chat-message {
   background: var(--primary-color);
-  border: none;
+  border-width: 3px;
 }
-.chat-message .message-header {
+.mythic-bastionland.chat-message .message-header {
   padding: 4px 8px;
   color: white;
 }
-.chat-message .message-content {
+.mythic-bastionland.chat-message .message-content {
   background: var(--paper-image-url);
   background-attachment: local;
   font-family: var(--text-font-family);
@@ -670,43 +684,43 @@
   border-radius: 8px;
   color: var(--text-dark-color);
 }
-.chat-message .message-content p {
+.mythic-bastionland.chat-message .message-content p {
   margin: 0 0 4px 0;
 }
-.chat-message .message-content p:last-of-type {
+.mythic-bastionland.chat-message .message-content p:last-of-type {
   margin: 0;
 }
-.chat-message .message-content .card-title {
+.mythic-bastionland.chat-message .message-content .card-title {
   font-size: 16px;
   line-height: 32px;
   background-color: var(--secondary-color);
   color: white;
   border-radius: 8px;
 }
-.chat-message .message-content .card-description {
+.mythic-bastionland.chat-message .message-content .card-description {
   font-style: italic;
 }
-.chat-message .message-content .outcome {
+.mythic-bastionland.chat-message .message-content .outcome {
   display: flex;
   flex-direction: column;
   align-items: stretch;
 }
-.chat-message .message-content .outcome .outcome-title {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-title {
   font-size: 18px;
   line-height: 32px;
   font-weight: 700;
   text-transform: uppercase;
 }
-.chat-message .message-content .outcome .outcome-description {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-description {
   padding: 8px 0 0 0;
 }
-.chat-message .message-content .outcome .outcome-rolls {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-rolls {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
 }
-.chat-message .message-content .outcome .outcome-roll {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll {
   font-size: 32px;
   line-height: 32px;
   background-color: var(--hightlight-dark-color);
@@ -719,13 +733,14 @@
   align-items: center;
   justify-content: center;
 }
-.chat-message .message-content .outcome .outcome-roll.gambit {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.gambit {
   background-color: var(--green);
 }
-.chat-message .message-content .outcome .outcome-roll.strong-gambit {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.strong-gambit {
   background-color: var(--orange);
 }
-.chat-message .message-content .outcome .chat-message-button {
+.mythic-bastionland.chat-message .message-content .outcome .chat-message-button {
   width: auto;
   margin-top: 16px;
+  display: inline;
 }

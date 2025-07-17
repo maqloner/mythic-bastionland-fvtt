@@ -8,10 +8,10 @@ import { actorSaveAction } from "../actions/actor-save-action.js";
 export class MBChatMessage extends ChatMessage {
   /** @override */
   async getHTML() {
-    const html = await super.getHTML();    
+    const html = await super.getHTML();
     if (this.flags.systemMessage) {
-      if (this.flags.cssClasses) {
-        html.addClass(this.flags.cssClasses);
+      if (this.flags.cssClasses.value) {
+        html.addClass(this.flags.cssClasses.value);
       }
       html.on("click", ".inline-roll", (event) => this.#onInlineRollClick(event));
       html.on("click", "button.chat-message-button", (event) => this.#onButtonClick(event));

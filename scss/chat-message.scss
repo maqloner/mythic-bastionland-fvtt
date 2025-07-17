@@ -1,6 +1,6 @@
-.chat-message {
+&.chat-message {
   background: var(--primary-color);
-  border: none;
+  border-width: 3px;
 
   .message-header {
     padding: 4px 8px;
@@ -86,6 +86,7 @@
       .chat-message-button {
         width: auto;
         margin-top: 16px;
+        display: inline;
       }
     }
   }

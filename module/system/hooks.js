@@ -36,11 +36,11 @@ export const ready = async () => {
         },
         {
           title: "Buy the Book",
-          description: "<a href='https://www.kickstarter.com/projects/bastionland/mythic-bastionland-rpg-before-into-the-odd'>Kickstarter</a>"
+          description: "<a href='https://bastionlandpress.com/products/mythic-bastionland-hardback-book-plus-pdf'>Buy the Book</a>"
         },
         {
           title: "Quickstart Rules",
-          description: "<a href='https://bit.ly/mbplaytest'>Quickstart Rules</a>"
+          description: "<a href='https://chrismcdee.itch.io/mythic-bastionland'>Quickstart Rules</a>"
         },
         {
           title: "Foundry VTT",

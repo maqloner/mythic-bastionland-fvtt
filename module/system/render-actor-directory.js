@@ -20,7 +20,7 @@ export const renderActorDirectory = () => {
     const header = document.createElement("header");
     header.classList.add("directory-header");
     header.classList.add("flexcol");
-    header.classList.add("mtl-actor-buttons");
+    header.classList.add("mythic-bastionland");
 
     
     const existingButtons = sectionElement.querySelector(".directory-header");
@@ -39,7 +39,7 @@ export const renderActorDirectory = () => {
     header.insertAdjacentHTML(
       "afterbegin",
       `
-      <div class="header actions action-buttons flexrow">
+      <div class="header-actions action-buttons flexrow">
         ${buttons.join("")}
       </div>
       `

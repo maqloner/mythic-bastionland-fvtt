@@ -1,11 +1,15 @@
-@use "sass:meta";
 @use "root.scss";
+@use "_app.scss" as *;
+@use "_chat-message.scss" as *;
+@use "_sheet.scss" as *;
+@use "_utils.scss" as *;
+@use "_style.scss" as *;
 .mythic-bastionland {
   --color-shadow-primary: var(--highlight-dark-color);
   --color-text-hyperlink: var(--highlight-dark-color);
-  @include meta.load-css("utils.scss");
-  @include meta.load-css("app.scss");
-  @include meta.load-css("style.scss");
-  @include meta.load-css("sheet.scss");
-  @include meta.load-css("chat-message.scss");
+  @include utils;
+  @include app;
+  @include style;
+  @include sheet;
+  @include chat-message;
 }

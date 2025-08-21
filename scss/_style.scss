@@ -1,0 +1,186 @@
+@mixin text {
+  color: var(--text-dark-color);
+  border: none;
+  margin: 0;
+}
+
+@mixin input {
+  font-family: var(--secondary-text-font-family);
+  background: transparent;
+  color: var(--text-dark-color);
+  border: none;
+  appearance: none;
+  border-radius: 0;
+  padding: 0;
+  padding-left: 4px;
+  box-shadow: none;
+  &::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+@mixin style {
+  .text-large {
+    @include text;
+    font-family: var(--title-font-family);
+    font-size: 28px;
+    line-height: 42px;
+    margin-left: -2px;
+  }
+
+  .text-medium {
+    @include text;
+    font-family: var(--text-font-family);
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .text-medium-large {
+    @include text;
+    font-family: var(--title-font-family);
+    font-size: 28px;
+    line-height: 42px;
+  }
+
+  .text-regular {
+    @include text;
+    font-family: var(--text-font-family);
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .text-number {
+    @include text;
+    font-family: var(--secondary-text-font-family);
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .label-large {
+    height: 31px;
+    line-height: 28px;
+    align-self: flex-end;
+  }
+
+  .label-regular {
+    height: 16px;
+    line-height: 14px;
+    align-self: flex-end;
+  }
+
+  .label-number {
+    height: 14px;
+    line-height: 14px;
+    align-self: flex-end;
+  }
+
+  .input-large {
+    @include input;
+    font-size: 24px;
+    line-height: 32px;
+    height: 32px;
+    background: repeating-linear-gradient( to bottom, transparent, transparent 25px, rgba(0, 0, 0, 0.3) 26px );
+    background-attachment: local;
+  }
+
+  .input-regular {
+    @include input;
+    font-size: 24px;
+    line-height: 28px;
+    height: 28px;
+    background: repeating-linear-gradient( to bottom, transparent, transparent 23px, rgba(0, 0, 0, 0.3) 24px );
+    background-attachment: local;
+  }
+
+  .input-simple {
+    @include input;
+    font-family: var(--text-font-family);
+    font-size: 13px;
+    line-height: 28px;
+    height: 28px;
+  }
+
+  .input-number {
+    @include input;
+    font-size: 30px;
+    line-height: 28px;
+    height: 28px;
+    max-width: 36px;
+    padding: 0;
+    background: repeating-linear-gradient(to bottom, transparent, transparent 25px, rgba(0, 0, 0, 0.3) 26px);
+    background-attachment: local;
+    text-align: center;
+  }
+
+  input[type="checkbox"].input-checkbox {
+    height: 22px;
+    margin-top: 6px !important;
+    margin-left: 8px !important;
+  }
+
+  .text-bold {
+    font-weight: 700;
+  }
+
+  .text-italic {
+    font-style: italic;
+  }
+
+  .text-lowercase {
+    text-transform: lowercase;
+  }
+
+  .text-small-caps {
+    font-variant: small-caps;
+  }
+
+  .bg-primary {
+    background-color: var(--primary-color);
+    color: var(--text-light-color);
+  }
+
+  .clear-bg {
+    background: none;
+  }
+
+  .button-primary {
+    background: var(--secondary-color);
+    color: var(--text-light-color);
+    border: none;
+    border-radius: 4px;
+    line-height: 16px;
+    font-size: 12px;
+    white-space: nowrap;
+    margin: 0;
+    padding: 8px;
+  }
+
+  .button-primary:disabled {
+    opacity: 0.8;
+  }
+
+  .paper {
+    background-image: var(--paper-image-url);
+    background-attachment: local;
+  }
+
+  .inline-roll {
+    background: var(--highlight-light-color) !important;
+    color: var(--text-dark-color);
+    border-color: var(--highlight-dark-color);
+    padding: 0 4px !important;
+    border-radius: 4px !important;
+    font-size: 13px;
+
+    i {
+      color: var(--text-dark-color);
+    }
+  }
+
+  &.directory-header {
+    margin-bottom: 0;
+    button {
+      flex: 0 0 calc(50% - 8px / 2);
+    }
+  }
+}

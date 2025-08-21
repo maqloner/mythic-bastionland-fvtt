@@ -317,66 +317,66 @@
 .mythic-bastionland .text-indent-1 {
   text-indent: 8px;
 }
-.mythic-bastionland .app {
+.mythic-bastionland.app {
   color: var(--text-light-color);
   background-color: var(--primary-color);
   border-radius: 8px;
   overflow: hidden;
 }
-.mythic-bastionland .app .window-header {
+.mythic-bastionland.app .window-header {
   background-color: var(--primary-color);
   border: none;
 }
-.mythic-bastionland .app .window-content {
+.mythic-bastionland.app .window-content {
   font-family: var(--text-font-family);
   background: none;
   font-size: 14px;
   line-height: 23px;
   padding: 0;
 }
-.mythic-bastionland .app .window-content i.fas {
+.mythic-bastionland.app .window-content i.fas {
   color: var(--secondary-color);
 }
-.mythic-bastionland .app .window-content i.fas.highlight {
+.mythic-bastionland.app .window-content i.fas.highlight {
   color: var(--highlight-dark-color);
 }
-.mythic-bastionland .app .window-content form {
+.mythic-bastionland.app .window-content form {
   height: 100%;
   overflow: hidden;
   display: flex;
   flex-direction: column;
 }
-.mythic-bastionland .app .window-content form input[type=radio] {
+.mythic-bastionland.app .window-content form input[type=radio] {
   margin: 5px;
   top: auto;
 }
-.mythic-bastionland .app .window-content form input[type=checkbox] {
+.mythic-bastionland.app .window-content form input[type=checkbox] {
   margin: 0;
   top: auto;
   flex: none;
 }
-.mythic-bastionland .app .window-content form button i.fas {
+.mythic-bastionland.app .window-content form button i.fas {
   color: var(--text-light-color);
 }
-.mythic-bastionland .app .scrollable {
+.mythic-bastionland.app .scrollable {
   overflow: auto;
   flex: 1;
   display: flex;
   flex-direction: column;
 }
-.mythic-bastionland .app .scrollable::-webkit-scrollbar {
+.mythic-bastionland.app .scrollable::-webkit-scrollbar {
   width: 0px;
 }
-.mythic-bastionland .app .scrollable::-webkit-scrollbar-thumb {
+.mythic-bastionland.app .scrollable::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background: var(--secondary-color);
   border-width: 0px;
 }
-.mythic-bastionland .app .scrollable::-webkit-scrollbar-track {
+.mythic-bastionland.app .scrollable::-webkit-scrollbar-track {
   box-shadow: none;
   margin: 8px 0;
 }
-.mythic-bastionland .gm-dashboard-nav-item .gm-dashboard {
+.mythic-bastionland.gm-dashboard-nav-item .gm-dashboard {
   flex: 0;
   height: 34px;
   background: rgba(0, 0, 0, 0.5);
@@ -385,7 +385,7 @@
   font-size: var(--font-size-12);
   padding: 8px;
 }
-.mythic-bastionland .gm-dashboard-nav-item .gm-dashboard i {
+.mythic-bastionland.gm-dashboard-nav-item .gm-dashboard i {
   padding-right: 4px;
 }
 .mythic-bastionland .text-large {
@@ -595,38 +595,38 @@
 .mythic-bastionland .inline-roll i {
   color: var(--text-dark-color);
 }
-.mythic-bastionland .directory-header {
+.mythic-bastionland.directory-header {
   margin-bottom: 0;
 }
-.mythic-bastionland .directory-header button {
+.mythic-bastionland.directory-header button {
   flex: 0 0 calc(50% - 4px);
 }
-.mythic-bastionland .sheet.item {
+.mythic-bastionland.sheet.item {
   min-width: 400px;
   max-width: 400px;
 }
-.mythic-bastionland .sheet.actor {
+.mythic-bastionland.sheet.actor {
   min-width: 630px;
   max-width: 630px;
 }
-.mythic-bastionland .sheet.gm-dashboard {
+.mythic-bastionland.sheet.gm-dashboard {
   min-width: 400px;
   max-height: 400px;
 }
-.mythic-bastionland .sheet .editor-container {
+.mythic-bastionland.sheet .editor-container {
   min-height: 200px;
 }
-.mythic-bastionland .sheet .editor-container .editor {
+.mythic-bastionland.sheet .editor-container .editor {
   min-height: 200px;
   width: 100%;
 }
-.mythic-bastionland .sheet .editor-container .editor .editor-content {
+.mythic-bastionland.sheet .editor-container .editor .editor-content {
   background-color: rgba(0, 0, 0, 0.05);
   border-radius: 8px;
   padding: 8px;
   min-height: 200px;
 }
-.mythic-bastionland .sheet .picture {
+.mythic-bastionland.sheet .picture {
   width: 140px;
   height: 160px;
   border-radius: 16px;
@@ -634,46 +634,46 @@
   background-color: var(--primary-color);
   overflow: hidden;
 }
-.mythic-bastionland .sheet .picture img {
+.mythic-bastionland.sheet .picture img {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
   object-fit: cover;
   border: none;
 }
-.mythic-bastionland .sheet .picture.shield {
+.mythic-bastionland.sheet .picture.shield {
   border-radius: 50% 50% 50% 50%/12% 12% 88% 88%;
 }
-.mythic-bastionland .sheet .picture.shieldimg {
+.mythic-bastionland.sheet .picture.shieldimg {
   border-radius: 50% 50% 50% 50%/12% 12% 88% 88%;
 }
-.mythic-bastionland .sheet .item .item-description p {
+.mythic-bastionland.sheet .item .item-description p {
   margin-top: 0;
   margin-bottom: 4px;
 }
-.mythic-bastionland .sheet .item .item-description p:last-of-type {
+.mythic-bastionland.sheet .item .item-description p:last-of-type {
   margin: 0;
 }
-.mythic-bastionland .sheet .item i.fas {
+.mythic-bastionland.sheet .item i.fas {
   font-size: 13px;
 }
-.mythic-bastionland .sheet .tabs {
+.mythic-bastionland.sheet .tabs {
   margin: 0;
   border: none;
   border-bottom: 1px solid var(--secondary-color);
 }
-.mythic-bastionland .sheet .tab {
+.mythic-bastionland.sheet .tab {
   width: 100%;
 }
-.mythic-bastionland .chat-message {
+.mythic-bastionland.chat-message {
   background: var(--primary-color);
   border-width: 3px;
 }
-.mythic-bastionland .chat-message .message-header {
+.mythic-bastionland.chat-message .message-header {
   padding: 4px 8px;
   color: white;
 }
-.mythic-bastionland .chat-message .message-content {
+.mythic-bastionland.chat-message .message-content {
   background: var(--paper-image-url);
   background-attachment: local;
   font-family: var(--text-font-family);
@@ -684,43 +684,43 @@
   border-radius: 8px;
   color: var(--text-dark-color);
 }
-.mythic-bastionland .chat-message .message-content p {
+.mythic-bastionland.chat-message .message-content p {
   margin: 0 0 4px 0;
 }
-.mythic-bastionland .chat-message .message-content p:last-of-type {
+.mythic-bastionland.chat-message .message-content p:last-of-type {
   margin: 0;
 }
-.mythic-bastionland .chat-message .message-content .card-title {
+.mythic-bastionland.chat-message .message-content .card-title {
   font-size: 16px;
   line-height: 32px;
   background-color: var(--secondary-color);
   color: white;
   border-radius: 8px;
 }
-.mythic-bastionland .chat-message .message-content .card-description {
+.mythic-bastionland.chat-message .message-content .card-description {
   font-style: italic;
 }
-.mythic-bastionland .chat-message .message-content .outcome {
+.mythic-bastionland.chat-message .message-content .outcome {
   display: flex;
   flex-direction: column;
   align-items: stretch;
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-title {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-title {
   font-size: 18px;
   line-height: 32px;
   font-weight: 700;
   text-transform: uppercase;
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-description {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-description {
   padding: 8px 0 0 0;
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-rolls {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-rolls {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-roll {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll {
   font-size: 32px;
   line-height: 32px;
   background-color: var(--highlight-dark-color);
@@ -733,13 +733,13 @@
   align-items: center;
   justify-content: center;
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-roll.gambit {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.gambit {
   background-color: var(--green);
 }
-.mythic-bastionland .chat-message .message-content .outcome .outcome-roll.strong-gambit {
+.mythic-bastionland.chat-message .message-content .outcome .outcome-roll.strong-gambit {
   background-color: var(--orange);
 }
-.mythic-bastionland .chat-message .message-content .outcome .chat-message-button {
+.mythic-bastionland.chat-message .message-content .outcome .chat-message-button {
   width: auto;
   margin-top: 16px;
   display: inline;

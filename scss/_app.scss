@@ -1,0 +1,91 @@
+@mixin app {
+  &.app {
+    color: var(--text-light-color);
+    background-color: var(--primary-color);
+    border-radius: 8px;
+    overflow: hidden;
+
+    .window-header {
+      background-color: var(--primary-color);
+      border: none;
+    }
+
+    .window-content {
+      font-family: var(--text-font-family);
+      background: none;
+      font-size: 14px;
+      line-height: 23px;
+      padding: 0;
+
+      i.fas {
+        color: var(--secondary-color);
+
+        &.highlight {
+          color: var(--highlight-dark-color);
+        }
+      }
+
+      form {
+        height: 100%;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+
+        input[type="radio"] {
+          margin: 5px;
+          top: auto;
+        }
+
+        input[type="checkbox"] {
+          margin: 0;
+          top: auto;
+          flex: none;
+        }
+
+        button {
+          i.fas {
+            color: var(--text-light-color);
+          }
+        }
+      }
+    }
+
+    .scrollable {
+      overflow: auto;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+
+      &::-webkit-scrollbar {
+        width: 0px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        border-radius: 8px;
+        background: var(--secondary-color);
+        border-width: 0px;
+      }
+
+      &::-webkit-scrollbar-track {
+        box-shadow: none;
+        margin: 8px 0;
+      }
+    }
+  }
+
+  &.gm-dashboard-nav-item {
+    .gm-dashboard {
+      flex: 0;
+      height: 34px;
+      background: rgba(0, 0, 0, 0.5);
+      white-space: nowrap;
+      margin-bottom: 8px;
+      font-size: var(--font-size-12);
+      padding: 8px;
+
+      i {
+        padding-right: 4px;
+      }
+    }
+  }
+}

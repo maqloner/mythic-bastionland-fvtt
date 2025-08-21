@@ -1,8 +1,8 @@
 @use "sass:meta";
 @use "root.scss";
 .mythic-bastionland {
-  --color-shadow-primary: var(--hightlight-dark-color);
-  --color-text-hyperlink: var(--hightlight-dark-color);
+  --color-shadow-primary: var(--highlight-dark-color);
+  --color-text-hyperlink: var(--highlight-dark-color);
   @include meta.load-css("utils.scss");
   @include meta.load-css("app.scss");
   @include meta.load-css("style.scss");

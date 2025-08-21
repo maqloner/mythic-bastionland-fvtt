@@ -2,10 +2,10 @@
   "id": "mythicbastionland",
   "title": "Mythic Bastionland",
   "description": "FoundryVTT system for playing the Mythic Bastionland.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.346"
+    "verified": "13.347"
   },
   "url": "https://github.com/maqloner/mythic-bastionland-fvtt",
   "manifest": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.json",

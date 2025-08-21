@@ -1,9 +1,9 @@
 :root {
   --primary-color: #181f2b;
   --secondary-color: #4b414d;
-  --hightlight-light-color: #fbebd5;
-  --hightlight-light-alt-color: #b9b393;
-  --hightlight-dark-color: #a16240;
+  --highlight-light-color: #fbebd5;
+  --highlight-light-alt-color: #b9b393;
+  --highlight-dark-color: #a16240;
   --text-dark-color: #181f2b;
   --text-light-color: #FFFFFF;
   --paper-image-url: url("/systems/mythicbastionland/ui/paper.png");
@@ -49,8 +49,8 @@
   src: url("../fonts/texgyreschola-bolditalic.woff") format("woff");
 }
 .mythic-bastionland {
-  --color-shadow-primary: var(--hightlight-dark-color);
-  --color-text-hyperlink: var(--hightlight-dark-color);
+  --color-shadow-primary: var(--highlight-dark-color);
+  --color-text-hyperlink: var(--highlight-dark-color);
 }
 .mythic-bastionland .grid {
   box-sizing: border-box;
@@ -338,7 +338,7 @@
   color: var(--secondary-color);
 }
 .mythic-bastionland .app .window-content i.fas.highlight {
-  color: var(--hightlight-dark-color);
+  color: var(--highlight-dark-color);
 }
 .mythic-bastionland .app .window-content form {
   height: 100%;
@@ -585,9 +585,9 @@
   background-attachment: local;
 }
 .mythic-bastionland .inline-roll {
-  background: var(--hightlight-light-color) !important;
+  background: var(--highlight-light-color) !important;
   color: var(--text-dark-color);
-  border-color: var(--hightlight-dark-color);
+  border-color: var(--highlight-dark-color);
   padding: 0 4px !important;
   border-radius: 4px !important;
   font-size: 13px;
@@ -723,7 +723,7 @@
 .mythic-bastionland .chat-message .message-content .outcome .outcome-roll {
   font-size: 32px;
   line-height: 32px;
-  background-color: var(--hightlight-dark-color);
+  background-color: var(--highlight-dark-color);
   color: white;
   border-radius: 8px;
   min-width: 48px;

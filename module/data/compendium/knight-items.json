@@ -1,0 +1,3115 @@
+{
+  "name": "Knight - Items",
+  "folders": [
+    {
+      "name": "common",
+      "items": [
+        {
+          "type": "misc",
+          "name": "Torches",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Rope",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Dry rations",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Camping Gear",
+          "quantity": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Dagger",
+          "damage": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The True Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The True Knight",
+          "description": "A pact to uphold truth. The false slung broken upon their lies.",
+          "flavor": "Symbol of Truth",
+          "flavorLabel1": "Trigger",
+          "flavorLabel2": "Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Punitive Stroke",
+          "description": "Make a melee attack against a known liar. Get +[[/r d10 #damage]] to the attack, ignoring armour."
+        },
+        {
+          "type": "passion",
+          "name": "Honesty",
+          "description": "Restore SPI when you tell the truth where a lie might be more beneficial."
+        },
+        {
+          "type": "helm",
+          "name": "Helm",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Plate",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Polished mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "kite shield",
+          "damage": "d4",
+          "armor": 1,
+          "description": "Marked with a symbol of the truth"
+        }
+      ]
+    },
+    {
+      "name": "The Snare Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Snare Knight",
+          "description": "Immersed within the woods. A sheriff of natural order",
+          "flavor": "Knight & Companion",
+          "flavorLabel1": "History",
+          "flavorLabel2": "Type"
+        },
+        {
+          "type": "ability",
+          "name": "Wild Eye",
+          "description": "Observe a beast in secret. Learn a useful truth about their habitat."
+        },
+        {
+          "type": "passion",
+          "name": "Empathy",
+          "description": "Restore SPI when you spare the life of a hostile animal."
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Handaxe attached to Wildrope",
+          "damage": "d6",
+          "description": "Attached to Wildrope. (strong rope that blends perfectly into foliage),"
+        }
+      ]
+    },
+    {
+      "name": "The Tourney Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Tourney Knight",
+          "description": "A calling brought a life of combat. Nay a protector, in fact a competitor.",
+          "flavor": "Calling and Helm",
+          "flavorLabel1": "Call to Battle",
+          "flavorLabel2": "Fancy Helm"
+        },
+        {
+          "type": "ability",
+          "name": "Champion Vow",
+          "description": "Use immediately before a combat where there is a prize at stake. +[[/roll d6 #damage]] to melee attacks for the whole combat."
+        },
+        {
+          "type": "passion",
+          "name": "Hatred",
+          "description": "Restore SPI when you refuse a plea for forgiveness."
+        },
+        {
+          "type": "helm",
+          "name": "Fancy helm",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Arena plate",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Greatlance",
+          "damage": "2d10",
+          "slow": true,
+          "description": "Hefty when mounted, slow on foot"
+        },
+        {
+          "type": "weapon",
+          "name": "Javelin",
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Javelin",
+          "damage": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Bloody Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Bloody Knight",
+          "description": "Some were born to fight. This one birthed from the very blood of battle.",
+          "flavor": "Rage Fuel",
+          "flavorLabel1": "Alcohol",
+          "flavorLabel2": "Hatred"
+        },
+        {
+          "type": "ability",
+          "name": "Bloody Echo",
+          "description": "Use immediately after defeating an opponent. Your next melee attack in this combat gains Blast."
+        },
+        {
+          "type": "passion",
+          "name": "Justice",
+          "description": "Restore SPI when you restore the balance of justice."
+        },
+        {
+          "type": "helm",
+          "name": "Helm",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Brutal plate",
+          "armor": 0,
+          "description": "A1 only when Wounded"
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sacks of very strong alcohol, to which you're largely resistant",
+          "quantity": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Longaxe",
+          "damage": "d10",
+          "long": true
+        }
+      ]
+    },
+    {
+      "name": "The Moss Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Moss Knight",
+          "description": "The tree and stone had no need to be taught. The wisest knew to study beneath them.",
+          "flavor": "Full body Tattoos",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Mosstongue",
+          "description": "Speak with uncut stones and particularly old trees. If you push them for too much knowledge they rebuke you, shunning you for the rest of the day."
+        },
+        {
+          "type": "passion",
+          "name": "Naturality",
+          "description": "Restore SPI when you reject an opportunity to sleep indoors, sleeping in nature instead."
+        },
+        {
+          "type": "helm",
+          "name": "Mail coif",
+          "armor": 1
+        },
+        {
+          "type": "shield",
+          "name": "Buckler",
+          "armor": 1,
+          "damage": "d4"
+        },
+        {
+          "type": "weapon",
+          "name": "Branch cudgel",
+          "damage": "d8",
+          "hefty": true
+        }
+      ]
+    },
+    {
+      "name": "The War Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The War Knight",
+          "description": "Forged and broken in the bloodied mud. Won some, lost some, ever survived.",
+          "flavor": "Military Gear",
+          "flavorLabel1": "Special Polearm",
+          "flavorLabel2": "Helm"
+        },
+        {
+          "type": "ability",
+          "name": "Battle Awareness",
+          "description": "When fighting in a combat with at least 3 combatants on each side all your Gambits count as Strong Gambits."
+        },
+        {
+          "type": "passion",
+          "name": "Duty",
+          "description": "Restore SPI when you answer the call for martial service under a superior."
+        },
+        {
+          "type": "helm",
+          "name": "Helm",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Splint armor",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Whalebone chess set",
+          "quantity": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Special polearm",
+          "damage": "d8",
+          "long": true
+        }
+      ]
+    },
+    {
+      "name": "The Willow Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Willow Knight",
+          "description": "The giants fought the storm, falling, all broken bones. The youth, thrown about, arose in the calm.",
+          "flavor": "Memories of Home",
+          "flavorLabel1": "Place",
+          "flavorLabel2": "Disaster"
+        },
+        {
+          "type": "ability",
+          "name": "Bend with the Wind",
+          "description": "When you use a Gambit to Move you count as having Armour 4 until your next turn. This does not stack with your actual armour."
+        },
+        {
+          "type": "passion",
+          "name": "Doubt",
+          "description": "Restore SPI when you defer to somebody more senior than you, even though you disagree."
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "shield",
+          "name": "Half-shield",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Youthful Energy",
+          "quantity": 1,
+          "description": "Use once only to treat a Mortal Wound as a normal wound)"
+        },
+        {
+          "type": "weapon",
+          "name": "Old sword",
+          "damage": "d8",
+          "hefty": true
+        }
+      ]
+    },
+    {
+      "name": "The Gilded Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Gilded Knight",
+          "description": "A beacon of the brave and bold. All cloaked and masked in sunnen gold.",
+          "flavor": "The Cost",
+          "flavorLabel1": "Where did the armour show itself?",
+          "flavorLabel2": "What was left behind?"
+        },
+        {
+          "type": "ability",
+          "name": "Martyr-in-Waiting",
+          "description": "Use as a reaction to being Mortally Wounded. Allies fighting with you regain [[/roll d6 #guard]]GD and get +[[/roll d12 #damage]] against your attacker for the combat."
+        },
+        {
+          "type": "passion",
+          "name": "Pride",
+          "description": "Restore SPI when you take personal credit for a great victory."
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Gold-masked helm",
+          "armor": 1,
+          "description": "Opponents who know the value of gold have their first ever attack against you Impaired"
+        },
+        {
+          "type": "plate",
+          "name": "Gold cloaked plate",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Great mace",
+          "damage": "d10",
+          "long": true
+        }
+      ]
+    },
+    {
+      "name": "The Saddle Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Saddle Knight",
+          "description": "Within a blink they were atop their steed. Knight and beast at one, a red streak in the green.",
+          "flavor": "Loyal Steed",
+          "flavorLabel1": "Appearance",
+          "flavorLabel2": "Temperament"
+        },
+        {
+          "type": "ability",
+          "name": "Song of the Steed",
+          "description": "Speak in a voice comprehensible to horses. They need reasoning with rather than commanding."
+        },
+        {
+          "type": "passion",
+          "name": "Certainty",
+          "description": "Restore SPI when you prove somebody wrong."
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Rider's plate",
+          "armor": 0,
+          "description": "A1 when mounted"
+        },
+        {
+          "type": "misc",
+          "name": "Fine saddle and tack",
+          "quantity": 1,
+          "description": "You can never be dismounted"
+        },
+        {
+          "type": "weapon",
+          "name": "Rider's axe",
+          "damage": "d6",
+          "description": "+[[/roll d6 #damage]] when mounted, can be thrown"
+        },
+        {
+          "type": "weapon",
+          "name": "Rider's axe",
+          "damage": "d6",
+          "description": "+[[/roll d6 #damage]] when mounted, can be thrown"
+        },
+        {
+          "type": "weapon",
+          "name": "Rider's axe",
+          "damage": "d6",
+          "description": "+[[/roll d6 #damage]] when mounted, can be thrown"
+        }
+      ]
+    },
+    {
+      "name": "The Riddle Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Riddle Knight",
+          "description": "The right words say everything and nothing. A different truth to each ear.",
+          "flavor": "Moon Form",
+          "flavorLabel1": "Body",
+          "flavorLabel2": "Visage"
+        },
+        {
+          "type": "ability",
+          "name": "Twisted Words",
+          "description": "Speak, but choose two different meanings, as different as you wish, even total opposites. Choose which meaning each listener takes from the words."
+        },
+        {
+          "type": "passion",
+          "name": "Integrity",
+          "description": "Restore SPI when you discredit somebody unworthy of their position."
+        },
+        {
+          "type": "coat",
+          "name": "Light mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Moon pendant",
+          "quantity": 1,
+          "description": "Grants the wearer a false form under moonlight, [[/roll roling #table-knight-the-riddle-knight]] each night"
+        },
+        {
+          "type": "weapon",
+          "name": "Twisted bow",
+          "damage": "d6",
+          "long": true
+        }
+      ]
+    },
+    {
+      "name": "The Talon Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Talon Knight",
+          "description": "The claw is nothing without the eye. The eye is nothing without the wing.",
+          "flavor": "Loyal Bird",
+          "flavorLabel1": "Breed",
+          "flavorLabel2": "Special Training"
+        },
+        {
+          "type": "ability",
+          "name": "Flockbond",
+          "description": "See through the eyes of your bird, and learn the local knowledge of any prey it eats."
+        },
+        {
+          "type": "passion",
+          "name": "Regret",
+          "description": "Restore SPI when you burn a part of your past."
+        },
+        {
+          "type": "helm",
+          "name": "Helm",
+          "armor": 1
+        },
+        {
+          "type": "shield",
+          "name": "Shield-gauntlet",
+          "armor": 1,
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Hookhammer",
+          "damage": "d8",
+          "hefty": true,
+          "description": "+[[/roll d8 #damage]] dropping from above"
+        }
+      ]
+    },
+    {
+      "name": "The Barbed Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Barbed Knight",
+          "description": "Cruelty can bring a peace. Stone and spikes split into bloom.",
+          "flavor": "Bad Reputation",
+          "flavorLabel1": "Begrudging Ally",
+          "flavorLabel2": "Hated Enemy"
+        },
+        {
+          "type": "ability",
+          "name": "The Red Hunt",
+          "description": "Once each day, infuse a target’s spilt blood into an arrow to give it +[[/roll d12 #damage]] against the target. You can also taste a small amount of the blood to get a glimpse of their location."
+        },
+        {
+          "type": "passion",
+          "name": "Apathy",
+          "description": "Restore SPI when you reject a call for comfort."
+        },
+        {
+          "type": "coat",
+          "name": "Red cloaked mail",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Jagged Spear",
+          "damage": "d8",
+          "hefty": true,
+          "description": "+[[/roll d8 #damage]] against a target you have Wounded or Scarred"
+        },
+        {
+          "type": "weapon",
+          "name": "Hunting bow",
+          "damage": "d8",
+          "long": true
+        }
+      ]
+    },
+    {
+      "name": "The Trail Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Trail Knight",
+          "description": "More than foxes leave trails in their stead. Comings and goings laid plain as a thread",
+          "flavor": "Personal code",
+          "flavorLabel1": "Value",
+          "flavorLabel2": "Forged by"
+        },
+        {
+          "type": "ability",
+          "name": "Strands of Past",
+          "description": "By studying the ground for a whole Phase you can ask a single yes or no question about what happened here in the past few days."
+        },
+        {
+          "type": "passion",
+          "name": "Fear",
+          "description": "Restore SPI when refusing to go into the dark."
+        },
+        {
+          "type": "weapon",
+          "name": "Crow-beak axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Beaten gambeson",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sanguine lens",
+          "description": "Traces of blood appear obvious when viewed through this"
+        }
+      ]
+    },
+    {
+      "name": "The Amber Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Amber Knight",
+          "description": "Their wait has been longer than we could imagine. Their blade slow but unstoppable",
+          "flavor": "A steady hand",
+          "flavorLabel1": "Pastime",
+          "flavorLabel2": "Taught By"
+        },
+        {
+          "type": "ability",
+          "name": "Patient Strike",
+          "description": "Make a melee Attack when you have not moved this turn. +[[/roll d10 #damage]] to the Attack. Ignore the target’s Armour and immunities of any sort. If this fails to defeat the opponent, take [[/roll d6 #damage]] Damage yourself."
+        },
+        {
+          "type": "passion",
+          "name": "Avarice",
+          "description": "Restore SPI when you gain significant wealth."
+        },
+        {
+          "type": "weapon",
+          "name": "Ancient greatblade",
+          "damage": "2d10",
+          "slow": true
+        },
+        {
+          "type": "coat",
+          "name": "Ancient mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Amber amulet",
+          "description": "If placed in a fire, carries its warmth for a whole day"
+        }
+      ]
+    },
+    {
+      "name": "The Horde Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Horde Knight",
+          "description": "In fury’s reign afore the rav’ning throng. In chaos born as knight where beast belong",
+          "flavor": "Rations from home",
+          "flavorLabel1": "Flavour",
+          "flavorLabel2": "Substance"
+        },
+        {
+          "type": "ability",
+          "name": "Pack Tactics",
+          "description": "Use before attacking with at least one ally. You may combine any number of dice into larger dice with a value equal to the total of the combined dice, to a maximum of d12 Damage. For example, combining a d4 and a d8 into a d12."
+        },
+        {
+          "type": "passion",
+          "name": "Prestige",
+          "description": "Restore SPI when you take credit for the deeds of another."
+        },
+        {
+          "type": "weapon",
+          "name": "Blunt sword",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Ringed mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Rations from home",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Emerald Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Emerald Knight",
+          "description": "A verdant cloak on sable steed. Neath nature’s veil, yond sight and heed",
+          "flavor": "Hidden action",
+          "flavorLabel1": "Hidden Action",
+          "flavorLabel2": "Heightened Sense"
+        },
+        {
+          "type": "ability",
+          "name": "Fade to Green",
+          "description": "Use when hiding still and silent in greenery. You cannot be found by any means. While hiding you can only perform a specific type of action without revealing yourself, but also benefit from a heightened sense (see below)."
+        },
+        {
+          "type": "passion",
+          "name": "Elegance",
+          "description": "Restore SPI when you leave a place more beautiful than you found it."
+        },
+        {
+          "type": "weapon",
+          "name": "Branchspear",
+          "description": "When stabbed into a tree it is immovable by anyone but you",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Cloaked mail",
+          "description": "A1 in verdant environments only"
+        },
+        {
+          "type": "shield",
+          "name": "Shield",
+          "damage": "d4",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Chain Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Chain Knight",
+          "description": "Born below the soil, below the stone, below all thought. Down, down, further down, of blood and iron wrought",
+          "flavor": "How you reached the surface",
+          "flavorLabel1": "First",
+          "flavorLabel2": "Then"
+        },
+        {
+          "type": "ability",
+          "name": "Will of the Irons",
+          "description": "Move a single chain that you touch as if it was a limb. You can lash out with both ends ([[/roll d6 #damage]] each), grasp opponents, and otherwise move it to your will."
+        },
+        {
+          "type": "passion",
+          "name": "Abyss",
+          "description": "Restore SPI when sleeping underground in complete darkness"
+        },
+        {
+          "type": "weapon",
+          "name": "Pronged mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Oubliette mail",
+          "description": "Wrapped in a Long iron chain",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Banner Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Banner Knight",
+          "description": "Beware of those festooning the flag. Their blade may be idle but their comrades are sharpened",
+          "flavor": "Inspiring banner",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Topper"
+        },
+        {
+          "type": "ability",
+          "name": "Rousing Presence",
+          "description": "Use once per Attack when you are part of a group Attack. You may reroll the entire pool of Attack dice once only."
+        },
+        {
+          "type": "passion",
+          "name": "Sensitivity",
+          "description": "Restore SPI when receiving social approval."
+        },
+        {
+          "type": "weapon",
+          "name": "Banner-pike",
+          "description": "See below, lose [[/roll d6]] SPI if the banner ever falls to the ground in battle",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Spikehammer",
+          "damage": "d6"
+        },
+        {
+          "type": "coat",
+          "name": "Ornate mail .",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Pigeon Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Pigeon Knight",
+          "description": "The humble know no home in place. For such wanderers, the horizon is their hearth",
+          "flavor": "Memories of the lost home",
+          "flavorLabel1": "Hue",
+          "flavorLabel2": "Shape"
+        },
+        {
+          "type": "ability",
+          "name": "Wayfinder Sense",
+          "description": "Sense the direction in which a particular goal lies, but not the best route to travel there. You cannot use this to find your lost home or the City."
+        },
+        {
+          "type": "passion",
+          "name": "Inquisition",
+          "description": "Restore SPI when you wrangle the truth out of an uncooperative person."
+        },
+        {
+          "type": "weapon",
+          "name": "Bitterglaive",
+          "description": "+[[/roll d8 #damage]] vs targets within their home",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Patchwork mail with hooded cloak",
+          "description": "Can be used to vanish into a significantly large crowd",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Shield Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Shield Knight",
+          "description": "In wood, hide, or iron, as armour meek or grand. No greater shield for the weak than the oath-sworn Knight’s own hand",
+          "flavor": "Soothing salve",
+          "flavorLabel1": "Aroma",
+          "flavorLabel2": "Side Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Death Ward",
+          "description": "Use when a nearby ally would take a Mortal Wound or be killed outright. You take a Mortal Wound instead."
+        },
+        {
+          "type": "passion",
+          "name": "Mortality",
+          "description": "Restore SPI when you see an ally suffer a Mortal Wound."
+        },
+        {
+          "type": "weapon",
+          "name": "Dull sword",
+          "damage": "2d6",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Tattered gambeson",
+          "armor": 1
+        },
+        {
+          "type": "shield",
+          "name": "Cracked shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Soothing salve",
+          "description": "You prepare enough for one use each day, restores VIG, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Whip Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Whip Knight",
+          "description": "Some draw screams from wrent flesh and bone. Others have ways to make very soul moan",
+          "flavor": "Strange herbs",
+          "flavorLabel1": "Positive Effect",
+          "flavorLabel2": "Side Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Pain Strike",
+          "description": "Make a melee Attack on your own. Damage is applied to GD as normal, but then to SPI in place of VIG. If the target loses half of their SPI from this Attack they lie broken before you."
+        },
+        {
+          "type": "passion",
+          "name": "Reverence",
+          "description": "Restore SPI when offering respectful homage to the dead."
+        },
+        {
+          "type": "weapon",
+          "name": "Spiny mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Whip",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Strange herbs",
+          "description": "Different effect each time, see below. Enough for one dose each day. Effects wear off after an hour, but Virtue Loss remains"
+        }
+      ]
+    },
+    {
+      "name": "The Seal Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Seal Knight",
+          "description": "A Knight’s sworn oath outlasts the stone wall. Yet Seers say in time even words must fall",
+          "flavor": "Runic scrolls",
+          "flavorLabel1": "Subject",
+          "flavorLabel2": "Prophecy"
+        },
+        {
+          "type": "ability",
+          "name": "Knight to mark it with your seal.",
+          "description": "They can use Deny as if they were a Knight, but then the seal is removed."
+        },
+        {
+          "type": "passion",
+          "name": "Modesty",
+          "description": "Restore SPI when refusing a reward"
+        },
+        {
+          "type": "weapon",
+          "name": "Stout halberd",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Siege plate",
+          "description": "When the wearer braces against a door it cannot be breached",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "3 runic scrolls",
+          "description": "See below, can only be read by Seers, who value them greatly"
+        }
+      ]
+    },
+    {
+      "name": "The Horn Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Horn Knight",
+          "description": "Horn cried, hearts asank, blood awoke. In its wail our fates all sealed as the feast for death",
+          "flavor": "The wild horn",
+          "flavorLabel1": "Shape",
+          "flavorLabel2": "Sound"
+        },
+        {
+          "type": "ability",
+          "name": "Carnage Fanfare",
+          "description": "Blow the wild horn in battle. For the rest of this battle any VIG lost through Damage is doubled. This affects all involved in the battle, whether they hear the horn or not."
+        },
+        {
+          "type": "passion",
+          "name": "Bluntness",
+          "description": "Restore SPI when you move the conversation in a way that somebody is avoiding."
+        },
+        {
+          "type": "weapon",
+          "name": "Antler-halberd",
+          "description": "+[[/roll d10 #damage]] vs horned or antlered opponents",
+          "damage": "d8",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Bow",
+          "damage": "d6",
+          "long": true
+        },
+        {
+          "type": "misc",
+          "name": "Wild horn",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Dove Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Dove Knight",
+          "description": "In serenous moon the best of us can rest in docile light. That quietest bird in impure times must soar in bloody flight",
+          "flavor": "Winged armour",
+          "flavorLabel1": "Ability",
+          "flavorLabel2": "Limitation"
+        },
+        {
+          "type": "ability",
+          "name": "Strike of Serenity",
+          "description": "Make a melee Attack against a wounded target. Get +[[/roll d8 #damage]] to the Attack. If this defeats the target then all allies restore SPI."
+        },
+        {
+          "type": "passion",
+          "name": "Vengeance",
+          "description": "Restore SPI when achieving a worthy revenge"
+        },
+        {
+          "type": "weapon",
+          "name": "Stout blade",
+          "damage": "2d6",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson ,",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Winged scale",
+          "description": "Can’t fly, but see below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Bright weeds",
+          "description": "Create a cool glow when crushed to a powder"
+        }
+      ]
+    },
+    {
+      "name": "The Story Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Story Knight",
+          "description": "At last, I’m here!. The one you were waiting for, the one behind the words",
+          "flavor": "Tome of tales",
+          "flavorLabel1": "Style",
+          "flavorLabel2": "Twist"
+        },
+        {
+          "type": "ability",
+          "name": "Weaver of Fate",
+          "description": "Just before night falls, tell a story related to a nearby place, noting two details past, present, or future. The Referee secretly chooses one of them to become truth. This can only be performed once per location."
+        },
+        {
+          "type": "passion",
+          "name": "Showmanship",
+          "description": "Restore SPI when you deliberately draw unwanted attention."
+        },
+        {
+          "type": "weapon",
+          "name": "Crook-blade",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Bronzestudded brigandine",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Book of stories",
+          "description": "Something for everyone, see below for a random tale"
+        }
+      ]
+    },
+    {
+      "name": "The Turtle Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Turtle Knight",
+          "description": "I stand inclad in shelldy stead. Nawone of you will see me dead!",
+          "flavor": "Drinking horn",
+          "flavorLabel1": "Appearance",
+          "flavorLabel2": "Imparted Flavour"
+        },
+        {
+          "type": "ability",
+          "name": "Unbreakable Shell",
+          "description": "Use at the start of your turn. You cannot move, but double the Armour score of your shield and gain +[[/roll d6 #damage]] when attacking with a shield."
+        },
+        {
+          "type": "passion",
+          "name": "Wellrestedness",
+          "description": "Restore SPI when you sleep for two consecutive Phases."
+        },
+        {
+          "type": "weapon",
+          "name": "Beakhammer",
+          "damage": "d6"
+        },
+        {
+          "type": "shield",
+          "name": "Battered tower shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Drinking horn",
+          "description": "Makes even disgusting liquids taste good, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Key Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Key Knight",
+          "description": "Sure as sky and sea. For every lock a key",
+          "flavor": "Ill gotten gains",
+          "flavorLabel1": "Valuables",
+          "flavorLabel2": "Keepsakes"
+        },
+        {
+          "type": "ability",
+          "name": "Retroactive Forethought",
+          "description": "Once per day, produce a common item from your backpack that you could have reasonably acquired at a recent point."
+        },
+        {
+          "type": "passion",
+          "name": "Distraction",
+          "description": "Restore SPI when you abandon a set plan."
+        },
+        {
+          "type": "weapon",
+          "name": "Horned axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Kite shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Ring of keys",
+          "description": "For any lock there’s a 1-in-3 chance you can find a key that fits"
+        },
+        {
+          "type": "misc",
+          "name": "Bag of ill-gotten gains",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Moat Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Moat Knight",
+          "description": "There they stood, awashed in soddled loam. A grottling dance, the dusky sky agloam",
+          "flavor": "An especially difficult steed",
+          "flavorLabel1": "Will Not",
+          "flavorLabel2": "But"
+        },
+        {
+          "type": "ability",
+          "name": "Wading Stance",
+          "description": "Gain 1 Armour and +[[/roll d6 #damage]] to all attacks when fighting in at least waist-high water."
+        },
+        {
+          "type": "passion",
+          "name": "Filth",
+          "description": "Restore SPI when you become utterly filthy."
+        },
+        {
+          "type": "weapon",
+          "name": "Spiked flail",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Barbed mail",
+          "description": "Anyone trying to grab or hold you takes [[/roll d6 #damage]] Damage",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Moat shovel",
+          "description": "Any hole dug with this immediately begins to fill with water, stopping when full"
+        }
+      ]
+    },
+    {
+      "name": "The Boulder Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Boulder Knight",
+          "description": "A fated charge in mail and stalward plate. Abaited foes await that thundring gait",
+          "flavor": "Fancy armour",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Quirk"
+        },
+        {
+          "type": "ability",
+          "name": "Unstoppable Dash",
+          "description": "When you are in motion you cannot be stopped, but sustain [[/roll d12 #damage]] Damage if breaking through a solid wall or object. You cannot sustain this motion for long distances."
+        },
+        {
+          "type": "passion",
+          "name": "Strength",
+          "description": "Restore SPI when you complete a physical task that somebody else was struggling with."
+        },
+        {
+          "type": "weapon",
+          "name": "Siege hammer",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Fancy plate",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Hand-written book",
+          "description": "“Of Time-Tested Guidance in the Construction and Destruction of Fortresses, Ramparts, and Castles”"
+        }
+      ]
+    },
+    {
+      "name": "The Tankard Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Tankard Knight",
+          "description": "Abrash and bold, renowned and rued. Their presence cheered on one breath, damned anext",
+          "flavor": "Scar story",
+          "flavorLabel1": "Who Scarred You?",
+          "flavorLabel2": "Your Betrayal"
+        },
+        {
+          "type": "ability",
+          "name": "Humble Glamourie",
+          "description": "After eating and drinking with somebody for a few hours they consider you trustworthy enough to speak openly about anything you ask about. The next day they come to their senses and realise if they revealed too much."
+        },
+        {
+          "type": "passion",
+          "name": "Revelry",
+          "description": "Restore SPI when socially overindulging."
+        },
+        {
+          "type": "weapon",
+          "name": "Eagle axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Roundshield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Mail shirt",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Scar from a friend betrayed",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Owl Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Owl Knight",
+          "description": "A fat one indeed who feasts on the fruits of fact. The nut of knowing nourishes from nog to nosh",
+          "flavor": "Miscellaneous tomes",
+          "flavorLabel1": "Title",
+          "flavorLabel2": "Title"
+        },
+        {
+          "type": "ability",
+          "name": "Arboreal Archive",
+          "description": "Spend a Phase running hands over a tree to access its memory, seeing anything that happened under its shade or over its roots."
+        },
+        {
+          "type": "passion",
+          "name": "Alertness",
+          "description": "Restore SPI when you spot an ambush, trap, or surprise attack."
+        },
+        {
+          "type": "weapon",
+          "name": "Blade-staff",
+          "damage": "2d8",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Ringmail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sack of books",
+          "description": "1-in-2 chance you have a small snippet of information on any particular topic at hand, otherwise you find a miscellaneous tome, as below"
+        }
+      ]
+    },
+    {
+      "name": "The Hooded Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Hooded Knight",
+          "description": "As deeds abound in history's script. More slip from time’s forgetful grip",
+          "flavor": "Hood and cloak",
+          "flavorLabel1": "Hood",
+          "flavorLabel2": "Cloak"
+        },
+        {
+          "type": "ability",
+          "name": "Unnoticed Deed",
+          "description": "Once per day you can retroactively declare an action that you took earlier that day, such as giving instructions to an ally, or gathering a specific piece of information. This cannot be used to acquire new items."
+        },
+        {
+          "type": "passion",
+          "name": "Anonymity",
+          "description": "Restore SPI when somebody believes in a false identity you are portraying."
+        },
+        {
+          "type": "weapon",
+          "name": "Glaive",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "3 throwing axes",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Cloak and hood",
+          "description": "See below, while fully cloaked and hooded, people will see you in the moment, but have no memory of you once you pass from sight"
+        }
+      ]
+    },
+    {
+      "name": "The Lance Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Lance Knight",
+          "description": "Steed agasp, spear agroan, strike agore. Sharp afrail, sight ablind, then no more",
+          "flavor": "Mystic sight",
+          "flavorLabel1": "What can you see?",
+          "flavorLabel2": "But you cannot see"
+        },
+        {
+          "type": "ability",
+          "name": "Shattering Charge",
+          "description": "Once per day, make a solo mounted charging Attack with a lance. The Attack gains +[[/roll d12 #damage]], Blast, and Gambits caused by the Attack count as strong. The lance is shattered."
+        },
+        {
+          "type": "passion",
+          "name": "Adventure",
+          "description": "Restore SPI when you enter a Myth Hex."
+        },
+        {
+          "type": "weapon",
+          "name": "Lance",
+          "description": "Hefty if mounted",
+          "damage": "d10",
+          "long": true,
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Spiked mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Kite shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Mystic sight",
+          "description": "You can see something you shouldn't be able to, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Questing Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Questing Knight",
+          "description": "Dream of the commoner, tragedy of the knight. To die at rest, at peace, at quiet",
+          "flavor": "Ancient sword",
+          "flavorLabel1": "Appearance",
+          "flavorLabel2": "Who gave it to you?"
+        },
+        {
+          "type": "ability",
+          "name": "Pledge Quest",
+          "description": "Swear a quest to somebody who cares. Until you complete the quest you cannot regain lost GD, but get +[[/roll d12 #damage]] on all attacks against those who stand in your way. Lose [[/roll d12]] SPI if you abandon the quest."
+        },
+        {
+          "type": "passion",
+          "name": "Impetuosity",
+          "description": "Restore SPI when you are first to fight."
+        },
+        {
+          "type": "weapon",
+          "name": "Ancient sword",
+          "description": "See below"
+        },
+        {
+          "type": "shield",
+          "name": "Kite shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "3 javelins",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Cold stone",
+          "description": "Can absorb a single ailment from the wielder before vanishing in a burning light"
+        }
+      ]
+    },
+    {
+      "name": "The Ring Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Ring Knight",
+          "description": "With ring a’lone, head dreams of home. With rings o’two, heart fills with rue",
+          "flavor": "Properties of the rings",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Unbreakable Circle",
+          "description": "Draw a circle in the ground, with yourself in the centre. Until you leave the circle, no other living being can enter or leave it."
+        },
+        {
+          "type": "passion",
+          "name": "Respectfulness",
+          "description": "Restore SPI when returning something to its rightful owner after it was lost or taken."
+        },
+        {
+          "type": "weapon",
+          "name": "Long mace",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Violet mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Pair of rings",
+          "description": "See below, can only be put on or removed at sunrise"
+        }
+      ]
+    },
+    {
+      "name": "The Forge Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Forge Knight",
+          "description": "Gravid beats on ferrous slab, thick air a crimson sheen. Each mallenstroke leaves scars aworn, apparent and unseen",
+          "flavor": "Scars from the forge",
+          "flavorLabel1": "Visible",
+          "flavorLabel2": "Non-Visible"
+        },
+        {
+          "type": "ability",
+          "name": "Tempering Strike",
+          "description": "When you cause a Wound with a melee weapon, that weapon receives +[[/roll d6 #damage]] until the end of combat. This effect can stack."
+        },
+        {
+          "type": "passion",
+          "name": "Burning",
+          "description": "Restore SPI when you are wounded by fire."
+        },
+        {
+          "type": "weapon",
+          "name": "Bolt-guisarme",
+          "description": "Long in melee or slow in ranged",
+          "damage": "d10",
+          "long": true,
+          "slow": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Scale",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Scars from the forge",
+          "description": "See below"
+        },
+        {
+          "type": "misc",
+          "name": "Pots of forge dust",
+          "description": "Spreads irritating gas in the area when broken, Impairing attacks from within. You can make more anywhere with a forge"
+        }
+      ]
+    },
+    {
+      "name": "The Rune Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Rune Knight",
+          "description": "Under gleam of lumenlight, in skin or stone ascratch. Strands of faten path unveiled, a starry scrawl to match",
+          "flavor": "The crystal flask",
+          "flavorLabel1": "If Shaken",
+          "flavorLabel2": "If Smashed"
+        },
+        {
+          "type": "ability",
+          "name": "Destinous Sigil",
+          "description": "At sunset, etch a cosmic rune somewhere secret on your person. Choose a number. When a die rolls that number you may adjust it to any other value on that die. This can be performed a number of times equal to the chosen number. A different number is chosen next sunset."
+        },
+        {
+          "type": "passion",
+          "name": "Foresight",
+          "description": "Restore SPI when your prediction is proven to be correct."
+        },
+        {
+          "type": "weapon",
+          "name": "Pillar of inscribed stone",
+          "damage": "2d10",
+          "slow": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Iron chestplate",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sealed crystal flask",
+          "description": "See below, roll once only, and you know the effect"
+        }
+      ]
+    },
+    {
+      "name": "The Gallows Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Gallows Knight",
+          "description": "In dregs of dawn the damnlings sway. For famine’s brood a gifted prey",
+          "flavor": "Salvaged armour",
+          "flavorLabel1": "Type",
+          "flavorLabel2": "Detail"
+        },
+        {
+          "type": "ability",
+          "name": "Carrion’s Call",
+          "description": "Speak with scavenger creatures, and summon them to you. They’re only helpful if you’re providing them with food."
+        },
+        {
+          "type": "passion",
+          "name": "Misery",
+          "description": "Restore SPI when you meet somebody new and complain to them about something."
+        },
+        {
+          "type": "weapon",
+          "name": "Neck-catcher",
+          "description": "Wounded targets are snared securely around the neck, provided they have one",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "misc",
+          "name": "Salvaged armour",
+          "description": "See below"
+        },
+        {
+          "type": "misc",
+          "name": "Titan beads",
+          "description": "3 polished stones. When thrown they transform into a huge boulder mid-air, striking for [[/roll d10 #damage]] blast"
+        }
+      ]
+    },
+    {
+      "name": "The Tome Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Tome Knight",
+          "description": "A loom of wisdom spun at dawn. Laid to rest til coming morn",
+          "flavor": "Limits of memory",
+          "flavorLabel1": "Blind spot for…",
+          "flavorLabel2": "And…"
+        },
+        {
+          "type": "ability",
+          "name": "Dawn Contemplation",
+          "description": "At sunrise each day, choose any area of knowledge. You can ask the Referee three questions within this area, which they answer honestly with yes, no, or maybe if uncertain."
+        },
+        {
+          "type": "passion",
+          "name": "Introversion",
+          "description": "Restore SPI when you refuse a formal social gathering, or leave early."
+        },
+        {
+          "type": "weapon",
+          "name": "Heavy staff",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Brass-studded brigandine",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Perfect recall",
+          "description": "You remember everything you have ever experienced perfectly, with a few limitations, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Meteor Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Meteor Knight",
+          "description": "A star of truth, fell from ahigh. Such lumous ones should wear no lie",
+          "flavor": "An elaborate trident",
+          "flavorLabel1": "Appearance",
+          "flavorLabel2": "Ability"
+        },
+        {
+          "type": "ability",
+          "name": "Star Fall",
+          "description": "You never suffer Damage from falling, unless landing on something harmful. When you land from a fall of at least 12ft you may release a shockwave ([[/roll d8 #damage]] blast)."
+        },
+        {
+          "type": "passion",
+          "name": "Authenticity",
+          "description": "Restore SPI when you reveal your identity or intentions at an inconvenient moment."
+        },
+        {
+          "type": "weapon",
+          "name": "Elaborate trident",
+          "description": "See below",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Brass mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Moon oil",
+          "description": "When rubbed on an object you could lift it renders the object weightless until washed with water"
+        }
+      ]
+    },
+    {
+      "name": "The Gazer Knigh",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Gazer Knigh",
+          "description": "The blood sees through time aflow. To certain souls, a glimpse they show",
+          "flavor": "Tapestry story",
+          "flavorLabel1": "Event",
+          "flavorLabel2": "Subject"
+        },
+        {
+          "type": "ability",
+          "name": "Glimpse of Fate",
+          "description": "Once per day you can undo a single action performed by you or your Company, declaring it was in fact a minor vision you received. Play as if it never happened."
+        },
+        {
+          "type": "passion",
+          "name": "Respect",
+          "description": "Restore SPI when you yield to a Seer."
+        },
+        {
+          "type": "misc",
+          "name": "Toothed blade",
+          "description": "D8 , +[[/roll d8 #damage]] against Seers",
+          "hefty": true
+        },
+        {
+          "type": "misc",
+          "name": "Tapestry cloak",
+          "description": "See below"
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Flickerlamp",
+          "description": "A warm lantern that casts its shadows toward the nearest Seer"
+        }
+      ]
+    },
+    {
+      "name": "The Mule Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Mule Knight",
+          "description": "A humble beast, no roar or flight. Beneath the grey a show of might",
+          "flavor": "Explosives",
+          "flavorLabel1": "Form Explosion",
+          "flavorLabel2": "Trigger"
+        },
+        {
+          "type": "ability",
+          "name": "Lowly Shroud",
+          "description": "At any time you may choose to have somebody observing you be utterly convinced that you are just a humble, unarmed peasant, and your steed a mule."
+        },
+        {
+          "type": "passion",
+          "name": "Kindness",
+          "description": "Restore SPI when you stop an act of cruelty."
+        },
+        {
+          "type": "weapon",
+          "name": "Weighted staff",
+          "description": "Long",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Polished chainmail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "3 explosives",
+          "description": "[[/roll d8 #damage]] blast, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Halo Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Halo Knight",
+          "description": "A trail of hope across the land. In sorrow’s face, bright reprimand",
+          "flavor": "Repairing the mistvial",
+          "flavorLabel1": "Material Requirement",
+          "flavorLabel2": "Other Requirement"
+        },
+        {
+          "type": "ability",
+          "name": "Luminous Eruption",
+          "description": "Use once per Phase. A light source you are holding briefly illuminates the entire Hex and causes [[/roll d12 #damage]] Damage to nearby beings who live in darkness."
+        },
+        {
+          "type": "passion",
+          "name": "Valour",
+          "description": "Restore SPI when you engage in combat against the odds."
+        },
+        {
+          "type": "weapon",
+          "name": "Crescent axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Ringmail",
+          "armor": 1
+        },
+        {
+          "type": "shield",
+          "name": "Kite shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Mistvial",
+          "description": "When broken, thick mist rolls in over the whole Hex for the rest of the Phase. See below for repair requirements"
+        }
+      ]
+    },
+    {
+      "name": "The Iron Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Iron Knight",
+          "description": "As sword abend, as plate afold,. As shield asplint, a tale atold.",
+          "flavor": "Origin of the cleavingblade",
+          "flavorLabel1": "Out of a…",
+          "flavorLabel2": "At a time of…"
+        },
+        {
+          "type": "ability",
+          "name": "Heightened Sharpness",
+          "description": "When you perform a Strong Gambit with a bladed weapon you may choose one of the following as the effect, the target receiving a Save as normal: • Take a limb • Take a head if their GD is 0"
+        },
+        {
+          "type": "passion",
+          "name": "Diligence",
+          "description": "Restore SPI when refusing a shortcut."
+        },
+        {
+          "type": "weapon",
+          "name": "Cleavingblade",
+          "description": "See below",
+          "damage": "2d8",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Plate pauldrons",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Inscribed scabbard",
+          "description": "Shows a different scene each morning, hinting at the nearest Myth"
+        }
+      ]
+    },
+    {
+      "name": "The Mirror Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Mirror Knight",
+          "description": "In eyes ajust, the given got. Blow for blow, from one shared l",
+          "flavor": "Memories with your steed",
+          "flavorLabel1": "Knight",
+          "flavorLabel2": "Steed"
+        },
+        {
+          "type": "ability",
+          "name": "Reflection of Blood",
+          "description": "When you are Wounded, the attacker suffers the same amount of VIG loss as you. When you are Scarred the attacker gets the same Scar."
+        },
+        {
+          "type": "passion",
+          "name": "Egality",
+          "description": "Restore SPI when you give somebody else their fair share."
+        },
+        {
+          "type": "weapon",
+          "name": "Hook-axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "3 throwing axes",
+          "damage": "d6"
+        },
+        {
+          "type": "shield",
+          "name": "Round shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Hushingbell",
+          "description": "Those who hear the bell hear nothing else"
+        }
+      ]
+    },
+    {
+      "name": "The Dusk Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Dusk Knight",
+          "description": "Each touch of iron takes a price, in breath or blood or bone. A nasty cut takes something worse, the warmth of distant home",
+          "flavor": "A tattered poem",
+          "flavorLabel1": "Start",
+          "flavorLabel2": "End"
+        },
+        {
+          "type": "ability",
+          "name": "Sunder Memory",
+          "description": "When you Wound a target you can rob them of a single specific memory. If it is a Mortal Wound then you can remove all memory of a specific place, thing, person, or event."
+        },
+        {
+          "type": "passion",
+          "name": "Temperance",
+          "description": "Restore SPI when you refuse a luxury."
+        },
+        {
+          "type": "weapon",
+          "name": "Longhammer",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "3 javelins",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Pouch of wolfnuts",
+          "description": "Repellent to canines"
+        },
+        {
+          "type": "misc",
+          "name": "Poem on tattered parchment",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Coin Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Coin Knight",
+          "description": "In arg or aur, decisions spun. A prize, a life, lost or won",
+          "flavor": "Sound of the flute",
+          "flavorLabel1": "Loved by",
+          "flavorLabel2": "Hated by"
+        },
+        {
+          "type": "ability",
+          "name": "Thrown to Chance",
+          "description": "Use instead of attacking normally. Flip a coin. Heads the target is killed, tails you are killed. This is final."
+        },
+        {
+          "type": "passion",
+          "name": "Generosity",
+          "description": "Restore SPI when you give generously to somebody in need."
+        },
+        {
+          "type": "weapon",
+          "name": "Morningstar",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Roundshield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Stone-studded brigandine",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Jaunty flute",
+          "description": "Can only play a certain type of music, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Mock Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Mock Knight",
+          "description": "Sycamore, leather, felt and strings. In heartless chest a soul still sings",
+          "flavor": "Unnatural body",
+          "flavorLabel1": "Bones of…",
+          "flavorLabel2": "Skin of…"
+        },
+        {
+          "type": "ability",
+          "name": "Impression of Life",
+          "description": "You do not need to breathe, eat, drink, sleep, or love, but still feel the drives."
+        },
+        {
+          "type": "passion",
+          "name": "Imitation",
+          "description": "Restore SPI when you pass for human while under scrutiny."
+        },
+        {
+          "type": "weapon",
+          "name": "War flail",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "plate",
+          "name": "Unnatural body concealed beneath plate suit, hood, and clothes",
+          "description": "See below",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Mask Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Mask Knight",
+          "description": "You call for the truth from me?. I will not offer you that which cannot be found",
+          "flavor": "Masked armour",
+          "flavorLabel1": "Appearance",
+          "flavorLabel2": "Design"
+        },
+        {
+          "type": "ability",
+          "name": "Thousand Faces",
+          "description": "You can assume the face of anybody you have touched, but your body and voice are unchanged."
+        },
+        {
+          "type": "passion",
+          "name": "Vigilance",
+          "description": "Restore SPI when you prevent a betrayal."
+        },
+        {
+          "type": "weapon",
+          "name": "Splittingaxe",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Masked helm",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Star ink and parchment",
+          "description": "Writing only shows under starlight at night"
+        }
+      ]
+    },
+    {
+      "name": "The Bone Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Bone Knight",
+          "description": "Ribble rabble, ronky donk, they bounce a duckle dine. Clatter clink, clanky tank, a rib, a skull, a spine",
+          "flavor": "Box of bones",
+          "flavorLabel1": "The Box",
+          "flavorLabel2": "The Bones"
+        },
+        {
+          "type": "ability",
+          "name": "Bone Magnate",
+          "description": "When you make a genuine trade, a bone for a bone, learn something about the individual that the acquired bone came from, or something that they knew in life."
+        },
+        {
+          "type": "passion",
+          "name": "Acumen",
+          "description": "Restore SPI when you come out better from a bargain."
+        },
+        {
+          "type": "misc",
+          "name": "Needledagger",
+          "description": "D6, +[[/roll d6 #damage]] against armoured targets"
+        },
+        {
+          "type": "shield",
+          "name": "Jagged buckler",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Box of bones",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Salt Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Salt Knight",
+          "description": "Saline stink adwells in every depth. No matter how calm the surface",
+          "flavor": "The everflask",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Thirst"
+        },
+        {
+          "type": "ability",
+          "name": "Inspire Ire",
+          "description": "Activate at the end of your turn. Until the next turn, any enemies that Attack targets other than you lose [[/roll d10]] SPI after the Attack."
+        },
+        {
+          "type": "passion",
+          "name": "Mettle",
+          "description": "Restore SPI when accepting a non-combat challenge with the odds set against you."
+        },
+        {
+          "type": "weapon",
+          "name": "Spined mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Javelin",
+          "damage": "d6"
+        },
+        {
+          "type": "coat",
+          "name": "Coraline mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Everflask",
+          "description": "Contains an endless supply of fresh water as  as its thirst is sated with each use, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Violet Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Violet Knight",
+          "description": "A glow unseen, from neath a dream. Illuminates the fabric’s seam",
+          "flavor": "A steed without a name",
+          "flavorLabel1": "Why?",
+          "flavorLabel2": "A Strange Steed"
+        },
+        {
+          "type": "ability",
+          "name": "Light Beyond Light",
+          "description": "You can cause any metal object you hold to emit a bright light that only you can see. Bees, butterflies, and hedgehogs can also see the light."
+        },
+        {
+          "type": "passion",
+          "name": "Positivity",
+          "description": "Restore SPI when you raise somebody’s mood."
+        },
+        {
+          "type": "weapon",
+          "name": "Grand mace",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Reflective scale",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Flattering handmirror",
+          "description": "Shows the viewer’s ideal vision of themselves"
+        }
+      ]
+    },
+    {
+      "name": "The Cosmic Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Cosmic Knight",
+          "description": "Countless stars dotted in the night. To the eyes of one, each a stain of failure amid purest black",
+          "flavor": "Strange crossbow",
+          "flavorLabel1": "Form",
+          "flavorLabel2": "Twist"
+        },
+        {
+          "type": "ability",
+          "name": "Celestial Retreat",
+          "description": "While you can see the sky you can instantly vanish to a distant sanctuary, leaving a small glowing stone behind. You can rematerialise at the stone at any time."
+        },
+        {
+          "type": "passion",
+          "name": "Constellations",
+          "description": "Restore SPI when you get tell somebody new about the stars as you point to them."
+        },
+        {
+          "type": "weapon",
+          "name": "Strange crossbow",
+          "description": "See below"
+        },
+        {
+          "type": "misc",
+          "name": "Echostone",
+          "description": "Can record and repeat one spoken phrase"
+        }
+      ]
+    },
+    {
+      "name": "The Temple Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Temple Knight",
+          "description": "No blood or cry. Not here, not today",
+          "flavor": "The snake speaks",
+          "flavorLabel1": "Voice",
+          "flavorLabel2": "Agenda"
+        },
+        {
+          "type": "ability",
+          "name": "Site of Respite",
+          "description": "You may declare a building that you occupy as peaceful ground. Nobody within the building can bring themselves to attack until you leave."
+        },
+        {
+          "type": "passion",
+          "name": "Quietude",
+          "description": "Restore SPI when bringing peaceful order to a chaotic place."
+        },
+        {
+          "type": "weapon",
+          "name": "Spear",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "misc",
+          "name": "White cloak"
+        },
+        {
+          "type": "shield",
+          "name": "Broadshield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Mummified snake",
+          "description": "Reptiles will not attack anyone holding it, it speaks to your mind directly, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Fox Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Fox Knight",
+          "description": "A whimsied whirl, a crafty guise. The truth revealed as sour surprise",
+          "flavor": "A hidden blade",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Ability"
+        },
+        {
+          "type": "ability",
+          "name": "Cunning Ploy",
+          "description": "Once per day, declare your current self to be an illusion, dispersing into smoke. The real you is watching from a safe place nearby."
+        },
+        {
+          "type": "passion",
+          "name": "Wits",
+          "description": "Restore SPI when you avoid being tricked or outwitted."
+        },
+        {
+          "type": "weapon",
+          "name": "Jagged blade",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Buckler",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Foxhelm",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Hidden blade",
+          "description": "See below",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Sealing wax",
+          "description": "Can render any container watertight and airtight"
+        }
+      ]
+    },
+    {
+      "name": "The Gull Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Gull Knight",
+          "description": "Tattered wing, loath’ed cry, ugly bill. And yet what heights",
+          "flavor": "Patchwork armour",
+          "flavorLabel1": "Some taken from…",
+          "flavorLabel2": "Mixed with…"
+        },
+        {
+          "type": "ability",
+          "name": "Guiding Gust",
+          "description": "Ascend to the top of a vertical surface you are touching, lifted on a burst of wind."
+        },
+        {
+          "type": "passion",
+          "name": "Joy",
+          "description": "Restore SPI when you deliver good news."
+        },
+        {
+          "type": "weapon",
+          "name": "Hooked blade",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Patchwork mail",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Patterned cloak"
+        },
+        {
+          "type": "misc",
+          "name": "Blinding bracelet",
+          "description": "Anybody wearing the bracelet is blind until they take it off"
+        }
+      ]
+    },
+    {
+      "name": "The Magpie Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Magpie Knight",
+          "description": "Keen eyes see what cold heart seeks. No empty handed fool, this bird",
+          "flavor": "A treasured memento",
+          "flavorLabel1": "Item",
+          "flavorLabel2": "Reminds you of…"
+        },
+        {
+          "type": "ability",
+          "name": "Scourer’s Sense",
+          "description": "If you are searching for something specific you always know for sure whether it is in your immediate surroundings or not."
+        },
+        {
+          "type": "passion",
+          "name": "Heraldry",
+          "description": "Restore SPI when you announce the owner of a banner, crest, or coat of arms, which you can always recognise."
+        },
+        {
+          "type": "weapon",
+          "name": "Heavy cudgel",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "3 javelins",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Twofold pouch containing a memento",
+          "description": "Items you place in the pouch can only be retrieved by you, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Reliquary Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Reliquary Knight",
+          "description": "Final rest, earned in life. The echos linger on",
+          "flavor": "Treasured relic",
+          "flavorLabel1": "Bodypart",
+          "flavorLabel2": "Being"
+        },
+        {
+          "type": "ability",
+          "name": "Spirit Call",
+          "description": "Once per day, release the invisible spirit from your reliquary. It will follow a single, specific command. It acts with the general capacities of a normal human but can be invisible and immaterial as needed."
+        },
+        {
+          "type": "passion",
+          "name": "Tradition",
+          "description": "Restore SPI when you ensure a tradition is thoroughly honoured."
+        },
+        {
+          "type": "weapon",
+          "name": "War sickle",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Carved plate",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sack of history tomes, treasured reliquary",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Vulture Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Vulture Knight",
+          "description": "Gutly ribbons, blood’s sweet dance. The future calls in gory trance",
+          "flavor": "Sinister armour",
+          "flavorLabel1": "Material",
+          "flavorLabel2": "Detail"
+        },
+        {
+          "type": "ability",
+          "name": "Carrion Casting",
+          "description": "Spread the innards of the recently dead across the ground. Ask a single question, they point you in a direction that would help."
+        },
+        {
+          "type": "passion",
+          "name": "Thrift",
+          "description": "Restore SPI when you make good use of something you found discarded."
+        },
+        {
+          "type": "misc",
+          "name": "Black axe",
+          "description": "D10 , +[[/roll d10 #damage]] vs wounded targets"
+        },
+        {
+          "type": "coat",
+          "name": "Sinister mail",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Spidernip nuts",
+          "description": "Acts as a pleasing stimulant for insects and arachnids when ground to a powder"
+        }
+      ]
+    },
+    {
+      "name": "The Free Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Free Knight",
+          "description": "No body, no mind, should live acaged. Yet freedom rarely comes with a whispe",
+          "flavor": "The hexshield",
+          "flavorLabel1": "Ineffective vs",
+          "flavorLabel2": "Special Abilit"
+        },
+        {
+          "type": "ability",
+          "name": "Bond Breaker",
+          "description": "Strike a chain or lock with a metal weapon. Both shatter loudly."
+        },
+        {
+          "type": "passion",
+          "name": "Liberty",
+          "description": "Restore SPI when you release somebody from an unwanted bond."
+        },
+        {
+          "type": "weapon",
+          "name": "Hooked flail",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Hexshield",
+          "description": "See below",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Tempest chest",
+          "description": "When empty, it can draw a storm within, restoring calm weather. If opened when full the storm is released"
+        }
+      ]
+    },
+    {
+      "name": "The Silk Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Silk Knight",
+          "description": "Judge not a knight on might and favour. Where silk endures, a heart can waver",
+          "flavor": "A young steed",
+          "flavorLabel1": "Distracted by…",
+          "flavorLabel2": "Scared by…"
+        },
+        {
+          "type": "ability",
+          "name": "Adamant Gossamer",
+          "description": "You can draw thin strands of silky string of any length from your mouth. They are utterly unbreakable, but burn to ash in an instant."
+        },
+        {
+          "type": "passion",
+          "name": "Mercy",
+          "description": "Restore SPI when you accept a surrender or plea for forgiveness."
+        },
+        {
+          "type": "weapon",
+          "name": "Delicate halberd",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Woven coat armour",
+          "description": "No protection against fire",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Intricate brass puzzle",
+          "description": "Compelling but impossible"
+        }
+      ]
+    },
+    {
+      "name": "The Tiger Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Tiger Knight",
+          "description": "The ignorant deem beastly realms as mere anarchy. In truth, the structure runs much deeper than our own",
+          "flavor": "A tattooed steed",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Why?"
+        },
+        {
+          "type": "ability",
+          "name": "Bestial Renown",
+          "description": "Each time you defeat an animal in a contest befitting its strengths, all animals of that type will react favourably to you."
+        },
+        {
+          "type": "passion",
+          "name": "Closure",
+          "description": "Restore SPI when you get an answer that you’ve been seeking for some time."
+        },
+        {
+          "type": "weapon",
+          "name": "Fang blades",
+          "description": "[[/roll d8 #damage]] each when wielded as a pair",
+          "damage": "d6"
+        },
+        {
+          "type": "coat",
+          "name": "Knotted coat",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "3 phoenix feathers",
+          "description": "Erupts in flame when dropped on the ground, [[/roll d8 #damage]] blast"
+        }
+      ]
+    },
+    {
+      "name": "The Leaf Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Leaf Knight",
+          "description": "No greater gift than bough and bush. What more could we ask from this bountiful land?",
+          "flavor": "Why is this stick useful?",
+          "flavorLabel1": "Use",
+          "flavorLabel2": "But…"
+        },
+        {
+          "type": "ability",
+          "name": "Nature’s Vault",
+          "description": "You can wield branches as javelins ([[/roll d6 #damage]]) or greatspears ([[/roll d10 #damage]] long) and eat leaves as a satisfying meal."
+        },
+        {
+          "type": "passion",
+          "name": "Gourmet",
+          "description": "Restore SPI when you eat a new type of fruit or vegetable."
+        },
+        {
+          "type": "weapon",
+          "name": "Hooked club",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Verdant leather",
+          "description": "While within foliage",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Useful stick",
+          "description": "See below"
+        },
+        {
+          "type": "misc",
+          "name": "Murmur box",
+          "description": "Creates the illusion of indistinct conversation when open"
+        }
+      ]
+    },
+    {
+      "name": "The Glass Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Glass Knight",
+          "description": "Revealer of all secrets, in stark, judgemental light. In cold and sharpened heart lies no deceitful curse",
+          "flavor": "Painted armour",
+          "flavorLabel1": "Main",
+          "flavorLabel2": "Hue Decoration"
+        },
+        {
+          "type": "ability",
+          "name": "Touch of Glass",
+          "description": "You can see through any surface that you place your hand upon."
+        },
+        {
+          "type": "passion",
+          "name": "Curiosity",
+          "description": "Restore SPI when looking somewhere you really shouldn’t."
+        },
+        {
+          "type": "weapon",
+          "name": "Two-pronged pike",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Painted mail",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Witching needle",
+          "description": "A six-inch spike, can be stuck into any material, and cannot be removed by anybody but you or a Seer"
+        }
+      ]
+    },
+    {
+      "name": "The Hive Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Hive Knight",
+          "description": "A bed of gluous, parchly cloth, a coat of stickly sleen. Emerged in morning good as new, chirurgery unseen",
+          "flavor": "Forming the cocoon",
+          "flavorLabel1": "You must be",
+          "flavorLabel2": "You require"
+        },
+        {
+          "type": "ability",
+          "name": "Chrysaline Rebirth",
+          "description": "At night you may immerse yourself in a cocoon through means you do not fully understand (see below). After a full day you emerge, your VIG restored, and any physical harm cured. This cannot cure death unless the process requires it."
+        },
+        {
+          "type": "passion",
+          "name": "Community",
+          "description": "Restore SPI when you leave a community better off than when you arrived."
+        },
+        {
+          "type": "weapon",
+          "name": "Rootbow",
+          "damage": "d6",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Countless daggers",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Tidal resin",
+          "description": "When burned, all nearby water becomes still and solid for a while"
+        }
+      ]
+    },
+    {
+      "name": "The Ghoul Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Ghoul Knight",
+          "description": "Arise! Arise!. But, for what? For whom?",
+          "flavor": "Wooden animal",
+          "flavorLabel1": "Animal Type",
+          "flavorLabel2": "Origin"
+        },
+        {
+          "type": "ability",
+          "name": "Rebuked by Death",
+          "description": "Use when you are dead. Return to life. Your body is as you left it, as are your Guard and Virtue scores."
+        },
+        {
+          "type": "passion",
+          "name": "Acceptance",
+          "description": "Restore SPI when warmly welcomed into somebody’s home."
+        },
+        {
+          "type": "weapon",
+          "name": "Bearded axe",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Dusty mail",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Cleaner salt ,",
+          "description": "Renders even the most rotten food safe and delicious"
+        },
+        {
+          "type": "misc",
+          "name": "Wooden animal miniature",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Weaver Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Weaver Knight",
+          "description": "This and that, might just be that and this. As today were tomorrow, soon yesterday, no truth lies set in stone",
+          "flavor": "Unusual thrown weapon",
+          "flavorLabel1": "Design",
+          "flavorLabel2": "Ability"
+        },
+        {
+          "type": "ability",
+          "name": "Warp & Weft",
+          "description": "Swap the positions of an object you are holding and another object you can see. They must be of a similar size and shape, such as two swords."
+        },
+        {
+          "type": "passion",
+          "name": "Detachment",
+          "description": "Restore SPI when you discard something that you want."
+        },
+        {
+          "type": "weapon",
+          "name": "Two-headed axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Bronze buckler",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "weapon",
+          "name": "Thrown weapon",
+          "description": "See below",
+          "damage": "d6"
+        },
+        {
+          "type": "misc",
+          "name": "Hushcloth",
+          "description": "Items fully wrapped in this cloth create no noise"
+        }
+      ]
+    },
+    {
+      "name": "The Thunder Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Thunder Knight",
+          "description": "Thunder!. Should be felt, not heard, else call it a whimper!",
+          "flavor": "Caged bug",
+          "flavorLabel1": "Ability",
+          "flavorLabel2": "Manner"
+        },
+        {
+          "type": "ability",
+          "name": "Voice of the Skies",
+          "description": "While outdoors, you can shout loud enough to be heard clearly throughout the whole Hex and all adjacent Hexes."
+        },
+        {
+          "type": "passion",
+          "name": "Discord",
+          "description": "Restore SPI when you disrupt a place of order."
+        },
+        {
+          "type": "weapon",
+          "name": "Forked spear",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "shield",
+          "name": "Oakshield",
+          "damage": "d4",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "The Dust Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Dust Knight",
+          "description": "Lust and loathing, desire and ire. The two great forces, perhaps just one",
+          "flavor": "Preserved fish",
+          "flavorLabel1": "Flavour",
+          "flavorLabel2": "Side Effect"
+        },
+        {
+          "type": "ability",
+          "name": "Aqueous Repulsion",
+          "description": "You can forcefully repel liquids with an outstretched hand, enough to hold a river at bay for a while."
+        },
+        {
+          "type": "passion",
+          "name": "Entitlement",
+          "description": "Restore SPI when you get something that you were promised but initially denied."
+        },
+        {
+          "type": "weapon",
+          "name": "Old hammer",
+          "damage": "d8"
+        },
+        {
+          "type": "shield",
+          "name": "Inscribed shield",
+          "damage": "d4",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Beckoning net",
+          "description": "Fish wilfully swim into this fishing net"
+        },
+        {
+          "type": "misc",
+          "name": "Preserved fish",
+          "description": "See below"
+        }
+      ]
+    },
+    {
+      "name": "The Fanged Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Fanged Knight",
+          "description": "I can show you why I cannot bare the false smile. Now bare your skin and harden your heart",
+          "flavor": "References in your scroll",
+          "flavorLabel1": "Place",
+          "flavorLabel2": "Ancestor to"
+        },
+        {
+          "type": "ability",
+          "name": "Sink Teeth",
+          "description": "You can bite (d6) someone, choosing one of the following effects before the bite, occurring only if you Wound them: Regain VIG equal to the VIG that they lose, lower them into normal sleep, show them one of your memories"
+        },
+        {
+          "type": "passion",
+          "name": "Melancholy",
+          "description": "Restore SPI when you dampen the mood."
+        },
+        {
+          "type": "weapon",
+          "name": "Forked blade",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Shell plates",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Ancient scroll",
+          "description": "Has references to places in this Realm, but outdated, see below"
+        }
+      ]
+    },
+    {
+      "name": "The Pearl Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Pearl Knight",
+          "description": "Why lurk shellbound in abyssal depths, solitary for life?. All the best secrets come from the mouths and eyes of others",
+          "flavor": "A blade taken from the sea",
+          "flavorLabel1": "How do you know?",
+          "flavorLabel2": "Punishment"
+        },
+        {
+          "type": "ability",
+          "name": "Gift from the Deep",
+          "description": "Produce one pearl each morning, unless you haven’t given or traded your previous pearl. You can see through the eyes of anybody that is carrying one of your pearls."
+        },
+        {
+          "type": "passion",
+          "name": "Gossip",
+          "description": "Restore SPI when you share or receive gossip."
+        },
+        {
+          "type": "weapon",
+          "name": "Cleaving blade",
+          "description": "See below",
+          "damage": "2d8",
+          "long": true
+        },
+        {
+          "type": "coat",
+          "name": "Glossy mail",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Demi-plate",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Salincense",
+          "description": "Smoke from this candle causes plants to wither and die in seconds"
+        }
+      ]
+    },
+    {
+      "name": "The Rat Knight",
+      "items": [
+        {
+          "type": "knight",
+          "name": "The Rat Knight",
+          "description": "In squeakling hole I squashed and curled. Amidst my kin, a kinder world",
+          "flavor": "Modified armour",
+          "flavorLabel1": "Type",
+          "flavorLabel2": "Modified for…"
+        },
+        {
+          "type": "ability",
+          "name": "Verminform",
+          "description": "Take the form of a rat to squeeze into any space that a rat could fit into. You return to your normal form as soon as you are in a space that allows it. You can also speak with rats, who are generally helpful."
+        },
+        {
+          "type": "passion",
+          "name": "Trust",
+          "description": "Restore SPI when giving the benefit of the doubt in a way that leaves you vulnerable."
+        },
+        {
+          "type": "weapon",
+          "name": "Pole sickle",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "3 darts",
+          "damage": "d6"
+        },
+        {
+          "type": "coat",
+          "name": "Modified gambeson",
+          "description": "See below",
+          "armor": 1
+        },
+        {
+          "type": "misc",
+          "name": "Listening horn",
+          "description": "When placed against a wall, hear everything from the other side in perfect clarity"
+        }
+      ]
+    }
+  ]
+}

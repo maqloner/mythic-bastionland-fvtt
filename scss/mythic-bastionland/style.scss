@@ -14,6 +14,7 @@
   padding: 0;
   padding-left: 4px;
   box-shadow: none;
+
   &::placeholder {
     color: rgba(0, 0, 0, 0.5);
   }
@@ -79,7 +80,7 @@
     font-size: 24px;
     line-height: 32px;
     height: 32px;
-    background: repeating-linear-gradient( to bottom, transparent, transparent 25px, rgba(0, 0, 0, 0.3) 26px );
+    background: repeating-linear-gradient(to bottom, transparent, transparent 25px, rgba(0, 0, 0, 0.3) 26px);
     background-attachment: local;
   }
 
@@ -88,7 +89,7 @@
     font-size: 24px;
     line-height: 28px;
     height: 28px;
-    background: repeating-linear-gradient( to bottom, transparent, transparent 23px, rgba(0, 0, 0, 0.3) 24px );
+    background: repeating-linear-gradient(to bottom, transparent, transparent 23px, rgba(0, 0, 0, 0.3) 24px);
     background-attachment: local;
   }
 
@@ -179,6 +180,7 @@
 
   &.directory-header {
     margin-bottom: 0;
+
     button {
       flex: 0 0 calc(50% - 8px / 2);
     }

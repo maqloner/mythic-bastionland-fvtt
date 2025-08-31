@@ -31,15 +31,19 @@ class VirtueLossDialog extends Application {
 
   async #onSubmit(event) {
     event.preventDefault();
-    const virtue = this.element.find("[name=virtue]:checked").val();
-    const amount = parseInt(this.element.find("[name=amount]").val(), 10);
 
-    if (!amount) {
+    const amountField = this.element.find("[name=amount]");
+    const amountIsValid = Roll.validate($(amountField).val());
+
+    const virtue = this.element.find("[name=virtue]:checked").val();
+    const amountFormula = this.element.find("[name=amount]").val();
+
+    if (!amountFormula || !amountIsValid) {
       return;
     }
 
     this.callback({
-      amount,
+      amountFormula,
       virtue
     });
 

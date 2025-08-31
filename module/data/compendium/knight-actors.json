@@ -1,0 +1,1013 @@
+{
+  "name": "Knight - Actors",
+  "folders": [
+    {
+      "name": "The True Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Petulant steed",
+          "vigour": 10,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 5
+        }
+      ]
+    },
+    {
+      "name": "The Snare Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tattered steed",
+          "vigour": 8,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 2
+        },
+        {
+          "type": "npc",
+          "name": "Companion",
+          "biography": "Partially understands human speech.",
+          "vigour": 5,
+          "clarity": 10,
+          "spirit": 7,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Tourney Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Horned Stallion",
+          "vigour": 12,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 4,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Bloody Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Bullish warhorse",
+          "vigour": 15,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Moss Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Pale steed",
+          "vigour": 8,
+          "clarity": 12,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The War Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Stocky steed",
+          "vigour": 15,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Willow Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Cautious steed",
+          "vigour": 10,
+          "clarity": 15,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Gilded Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Majestic charger",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 12,
+          "guard": 4,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Saddle Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Beloved steed",
+          "vigour": 12,
+          "clarity": 15,
+          "spirit": 7,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Riddle Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Shadowy horse",
+          "vigour": 8,
+          "clarity": 15,
+          "spirit": 5,
+          "guard": 2,
+          "biography": "Very quiet"
+        }
+      ]
+    },
+    {
+      "name": "The Talon Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Old steed",
+          "vigour": 8,
+          "clarity": 8,
+          "spirit": 7,
+          "guard": 2
+        },
+        {
+          "type": "npc",
+          "name": "Loyal bird",
+          "vigour": 5,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 4,
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Talons",
+              "damage": "d4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Barbed Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Vicious charger",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Trail Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Serene steed",
+          "vigour": 10,
+          "clarity": 13,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Amber Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Loyal steed",
+          "vigour": 10,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Horde Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Beastly steed",
+          "vigour": 15,
+          "clarity": 7,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Emerald Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Sable steed",
+          "vigour": 10,
+          "clarity": 14,
+          "spirit": 5,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Chain Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tired steed",
+          "vigour": 10,
+          "clarity": 12,
+          "spirit": 3,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Banner Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Fat steed",
+          "vigour": 10,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Pigeon Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Grey steed",
+          "biography": "Unmatched over long distance",
+          "vigour": 7,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Shield Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Untested steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 4,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Whip Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Pampered steed",
+          "vigour": 10,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Seal Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Dusty steed  ABILITY - Seal of Binding Strike a shield or armour being to a non",
+          "vigour": 10,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Horn Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Rusty warhorse",
+          "vigour": 13,
+          "clarity": 6,
+          "spirit": 5,
+          "guard": 2,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Dove Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Mountain steed",
+          "biography": "Sure-footed on rocky ground",
+          "vigour": 14,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Story Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Sinister steed",
+          "vigour": 10,
+          "clarity": 14,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Turtle Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Squat steed",
+          "vigour": 14,
+          "clarity": 5,
+          "spirit": 6,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Key Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Jittery steed",
+          "vigour": 12,
+          "clarity": 10,
+          "spirit": 3,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Moat Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Difficult steed",
+          "biography": "See below",
+          "vigour": 12,
+          "clarity": 6,
+          "spirit": 6,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Boulder Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Well-fed steed",
+          "vigour": 14,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Tankard Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Aggressive charger",
+          "vigour": 14,
+          "clarity": 5,
+          "spirit": 6,
+          "guard": 2,
+          "trample": "d8"
+        }
+      ]
+    },
+    {
+      "name": "The Owl Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Peaceful steed",
+          "vigour": 10,
+          "clarity": 10,
+          "spirit": 6,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Hooded Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Modest steed",
+          "vigour": 10,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Lance Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Weary charger",
+          "vigour": 14,
+          "clarity": 6,
+          "spirit": 4,
+          "guard": 3,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Questing Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Reckless charger",
+          "vigour": 14,
+          "clarity": 6,
+          "spirit": 6,
+          "guard": 1,
+          "trample": "d8"
+        }
+      ]
+    },
+    {
+      "name": "The Ring Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Aloof steed",
+          "biography": "Leaves no trail",
+          "vigour": 11,
+          "clarity": 8,
+          "spirit": 7,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Forge Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Helmed steed",
+          "biography": "A1",
+          "vigour": 14,
+          "clarity": 4,
+          "spirit": 5,
+          "guard": 4,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Rune Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Muscular charger",
+          "vigour": 13,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3,
+          "trample": "d8"
+        }
+      ]
+    },
+    {
+      "name": "The Gallows Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Flea-bitten steed",
+          "vigour": 9,
+          "clarity": 7,
+          "spirit": 4,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Tome Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Small steed",
+          "vigour": 9,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Meteor Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Limping steed",
+          "biography": "Won’t be hurried",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Gazer Knigh",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Blueish steed",
+          "vigour": 12,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Mule Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tall steed",
+          "vigour": 14,
+          "clarity": 7,
+          "spirit": 6,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Halo Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Wild steed",
+          "biography": "Will not be ridden by any but you",
+          "vigour": 15,
+          "clarity": 5,
+          "spirit": 7,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Iron Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Dark steed",
+          "vigour": 11,
+          "clarity": 7,
+          "spirit": 6,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Mirror Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Faded steed",
+          "biography": "You have memories together; see below",
+          "vigour": 9,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Dusk Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Auburn steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Coin Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Arctic steed",
+          "biography": "Long coat turns white in winter",
+          "vigour": 14,
+          "clarity": 8,
+          "spirit": 7,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Mock Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Well-groomed steed",
+          "biography": "A real horse",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Mask Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Silver steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Bone Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Marsh steed",
+          "biography": "Moves effortlessly on bog and marsh",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Salt Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Scaled steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Violet Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Nameless steed",
+          "biography": "See below",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 4,
+          "guard": 1
+        }
+      ]
+    },
+    {
+      "name": "The Cosmic Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Boneless steed",
+          "biography": "Can squeeze through any gap as large as its head",
+          "vigour": 10,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Temple Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Moorland steed",
+          "biography": "Faint smell of heather",
+          "vigour": 11,
+          "clarity": 9,
+          "spirit": 6,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Fox Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tunnel steed",
+          "biography": "Can see perfectly in the dark",
+          "vigour": 10,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Gull Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tempestuous steed",
+          "biography": "Dances joyfully in rain",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 7,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Magpie Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Ironclad steed",
+          "vigour": 13,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 2,
+          "trample": "A1"
+        }
+      ]
+    },
+    {
+      "name": "The Reliquary Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Bearded steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Vulture Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Bright-eyed steed",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Free Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Grassy steed",
+          "biography": "Blends into long grass when sitting",
+          "vigour": 11,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 2
+        }
+      ]
+    },
+    {
+      "name": "The Silk Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Young steed",
+          "biography": "See below",
+          "vigour": 9,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 1
+        }
+      ]
+    },
+    {
+      "name": "The Tiger Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Tattooed steed",
+          "biography": "See below",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 5
+        }
+      ]
+    },
+    {
+      "name": "The Leaf Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Patchy steed",
+          "vigour": 12,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Glass Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Chestnut steed",
+          "biography": "Hated by spiders and hates them back",
+          "vigour": 11,
+          "clarity": 8,
+          "spirit": 6,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Hive Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Hooded steed",
+          "vigour": 11,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Ghoul Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Faithful steed",
+          "biography": "Will never abandon you",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Weaver Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Orchard steed",
+          "biography": "Can sniff out fruit",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 1
+        }
+      ]
+    },
+    {
+      "name": "The Thunder Knight",
+      "items": [
+        {
+          "type": "npc",
+          "name": "Caged bug",
+          "biography": "See below",
+          "vigour": 2,
+          "clarity": 6,
+          "spirit": 3,
+          "guard": 5
+        },
+        {
+          "type": "steed",
+          "name": "Overfed steed",
+          "vigour": 12,
+          "clarity": 6,
+          "spirit": 5,
+          "guard": 2,
+          "trample": "d6"
+        }
+      ]
+    },
+    {
+      "name": "The Dust Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Spotted steed",
+          "biography": "Hated by other horses",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Fanged Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Noble steed",
+          "vigour": 12,
+          "clarity": 5,
+          "spirit": 7,
+          "guard": 4
+        }
+      ]
+    },
+    {
+      "name": "The Pearl Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Rose steed",
+          "vigour": 12,
+          "clarity": 9,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    },
+    {
+      "name": "The Rat Knight",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Matted steed",
+          "vigour": 12,
+          "clarity": 8,
+          "spirit": 5,
+          "guard": 3
+        }
+      ]
+    }
+  ]
+}

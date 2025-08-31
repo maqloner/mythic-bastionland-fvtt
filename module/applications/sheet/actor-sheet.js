@@ -54,8 +54,8 @@ export class MBActorSheet extends foundry.appv1.sheets.ActorSheet {
   async getData(options) {
     let data = super.getData(options);
     data.config = config;
-    data.ages = Object.values(config.age).map(value => ({value, label: `MB.Actor.Age.${value}`}));
-    data.ranks = Object.values(config.rank).map(value => ({value, label: `MB.Actor.Rank.${value}`}));
+    data.ages = Object.values(config.age).map(value => ({ value, label: `MB.Actor.Age.${value}` }));
+    data.ranks = Object.values(config.rank).map(value => ({ value, label: `MB.Actor.Rank.${value}` }));
     data = await this.#prepareActors(data);
     data = await this.#prepareItems(data);
     data.data.system.biography = await foundry.applications.ux.TextEditor.implementation.enrichHTML(data.data.system.biography, { secret: data.editable });

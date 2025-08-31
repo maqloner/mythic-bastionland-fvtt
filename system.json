@@ -2,10 +2,10 @@
   "id": "mythicbastionland",
   "title": "Mythic Bastionland",
   "description": "FoundryVTT system for playing the Mythic Bastionland.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.347"
+    "verified": "13.348"
   },
   "url": "https://github.com/maqloner/mythic-bastionland-fvtt",
   "manifest": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.json",
@@ -37,7 +37,7 @@
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-core-items",
       "type": "Item"
-    },    
+    },
     {
       "name": "mythic-bastionland-core-actors",
       "label": "Core - Actors",
@@ -58,14 +58,14 @@
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-knight-items",
       "type": "Item"
-    },    
+    },
     {
       "name": "mythic-bastionland-knight-actors",
       "label": "Knight - Actors",
       "system": "mythicbastionland",
       "path": "./packs/mythic-bastionland-knight-actors",
       "type": "Actor"
-    }      
+    }
   ],
   "packFolders": [
     {
@@ -74,7 +74,7 @@
       "packs": [
         "mythic-bastionland-core-items",
         "mythic-bastionland-core-actors",
-        "mythic-bastionland-core-rolltables"        
+        "mythic-bastionland-core-rolltables"
       ]
     },
     {
@@ -85,7 +85,7 @@
         "mythic-bastionland-knight-actors",
         "mythic-bastionland-knight-rolltables"
       ]
-    }    
+    }
   ],
   "languages": [
     {
@@ -98,7 +98,7 @@
   "grid": {
     "distance": 5,
     "units": "ft"
-  },  
+  },
   "primaryTokenAttribute": "guard",
   "secondaryTokenAttribute": "virtues.vigour"
 }

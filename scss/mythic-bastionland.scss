@@ -1,9 +1,10 @@
 @use "root.scss";
-@use "_app.scss" as *;
-@use "_chat-message.scss" as *;
-@use "_sheet.scss" as *;
-@use "_utils.scss" as *;
-@use "_style.scss" as *;
+@use "mythic-bastionland/app.scss" as *;
+@use "mythic-bastionland/chat-message.scss" as *;
+@use "mythic-bastionland/sheet.scss" as *;
+@use "mythic-bastionland/utils.scss" as *;
+@use "mythic-bastionland/style.scss" as *;
+
 .mythic-bastionland {
   --color-shadow-primary: var(--highlight-dark-color);
   --color-text-hyperlink: var(--highlight-dark-color);

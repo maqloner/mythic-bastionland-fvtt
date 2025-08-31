@@ -1,11 +1,16 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { showVirtueLossDialog } from "../applications/dialog/virtue-loss-dialog.js";
+import { evaluateFormula } from "../utils/utils.js";
 
 /**
  * @param {Actor} actor
  */
 export const attackVirtueLossAction = async (actor) => {
-  const { amount, virtue } = await showVirtueLossDialog({ actor });
+  const { amountFormula, virtue } = await showVirtueLossDialog({ actor });
+
+  const roll = (await evaluateFormula(amountFormula));
+
+  const amount = roll.total;
 
   const value = actor.system.virtues[virtue].value;
   const newValue = Math.max(value - amount, 0);
@@ -19,7 +24,7 @@ export const attackVirtueLossAction = async (actor) => {
     title: getTitle({ isExhausted, isExposed, isImpaired }),
     description: getDescription({ virtue, value, newValue, isExhausted, isExposed, isImpaired }),
     formulaLabel: game.i18n.localize("MB.VirtueLoss"),
-    formulaNumber: amount
+    roll: roll
   };
 
   await actor.update({

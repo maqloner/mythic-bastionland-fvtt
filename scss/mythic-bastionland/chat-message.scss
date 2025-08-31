@@ -58,7 +58,7 @@
         .outcome-rolls {
           display: flex;
           flex-wrap: wrap;
-          justify-content: center;        
+          justify-content: center;
           gap: 8px;
         }
 
@@ -81,7 +81,7 @@
 
           &.strong-gambit {
             background-color: var(--orange);
-          }        
+          }
         }
 
         .chat-message-button {

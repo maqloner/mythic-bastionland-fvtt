@@ -1,0 +1,2101 @@
+{
+  "name": "Knight - RollTables",
+  "folders": [
+    {
+      "name": "The True Knight",
+      "items": [
+        {
+          "name": "Trigger",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Lying to you about their identity" ],
+            [ 2, 2, "Giving false witness to you." ],
+            [ 3, 3, "Giving you malicious advice." ],
+            [ 4, 4, "Lying while bearing the shield." ],
+            [ 5, 5, "Omitting key information to you." ],
+            [ 6, 6, "Lying to you about their intent." ]
+          ]
+        },
+        {
+          "name": "Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Golden Glow" ],
+            [ 2, 2, "Turns Cold" ],
+            [ 3, 3, "Gentle Hum" ],
+            [ 4, 4, "Fragrant Aroma" ],
+            [ 5, 5, "Distant Birdcall" ],
+            [ 6, 6, "Loud Clang" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Snare Knight",
+      "items": [
+        {
+          "name": "History",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Exiled" ],
+            [ 2, 2, "Feral" ],
+            [ 3, 3, "Vengeful" ],
+            [ 4, 4, "Shamed" ],
+            [ 5, 5, "Jovial" ],
+            [ 6, 6, "Artistic" ]
+          ]
+        },
+        {
+          "name": "Type",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Otter" ],
+            [ 2, 2, "Hare" ],
+            [ 3, 3, "Rat" ],
+            [ 4, 4, "Weasel" ],
+            [ 5, 5, "Ferret" ],
+            [ 6, 6, "Squirrel" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Tourney Knight",
+      "items": [
+        {
+          "name": "Call to Battle",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Greed" ],
+            [ 2, 2, "Bloodlust" ],
+            [ 3, 3, "Glory" ],
+            [ 4, 4, "Duty" ],
+            [ 5, 5, "Pride" ],
+            [ 6, 6, "Ambition" ]
+          ]
+        },
+        {
+          "name": "Fancy Helm",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Lion" ],
+            [ 2, 2, "Shark" ],
+            [ 3, 3, "Great Crest" ],
+            [ 4, 4, "Hawk" ],
+            [ 5, 5, "Bull" ],
+            [ 6, 6, "Demon" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Bloody Knight",
+      "items": [
+        {
+          "name": "Alcohol",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Burning Wine" ],
+            [ 2, 2, "Strong Mead" ],
+            [ 3, 3, "Spiced Ale" ],
+            [ 4, 4, "Sour Milk" ],
+            [ 5, 5, "Fermented Vegetable" ],
+            [ 6, 6, "Blood Brew" ]
+          ]
+        },
+        {
+          "name": "Hatred",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "The Rich" ],
+            [ 2, 2, "Knights" ],
+            [ 3, 3, "The Poor" ],
+            [ 4, 4, "Seers" ],
+            [ 5, 5, "The Sea" ],
+            [ 6, 6, "The Sun" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Moss Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Faded Spirals" ],
+            [ 2, 2, "Blue Thorns" ],
+            [ 3, 3, "Silver Stars" ],
+            [ 4, 4, "Pale Snakes" ],
+            [ 5, 5, "Red Bones" ],
+            [ 6, 6, "Burnt Rings" ]
+          ]
+        },
+        {
+          "name": "Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Points to Water" ],
+            [ 2, 2, "Burns before an ambush" ],
+            [ 3, 3, "A1 in saltwater" ],
+            [ 4, 4, "A1 under moonlight" ],
+            [ 5, 5, "A1 in rivers or streams" ],
+            [ 6, 6, "Conceals a third eye" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The War Knight",
+      "items": [
+        {
+          "name": "Special Polearm",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "+[[/roll d10 #damage]] vs mounted targets" ],
+            [ 2, 2, "+[[/roll d10 #damage]] vs targets with a shield" ],
+            [ 3, 3, "+[[/roll d10 #damage]] vs targets in armour" ],
+            [ 4, 4, "+[[/roll d10 #damage]] vs targets without a shield" ],
+            [ 5, 5, "+[[/roll d10 #damage]] vs beasts and monsters" ],
+            [ 6, 6, "+[[/roll d10 #damage]] vs anybody attacking you" ]
+          ]
+        },
+        {
+          "name": "Helm",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Veiled Leather Cowl" ],
+            [ 2, 2, "Long Mail Hood" ],
+            [ 3, 3, "Full Heavy Bucket" ],
+            [ 4, 4, "Crow-Beaked" ],
+            [ 5, 5, "Caged Visor" ],
+            [ 6, 6, "Kettle Cap" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Willow Knight",
+      "items": [
+        {
+          "name": "Place",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Riverside" ],
+            [ 2, 2, "Coastal" ],
+            [ 3, 3, "Mountain" ],
+            [ 4, 4, "Pine Forest" ],
+            [ 5, 5, "Moor" ],
+            [ 6, 6, "Castle" ]
+          ]
+        },
+        {
+          "name": "Disaster",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Death" ],
+            [ 2, 2, "War" ],
+            [ 3, 3, "Famine" ],
+            [ 4, 4, "Plague" ],
+            [ 5, 5, "Fire" ],
+            [ 6, 6, "Flood" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gilded Knight",
+      "items": [
+        {
+          "name": "Where did the armour show itself?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Lake" ],
+            [ 2, 2, "Waterfall" ],
+            [ 3, 3, "River" ],
+            [ 4, 4, "Beach" ],
+            [ 5, 5, "Cave" ],
+            [ 6, 6, "Mountain" ]
+          ]
+        },
+        {
+          "name": "What was left behind?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A Farm" ],
+            [ 2, 2, "A Name" ],
+            [ 3, 3, "Only Graves" ],
+            [ 4, 4, "A Student" ],
+            [ 5, 5, "A Teacher" ],
+            [ 6, 6, "A Castle" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Saddle Knight",
+      "items": [
+        {
+          "name": "Appearance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Pristine" ],
+            [ 2, 2, "Plaited" ],
+            [ 3, 3, "Tall" ],
+            [ 4, 4, "Golden" ],
+            [ 5, 5, "Dark" ],
+            [ 6, 6, "Stocky" ]
+          ]
+        },
+        {
+          "name": "Temperament",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Completely silent" ],
+            [ 2, 2, "Highly alert" ],
+            [ 3, 3, "Eternally valiant" ],
+            [ 4, 4, "Fierce ([[/roll d8 #damage]] trample)" ],
+            [ 5, 5, "Loved by other beasts" ],
+            [ 6, 6, "Perfect sense of direction" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Riddle Knight",
+      "items": [
+        {
+          "name": "Body",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Muscular ([[/roll d8 #damage]] grasp)" ],
+            [ 2, 2, "Shrunken ([[/roll d6 #damage]] bite)" ],
+            [ 3, 3, "Stretched ([[/roll d6 #damage]] strike)" ],
+            [ 4, 4, "Skeletal ([[/roll d6 #damage]] slash)" ],
+            [ 5, 5, "Canine ([[/roll d8 #damage]] jaws)" ],
+            [ 6, 6, "Feline ([[/roll d6 #damage]] claws)" ]
+          ]
+        },
+        {
+          "name": "Visage",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Elderly" ],
+            [ 2, 2, "Youthful" ],
+            [ 3, 3, "Hideous" ],
+            [ 4, 4, "Amorphous" ],
+            [ 5, 5, "Horned" ],
+            [ 6, 6, "Regal" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Talon Knight",
+      "items": [
+        {
+          "name": "Breed",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fisherhawk (can dive into water)" ],
+            [ 2, 2, "Cave Owl (nocturnal)" ],
+            [ 3, 3, "Grey Raven (highly intelligent)" ],
+            [ 4, 4, "Red Eagle (d6 Talons)" ],
+            [ 5, 5, "Rock Falcon (preys on reptiles)" ],
+            [ 6, 6, "Bog Vulture (5GD)" ]
+          ]
+        },
+        {
+          "name": "Special Training",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Singing" ],
+            [ 2, 2, "Fighting Humans (+[[/roll d6 #damage]] vs humans)" ],
+            [ 3, 3, "Silent Flight" ],
+            [ 4, 4, "Delivery" ],
+            [ 5, 5, "Stealing" ],
+            [ 6, 6, "Fighting Birds (+[[/roll d6 #damage]] vs birds)" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Barbed Knight",
+      "items": [
+        {
+          "name": "Begrudging Ally",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Eccentric Alchemist" ],
+            [ 2, 2, "Humble Chronicler" ],
+            [ 3, 3, "Surly Brewer" ],
+            [ 4, 4, "Horse Breeder" ],
+            [ 5, 5, "Elderly Innkeeper" ],
+            [ 6, 6, "Petty Burglar" ]
+          ]
+        },
+        {
+          "name": "Hated Enemy",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Rich Merchant" ],
+            [ 2, 2, "Master Blacksmith" ],
+            [ 3, 3, "Admired Knight" ],
+            [ 4, 4, "Bandit Leader" ],
+            [ 5, 5, "Retired General" ],
+            [ 6, 6, "Mercenary Captain" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Trail Knight",
+      "items": [
+        {
+          "name": "Value",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Honour" ],
+            [ 2, 2, "Duty" ],
+            [ 3, 3, "Loyalty" ],
+            [ 4, 4, "Justice" ],
+            [ 5, 5, "Respect" ],
+            [ 6, 6, "Truth" ]
+          ]
+        },
+        {
+          "name": "Forged by",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Battling a monster" ],
+            [ 2, 2, "A raided village" ],
+            [ 3, 3, "Rescuing the helpless" ],
+            [ 4, 4, "Killing a tyrant" ],
+            [ 5, 5, "A long journey" ],
+            [ 6, 6, "Facing temptation" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Amber Knight",
+      "items": [
+        {
+          "name": "Pastime",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Painting" ],
+            [ 2, 2, "Miniature sculpture" ],
+            [ 3, 3, "Embroidery" ],
+            [ 4, 4, "Pottery" ],
+            [ 5, 5, "Drawing" ],
+            [ 6, 6, "Flower pressing" ]
+          ]
+        },
+        {
+          "name": "Taught By",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Knight-Mentor" ],
+            [ 2, 2, "Father" ],
+            [ 3, 3, "Mother" ],
+            [ 4, 4, "Brother" ],
+            [ 5, 5, "Sister" ],
+            [ 6, 6, "Self" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Horde Knight",
+      "items": [
+        {
+          "name": "Flavour",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sour" ],
+            [ 2, 2, "Salty" ],
+            [ 3, 3, "Fiery" ],
+            [ 4, 4, "Smoked" ],
+            [ 5, 5, "Burnt" ],
+            [ 6, 6, "Chewy" ]
+          ]
+        },
+        {
+          "name": "Substance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Skin" ],
+            [ 2, 2, "Beans" ],
+            [ 3, 3, "Insects" ],
+            [ 4, 4, "Roots" ],
+            [ 5, 5, "Cheese" ],
+            [ 6, 6, "Honey" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Emerald Knight",
+      "items": [
+        {
+          "name": "Hidden Action",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Strike a wounded enemy" ],
+            [ 2, 2, "Make animal calls" ],
+            [ 3, 3, "Throw stones" ],
+            [ 4, 4, "Grab a non-alert enemy" ],
+            [ 5, 5, "Move slowly" ],
+            [ 6, 6, "Whisper to allies" ]
+          ]
+        },
+        {
+          "name": "Heightened Sense",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Vision (detail)" ],
+            [ 2, 2, "Vision (distance)" ],
+            [ 3, 3, "Hearing" ],
+            [ 4, 4, "Smell" ],
+            [ 5, 5, "Weather prediction" ],
+            [ 6, 6, "Emotional insight" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Chain Knight",
+      "items": [
+        {
+          "name": "First",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Through darkness" ],
+            [ 2, 2, "Through smoke" ],
+            [ 3, 3, "Out of a cell" ],
+            [ 4, 4, "Climbing chains" ],
+            [ 5, 5, "Up the great stair" ],
+            [ 6, 6, "Through fire" ]
+          ]
+        },
+        {
+          "name": "Then",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Through ice" ],
+            [ 2, 2, "Through dirt" ],
+            [ 3, 3, "Out of a mountain" ],
+            [ 4, 4, "Out of a tomb" ],
+            [ 5, 5, "Up from a well" ],
+            [ 6, 6, "Out of a lake" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Banner Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Red/white diamonds" ],
+            [ 2, 2, "Blue/yellow rings" ],
+            [ 3, 3, "Green/silver spiral" ],
+            [ 4, 4, "Purple/gold chevrons" ],
+            [ 5, 5, "Black/blue bars" ],
+            [ 6, 6, "Orange/black waves" ]
+          ]
+        },
+        {
+          "name": "Topper",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Antlers" ],
+            [ 2, 2, "Jaws" ],
+            [ 3, 3, "Tree" ],
+            [ 4, 4, "Fishtail" ],
+            [ 5, 5, "Wings" ],
+            [ 6, 6, "Seashel" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Pigeon Knight",
+      "items": [
+        {
+          "name": "Hue",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Emerald" ],
+            [ 2, 2, "Marble" ],
+            [ 3, 3, "Silver" ],
+            [ 4, 4, "Golden" ],
+            [ 5, 5, "Ruby" ],
+            [ 6, 6, "Violet" ]
+          ]
+        },
+        {
+          "name": "Shape",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Towers" ],
+            [ 2, 2, "Walls" ],
+            [ 3, 3, "Flowers" ],
+            [ 4, 4, "Ships" ],
+            [ 5, 5, "Water" ],
+            [ 6, 6, "Clouds" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Shield Knight",
+      "items": [
+        {
+          "name": "Aroma",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Rosemary" ],
+            [ 2, 2, "Mould" ],
+            [ 3, 3, "Pepper" ],
+            [ 4, 4, "Copper" ],
+            [ 5, 5, "Garlic" ],
+            [ 6, 6, "Meat" ]
+          ]
+        },
+        {
+          "name": "Side",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Hallucination" ],
+            [ 2, 2, "Lethargy" ],
+            [ 3, 3, "Stimulation" ],
+            [ 4, 4, "Sorrow" ],
+            [ 5, 5, "Giddiness" ],
+            [ 6, 6, "Absent-mindedness" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Whip Knight",
+      "items": [
+        {
+          "name": "Positive Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Heightened hearing" ],
+            [ 2, 2, "Breathe fire once([[/roll d8 #damage]] blast)" ],
+            [ 3, 3, "Speak remotely with any one person" ],
+            [ 4, 4, "No pain (A1)" ],
+            [ 5, 5, "Restore one Virtue" ],
+            [ 6, 6, "Restore all Virtues" ]
+          ]
+        },
+        {
+          "name": "Side Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Mild nausea" ],
+            [ 2, 2, "Unable to speak" ],
+            [ 3, 3, "Hazy vision" ],
+            [ 4, 4, "Lose [[/roll d6]] VIG" ],
+            [ 5, 5, "Lose [[/roll d6]] CLA" ],
+            [ 6, 6, "Lose [[/roll d6]] SPI" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Seal Knight",
+      "items": [
+        {
+          "name": "Subject",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "The Seer reading" ],
+            [ 2, 2, "The Seal Knight" ],
+            [ 3, 3, "Another Knight" ],
+            [ 4, 4, "Another Seer" ],
+            [ 5, 5, "A Myth" ],
+            [ 6, 6, "The whole" ]
+          ]
+        },
+        {
+          "name": "Prophecy",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Death" ],
+            [ 2, 2, "Torment" ],
+            [ 3, 3, "Rebirth" ],
+            [ 4, 4, "Treachery" ],
+            [ 5, 5, "Growth" ],
+            [ 6, 6, "Realm Glory" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Horn Knight",
+      "items": [
+        {
+          "name": "Shape",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sharp" ],
+            [ 2, 2, "Helix" ],
+            [ 3, 3, "Sickle" ],
+            [ 4, 4, "Intertwined" ],
+            [ 5, 5, "Coiling" ],
+            [ 6, 6, "Swollen" ]
+          ]
+        },
+        {
+          "name": "Sound",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Dissonant" ],
+            [ 2, 2, "Solemn" ],
+            [ 3, 3, "Ghostly" ],
+            [ 4, 4, "Beastly" ],
+            [ 5, 5, "Droning" ],
+            [ 6, 6, "Gravelly" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Dove Knight",
+      "items": [
+        {
+          "name": "Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Always land safely" ],
+            [ 2, 2, "Jump twice as high" ],
+            [ 3, 3, "Sprint silently" ],
+            [ 4, 4, "Animals won’t attack you unprovoked" ],
+            [
+              5,
+              5,
+              "Knights who strike the first blow against you lose [[/roll d6]] SPI"
+            ],
+            [ 6, 6, "Appear as real wings" ]
+          ]
+        },
+        {
+          "name": "Limitation",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sink like a stone" ],
+            [ 2, 2, "Red glow when angry" ],
+            [ 3, 3, "Slow running speed" ],
+            [ 4, 4, "Horses other than your own are afraid of you" ],
+            [
+              5,
+              5,
+              "Lose [[/roll d6]] SPI if you ever strike the first blow to a Knight"
+            ],
+            [ 6, 6, "Only protects under daylight" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Story Knight",
+      "items": [
+        {
+          "name": "Style",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Quest" ],
+            [ 2, 2, "Romance" ],
+            [ 3, 3, "Revenge" ],
+            [ 4, 4, "Farce" ],
+            [ 5, 5, "Nonsense" ],
+            [ 6, 6, "Tragedy" ]
+          ]
+        },
+        {
+          "name": "Twist",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Ghosts!" ],
+            [ 2, 2, "Long-lost twins!" ],
+            [ 3, 3, "Memory loss!" ],
+            [ 4, 4, "Reincarnation!" ],
+            [ 5, 5, "Talking animals!" ],
+            [ 6, 6, "Everybody dies!" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Turtle Knight",
+      "items": [
+        {
+          "name": "Appearance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Tiny" ],
+            [ 2, 2, "Runic carvings" ],
+            [ 3, 3, "Ruby encrusted" ],
+            [ 4, 4, "Volcanic rock" ],
+            [ 5, 5, "Painted battle scene" ],
+            [ 6, 6, "Huge" ]
+          ]
+        },
+        {
+          "name": "Imparted Flavour",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Floral honey" ],
+            [ 2, 2, "Smoky salt" ],
+            [ 3, 3, "Toasty almond" ],
+            [ 4, 4, "Ice water" ],
+            [ 5, 5, "Warm berries" ],
+            [ 6, 6, "Meat dripping" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Key Knight",
+      "items": [
+        {
+          "name": "Valuables",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Polished gems" ],
+            [ 2, 2, "Silver coins" ],
+            [ 3, 3, "Box of salt" ],
+            [ 4, 4, "Tiny, perfect diamond" ],
+            [ 5, 5, "Golden hairpin" ],
+            [ 6, 6, "Wooden figurine" ]
+          ]
+        },
+        {
+          "name": "Keepsakes",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A scrap of a poem" ],
+            [ 2, 2, "A lock of hair" ],
+            [ 3, 3, "A wooden ring" ],
+            [ 4, 4, "Some baby teeth" ],
+            [ 5, 5, "A vial of blood" ],
+            [ 6, 6, "Wooden figurine" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Moat Knight",
+      "items": [
+        {
+          "name": "Will Not",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Jump" ],
+            [ 2, 2, "Stop suddenly" ],
+            [ 3, 3, "Carry anybody but their Knight" ],
+            [ 4, 4, "Follow instructions unless being ridden" ],
+            [ 5, 5, "Pull a cart" ],
+            [ 6, 6, "Travel in darkness" ]
+          ]
+        },
+        {
+          "name": "But",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Eats anything" ],
+            [ 2, 2, "Is beautiful" ],
+            [ 3, 3, "Always hears an ambush coming" ],
+            [ 4, 4, "Always knows which way is north" ],
+            [ 5, 5, "Hums tunefully" ],
+            [ 6, 6, "Is very tough (A1)" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Boulder Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Bronze plates" ],
+            [ 2, 2, "Flanged iron" ],
+            [ 3, 3, "Sharp scales" ],
+            [ 4, 4, "Bright brigandine" ],
+            [ 5, 5, "Heavy rings" ],
+            [ 6, 6, "Sleek brass" ]
+          ]
+        },
+        {
+          "name": "Quirk",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Floats in water" ],
+            [ 2, 2, "Quick to don or remove" ],
+            [ 3, 3, "Silent when moving" ],
+            [ 4, 4, "Intimidating helm (A1)" ],
+            [ 5, 5, "Spiked gauntlets ([[/roll d6 #damage]])" ],
+            [ 6, 6, "Ignore fall Damage" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Tankard Knight",
+      "items": [
+        {
+          "name": "Who Scarred You?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Ruler of a nearby Holding" ],
+            [ 2, 2, "Ruler of the Seat of Power" ],
+            [ 3, 3, "Wandering Knight" ],
+            [ 4, 4, "A whole village" ],
+            [ 5, 5, "A ship’s captain" ],
+            [ 6, 6, "A member of your Company" ]
+          ]
+        },
+        {
+          "name": "Your Betrayal",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Disloyalty" ],
+            [ 2, 2, "Petty theft " ],
+            [ 3, 3, "A violent argument" ],
+            [ 4, 4, "A broken promise" ],
+            [ 5, 5, "Slander" ],
+            [ 6, 6, "Neglect in a time of great need" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Owl Knight",
+      "items": [
+        {
+          "name": "Title",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "The Light of…" ],
+            [ 2, 2, "Those who long for…" ],
+            [ 3, 3, "Death &…" ],
+            [ 4, 4, "Merits of…" ],
+            [ 5, 5, "Of Domain and…" ],
+            [ 6, 6, "In the Garden of…" ]
+          ]
+        },
+        {
+          "name": "Title",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "…the Sea Beasts" ],
+            [ 2, 2, "…Bread" ],
+            [ 3, 3, "…the City" ],
+            [ 4, 4, "…other Meditations" ],
+            [ 5, 5, "…Coin" ],
+            [ 6, 6, "…Doom" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Hooded Knight",
+      "items": [
+        {
+          "name": "Hood",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Veiled" ],
+            [ 2, 2, "Shadowy" ],
+            [ 3, 3, "Silken" ],
+            [ 4, 4, "Tattered" ],
+            [ 5, 5, "Fur-trimmed" ],
+            [ 6, 6, "Threadbare" ]
+          ]
+        },
+        {
+          "name": "Cloak",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Velvet" ],
+            [ 2, 2, "Torn" ],
+            [ 3, 3, "Weathered" ],
+            [ 4, 4, "Layered" ],
+            [ 5, 5, "Embroidered" ],
+            [ 6, 6, "Faded pattern" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Lance Knight",
+      "items": [
+        {
+          "name": "What can you see?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fears" ],
+            [ 2, 2, "Desires" ],
+            [ 3, 3, "Hidden things" ],
+            [ 4, 4, "Regrets" ],
+            [ 5, 5, "Loyalties" ],
+            [ 6, 6, "Injuries and disease" ]
+          ]
+        },
+        {
+          "name": "But you cannot see",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Colour" ],
+            [ 2, 2, "Writing" ],
+            [ 3, 3, "Birds" ],
+            [ 4, 4, "Water" ],
+            [ 5, 5, "Stars and sun" ],
+            [ 6, 6, "Silver and gold" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Questing Knight",
+      "items": [
+        {
+          "name": "Appearance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Massive (d10 long)" ],
+            [ 2, 2, "Curved (d8)" ],
+            [ 3, 3, "Jagged (2d6 hefty)" ],
+            [ 4, 4, "Hooked (2d8 long)" ],
+            [ 5, 5, "Shining (2d6)" ],
+            [ 6, 6, "Cruel (2d8 hefty)" ]
+          ]
+        },
+        {
+          "name": "Who gave it to you?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "The tide" ],
+            [ 2, 2, "A tomb" ],
+            [ 3, 3, "A tree" ],
+            [ 4, 4, "An eagle" ],
+            [ 5, 5, "A hermit" ],
+            [ 6, 6, "A mountain" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Ring Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Snakes" ],
+            [ 2, 2, "Skulls" ],
+            [ 3, 3, "Thorns" ],
+            [ 4, 4, "Rubies" ],
+            [ 5, 5, "Gold" ],
+            [ 6, 6, "Birds" ]
+          ]
+        },
+        {
+          "name": "Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Wearers share vision" ],
+            [ 2, 2, "Wearers share hearing" ],
+            [ 3, 3, "Wearers share GD (use total)" ],
+            [ 4, 4, "Wearers share VIG (use higher)" ],
+            [ 5, 5, "Wearers share CLA (use higher)" ],
+            [ 6, 6, "Wearers share SPI (use higher)" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Forge Knight",
+      "items": [
+        {
+          "name": "Visible",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Burnt hands" ],
+            [ 2, 2, "Scorched hair" ],
+            [ 3, 3, "Faded eyes" ],
+            [ 4, 4, "Missing teeth" ],
+            [ 5, 5, "Blistered face" ],
+            [ 6, 6, "Branded arm" ]
+          ]
+        },
+        {
+          "name": "Non-Visible",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fiery nightmares" ],
+            [ 2, 2, "Noise sensitivity" ],
+            [ 3, 3, "Distrust of sky" ],
+            [ 4, 4, "High pain threshold" ],
+            [ 5, 5, "Light sensitivity" ],
+            [ 6, 6, "Fear of water" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Rune Knight",
+      "items": [
+        {
+          "name": "If Shaken",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Warmth of a hearth" ],
+            [ 2, 2, "Veil of darkness" ],
+            [ 3, 3, "Gentle light" ],
+            [ 4, 4, "Repels birds" ],
+            [ 5, 5, "Soothes canines" ],
+            [ 6, 6, "Eases pain" ]
+          ]
+        },
+        {
+          "name": "If Smashed",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sudden thunderstorm" ],
+            [ 2, 2, "Summer arrives" ],
+            [ 3, 3, "Night arrives" ],
+            [ 4, 4, "Deafening scream" ],
+            [ 5, 5, "Plague of locusts" ],
+            [ 6, 6, "Freezes nearby water" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gallows Knight",
+      "items": [
+        {
+          "name": "Type",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Copper mail (A1)" ],
+            [ 2, 2, "Cracked chestplate and bracers (A1)" ],
+            [ 3, 3, "Red brigandine (A1)" ],
+            [ 4, 4, "Padded cloth (A1)" ],
+            [ 5, 5, "Hardened leather (A1)" ],
+            [ 6, 6, "Dented plate (A1)" ]
+          ]
+        },
+        {
+          "name": "Detail",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Embedded arrowheads" ],
+            [ 2, 2, "Two sets hastily patched together" ],
+            [ 3, 3, "Partially burnt" ],
+            [ 4, 4, "Claw marks" ],
+            [ 5, 5, "Faded heraldry" ],
+            [ 6, 6, "Dried blood" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Tome Knight",
+      "items": [
+        {
+          "name": "Blind spot for…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "People’s names" ],
+            [ 2, 2, "Place names" ],
+            [ 3, 3, "Faces" ],
+            [ 4, 4, "Geography" ],
+            [ 5, 5, "Relationships" ],
+            [ 6, 6, "Time" ]
+          ]
+        },
+        {
+          "name": "And…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "In large gatherings" ],
+            [ 2, 2, "In combat" ],
+            [ 3, 3, "At morning" ],
+            [ 4, 4, "At night" ],
+            [ 5, 5, "When alone" ],
+            [ 6, 6, "After a drink" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Meteor Knight",
+      "items": [
+        {
+          "name": "Appearance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Silver rings" ],
+            [ 2, 2, "Blackened iron" ],
+            [ 3, 3, "Two-headed" ],
+            [ 4, 4, "Faint golden glow" ],
+            [ 5, 5, "Five prongs" ],
+            [ 6, 6, "Telescopic shaft" ]
+          ]
+        },
+        {
+          "name": "Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Can be thrown ([[/roll d6 #damage]])" ],
+            [ 2, 2, "Can be recalled to your hand when in sight" ],
+            [ 3, 3, "+[[/roll d8 #damage]] vs aquatic beings" ],
+            [ 4, 4, "[[/roll d8 #damage]] vs flying beings" ],
+            [ 5, 5, "Points to fresh water" ],
+            [ 6, 6, "Utterly unbreakable" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gazer Knight",
+      "items": [
+        {
+          "name": "Event",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Birth of…" ],
+            [ 2, 2, "Great deeds of…" ],
+            [ 3, 3, "Ambitions of…" ],
+            [ 4, 4, "Shameful death of…" ],
+            [ 5, 5, "Glorious death of…" ],
+            [ 6, 6, "Peaceful death of…" ]
+          ]
+        },
+        {
+          "name": "Subject",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A random Seer" ],
+            [ 2, 2, "A random Knight" ],
+            [ 3, 3, "Yourself" ],
+            [ 4, 4, "One of the Company" ],
+            [ 5, 5, "The Realm ruler" ],
+            [ 6, 6, "An unknown figure" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Mule Knight",
+      "items": [
+        {
+          "name": "Form",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Ashen pinecone" ],
+            [ 2, 2, "Vial of red dust" ],
+            [ 3, 3, "Bottle of white oil" ],
+            [ 4, 4, "Hellfire chestnut" ],
+            [ 5, 5, "Preserved drake gizzard" ],
+            [ 6, 6, "Firebird egg" ]
+          ]
+        },
+        {
+          "name": "Explosion Trigger",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Water" ],
+            [ 2, 2, "Fire" ],
+            [ 3, 3, "A command word" ],
+            [ 4, 4, "Touch of skin" ],
+            [ 5, 5, "Light" ],
+            [ 6, 6, "Touching ground" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Halo Knight",
+      "items": [
+        {
+          "name": "Material Requirement",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Blood" ],
+            [ 2, 2, "Sand" ],
+            [ 3, 3, "Smoke" ],
+            [ 4, 4, "Milk" ],
+            [ 5, 5, "Salt" ],
+            [ 6, 6, "Silk" ]
+          ]
+        },
+        {
+          "name": "Other Requirement",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Midnight ritual" ],
+            [ 2, 2, "A Seer’s blessing" ],
+            [ 3, 3, "You must be Wounded" ],
+            [ 4, 4, "Coin sacrifice" ],
+            [ 5, 5, "Light of sunrise" ],
+            [ 6, 6, "Bird nest" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Iron Knight",
+      "items": [
+        {
+          "name": "Out of a…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Vibrant forest" ],
+            [ 2, 2, "High waterfall" ],
+            [ 3, 3, "Roaring sea" ],
+            [ 4, 4, "Broken boulder" ],
+            [ 5, 5, "Narrow cave" ],
+            [ 6, 6, "Dead tree" ]
+          ]
+        },
+        {
+          "name": "At a time of…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Contentment" ],
+            [ 2, 2, "Desperation" ],
+            [ 3, 3, "Victory" ],
+            [ 4, 4, "Anger" ],
+            [ 5, 5, "Sorrow" ],
+            [ 6, 6, "Transition" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Mirror Knight",
+      "items": [
+        {
+          "name": "Knight",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Found a lost treasure" ],
+            [ 2, 2, "Avenged family" ],
+            [ 3, 3, "Won a tournament" ],
+            [ 4, 4, "Escaped capture" ],
+            [ 5, 5, "Broke a siege" ],
+            [ 6, 6, "Rescued a loved-one" ]
+          ]
+        },
+        {
+          "name": "Steed",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fought bravely" ],
+            [ 2, 2, "Galloped all night" ],
+            [ 3, 3, "Spotted an ambush" ],
+            [ 4, 4, "Returned from death" ],
+            [ 5, 5, "Lost an eye" ],
+            [ 6, 6, "Shrugged off arrows" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Dusk Knight",
+      "items": [
+        {
+          "name": "Start",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Twin Knights are lost in the woods" ],
+            [ 2, 2, "The Lion and the Lizard are bitter rivals" ],
+            [ 3, 3, "A mother hates her six ugly sons" ],
+            [ 4, 4, "A hermit lambasts the stars for his sad life" ],
+            [ 5, 5, "A clever chicken outwits a farmer" ],
+            [ 6, 6, "A poet wastes her life fleeing from death" ]
+          ]
+        },
+        {
+          "name": "End",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "They’re eaten by a pack of wolves" ],
+            [ 2, 2, "They all die of a disgusting plague" ],
+            [ 3, 3, "It turns into a call to find the City" ],
+            [ 4, 4, "It devolves into psychedelic nonsense" ],
+            [ 5, 5, "It ends on a literal cliffhanger" ],
+            [ 6, 6, "They all lived happily ever after" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Coin Knight",
+      "items": [
+        {
+          "name": "Loved by",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Children" ],
+            [ 2, 2, "Cats" ],
+            [ 3, 3, "Nobles" ],
+            [ 4, 4, "Knights Your" ],
+            [ 5, 5, "Birds of prey" ],
+            [ 6, 6, "Sea creatures" ]
+          ]
+        },
+        {
+          "name": "Hated by",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Everybody else" ],
+            [ 2, 2, "Proper musicians" ],
+            [ 3, 3, "Rodents" ],
+            [ 4, 4, "Company" ],
+            [ 5, 5, "Seers" ],
+            [ 6, 6, "Songbirds" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Mock Knight",
+      "items": [
+        {
+          "name": "Bones of…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Ivory" ],
+            [ 2, 2, "Bronze" ],
+            [ 3, 3, "Sapling branches" ],
+            [ 4, 4, "String" ],
+            [ 5, 5, "Wooden rods" ],
+            [ 6, 6, "Iron chain" ]
+          ]
+        },
+        {
+          "name": "Skin of…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Leather" ],
+            [ 2, 2, "Felt" ],
+            [ 3, 3, "Silk" ],
+            [ 4, 4, "Wool" ],
+            [ 5, 5, "Parchment" ],
+            [ 6, 6, "Clay" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Mask Knight",
+      "items": [
+        {
+          "name": "Appearance",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Youthful" ],
+            [ 2, 2, "Beautiful" ],
+            [ 3, 3, "Misshapen" ],
+            [ 4, 4, "Abstract" ],
+            [ 5, 5, "Skull" ],
+            [ 6, 6, "Elder" ]
+          ]
+        },
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Horned" ],
+            [ 2, 2, "Two-faced" ],
+            [ 3, 3, "Blindfolded" ],
+            [ 4, 4, "Scarred" ],
+            [ 5, 5, "Roaring" ],
+            [ 6, 6, "Crowned" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Bone Knight",
+      "items": [
+        {
+          "name": "The Box",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Silver coffer" ],
+            [ 2, 2, "Ivory cage" ],
+            [ 3, 3, "Bronze cylinder" ],
+            [ 4, 4, "Velvet pouch" ],
+            [ 5, 5, "Painted wooden case" ],
+            [ 6, 6, "Gilded clam shell" ]
+          ]
+        },
+        {
+          "name": "The Bones",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sorted by age" ],
+            [ 2, 2, "Sorted by size" ],
+            [ 3, 3, "Sorted by habitat" ],
+            [ 4, 4, "Sorted by beauty" ],
+            [ 5, 5, "Sorted by virtue" ],
+            [ 6, 6, "Unsorted chaos" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Salt Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Leather pouch" ],
+            [ 2, 2, "Brass horn" ],
+            [ 3, 3, "Twisted silver" ],
+            [ 4, 4, "Mottled stone" ],
+            [ 5, 5, "White wood" ],
+            [ 6, 6, "Frosted glass" ]
+          ]
+        },
+        {
+          "name": "Thirst",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A story" ],
+            [ 2, 2, "A blade" ],
+            [ 3, 3, "A small creature" ],
+            [ 4, 4, "Delicious fruit" ],
+            [ 5, 5, "Honey" ],
+            [ 6, 6, "Music" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Violet Knight",
+      "items": [
+        {
+          "name": "Why?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Seer’s orders" ],
+            [ 2, 2, "It frightens you" ],
+            [ 3, 3, "The word is forgotten" ],
+            [ 4, 4, "You can’t speak it" ],
+            [ 5, 5, "It dies when named" ],
+            [ 6, 6, "Its name has power" ]
+          ]
+        },
+        {
+          "name": "A Strange Steed",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Cannot utter a sound" ],
+            [ 2, 2, "Cannot ride through water" ],
+            [ 3, 3, "Seems more comfortable at night" ],
+            [ 4, 4, "Arrows cannot harm it" ],
+            [ 5, 5, "Can ride on sea water" ],
+            [ 6, 6, "Other steeds show fealty to it" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Cosmic Knight",
+      "items": [
+        {
+          "name": "Form",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Handheld (d6)" ],
+            [ 2, 2, "Lightwood (d8 hefty)" ],
+            [ 3, 3, "Repeating (d8 long)" ],
+            [ 4, 4, "Double (2d6 long)" ],
+            [ 5, 5, "Bronze (2d8 slow)" ],
+            [ 6, 6, "Ironwood (d10 slow)" ]
+          ]
+        },
+        {
+          "name": "Twist",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Cannot shoot in dark" ],
+            [ 2, 2, "Only you can shoot it" ],
+            [ 3, 3, "Extremely loud clunk" ],
+            [ 4, 4, "No bolts required" ],
+            [ 5, 5, "Very painful wounds" ],
+            [ 6, 6, "Can also be used in melee combat" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Temple Knight",
+      "items": [
+        {
+          "name": "Voice",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Pitiful" ],
+            [ 2, 2, "Mocking" ],
+            [ 3, 3, "Sinister" ],
+            [ 4, 4, "Benevolent" ],
+            [ 5, 5, "Ancient" ],
+            [ 6, 6, "Loving" ]
+          ]
+        },
+        {
+          "name": "Agenda",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Your death" ],
+            [ 2, 2, "Order" ],
+            [ 3, 3, "Bloodshed" ],
+            [ 4, 4, "Peace" ],
+            [ 5, 5, "Chaos" ],
+            [ 6, 6, "Your ambitions" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Fox Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Twisted ebony handle" ],
+            [ 2, 2, "Feather motif" ],
+            [ 3, 3, "Tapered slicer" ],
+            [ 4, 4, "Fang-like dagger" ],
+            [ 5, 5, "Long wavy blade" ],
+            [ 6, 6, "Etched bone" ]
+          ]
+        },
+        {
+          "name": "Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Hidden within your shadow" ],
+            [ 2, 2, "Can be thrown any distance" ],
+            [ 3, 3, "+[[/roll 2d10 #damage]] vs somebody who trusts you" ],
+            [ 4, 4, "Appears as a twig" ],
+            [ 5, 5, "Splits into two blades" ],
+            [ 6, 6, "Harmless to you" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Gull Knight",
+      "items": [
+        {
+          "name": "Some taken from…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fallen soldiers" ],
+            [ 2, 2, "Ancient tomb" ],
+            [ 3, 3, "Shipwreck" ],
+            [ 4, 4, "A fighting pit" ],
+            [ 5, 5, "A defeated Knight" ],
+            [ 6, 6, "Thankful militia" ]
+          ]
+        },
+        {
+          "name": "Mixed with…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Flexible leather" ],
+            [ 2, 2, "Sleek bronze" ],
+            [ 3, 3, "Polished steel" ],
+            [ 4, 4, "Brass studs" ],
+            [ 5, 5, "Padded coat" ],
+            [ 6, 6, "Thick furs" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Magpie Knight",
+      "items": [
+        {
+          "name": "Item",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A dried flower" ],
+            [ 2, 2, "A sword hilt" ],
+            [ 3, 3, "A pearl" ],
+            [ 4, 4, "A scrap of a banner" ],
+            [ 5, 5, "An old coin" ],
+            [ 6, 6, "A dog’s collar" ]
+          ]
+        },
+        {
+          "name": "Reminds you of…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A great victory" ],
+            [ 2, 2, "A shameful defeat" ],
+            [ 3, 3, "A happy place" ],
+            [ 4, 4, "A sorrowful place" ],
+            [ 5, 5, "Somebody you loved" ],
+            [ 6, 6, "Somebody you hated" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Reliquary Knight",
+      "items": [
+        {
+          "name": "Bodypart",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Hand" ],
+            [ 2, 2, "Skull" ],
+            [ 3, 3, "Heart" ],
+            [ 4, 4, "Ribs" ],
+            [ 5, 5, "Eye" ],
+            [ 6, 6, "Unknown organ" ]
+          ]
+        },
+        {
+          "name": "Being",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Forgotten Seer" ],
+            [ 2, 2, "Glorious Knight" ],
+            [ 3, 3, "Deposed monarch" ],
+            [ 4, 4, "Pitied monster" ],
+            [ 5, 5, "Hateful bird" ],
+            [ 6, 6, "Ancient reptile" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Vulture Knight",
+      "items": [
+        {
+          "name": "Material",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Burned mail" ],
+            [ 2, 2, "Blackened bronze" ],
+            [ 3, 3, "Bloody gambeson" ],
+            [ 4, 4, "Jagged iron strips" ],
+            [ 5, 5, "Spiked leather" ],
+            [ 6, 6, "Barbed scales" ]
+          ]
+        },
+        {
+          "name": "Detail",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Bat wing motif" ],
+            [ 2, 2, "Blood red embroidery" ],
+            [ 3, 3, "Shadow is darker" ],
+            [ 4, 4, "Tattered cloak" ],
+            [ 5, 5, "Embedded bones" ],
+            [ 6, 6, "Tiny skulls everywhere" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Free Knight",
+      "items": [
+        {
+          "name": "Ineffective vs",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Axes" ],
+            [ 2, 2, "Arrows" ],
+            [ 3, 3, "Birds" ],
+            [ 4, 4, "Spears and polearms" ],
+            [ 5, 5, "Swords" ],
+            [ 6, 6, "Blunt arms" ]
+          ]
+        },
+        {
+          "name": "Special Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Can be thrown ([[/roll d6 #damage]])" ],
+            [ 2, 2, "Allows you to fall safely from any height" ],
+            [ 3, 3, "Pattern pains Seers" ],
+            [ 4, 4, "Always floats" ],
+            [ 5, 5, "Blocks all sound" ],
+            [ 6, 6, "Bladed ([[/roll d6 #damage]] in melee)" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Silk Knight",
+      "items": [
+        {
+          "name": "Distracted by…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Smaller animals" ],
+            [ 2, 2, "Moss" ],
+            [ 3, 3, "Water" ],
+            [ 4, 4, "Salt" ],
+            [ 5, 5, "Fruit" ],
+            [ 6, 6, "Shiny things" ]
+          ]
+        },
+        {
+          "name": "Scared by…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Other steeds" ],
+            [ 2, 2, "Fire" ],
+            [ 3, 3, "Darkness" ],
+            [ 4, 4, "Children" ],
+            [ 5, 5, "Music" ],
+            [ 6, 6, "Being alone" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Tiger Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Abstract shapes" ],
+            [ 2, 2, "Ancient runes" ],
+            [ 3, 3, "Letters you do not understand" ],
+            [ 4, 4, "Skulls and bones" ],
+            [ 5, 5, "Thunderbolts" ],
+            [ 6, 6, "Thorns and flowers" ]
+          ]
+        },
+        {
+          "name": "Why?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "For service in battle" ],
+            [ 2, 2, "It happened before you bought them" ],
+            [ 3, 3, "They were born that way" ],
+            [ 4, 4, "It happened overnight" ],
+            [ 5, 5, "They appeared slowly" ],
+            [ 6, 6, "A Seer demanded it" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Leaf Knight",
+      "items": [
+        {
+          "name": "Use",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Instantly cools any liquid it touches" ],
+            [ 2, 2, "Insects hate the smell" ],
+            [ 3, 3, "It transforms into 20ft of rope when shaken" ],
+            [ 4, 4, "Terrifies snakes, eels, and worms" ],
+            [ 5, 5, "One end is extremely sticky" ],
+            [ 6, 6, "Seers believe it is a blessing upon you" ]
+          ]
+        },
+        {
+          "name": "But…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "It’s long and inconvenient to carry" ],
+            [ 2, 2, "Dogs always want it " ],
+            [ 3, 3, "It looks just like every other stick" ],
+            [ 4, 4, "It’s very delicate " ],
+            [ 5, 5, "It’s extremely flammable " ],
+            [ 6, 6, "It only works in bright sunlight" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Glass Knight",
+      "items": [
+        {
+          "name": "Main Hue",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Indigo" ],
+            [ 2, 2, "Crimson" ],
+            [ 3, 3, "Forest green" ],
+            [ 4, 4, "Teal" ],
+            [ 5, 5, "Gold" ],
+            [ 6, 6, "Rose" ]
+          ]
+        },
+        {
+          "name": "Decoration",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Faces" ],
+            [ 2, 2, "Vines" ],
+            [ 3, 3, "Stars" ],
+            [ 4, 4, "Wolves" ],
+            [ 5, 5, "Fire" ],
+            [ 6, 6, "The City" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Hive Knight",
+      "items": [
+        {
+          "name": "You must be",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fed beyond full" ],
+            [ 2, 2, "Thoroughly cleaned" ],
+            [ 3, 3, "Sung to sleep" ],
+            [ 4, 4, "Set alight" ],
+            [ 5, 5, "Buried in soil" ],
+            [ 6, 6, "Beheaded" ]
+          ]
+        },
+        {
+          "name": "You require",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Complete darkness" ],
+            [ 2, 2, "Submersion in water" ],
+            [ 3, 3, "Milk and honey" ],
+            [ 4, 4, "Choking smoke" ],
+            [ 5, 5, "A blanket of leaves" ],
+            [ 6, 6, "Burning embers" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Ghoul Knight",
+      "items": [
+        {
+          "name": "Animal Type",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Turtle" ],
+            [ 2, 2, "Elephant" ],
+            [ 3, 3, "Lion cub" ],
+            [ 4, 4, "Seahorse" ],
+            [ 5, 5, "Unicorn" ],
+            [ 6, 6, "Pigeon" ]
+          ]
+        },
+        {
+          "name": "Origin",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Gift from a friend" ],
+            [ 2, 2, "You stole it" ],
+            [ 3, 3, "Made yourself" ],
+            [ 4, 4, "From a parent" ],
+            [ 5, 5, "Found in a ruin" ],
+            [ 6, 6, "Found in a river" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Weaver Knight",
+      "items": [
+        {
+          "name": "Design",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Club" ],
+            [ 2, 2, "Disc" ],
+            [ 3, 3, "Spike" ],
+            [ 4, 4, "Bola" ],
+            [ 5, 5, "Fork" ],
+            [ 6, 6, "Ball" ]
+          ]
+        },
+        {
+          "name": "Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "+[[/roll d6 #damage]] in a duel" ],
+            [ 2, 2, "+[[/roll d6 #damage]] vs steeds" ],
+            [ 3, 3, "+[[/roll d6 #damage]] vs fleeing targets" ],
+            [ 4, 4, "+[[/roll d6 #damage]] vs mounted targets" ],
+            [ 5, 5, "+[[/roll d6 #damage]] vs flying targets" ],
+            [ 6, 6, "+[[/roll d6 #damage]] vs targets without a shield" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Thunder Knight",
+      "items": [
+        {
+          "name": "Ability",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Jolting bite ([[/roll d6 #damage]])" ],
+            [ 2, 2, "Can slowly eat through metal" ],
+            [ 3, 3, "Melodious chirp" ],
+            [ 4, 4, "Can fetch items up to the weight of a coin" ],
+            [ 5, 5, "Always goes toward food" ],
+            [ 6, 6, "Agonising but harmless bite" ]
+          ]
+        },
+        {
+          "name": "Manner",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Completely wild" ],
+            [ 2, 2, "Well-trained" ],
+            [ 3, 3, "Particularly stupid" ],
+            [ 4, 4, "Eager to please" ],
+            [ 5, 5, "Hates you " ],
+            [ 6, 6, "A bright and noble creature" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Dust Knight",
+      "items": [
+        {
+          "name": "Flavour",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Salty" ],
+            [ 2, 2, "Picante" ],
+            [ 3, 3, "Sour" ],
+            [ 4, 4, "Challenging" ],
+            [ 5, 5, "Soapy" ],
+            [ 6, 6, "Smoky" ]
+          ]
+        },
+        {
+          "name": "Side Effect",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Numbs taste and smell" ],
+            [ 2, 2, "Very filling" ],
+            [ 3, 3, "Addictive" ],
+            [ 4, 4, "VIG Save or vomit" ],
+            [ 5, 5, "CLA Save or go blind for a moment" ],
+            [ 6, 6, "SPI Save or weep with intense sorrow" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Fanged Knight",
+      "items": [
+        {
+          "name": "Place",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "A tower" ],
+            [ 2, 2, "A body of water" ],
+            [ 3, 3, "A peak" ],
+            [ 4, 4, "A village" ],
+            [ 5, 5, "A river" ],
+            [ 6, 6, "A cave" ]
+          ]
+        },
+        {
+          "name": "Ancestor to",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "The ruler" ],
+            [ 2, 2, "A Knight" ],
+            [ 3, 3, "A Seer" ],
+            [ 4, 4, "All people" ],
+            [ 5, 5, "You" ],
+            [ 6, 6, "A Company member" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Pearl Knight",
+      "items": [
+        {
+          "name": "How do you know?",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Aquatic nightmares" ],
+            [ 2, 2, "A fish told you" ],
+            [ 3, 3, "It’s cold to the touch" ],
+            [ 4, 4, "Sudden fear of water" ],
+            [ 5, 5, "Storms call to you" ],
+            [ 6, 6, "The waves rebuke you" ]
+          ]
+        },
+        {
+          "name": "Punishment",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Sea creatures get +[[/roll d6 #damage]] against you" ],
+            [ 2, 2, "You cannot swim in saltwater" ],
+            [ 3, 3, "River water tastes salty to you" ],
+            [ 4, 4, "Sailors distrust you" ],
+            [ 5, 5, "Salt tastes foul to you" ],
+            [ 6, 6, "Fish is poison to you" ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Rat Knight",
+      "items": [
+        {
+          "name": "Type",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Leather" ],
+            [ 2, 2, "Velvet" ],
+            [ 3, 3, "Fur" ],
+            [ 4, 4, "Scales" ],
+            [ 5, 5, "Hair" ],
+            [ 6, 6, "Straw" ]
+          ]
+        },
+        {
+          "name": "Modified for…",
+          "formula": "d6",
+          "results": [
+            [ 1, 1, "Fast donning/removal" ],
+            [ 2, 2, "Fire immunity" ],
+            [ 3, 3, "Ease of swimming" ],
+            [ 4, 4, "Total fall protection" ],
+            [ 5, 5, "Concealing robes" ],
+            [ 6, 6, "Repellent to rats" ]
+          ]
+        }
+      ]
+    }
+  ]
+}

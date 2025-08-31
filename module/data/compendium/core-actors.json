@@ -1,0 +1,244 @@
+{
+  "name": "Core - Actors",
+  "folders": [
+    {
+      "name": "People",
+      "items": [
+        {
+          "type": "npc",
+          "name": "Servant",
+          "guard": 2,
+          "description": "Single duty with little expertise"
+        },
+        {
+          "type": "npc",
+          "name": "Guide",
+          "guard": 4,
+          "description": "Local knowledge",
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Handaxe",
+              "damage": "d6"
+            },
+            {
+              "type": "weapon",
+              "name": "Javelin",
+              "damage": "d6"
+            }
+          ]
+        },
+        {
+          "type": "npc",
+          "name": "Sentry",
+          "guard": 3,
+          "description": "Little appetite for combat",
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Billhook",
+              "damage": "d10",
+              "long": true
+            }
+          ]
+        },
+        {
+          "type": "npc",
+          "name": "Herbalist",
+          "guard": 2,
+          "description": "Knows treatments, not cures"
+        },
+        {
+          "type": "npc",
+          "name": "Soldier-at-Arms",
+          "guard": 6,
+          "description": "Battle worn",
+          "items": [
+            {
+              "type": "helm",
+              "name": "Helm",
+              "armor": 1
+            },
+            {
+              "type": "shield",
+              "name": "Shield",
+              "armor": 1,
+              "damage": "d4"
+            },
+            {
+              "type": "weapon",
+              "name": "Spear",
+              "damage": "d6",
+              "hefty": true
+            }
+          ]
+        },
+        {
+          "type": "npc",
+          "name": "Archer",
+          "guard": 3,
+          "description": "Battle worn",
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Shortbow",
+              "damage": "d6"
+            }
+          ]
+        },
+        {
+          "type": "npc",
+          "name": "Sage",
+          "guard": 2,
+          "description": "Holds immense knowledge in a particular area of expertise"
+        },
+        {
+          "type": "npc",
+          "name": "Alchemist",
+          "guard": 2,
+          "description": "Creates poisons or quasi-medicinal potions"
+        },
+        {
+          "type": "npc",
+          "name": "Sellsword",
+          "guard": 7,
+          "description": "Generally only agrees to fights that they are confident they can win",
+          "items": [
+            {
+              "type": "coat",
+              "name": "Coat",
+              "armor": 1
+            },
+            {
+              "type": "plate",
+              "name": "Plate",
+              "armor": 1
+            },
+            {
+              "type": "helm",
+              "name": "Helm",
+              "armor": 1
+            },
+            {
+              "type": "shield",
+              "name": "Shield",
+              "armor": 1,
+              "damage": "d4"
+            },
+            {
+              "type": "weapon",
+              "name": "Longsword",
+              "damage": "2d8",
+              "hefty": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beasts",
+      "items": [
+        {
+          "type": "creature",
+          "name": "Hound",
+          "vigour": 5,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 4,
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Bite",
+              "damage": "d6"
+            }
+          ]
+        },
+        {
+          "type": "creature",
+          "name": "Sheep",
+          "vigour": 5,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 1
+        },
+        {
+          "type": "creature",
+          "name": "Pig",
+          "vigour": 5,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 1
+        },
+        {
+          "type": "creature",
+          "name": "Ox",
+          "vigour": 15,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 3
+        },
+        {
+          "type": "creature",
+          "name": "Hawk",
+          "vigour": 5,
+          "clarity": 15,
+          "spirit": 5,
+          "guard": 3,
+          "items": [
+            {
+              "type": "weapon",
+              "name": "Talons",
+              "damage": "d4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steeds",
+      "items": [
+        {
+          "type": "steed",
+          "name": "Pony",
+          "vigour": 7,
+          "clarity": 7,
+          "spirit": 2,
+          "guard": 2
+        },
+        {
+          "type": "steed",
+          "name": "Mule",
+          "vigour": 10,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 2
+        },
+        {
+          "type": "steed",
+          "name": "Riding Steed",
+          "vigour": 10,
+          "clarity": 10,
+          "spirit": 5,
+          "guard": 3
+        },
+        {
+          "type": "steed",
+          "name": "Heavy Steed",
+          "vigour": 15,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 2
+        },
+        {
+          "type": "steed",
+          "name": "Charger",
+          "vigour": 10,
+          "clarity": 5,
+          "spirit": 5,
+          "guard": 5,
+          "trample": "d8"
+        }
+      ]
+    }
+  ]
+}

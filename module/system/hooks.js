@@ -1,9 +1,17 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
 
-export const preCreateItem = (item) => item.updateSource(config.itemDefaults[item.type]);
+export const preCreateItem = (item, data) => {
+  if (!data.img) {
+    return item.updateSource(config.itemDefaults[item.type]);
+  }
+};
 
-export const preCreateActor = (actor) => actor.updateSource(config.actorDefaults[actor.type]);
+export const preCreateActor = (actor, data) => {
+  if (!data.img) {
+    return actor.updateSource(config.actorDefaults[actor.type]);
+  }
+};
 
 export const preDeleteActor = (actor) => {
   var parentActors = game.actors.filter(parent => parent.system.actors.includes(actor.uuid));

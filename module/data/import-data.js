@@ -1,5 +1,4 @@
-import { compendiumData } from "./compendium-data.js";
-export { compendiumData } from "./compendium-data.js";
+const path = "/systems/mythicbastionland/module/data/compendium";
 
 export const processAll = async () => {
   await processItems();
@@ -7,15 +6,31 @@ export const processAll = async () => {
   await processActors();
 };
 
-export const processItems = async () => process(compendiumData.items, "Item", createItem);
+export const processItems = async () => {
+  const coreItems = await foundry.utils.fetchJsonWithTimeout(`${path}/core-items.json`);
+  const knightItems = await foundry.utils.fetchJsonWithTimeout(`${path}/knight-items.json`);
 
-export const processRollTables = async () => process(compendiumData.tables, "RollTable", createRollTable);
+  await process([coreItems, knightItems], "Item", createItem);
 
-export const processActors = async () => process(compendiumData.actors, "Actor", createActor);
+};
+
+export const processRollTables = async () => {
+  const coreTables = await foundry.utils.fetchJsonWithTimeout(`${path}/core-tables.json`);
+  const knightTables = await foundry.utils.fetchJsonWithTimeout(`${path}/knight-tables.json`);
+
+  await process([coreTables, knightTables], "RollTable", createRollTable);
+};
+
+export const processActors = async () => {
+  const coreActors = await foundry.utils.fetchJsonWithTimeout(`${path}/core-actors.json`);
+  const knightActors = await foundry.utils.fetchJsonWithTimeout(`${path}/knight-actors.json`);
+
+  await process([coreActors, knightActors], "Actor", createActor);
+};
 
 const process = async (data, type, creator, folderId = null) => {
-  for (const { folders, items, name } of data) {
-    const folder = await Folder.create({ name: name, type, folder: folderId });
+  for (const { folders, items, name, sorting = "a" } of data) {
+    const folder = await Folder.create({ name: name, type, folder: folderId, sorting: sorting });
 
     if (items) {
       for (const data of items) {
@@ -42,7 +57,7 @@ const createActorSystem = ({ vigour, clarity, spirit, guard, ...system }) => ({
     virtues: {
       ...vigour && { vigour: { value: vigour, max: vigour } },
       ...clarity && { clarity: { value: clarity, max: clarity } },
-      ...spirit && { guard: { value: spirit, max: spirit } }
+      ...spirit && { spirit: { value: spirit, max: spirit } }
     }
   },
   ...guard && { guard: { value: guard, max: guard } }

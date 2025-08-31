@@ -1,0 +1,442 @@
+{
+  "name": "Core - Items",
+  "folders": [
+    {
+      "name": "Weapons",
+      "items": [
+        {
+          "type": "weapon",
+          "name": "Pitchfork",
+          "damage": "d6",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Hatchet",
+          "damage": "d6",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Cudgel",
+          "damage": "d6",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Staff",
+          "damage": "d8",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Logging Axe",
+          "damage": "d8",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Pick",
+          "damage": "d8",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Dagger",
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Club",
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Handaxe",
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Spear",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Mace",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Axe",
+          "damage": "d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Poleaxe",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Billhook",
+          "damage": "d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Sling",
+          "damage": "d4",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Javelin",
+          "damage": "d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Shortbow",
+          "damage": "d6",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Shortsword",
+          "damage": "2d6"
+        },
+        {
+          "type": "weapon",
+          "name": "Lance",
+          "damage": "d10",
+          "long": true,
+          "description": "count as hefty if mounted"
+        },
+        {
+          "type": "weapon",
+          "name": "Greataxe",
+          "damage": "2d10",
+          "slow": true
+        },
+        {
+          "type": "weapon",
+          "name": "Maul",
+          "damage": "2d10",
+          "slow": true
+        },
+        {
+          "type": "weapon",
+          "name": "Longbow",
+          "damage": "d8",
+          "slow": true
+        },
+        {
+          "type": "weapon",
+          "name": "Longsword",
+          "damage": "2d8",
+          "hefty": true
+        },
+        {
+          "type": "weapon",
+          "name": "Greatsword",
+          "damage": "2d10",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Curve Bow",
+          "damage": "d26",
+          "long": true
+        },
+        {
+          "type": "weapon",
+          "name": "Crossbow",
+          "damage": "2d8",
+          "slow": true
+        }
+      ]
+    },
+    {
+      "name": "Armours",
+      "items": [
+        {
+          "type": "shield",
+          "name": "Round shield",
+          "armor": 1,
+          "damage": "d4"
+        },
+        {
+          "type": "shield",
+          "name": "Kite shield",
+          "armor": 1,
+          "damage": "d4"
+        },
+        {
+          "type": "shield",
+          "name": "Heater shield",
+          "armor": 1,
+          "damage": "d4"
+        },
+        {
+          "type": "coat",
+          "name": "Mail",
+          "armor": 1
+        },
+        {
+          "type": "coat",
+          "name": "Gambeson",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Kettle helm",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Nasal helm",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Bucket helm",
+          "armor": 1
+        },
+        {
+          "type": "helm",
+          "name": "Coif",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Cuirass",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Brigandine",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Splint",
+          "armor": 1
+        },
+        {
+          "type": "plate",
+          "name": "Scale",
+          "armor": 1
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        {
+          "type": "misc",
+          "name": "Torches",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Rope",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Dry rations",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Camping Gear",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Saw",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Fishing rod",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Sewing set",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Candles",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Shovel",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Flute",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Animal trap",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Smiting tool",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Herbalist kit",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Scribe set",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Lute",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Alchemy Tools",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Crystal ball",
+          "quantity": 1
+        },
+        {
+          "type": "misc",
+          "name": "Extravagant harp",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Remedies",
+      "items": [
+        {
+          "type": "misc",
+          "name": "Sustenance",
+          "quantity": 1,
+          "description": "The means for a generous feast. Used to recover VIG."
+        },
+        {
+          "type": "misc",
+          "name": "Stimulant",
+          "quantity": 1,
+          "description": "Enlightening herbal preparations. Used to recover CLA."
+        },
+        {
+          "type": "misc",
+          "name": "Sacrament",
+          "quantity": 1,
+          "description": "Sacrament: Props for ritual or performance. Used to recover SPI."
+        }
+      ]
+    },
+    {
+      "name": "Scars",
+      "sorting": "m",
+      "items": [
+        {
+          "type": "scar",
+          "name": "Distress",
+          "description": "<p><em>A lucky escape</em></p><p>Lose [[/roll d6]] SPI.</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Disfigurement",
+          "description": "<p><em>A permanent mark</em></p><p>Roll [[/roll 1d6]]</p><p>1: Eye, 2: Cheek, 3: Neck 4: Torso, 5: Nose, 6: Jaw</p><p>If your max GD is 2 or less, increase it by d6.</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Smash",
+          "description": "<p><em>A sudden spray of blood</em></p><p>Lose [[/roll d6]] VIG.</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Stun",
+          "description": "<p><em>Pain drowns the senses</em></p><p>Lose [[/roll d6]] CLA.</p><p>If your max GD is 4 or less, increase it by [[/roll d6]].</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Rupture",
+          "description": "<p><em>Innards pierced and compressed</em></p><p>Lose [[/roll 2d6]] VIG</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Gouge",
+          "description": "<p><em>Flesh torn from bone</em></p><p>When you get stitched up, if your max GD is 6 or less, increase it by [[/roll d6]].</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Concussion",
+          "description": "<p><em>A heavy blow numbs the mind</em></p><p>Lose [[/roll 2d6]] CLA</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Tear",
+          "description": "<p><em>Something taken in violent struggle</em></p><p>Roll [[/roll 1d6]]</p><p>1: Nose, 2: Ear, 3: Finger 4: Thumb, 5: Eye, 6: Chunk of Scalp</p><p>When you get patched up, if your max GD is 8 or less, increase it by [[/roll d6]]</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Agony",
+          "description": "<p><em>With a crack, a torturous break</em></p><p>Lose [[/roll 2d6]] SPI.</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Mutilation",
+          "description": "<p><em>A limb rendered lost or useless</em></p><p>Roll [[/roll 1d6]]</p><p>1-2: Leg, 3-4: Shield Arm, 5-6: Sword Arm</p><p>By next Season you have a prosthetic or have learned to get by, and if your max GD is 10 or less, increase it by [[/roll d6]].</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Doom",
+          "description": "<p><em>A cheated death haunts you</em></p><p>If you take a Mortal Wound this season you are Slain instead.</p>"
+        },
+        {
+          "type": "scar",
+          "name": "Humiliation",
+          "description": "<p><em>A most dolorous stroke</em></p><p>Roll [[/roll 1d6]]</p><p>When you achieve revenge, if your max GD is 12 or less, increase it by [/roll 1d6]].</p>"
+        }
+      ]
+    },
+    {
+      "name": "Poisons",
+      "items": [
+        {
+          "type": "misc",
+          "name": "Common poison",
+          "quantity": 1,
+          "description": "Sickness and discomfort."
+        },
+        {
+          "type": "misc",
+          "name": "Uncommon poison",
+          "quantity": 1,
+          "description": "Suffering, then slow death."
+        },
+        {
+          "type": "misc",
+          "name": "Rare poison",
+          "quantity": 1,
+          "description": "Death plus speed, secrecy, or suffering."
+        }
+      ]
+    }
+  ]
+}

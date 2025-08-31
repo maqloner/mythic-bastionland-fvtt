@@ -14,17 +14,17 @@
         "virtues": {
           "vigour": {
             "min": 0,
-            "max": 10,
+            "max": 18,
             "value": 10
           },
           "clarity": {
             "min": 0,
-            "max": 10,
+            "max": 18,
             "value": 10
           },
           "spirit": {
             "min": 0,
-            "max": 10,
+            "max": 18,
             "value": 10
           }
         },
@@ -62,7 +62,7 @@
       "templates": [
         "common"
       ]
-    },    
+    },
     "creature": {
       "templates": [
         "common"
@@ -95,7 +95,7 @@
     ],
     "htmlFields": [
       "description"
-    ],    
+    ],
     "ability": {
       "description": ""
     },

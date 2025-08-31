@@ -13,12 +13,28 @@ charset = utf-8
 indent_style = space
 indent_size = 2
 
+[*.js]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
 [*.css]
 charset = utf-8
 indent_style = space
 indent_size = 2
 
+[*.scss]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
 [*.json]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+
+[*.hbs]
 charset = utf-8
 indent_style = space
 indent_size = 2

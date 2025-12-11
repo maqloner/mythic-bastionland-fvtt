@@ -20,8 +20,16 @@ class AddItemDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
+
     html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
     html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+
+    html.on("keydown", (event) => {
+      if (event.key === "Escape") { return this.#onCancel(event); }
+      if (event.key === "Enter") { return this.#onSubmit(event); }
+    });
+
+    html.find("input[name=\"itemname\"]").focus();
   }
 
   async #onCancel(event) {

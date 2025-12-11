@@ -10,7 +10,7 @@ class VirtueLossDialog extends Application {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       template: `${config.systemPath}/templates/applications/dialog/virtue-loss-dialog.hbs`,
-      classes: ["mythic-bastionland", "take-damage-dialog"],
+      classes: ["mythic-bastionland", "virtue-loss-dialog"],
       title: game.i18n.localize("MB.VirtueLoss"),
       width: 500,
       height: "auto"
@@ -20,8 +20,16 @@ class VirtueLossDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
+
     html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
     html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+
+    html.on("keydown", (event) => {
+      if (event.key === "Escape") { return this.#onCancel(event); }
+      if (event.key === "Enter") { return this.#onSubmit(event); }
+    });
+
+    html.find("input[name=\"amount\"]").focus();
   }
 
   async #onCancel(event) {

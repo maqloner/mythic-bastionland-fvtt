@@ -30,8 +30,12 @@ const getActorData = async (generatorConfig) => {
 };
 
 const generateBaseNPC = async (generatorConfig) => {
+
+  const name = await generateName();
+
   return {
-    name: await generateName(),
+    name,
+    prototypeToken: { name },
     type: config.actorTypes.npc,
     system: {
       ...await generateVirtues(generatorConfig.virtues),
@@ -56,7 +60,11 @@ const generatePerson = async (generatorConfig) => {
 
 const generateSoldier = async (generatorConfig) => {
   const npcData = await generateBaseNPC(generatorConfig);
-  npcData.name = await generateSoldierType();
+
+  const name = await generateSoldierType();
+  npcData.name = name;
+  npcData.prototypeToken.name = name;
+
   npcData.items = [
     ...await findRandomCoreTools(generatorConfig.tools),
     ...await findRandomCoreWeapons(generatorConfig.weapons),

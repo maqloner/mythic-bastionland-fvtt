@@ -11,8 +11,12 @@ export const createSquire = async (actor) => {
 };
 
 export const generateSquire = async () => {
+
+  const name = await generateName();
+
   const actorData = {
-    name: await generateName(),
+    name,
+    prototypeToken: { name },
     type: config.actorTypes.squire,
     system: {
       ...await generateVirtues("2d6"),

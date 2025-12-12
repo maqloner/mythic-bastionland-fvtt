@@ -67,6 +67,7 @@ class AttackDialog extends Application {
     const overrideDamage = this.element.find("[name=override_damage]").val();
 
     if (!impaired && !bonusDice && !overrideDamage && !weapons.length && !steeds.length) {
+      ui.notifications.warn("MB.Attack.Notification.Invalid", { localize: true });
       return;
     }
 

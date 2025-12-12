@@ -43,6 +43,7 @@ class AddItemDialog extends Application {
     const type = this.element.find("[name=itemtype]").val();
 
     if (!name || !type) {
+      ui.notifications.warn("MB.AddItem.Notification.Invalid", { localize: true });
       return;
     }
 

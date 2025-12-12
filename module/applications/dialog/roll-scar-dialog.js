@@ -42,7 +42,7 @@ class RollScarDialog extends Application {
     const die = this.element.find("[name=die]:checked").val();
 
     if (!die) {
-      ui.notifications.warn("MB.RollScar.Notification.Invalid", { localize: true });
+      ui.notifications.warn("MB.RollScarNotificationInvalid", { localize: true });
       return;
     }
 

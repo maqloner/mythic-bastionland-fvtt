@@ -37,4 +37,3 @@ Hooks.on("deleteCombat", deleteCombat);
 
 Hooks.on("renderSceneNavigation", renderNavigation);
 Hooks.on("renderActorDirectory", renderActorDirectory);
-

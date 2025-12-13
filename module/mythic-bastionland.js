@@ -33,4 +33,3 @@ Hooks.on("ready", ready);
 
 Hooks.on("renderSceneNavigation", renderNavigation);
 Hooks.on("renderActorDirectory", renderActorDirectory);
-

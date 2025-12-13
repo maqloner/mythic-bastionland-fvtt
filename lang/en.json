@@ -62,6 +62,8 @@
   "MB.Actor.Virtues.vigourAbr": "vig",
   "MB.AddItem": "Add Item",
   "MB.Ailment": "Ailment",
+  "MB.AllowPlayerRegenerateButtonSettingHint": "When enabled, players are capable of using the Regenerate Actor button, allowing them to reroll their character when they die and such.",
+  "MB.AllowPlayerRegenerateButtonSettingName": "Allow Player Regeneration",
   "MB.Attack": "Attack",
   "MB.Battlefield": "Battlefield",
   "MB.Beast": "Beast",

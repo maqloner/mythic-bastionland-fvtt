@@ -76,8 +76,7 @@ const getButton = ({ isScar = false }) => {
     return [{
       title: game.i18n.localize("MB.RollScar"),
       data: {
-        "action": "roll-scar",
-        "action-target": "speaker"
+        "action": "roll-scar"
       }
     }];
   }

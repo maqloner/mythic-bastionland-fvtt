@@ -6,14 +6,14 @@ import { evaluateFormula } from "../utils/utils.js";
 import { actorSaveAction } from "./actor-save-action.js";
 
 /**
- * 
- * @param {Actor} actor 
+ *
+ * @param {Actor} actor
  * @param {Object} data
- * @param {String} data.formula 
+ * @param {String} data.formula
  * @param {String} [data.flavor]
  * @param {String} [data.source]
  * @param {Boolean} [data.applyFatigue=false]
- * @returns 
+ * @returns
  */
 export const actorInlineRollAction = async (actor, { formula, flavor, source, applyFatigue = false }) => {
   if (["vigour", "clarity", "spirit"].includes(flavor)) {
@@ -60,8 +60,7 @@ const getButtons = (actor, { flavor }) => {
       return [{
         title: game.i18n.localize("MB.Focus"),
         data: {
-          "action": "focus",
-          "action-target": "speaker"
+          "action": "focus"
         }
       }];
   }

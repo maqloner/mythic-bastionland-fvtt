@@ -22,11 +22,6 @@ export class MBChatMessage extends ChatMessage {
       if (!speakerActor?.sheet?.isEditable) {
         html.find("button[data-action-target=\"speaker\"]").each((index, button) => $(button).prop("disabled", true));
       }
-
-      const characterActor = game?.user?.character;
-      if (!characterActor?.sheet?.isEditable) {
-        html.find("button[data-action-target=\"character\"]").each((index, button) => $(button).prop("disabled", true));
-      }
     }
     return html;
   }
@@ -42,16 +37,8 @@ export class MBChatMessage extends ChatMessage {
   async #onButtonClick(event) {
     event.preventDefault();
 
-    const actionTarget = this.#getEventData(event, "action-target");
-
-    if (actionTarget === "speaker") {
-      const actor = ChatMessage.getSpeakerActor(this.speaker);
-      return (actor?.sheet?.isEditable) ? this.#handleButtons(actor, event.currentTarget) : null;
-    }
-    if (actionTarget === "character") {
-      const actor = game?.user?.character;
-      return (actor?.sheet?.isEditable) ? this.#handleButtons(actor, event.currentTarget) : null;
-    }
+    const actor = ChatMessage.getSpeakerActor(this.speaker);
+    return (actor?.sheet?.isEditable) ? this.#handleButtons(actor, event.currentTarget) : null;
   }
 
   #getEventData(event, data) {

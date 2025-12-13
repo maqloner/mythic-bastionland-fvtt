@@ -32,6 +32,21 @@ export const updateActor = (actor) => {
   }
 };
 
+export const combatStart = () => showChatMessage({
+  actor: null,
+  title: game.i18n.localize("MB.CombatEncounterStarted")
+});
+
+export const combatRound = (combat, data) => showChatMessage({
+  actor: null,
+  title: game.i18n.format("MB.CombatEncounterRound", { round: data.round })
+});
+
+export const deleteCombat = (combat) => (combat.round <= 0) ? null : showChatMessage({
+  actor: null,
+  title: game.i18n.localize("MB.CombatEncounterEnded")
+});
+
 export const ready = async () => {
   if (game.user.isGM) {
     await showChatMessage({

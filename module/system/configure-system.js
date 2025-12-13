@@ -7,7 +7,7 @@ export const configureSystem = () => {
   CONFIG.ChatMessage.documentClass = MBChatMessage;
 
   foundry.documents.collections.Actors.unregisterSheet("core", ActorSheet);
-  
+
   foundry.documents.collections.Actors.registerSheet(game.system.id, MBActorSheet, {
     types: ["knight", "npc", "creature", "steed", "warband", "squire"],
     makeDefault: true,
@@ -19,5 +19,15 @@ export const configureSystem = () => {
   foundry.documents.collections.Items.registerSheet(game.system.id, MBitemSheet, {
     makeDefault: true,
     label: "MB.SheetItem"
+  });
+
+  game.settings.register("mythicbastionland", "MB.CombatEncounterMessages", {
+    name: game.i18n.localize("MB.CombatEncounterSettingName"),
+    hint: game.i18n.localize("MB.CombatEncounterSettingHint"),
+    scope: "world",
+    config: true,
+    requiresReload: false,
+    type: Boolean,
+    default: true
   });
 };

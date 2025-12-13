@@ -14,8 +14,12 @@ export const createWarband = async (actor) => {
  * @returns {Actor}
  */
 export const generateWarband = async () => {
+
+  const name = await generateSoldierType();
+
   const actorData = {
-    name: await generateSoldierType(),
+    name,
+    prototypeToken: { name },
     type: config.actorTypes.warband,
     system: {
       ...await generateVirtues("d12 + d6"),

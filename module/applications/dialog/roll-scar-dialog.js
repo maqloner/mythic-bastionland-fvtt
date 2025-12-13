@@ -20,8 +20,16 @@ class RollScarDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
+
     html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
     html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+
+    html.on("keydown", (event) => {
+      if (event.key === "Escape") { return this.#onCancel(event); }
+      if (event.key === "Enter") { return this.#onSubmit(event); }
+    });
+
+    html.find(".ok-button").focus();
   }
 
   async #onCancel(event) {
@@ -34,6 +42,7 @@ class RollScarDialog extends Application {
     const die = this.element.find("[name=die]:checked").val();
 
     if (!die) {
+      ui.notifications.warn("MB.RollScarNotificationInvalid", { localize: true });
       return;
     }
 

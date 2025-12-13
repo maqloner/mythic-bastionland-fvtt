@@ -62,7 +62,7 @@ const getButtons = (actor, { smite = false }) => {
 
 const source = (name, damage, impaired = false) => ({ name, impaired, damage });
 
-const button = (title, action) => ({ title, data: { "action": action } });
+const button = (title, action) => ({ title, data: { "action": action, "action-target": "speaker" } });
 
 const sourceDescription = (source) => `${source.name} (${source.impaired ? `d4, ${game.i18n.localize("MB.Impaired")}` : source.damage})`;
 

@@ -21,9 +21,17 @@ class GenerateNpcDialog extends Application {
   /** @override */
   activateListeners(html) {
     super.activateListeners(html);
+
     html.find("input[name=type]").on("change", (event) => this.#onTypeChange(event));
     html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
     html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+
+    html.on("keydown", (event) => {
+      if (event.key === "Escape") { return this.#onCancel(event); }
+      if (event.key === "Enter") { return this.#onSubmit(event); }
+    });
+
+    html.find(".ok-button").focus();
   }
 
   /** @override */

@@ -38,16 +38,18 @@ export class MBActorSheet extends foundry.appv1.sheets.ActorSheet {
 
   /** @override */
   _getHeaderButtons() {
-    const additionalButton = [];
+    const additionalButtons = [];
     if ([config.actorTypes.knight, config.actorTypes.npc, config.actorTypes.squire, config.actorTypes.warband].includes(this.actor.type)) {
-      additionalButton.push({
-        class: `regenerate-button-${this.actor.id}`,
-        label: game.i18n.localize("MB.Regenerate"),
-        icon: "fas fa-dice-d20",
-        onclick: event => this.#invokeAction(event, actorRegenerateAction, this.actor)
-      });
+      if (game.user.isGM || (game.settings.get("mythicbastionland", "MB.AllowPlayerRegenerateButton"))) {
+        additionalButtons.push({
+          class: `regenerate-button-${this.actor.id}`,
+          label: game.i18n.localize("MB.Regenerate"),
+          icon: "fas fa-dice-d20",
+          onclick: event => this.#invokeAction(event, actorRegenerateAction, this.actor)
+        });
+      }
     }
-    return [...additionalButton, ...super._getHeaderButtons()];
+    return [...additionalButtons, ...super._getHeaderButtons()];
   }
 
   /** @override */

@@ -49,6 +49,7 @@ class TakeDamageDialog extends Application {
     const armor = parseInt(this.element.find("[name=armor]").val(), 10);
 
     if (!damage) {
+      ui.notifications.warn("MB.TakeDamageNotificationInvalid", { localize: true });
       return;
     }
 

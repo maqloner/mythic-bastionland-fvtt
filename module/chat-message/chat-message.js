@@ -13,8 +13,16 @@ export class MBChatMessage extends ChatMessage {
       if (this.flags.cssClasses.value) {
         html.addClass(this.flags.cssClasses.value);
       }
-      html.on("click", ".inline-roll", (event) => this.#onInlineRollClick(event));
-      html.on("click", "button.chat-message-button", (event) => this.#onButtonClick(event));
+
+      const actor = ChatMessage.getSpeakerActor(this.speaker);
+
+      if (actor?.sheet?.isEditable) {
+        html.on("click", "a.inline-roll", (event) => this.#onInlineRollClick(event));
+        html.on("click", "button.chat-message-button", (event) => this.#onButtonClick(event));
+      } else {
+        html.find("a.inline-roll").each((index, element) => $(element).attr("disabled", true));
+        html.find("button.chat-message-button").each((index, element) => $(element).attr("disabled", true));
+      }
     }
     return html;
   }
@@ -24,16 +32,14 @@ export class MBChatMessage extends ChatMessage {
     event.stopPropagation();
 
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    await actorInlineRollAction(actor, this.#getOnlineRollData(event));
+    return (actor?.sheet?.isEditable) ? actorInlineRollAction(actor, this.#getOnlineRollData(event)) : null;
   }
 
   async #onButtonClick(event) {
     event.preventDefault();
+
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    if (!actor) {
-      return;
-    }
-    await this.#handleButtons(actor, event.currentTarget);
+    return (actor?.sheet?.isEditable) ? this.#handleButtons(actor, event.currentTarget) : null;
   }
 
   #getEventData(event, data) {

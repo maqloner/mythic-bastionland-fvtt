@@ -88,6 +88,10 @@
           width: auto;
           margin-top: 16px;
           display: inline;
+
+          &:disabled {
+            cursor: not-allowed;
+          }
         }
       }
     }

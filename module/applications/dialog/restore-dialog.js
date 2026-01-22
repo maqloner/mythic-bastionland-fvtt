@@ -44,6 +44,7 @@ class RestoreDialog extends Application {
     const clarity = !!this.element.find("[name=clarity]:checked").val();
 
     if (!(vigour || spirit || clarity)) {
+      ui.notifications.warn("MB.RestoreNotificationInvalid", { localize: true });
       return;
     }
 

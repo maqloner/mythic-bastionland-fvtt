@@ -7,7 +7,7 @@ export const configureSystem = () => {
   CONFIG.ChatMessage.documentClass = MBChatMessage;
 
   foundry.documents.collections.Actors.unregisterSheet("core", ActorSheet);
-  
+
   foundry.documents.collections.Actors.registerSheet(game.system.id, MBActorSheet, {
     types: ["knight", "npc", "creature", "steed", "warband", "squire"],
     makeDefault: true,
@@ -24,6 +24,16 @@ export const configureSystem = () => {
   game.settings.register("mythicbastionland", "MB.AllowPlayerRegenerateButton", {
     name: game.i18n.localize("MB.AllowPlayerRegenerateButtonSettingName"),
     hint: game.i18n.localize("MB.AllowPlayerRegenerateButtonSettingHint"),
+    scope: "world",
+    config: true,
+    requiresReload: false,
+    type: Boolean,
+    default: true
+  });
+
+  game.settings.register("mythicbastionland", "MB.CombatEncounterMessages", {
+    name: game.i18n.localize("MB.CombatEncounterSettingName"),
+    hint: game.i18n.localize("MB.CombatEncounterSettingHint"),
     scope: "world",
     config: true,
     requiresReload: false,

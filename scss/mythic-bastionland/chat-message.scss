@@ -2,6 +2,8 @@
   &.chat-message {
     background: var(--primary-color);
     border-width: 3px;
+    padding: 4px;
+    border-radius: 12px;
 
     .message-header {
       padding: 4px 8px;
@@ -93,6 +95,12 @@
             cursor: not-allowed;
           }
         }
+      }
+    }
+
+    &.combat {
+      .message-content {
+        padding: 8px;
       }
     }
   }

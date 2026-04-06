@@ -1,77 +1,71 @@
 import { actorInlineRollAction } from "../../actions/actor-inline-roll-action.js";
 import { config } from "../../config.js";
 
-/**
- * @extends {ItemSheet}
- */
-export class MBitemSheet extends foundry.appv1.sheets.ItemSheet {
+export class MBitemSheet extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.sheets.ItemSheetV2) {
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      classes: ["mythic-bastionland", "sheet", "item"],
-      width: 400,
-      scrollY: [".scrollable"]
-    });
-  }
-
-  /** @override */
-  get title() {
-    return `${super.title} - ${game.i18n.localize(`TYPES.Item.${this.item.type}`)}`;
-  }
-
-  /** @override */
-  get template() {
-    return `${config.systemPath}/templates/applications/sheet/item/${this.item.type}-sheet.hbs`;
-  }
-
-  /** @override */
-  async getData(options) {
-    const data = super.getData(options);
-    data.data.system.description = await foundry.applications.ux.TextEditor.implementation.enrichHTML(data.data.system.description, { secret: data.editable });
-    return data;
-  }
-
-  /**
-   * @param {MouseEvent} event
-   * @param {String} data 
-   * @returns {String}
-   */
-  #getEventData(event, data) {
-    return $(event.target).closest(`[data-${data}]`).data(data);
-  }
-
-  /**
-   * @param {String} event
-   * @param {Object} listeners
-   */
-  #bindSelectorsEvent(event, listeners) {
-    for (const [selector, callback] of Object.entries(listeners)) {
-      this.element.find(selector).on(event, callback.bind(this));
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "sheet", "item"],
+    form: {
+      handler: MBitemSheet._onSubmitForm,
+      submitOnChange: true
     }
+  };
+
+  /**
+   * @override
+   * @param {HandlebarsRenderOptions} options
+   * @returns {Record<string, HandlebarsTemplatePart>}
+   */
+  _configureRenderParts() {
+    return {
+      form: {
+        template: `${config.systemPath}/templates/applications/sheet/item/${this.item.type}-sheet.hbs`,
+        scrollable: [".scrollable"]
+      }
+    };
   }
 
   /**
-   * @param {MouseEvent} event 
-   * @param {Function} action 
-   * @param  {...any} args 
-   */
-  async #invokeAction(event, action, ...args) {
-    event.preventDefault();
-    event.stopPropagation();
-    await action(...args);
+ * @override
+ * @param {ApplicationRenderContext} context
+ * @param {HandlebarsRenderOptions} options
+ */
+  _onRender(context, options) {
+    super._onRender(context, options);
+    // Not using action. Some inline-roll are inside item description
+    this.element
+      .querySelectorAll(".inline-roll")
+      .forEach((el) => el.addEventListener("click", (event) => this._onInlineRoll(event)));
   }
 
   /**
    * @override
-   *
-   * @param {JQuery.<HTMLElement>} html
+   * 
+   * @param {RenderOptions} options 
+   * @returns {Promise<ApplicationRenderContext>}
    */
-  activateListeners(html) {
-    super.activateListeners(html);
-    this.#bindSelectorsEvent("click", {
-      ".inline-roll": event => this.#invokeAction(event, actorInlineRollAction, null, this.#getOnlineRollData(event))
+  async _prepareContext(options) {
+    const context = await super._prepareContext(options);
+
+    return Object.assign(context, {
+      config: config,
+      extra: {
+        enrichedDescription: await foundry.applications.ux.TextEditor.implementation.enrichHTML(context.document.system.description, { secret: context.editable })
+      }
     });
+  }
+
+  /**
+   * @private
+   * 
+   * @param {MouseEvent} event 
+   * @this MBitemSheet
+   */
+  async _onInlineRoll(event) {
+    event.preventDefault();
+    event.stopPropagation();
+    await actorInlineRollAction(null, this._getInlineRollData(event));
   }
 
   /**
@@ -79,31 +73,44 @@ export class MBitemSheet extends foundry.appv1.sheets.ItemSheet {
    *
    * @param {MouseEvent} event
    */
-  #getOnlineRollData(event) {
+  _getInlineRollData(event) {
     return {
-      formula: this.#getEventData(event, "formula"),
-      flavor: this.#getEventData(event, "flavor"),
-      source: this.#getEventData(event, "source"),
-      applyFatigue: this.#getEventData(event, "fatigue")
+      formula: this._getEventData(event, "formula"),
+      flavor: this._getEventData(event, "flavor"),
+      source: this._getEventData(event, "source"),
+      applyFatigue: this._getEventData(event, "fatigue")
     };
   }
 
-  async _onSubmit(event, { updateData = null, preventClose = false } = {}) {
-    const damage = this.element.find("[name='system.damage']");
-    if (damage.length) {
-      damage.val(Roll.validate($(damage).val()) ? $(damage).val() : "d4");
+  /**
+   * @private
+   * 
+   * @param {MouseEvent} event
+   * @param {String} data 
+   * @returns {String}
+   */
+  _getEventData(event, data) {
+    return event.target.closest(`[data-${data}]`)?.getAttribute(`data-${data}`);;
+  }
+
+
+  static async _onSubmitForm(event, form, formData) {
+    if (formData.object["system.damage"]) {
+      formData.object["system.damage"] = Roll.validate(formData.object["system.damage"]) ? formData.object["system.damage"] : "d4";
     }
 
-    const armor = this.element.find("[name='system.armor']");
-    if (armor.length) {
-      armor.val(Math.max(armor.val(), 0));
+    if (formData.object["system.armor"]) {
+      formData.object["system.armor"] = Math.max(formData.object["system.armor"], 0);
     }
 
-    const quantityValue = this.element.find("[name='system.quantity.value']");
-    if (quantityValue.length) {
-      quantityValue.val(Math.max(quantityValue.val(), 0));
+    if (formData.object["system.quantity.value"]) {
+      formData.object["system.quantity.value"] = Math.max(formData.object["system.quantity.value"], 0);
     }
 
-    return super._onSubmit(event, { updateData, preventClose });
+    if (formData.object["system.quantity.max"] && formData.object["system.quantity.max"] !== "") {
+      formData.object["system.quantity.max"] = Math.max(formData.object["system.quantity.max"], 0);
+    }
+
+    await this.document.update(formData.object);
   }
 }

@@ -17,7 +17,6 @@ export const generateKnight = async () => {
   const knightItem = items.filter(item => item.type === config.itemTypes.knight).shift();
 
   const name = await generateName();
-
   const actorData = {
     name,
     prototypeToken: { name },
@@ -26,7 +25,7 @@ export const generateKnight = async () => {
       knight,
       ...await generateVirtues("d12 + d6"),
       ...await generateGuard("d6"),
-      biography: await generateBiography({ knight: true }, { item :knightItem, tables }),
+      biography: await generateBiography({ knight: true }, { item: knightItem, tables }),
       actors: []
     },
     items: [

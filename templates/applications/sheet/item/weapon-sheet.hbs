@@ -1,49 +1,53 @@
-<form class="{{cssClass}} flexcol ability" autocomplete="off" source="{{item.name}}">
+<section class="flexcol weapon">
   <div class="paper scrollable br-1 p-2 gap-2">
 
     <div class="grid">
       <label class="col col-3 text-large label-large">{{localize "MB.Item.Name"}}</label>
       <div class="col col-9">
-        <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
-          placeholder="{{ localize "MB.Item.Name" }}" spellcheck="false" />
+        <input class="br-1 input-large" name="name" type="text" value="{{document.name}}" placeholder="{{ localize 'MB.Item.Name' }}" spellcheck="false" />
       </div>
     </div>
 
     <div class="grid">
       <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Damage"}}</label>
       <div class="col col-9">
-        <input class="br-1 input-regular" name="system.damage" type="text" value="{{data.system.damage}}"
-          placeholder="{{ localize "MB.Damage" }}" spellcheck="false" />
+        <input class="br-1 input-regular" name="system.damage" type="text" value="{{document.system.damage}}" placeholder="{{ localize "MB.Damage" }}" spellcheck="false" />
       </div>
     </div>
 
     <div class="grid">
       <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Hefty"}}</label>
       <div class="col col-9">
-        <input class="input-checkbox" type="checkbox" name="system.hefty" {{checked data.system.hefty}} data-dtype="Boolean" />
+        <input class="input-checkbox" type="checkbox" name="system.hefty" {{checked document.system.hefty}} data-dtype="Boolean" />
       </div>
     </div>
 
     <div class="grid">
       <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Long"}}</label>
       <div class="col col-9">
-        <input class="input-checkbox" type="checkbox" name="system.long" {{checked data.system.long}} data-dtype="Boolean" />
+        <input class="input-checkbox" type="checkbox" name="system.long" {{checked document.system.long}} data-dtype="Boolean" />
       </div>
     </div>
 
     <div class="grid">
       <label class="col col-3 text-regular label-regular">{{localize "MB.Item.Slow"}}</label>
       <div class="col col-9">
-        <input class="input-checkbox" type="checkbox" name="system.slow" {{checked data.system.slow}} data-dtype="Boolean" />
+        <input class="input-checkbox" type="checkbox" name="system.slow" {{checked document.system.slow}} data-dtype="Boolean" />
       </div>
     </div>
 
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Item.Description"}}</h2>
       <div class="col col-12 editor-container">
-        {{editor data.system.description target="system.description" button=editable editable=editable}}
+        {{#if editable}}
+          <prose-mirror name="system.description" value="{{document.system.description}}" document-uuid="{{item.uuid}}" toggled="true" editable="{{editable}}">{{{extra.enrichedDescription}}}</prose-mirror>
+        {{else}}
+          <div class="editor">
+            <div class="editor-content">{{{ extra.enrichedDescription }}}</div>
+          </div>
+        {{/if}}
       </div>
     </div>
 
   </div>
-</form>
+</section>

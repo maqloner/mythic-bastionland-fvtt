@@ -1,4 +1,4 @@
-<form class="paper scrollable br-1 p-2 gap-3">
+<section class="paper scrollable br-1 p-2 gap-3">
 
 
   <div class="grid">
@@ -99,7 +99,7 @@
         <div class="grid align-items-center">
           <label class="col col-4 text-regular">{{localize "MB.BonusDice"}}</label>
           <div class="col col-4 align-items-center">
-            <input class="input-simple" placeholder="d4" type="text" name="bonus_dice">
+            <input class="input-simple" placeholder="d4" type="text" name="bonus_dice" autofocus>
           </div>
         </div>
 
@@ -115,9 +115,7 @@
   </div>
 
   <div class="grid gap-1">
-    <button type="submit"
-      class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
-    <button type="submit"
-      class="col button align-items-center button-primary ok-button">{{localize "MB.Attack"}}</button>
+    <button type="button" data-action="close" class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" data-action="submit" class="col button align-items-center button-primary ok-button">{{localize "MB.Attack"}}</button>
   </div>
-</form>
+</section>

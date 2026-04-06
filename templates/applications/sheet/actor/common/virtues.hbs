@@ -6,12 +6,10 @@
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Virtues.vigour"}}</label>
         <div class="col col-7">
           <div class="grid align-items-center">
-            <input class="col col-2 input-number" type="number" name="system.virtues.vigour.value"
-              value="{{data.system.virtues.vigour.value}}" data-dtype="Number" size="2" />
+            <input class="col col-2 input-number" type="number" name="system.virtues.vigour.value" value="{{document.system.virtues.vigour.value}}" data-dtype="Number" size="2" />
             <span class="col col-1 text-number text-align-center">/</span>
-            <input class="col col-2 input-number " type="number" name="system.virtues.vigour.max"
-              value="{{data.system.virtues.vigour.max}}" data-dtype="Number" size="2" />
-            <a class="col col-2 text-medium text-align-center pt-1 roll-save" data-virtue="vigour">
+            <input class="col col-2 input-number " type="number" name="system.virtues.vigour.max" value="{{document.system.virtues.vigour.max}}" data-dtype="Number" size="2" />
+            <a class="col col-2 text-medium text-align-center pt-1" data-action="rollSave" data-virtue="vigour">
               <i class="fas fa-dice-d20"></i>
             </a>
           </div>
@@ -21,12 +19,10 @@
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Virtues.clarity"}}</label>
         <div class="col col-7">
           <div class="grid align-items-center">
-            <input class="col col-2 input-number" type="number" name="system.virtues.clarity.value"
-              value="{{data.system.virtues.clarity.value}}" data-dtype="Number" size="2" />
+            <input class="col col-2 input-number" type="number" name="system.virtues.clarity.value" value="{{document.system.virtues.clarity.value}}" data-dtype="Number" size="2" />
             <span class="col col-1 text-number text-align-center">/</span>
-            <input class="col col-2 input-number" type="number" name="system.virtues.clarity.max"
-              value="{{data.system.virtues.clarity.max}}" data-dtype="Number" size="2" />
-            <a class="col col-2 text-medium text-align-center pt-1 roll-save" data-virtue="clarity">
+            <input class="col col-2 input-number" type="number" name="system.virtues.clarity.max" value="{{document.system.virtues.clarity.max}}" data-dtype="Number" size="2" />
+            <a class="col col-2 text-medium text-align-center pt-1" data-action="rollSave" data-virtue="clarity">
               <i class="fas fa-dice-d20"></i>
             </a>
           </div>
@@ -36,12 +32,10 @@
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Virtues.spirit"}}</label>
         <div class="col col-7">
           <div class="grid align-items-center">
-            <input class="col col-2 input-number" type="number" name="system.virtues.spirit.value"
-              value="{{data.system.virtues.spirit.value}}" data-dtype="Number" size="2" />
+            <input class="col col-2 input-number" type="number" name="system.virtues.spirit.value" value="{{document.system.virtues.spirit.value}}" data-dtype="Number" size="2" />
             <span class="col col-1 text-number text-align-center">/</span>
-            <input class="col col-2 input-number" type="number" name="system.virtues.spirit.max"
-              value="{{data.system.virtues.spirit.max}}" data-dtype="Number" size="2" />
-            <a class="col col-2 text-medium text-align-center pt-1 roll-save" data-virtue="spirit">
+            <input class="col col-2 input-number" type="number" name="system.virtues.spirit.max" value="{{document.system.virtues.spirit.max}}" data-dtype="Number" size="2" />
+            <a class="col col-2 text-medium text-align-center pt-1" data-action="rollSave" data-virtue="spirit">
               <i class="fas fa-dice-d20"></i>
             </a>
           </div>
@@ -51,24 +45,21 @@
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Guard"}}</label>
         <div class="col col-7">
           <div class="grid align-items-center">
-            <input class="col col-2 input-number" type="number" name="system.guard.value"
-              value="{{data.system.guard.value}}" data-dtype="Number" size="2" />
+            <input class="col col-2 input-number" type="number" name="system.guard.value" value="{{document.system.guard.value}}" data-dtype="Number" size="2" />
             <span class="col col-1 text-number text-align-center">/</span>
-            <input class="col col-2 input-number" type="number" name="system.guard.max"
-              value="{{data.system.guard.max}}" data-dtype="Number" size="2" />
+            <input class="col col-2 input-number" type="number" name="system.guard.max" value="{{document.system.guard.max}}" data-dtype="Number" size="2" />
           </div>
         </div>
       </div>
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Fatigued"}}</label>
         <div class="col col-7">
-          <input class="input-checkbox" type="checkbox" name="system.fatigue" {{checked data.system.fatigue}}
-            data-dtype="Boolean" />
+          <input class="input-checkbox" type="checkbox" name="system.fatigue" {{checked document.system.fatigue}} data-dtype="Boolean" />
         </div>
       </div>
       <div class="grid">
         <label class="col col-5 text-regular label-number">{{localize "MB.Item.Armor"}}</label>
-        <div class="col col-7 input-number clear-bg">{{data.totalArmor}}</div>
+        <div class="col col-7 input-number clear-bg">{{extra.totalArmor}}</div>
       </div>
     </div>
   </div>

@@ -1,5 +1,17 @@
+# v1.0.9
+- Compatible with Foundry Virtual Tabletop v14
+- Removed deprecation warnings up to v16
+- Updated all applications (forms and windows) to use the V2 API
+- Implemented the new data model across all document types
+- Added combat turn messages to the chat window @rossgosling
+- Added input validation to most forms @rossgosling
+- Added default input focus to most forms @rossgosling
+- Token names now update when regenerating an actor @rossgosling
+- Disabled chat message buttons when not applicable to the user @rossgosling
+- Added a setting to hide the Regenerate button from players @rossgosling
+
 # v1.0.6
-- Foundry13 compatibility
+- FoundryVTT 13 compatibility
 - Add a bigger border to the chat message to help differentiate the types 
   
 # v1.0.5

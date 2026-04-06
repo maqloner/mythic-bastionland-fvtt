@@ -1,60 +1,71 @@
 import { config } from "../../config.js";
 
-class TakeDamageDialog extends Application {
+class TakeDamageDialog extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
   constructor({ actor, callback } = {}) {
     super();
     this.actor = actor;
     this.callback = callback;
   }
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/dialog/take-damage-dialog.hbs`,
-      classes: ["mythic-bastionland", "take-damage-dialog"],
-      title: game.i18n.localize("MB.TakeDamage"),
-      width: 500,
-      height: "auto"
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "take-damage-dialog"],
+    window: {
+      resizable: false,
+      animate: false,
+      title: "MB.TakeDamage"
+    },
+    form: {
+      closeOnSubmit: false,
+      submitOnChange: false,
+      handler: TakeDamageDialog._onSubmit
+    },
+    position: {
+      width: 500
+    }
+  };
+
+  static PARTS = {
+    form: {
+      template: `${config.systemPath}/templates/applications/dialog/take-damage-dialog.hbs`
+    }
+  };
+
+  _onRender(context, options) {
+    super._onRender(context, options);
+    this.element.addEventListener("keydown", this._onKeyDown.bind(this));
+  }
+
+  _onKeyDown(event) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      return this.close();
+    }
+  }
+
+  /**
+   * @override
+   * 
+   * @param {RenderOptions} options 
+   * @returns {Promise<ApplicationRenderContext>}
+   */
+  async _prepareContext(options) {
+    const context = await super._prepareContext(options);
+    return Object.assign(context, {
+      config,
+      armor: this.actor.items.reduce((armor, item) => {
+        armor += ((item.system.armor ?? 0) && item.system.equipped) ? item.system.armor : 0;
+        return armor;
+      }, 0)
     });
   }
 
-  /** @override */
-  async getData(options) {
-    const data = super.getData(options);
-    data.config = config;
-    data.armor = this.actor.items.reduce((armor, item) => {
-      armor += ((item.system.armor ?? 0) && item.system.equipped) ? item.system.armor : 0;
-      return armor;
-    }, 0);
-    return data;
-  }
-
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
-
-    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
-    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
-
-    html.on("keydown", (event) => {
-      if (event.key === "Escape") { return this.#onCancel(event); }
-      if (event.key === "Enter") { return this.#onSubmit(event); }
-    });
-
-    html.find("input[name=\"damage\"]").focus();
-  }
-
-  async #onCancel(event) {
-    event.preventDefault();
-    await this.close();
-  }
-
-  async #onSubmit(event) {
-    event.preventDefault();
-    const virtue = this.element.find("[name=virtue]:checked").val();
-    const exposed = !!this.element.find("[name=exposed]:checked").val();
-    const damage = parseInt(this.element.find("[name=damage]").val(), 10);
-    const armor = parseInt(this.element.find("[name=armor]").val(), 10);
+  static async _onSubmit() {
+    const virtue = this.element.querySelector("[name=virtue]:checked").value;
+    const exposed = !!this.element.querySelector("[name=exposed]").checked;
+    const damage = this.element.querySelector("[name=damage]").value;
+    const armor = this.element.querySelector("[name=armor]").value;
 
     if (!damage) {
       ui.notifications.warn("MB.TakeDamageNotificationInvalid", { localize: true });

@@ -35,6 +35,7 @@ export const updateActor = (actor) => {
 export const combatStart = () => (game.settings.get("mythicbastionland", "MB.CombatEncounterMessages")) ?
   showChatMessage({
     actor: null,
+    cssClass: "combat",
     title: game.i18n.localize("MB.CombatEncounterStarted")
   }) :
   null;
@@ -42,13 +43,15 @@ export const combatStart = () => (game.settings.get("mythicbastionland", "MB.Com
 export const combatRound = (combat, data) => (game.settings.get("mythicbastionland", "MB.CombatEncounterMessages")) ?
   showChatMessage({
     actor: null,
+    cssClass: "combat",
     title: game.i18n.format("MB.CombatEncounterNewRound", { round: data.round })
   }) :
   null;
 
-export const deleteCombat = (combat) => (game.settings.get("mythicbastionland", "MB.CombatEncounterMessages") && combat.round > 0) ?
+export const deleteCombat = (combat) => (game.settings.get("mythicbastionland", "MB.CombatEncounterMessages") && combat.round > 0 && game.user.isGM) ?
   showChatMessage({
     actor: null,
+    cssClass: "combat",
     title: game.i18n.localize("MB.CombatEncounterEnded")
   }) :
   null;

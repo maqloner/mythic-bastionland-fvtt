@@ -1,50 +1,56 @@
 import { config } from "../../config.js";
 
-class RollScarDialog extends Application {
+class RollScarDialog extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
   }
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/dialog/roll-scar-dialog.hbs`,
-      classes: ["mythic-bastionland", "roll-scar-dialog"],
-      title: game.i18n.localize("MB.RollScar"),
-      width: 500,
-      height: "auto"
-    });
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "roll-scar-dialog"],
+    window: {
+      resizable: false,
+      animate: false,
+      title: "MB.RollScar"
+    },
+    form: {
+      closeOnSubmit: false,
+      submitOnChange: false,
+      handler: RollScarDialog._onSubmit
+    },
+    position: {
+      width: 500
+    }
+  };
+
+  static PARTS = {
+    form: {
+      template: `${config.systemPath}/templates/applications/dialog/roll-scar-dialog.hbs`
+    }
+  };
+
+  _onRender(context, options) {
+    super._onRender(context, options);
+    this.element.addEventListener("keydown", this._onKeyDown.bind(this));
   }
 
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
-
-    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
-    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
-
-    html.on("keydown", (event) => {
-      if (event.key === "Escape") { return this.#onCancel(event); }
-      if (event.key === "Enter") { return this.#onSubmit(event); }
-    });
-
-    html.find(".ok-button").focus();
+  _onKeyDown(event) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      return this.close();
+    }
   }
 
-  async #onCancel(event) {
-    event.preventDefault();
-    await this.close();
-  }
-
-  async #onSubmit(event) {
-    event.preventDefault();
-    const die = this.element.find("[name=die]:checked").val();
+  static async _onSubmit() {
+    const die = this.element.querySelector("[name=die]:checked")?.value;
 
     if (!die) {
       ui.notifications.warn("MB.RollScarNotificationInvalid", { localize: true });
       return;
     }
+
 
     this.callback({
       die

@@ -6,7 +6,6 @@ import { evaluateFormula } from "../utils/utils.js";
 import { actorSaveAction } from "./actor-save-action.js";
 
 /**
- * 
  * @param {Actor} actor 
  * @param {Object} data
  * @param {String} data.formula 

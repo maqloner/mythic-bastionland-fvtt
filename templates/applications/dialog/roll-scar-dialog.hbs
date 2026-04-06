@@ -1,4 +1,4 @@
-<form class="paper scrollable br-1 p-2 gap-3">
+<section class="paper scrollable br-1 p-2 gap-3">
   <div>
     <header class="grid">
       <label class="col col-3"></label>
@@ -29,7 +29,7 @@
     </div>
   </div>
   <div class="grid gap-1">
-      <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
-      <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.Roll"}}</button>
+    <button type="button" data-action="close" class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" data-action="submit" class="col button align-items-center button-primary ok-button">{{localize "MB.Roll"}}</button>
   </div>
-</form>
+</section>

@@ -1,50 +1,54 @@
 import { config } from "../../config.js";
 
-class VirtueLossDialog extends Application {
+class VirtueLossDialog extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
   }
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/dialog/virtue-loss-dialog.hbs`,
-      classes: ["mythic-bastionland", "virtue-loss-dialog"],
-      title: game.i18n.localize("MB.VirtueLoss"),
-      width: 500,
-      height: "auto"
-    });
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "virtue-loss-dialog"],
+    window: {
+      resizable: false,
+      animate: false,
+      title: "MB.VirtueLoss"
+    },
+    form: {
+      closeOnSubmit: false,
+      submitOnChange: false,
+      handler: VirtueLossDialog._onSubmit
+    },
+    position: {
+      width: 500
+    }
+  };
+
+  static PARTS = {
+    form: {
+      template: `${config.systemPath}/templates/applications/dialog/virtue-loss-dialog.hbs`
+    }
+  };
+
+  _onRender(context, options) {
+    super._onRender(context, options);
+    this.element.addEventListener("keydown", this._onKeyDown.bind(this));
   }
 
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
 
-    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
-    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
-
-    html.on("keydown", (event) => {
-      if (event.key === "Escape") { return this.#onCancel(event); }
-      if (event.key === "Enter") { return this.#onSubmit(event); }
-    });
-
-    html.find("input[name=\"amount\"]").focus();
+  _onKeyDown(event) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      return this.close();
+    }
   }
 
-  async #onCancel(event) {
-    event.preventDefault();
-    await this.close();
-  }
+  static async _onSubmit() {
+    const amountFormula = this.element.querySelector("[name=amount]").value;
+    const virtue = this.element.querySelector("[name=virtue]:checked").value;
 
-  async #onSubmit(event) {
-    event.preventDefault();
-
-    const amountField = this.element.find("[name=amount]");
-    const amountIsValid = Roll.validate($(amountField).val());
-
-    const virtue = this.element.find("[name=virtue]:checked").val();
-    const amountFormula = this.element.find("[name=amount]").val();
+    const amountIsValid = Roll.validate(amountFormula);
 
     if (!amountFormula || !amountIsValid) {
       ui.notifications.warn("MB.VirtueLossNotificationInvalid", { localize: true });

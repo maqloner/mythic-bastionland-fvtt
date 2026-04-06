@@ -1,6 +1,6 @@
 @mixin app {
-  &.app {
-    color: var(--text-light-color);
+  &.application {
+    color: var(--text-dark-color);
     background-color: var(--primary-color);
     border-radius: 8px;
     overflow: hidden;
@@ -25,21 +25,65 @@
         }
       }
 
-      form {
+      section {
         height: 100%;
         overflow: hidden;
         display: flex;
         flex-direction: column;
 
         input[type="radio"] {
-          margin: 5px;
-          top: auto;
+          --checkbox-checked-color: var(--secondary-color);
+          --checkbox-checkmark-color: var(--secondary-color);
+        }
+
+        input[type="radio"]:indeterminate::before {
+          font-family: 'Font Awesome 7 Pro';
+          position: relative;
+        }
+
+
+        input[type="radio"]:indeterminate::before,
+        input[type="radio"]:checked::before,
+        input[type="radio"]::before {
+          content: "\f111";
+          font-weight: 500;
+        }
+
+
+        input[type="radio"]:checked::after {
+          position: relative;
+          content: '\f192';
+          font-family: 'Font Awesome 7 Pro';
+          font-weight: 400;
         }
 
         input[type="checkbox"] {
-          margin: 0;
-          top: auto;
-          flex: none;
+          --checkbox-checked-color: var(--secondary-color);
+          --checkbox-checkmark-color: var(--text-light-color);
+        }
+
+
+        input[type="checkbox"] {
+          --checkbox-checked-color: var(--secondary-color);
+          --checkbox-checkmark-color: var(--secondary-color);
+        }
+
+        input[type="checkbox"]::before {
+          font-family: 'Font Awesome 7 Pro';
+          font-weight: 400;
+        }
+
+        input[type="checkbox"]:checked::after {
+          position: relative;
+          content: '\f0c8';
+          font-family: 'Font Awesome 7 Pro';
+          font-weight: 400;
+        }
+
+        input[type="checkbox"]:focus-visible::before,
+        input[type="radio"]:focus-visible::before {
+          outline: 0;
+          outline-offset: 0;
         }
 
         button {
@@ -51,7 +95,9 @@
     }
 
     .scrollable {
+      --scroll-margin: 0;
       overflow: auto;
+      scrollbar-width: none;
       flex: 1;
       display: flex;
       flex-direction: column;

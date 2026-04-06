@@ -1,4 +1,4 @@
-<form class="{{cssClass}} flexcol warband" autocomplete="off">
+<section class="flexcol warband">
 
   {{> actions }}
 
@@ -10,8 +10,7 @@
           <div class="grid">
             <label class="col col-5 text-large label-large">{{ localize "MB.Actor.Name"}}</label>
             <div class="col col-7">
-              <input class="br-1 input-large" name="name" type="text" value="{{data.name}}"
-                placeholder="{{ localize "MB.Actor.Name" }}" spellcheck="false" />
+              <input class="br-1 input-large" name="name" type="text" value="{{document.name}}" placeholder="{{ localize 'MB.Actor.Name' }}" spellcheck="false" />
             </div>
           </div>
         </div>
@@ -20,25 +19,31 @@
 
       </div>
       <div class="col col-4">
-        <div class="picture ml-2 align-self-center">
-          <img src="{{data.img}}" data-edit="img" title="{{data.name}}" />
+        <div class="picture shield ml-2 align-self-center">
+          <img data-action="editImage" src="{{document.img}}" data-edit="img" title="{{document.name}}" />
         </div>
       </div>
     </div>
 
-    {{> item-list title=(localize "MB.Actor.Ability") items=data.abilities }}
-    {{> item-list title=(localize "MB.Actor.Passion") items=data.passions }}
-    {{> actor-list title=(localize "MB.Actor.Steed") actors=data.steeds }}
-    {{> actor-list title=(localize "MB.Actor.Companion") actors=data.companions }}
-    {{> item-list title=(localize "MB.Actor.Property") items=data.properties }}
-    {{> item-list title=(localize "MB.Actor.Scars") items=data.scars }}
+    {{> item-list title=(localize "MB.Actor.Ability") items=extra.abilities }}
+    {{> item-list title=(localize "MB.Actor.Passion") items=extra.passions }}
+    {{> actor-list title=(localize "MB.Actor.Steed") actors=extra.steeds }}
+    {{> actor-list title=(localize "MB.Actor.Companion") actors=extra.companions }}
+    {{> item-list title=(localize "MB.Actor.Property") items=extra.properties }}
+    {{> item-list title=(localize "MB.Actor.Scars") items=extra.scars }}
 
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Actor.Biography"}}</h2>
       <div class="col col-12 editor-container">
-        {{editor data.system.biography target="system.biography" button=editable editable=editable}}
+        {{#if editable}}
+          <prose-mirror name="system.biography" value="{{document.system.biography}}" document-uuid="{{actor.uuid}}" toggled="true" editable="{{editable}}">{{{extra.enrichedBiography}}}</prose-mirror>
+        {{else}}
+          <div class="editor">
+            <div class="editor-content">{{{ extra.enrichedBiography }}}</div>
+          </div>
+        {{/if}}
       </div>
     </div>
 
   </div>
-</form>
+</section>

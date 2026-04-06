@@ -20,9 +20,7 @@
                 {{#each term.results as |result|}}
                   <div class="outcome-roll-result">
                     <div class="outime-roll-term">d{{term.faces}}</div>
-                    <div
-                      class="outcome-roll {{printIf (gte result.result 4) "gambit"}} {{printIf (gte result.result 8) "strong-gambit"}}"
-                      title="{{printIf (gte result.result 4) (localize "MB.Actor.Gambit")}} {{printIf (gte result.result 8) (localize "MB.Actor.StrongGambit")}}">
+                    <div class="outcome-roll {{printIf (gte result.result 4) 'gambit'}} {{printIf (gte result.result 8) 'strong-gambit'}}" title="{{printIf (gte result.result 4) (localize 'MB.Actor.Gambit')}} {{printIf (gte result.result 8) (localize 'MB.Actor.StrongGambit')}}">
                       <span>{{result.result}}</span>
                     </div>
                   </div>
@@ -58,8 +56,7 @@
     {{#if buttons}}
       <div>
         {{#each buttons as |button|}}
-          <button type="button" class="chat-message-button button-primary" {{#each button.data}}
-            data-{{@key}}="{{this}}" {{/each}} title="{{title}}">
+          <button type="button" class="chat-message-button button-primary" {{#each button.data}} data-{{@key}}="{{this}}" {{/each}} title="{{title}}">
             {{button.title}}
           </button>
         {{/each}}

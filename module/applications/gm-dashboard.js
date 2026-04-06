@@ -1,104 +1,147 @@
 import { showChatMessage } from "../chat-message/show-chat-message.js";
 import { config } from "../config.js";
 import { generateHolding, generateLand, generatePerson, generateSkyWeather, generateBeast } from "../generators/generator.js";
+import { createKnight } from "../generators/knight.js";
+import { createNpc } from "../generators/npc.js";
+import { createSquire } from "../generators/squire.js";
+import { createWarband } from "../generators/warband.js";
 import { drawSystemTable } from "../utils/compendium.js";
 
-class GMDashboard extends Application {
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/gm-dashboard.hbs`,
-      classes: ["mythic-bastionland", "sheet", "gm-dashboard"],
-      title: game.i18n.localize("MB.Dashboard.Label"),
-      width: 450,
+class GMDashboard extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "sheet", "gm-dashboard"],
+
+    sheet: {
+      initial: "travel"
+    },
+    window: {
       resizable: false,
-      height: "auto",
-      scrollY: [".scrollable"],
-      tabs: [
-        {
-          navSelector: ".sheet-tabs",
-          contentSelector: ".sheet-body",
-          initial: "travel"
-        }
-      ]
-    });
+      title: "MB.Dashboard.Label"
+    },
+    position: {
+      width: 400
+    },
+    actions: {
+      rollTable: GMDashboard._onRollTable,
+      rollMultipleTables: GMDashboard._onRollMultipleTables,
+      rollGenerator: GMDashboard._onRollGenerator,
+      rollActorGenerator: GMDashboard._onRollActorGenerator
+    }
+  };
+
+  static PARTS = {
+    template: {
+      template: `${config.systemPath}templates/applications/gm-dashboard.hbs`
+    }
+  };
+
+  GENERATORS = {
+    "sky-weather": generateSkyWeather,
+    "person": generatePerson,
+    "land": generateLand,
+    "holding": generateHolding,
+    "beast": generateBeast
+  };
+
+  ACTOR_GENERATORS = {
+    "knight": createKnight,
+    "npc": createNpc,
+    "warband": createWarband,
+    "squire": createSquire
+  };
+
+  async _prepareContext(options) {
+    const context = await super._prepareContext(options);
+    context.rollModes = Object.keys(CONFIG.ChatMessage.modes).map(key => ({ label: `${CONFIG.ChatMessage.modes[key].label}`, value: key }));
+    context.myths = await this._getMythTables();
+    context.tabs = this._prepareTabs("primary");
+
+    return context;
   }
 
-  /** @override */
-  _getHeaderButtons() {
-    const buttons = [
-      {
-        label: "Close",
-        class: "close",
-        icon: "fas fa-times",
-        onclick: () => this.close({force: true})
-      }
-    ];
-    return buttons;
-  }
-
-  /** @override */
-  async getData(options) {
-    const data = super.getData(options);
-    data.rollModes = Object.values(CONST.DICE_ROLL_MODES).map((rollMode) => ({label: `MB.RollMode.${rollMode}`, value: rollMode}));
-    data.myths = await this.#getMythTables();
-    return data;
-  }
-
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
-    html.find(".roll-table").on("click", (event) => this.#onRollTable(event));
-    html.find(".roll-table-multi").on("click", (event) => this.#onRollTableMulti(event));
-
-    html.find(".roll-sky-weather").on("click", (event) => this.#onRollGenerator(event, generateSkyWeather));
-    html.find(".roll-person").on("click", (event) => this.#onRollGenerator(event, generatePerson));
-    html.find(".roll-land").on("click", (event) => this.#onRollGenerator(event, generateLand));
-    html.find(".roll-holding").on("click", (event) => this.#onRollGenerator(event, generateHolding));
-    html.find(".roll-beast").on("click", (event) => this.#onRollGenerator(event, generateBeast));
-  }
-
-  async close(options) {    
-    if (options.force) {
+  async close(options) {
+    if (options?.closeKey !== true) {
       return super.close(options);
     }
   }
 
-  async #getMythTables() {
+  async _getMythTables() {
     return game.packs
       .get(config.coreRollTable)
       .folders.find(folder => folder.name === "Myths")
       .children.map(child => ({
-        name: child.folder.name,        
+        name: child.folder.name,
         title: child.entries[0].name.split(" - ")[0].trim(),
         tables: child.entries.map(entry => entry.name).join(";")
       }));
   }
 
-  async #onRollGenerator(event, generatorAction) {
+  /**
+   * @param {MouseEvent} event 
+   * @this MBActorSheet
+   */
+  static async _onRollGenerator(event) {
     event.preventDefault();
-    const button = $(event.target).closest("button");
-    const title = button.data("title");
+    const button = event.target;
+    const title = button.dataset["title"];
+    const generator = button.dataset["generator"];
+    const generatorAction = this.GENERATORS[generator];
+    const rollMode = this.element.querySelector("[name=roll_mode]").value;
 
-    button.attr("disabled", true);
+    if (generatorAction) {
+      button.setAttribute("disabled", true);
 
-    await showChatMessage({
-      title,
-      outcomes: [{
-        type: "generator-action",
-        description: await generatorAction()
-      }],
-      rollMode: this.element.find("[name=roll_mode]").val()
-    });
-    button.removeAttr("disabled");
+      await showChatMessage({
+        title,
+        outcomes: [{
+          type: "generator-action",
+          description: await generatorAction()
+        }],
+        rollMode
+      });
+      button.removeAttribute("disabled");
+    }
   }
 
-  async #onRollTable(event) {
+  /**
+   * @param {MouseEvent} event 
+   * @this MBActorSheet
+   */
+  static async _onRollActorGenerator(event) {
     event.preventDefault();
-    const button = $(event.target).closest("button");
-    const tableName = button.data("table");
+    const button = event.target;
+    const title = button.dataset["title"];
+    const generator = button.dataset["generator"];
+    const generatorAction = this.ACTOR_GENERATORS[generator];
+    const rollMode = this.element.querySelector("[name=roll_mode]").value;
 
-    button.attr("disabled", true);
+    if (generatorAction) {
+      button.setAttribute("disabled", true);
+      const actor = await generatorAction();
+
+      await showChatMessage({
+        title,
+        outcomes: [{
+          type: "generator-action",
+          description: actor.name
+        }],
+        rollMode
+      });
+      button.removeAttribute("disabled");
+    }
+  }
+
+  /**
+   * @param {MouseEvent} event 
+   * @this MBActorSheet
+   */
+  static async _onRollTable(event) {
+    const button = event.target;
+    const tableName = button.dataset["table"];
+    const rollMode = this.element.querySelector("[name=roll_mode]").value;
+
+    button.setAttribute("disabled", true);
 
     const draw = (await drawSystemTable(tableName));
     const result = draw.results.pop();
@@ -109,24 +152,28 @@ class GMDashboard extends Application {
         type: "roll-table",
         formulaLabel: draw.roll.formula,
         roll: draw.roll,
-        description: result.text
+        description: result.description
       }],
-      rollMode: this.element.find("[name=roll_mode]").val()
+      rollMode
     });
 
-    button.removeAttr("disabled");
+    button.removeAttribute("disabled");
   }
 
-  async #onRollTableMulti(event) {
+  /**
+   * @param {MouseEvent} event 
+   * @this MBActorSheet
+   */
+  static async _onRollMultipleTables(event) {
     event.preventDefault();
-    const button = $(event.target).closest("button");
+    const button = event.target;
 
-    const rollMode = this.element.find("[name=roll_mode]").val();
-    const title = button.data("label");
-    const tableNames = $(event.target).closest("button").data("tables").split(";");
+    const rollMode = this.element.querySelector("[name=roll_mode]").value;
+    const title = button.dataset["label"];
+    const tableNames = button.dataset["tables"].split(";");
     const outcomes = [];
 
-    button.attr("disabled", true);
+    button.setAttribute("disabled", true);
 
     for (const tableName of tableNames) {
       const draw = (await drawSystemTable(tableName));
@@ -136,7 +183,7 @@ class GMDashboard extends Application {
         title: result.parent.name.split(" - ")[1],
         formulaLabel: draw.roll.formula,
         roll: draw.roll,
-        description: result.text
+        description: result.description
       });
     }
 
@@ -146,16 +193,11 @@ class GMDashboard extends Application {
       rollMode
     });
 
-    button.removeAttr("disabled");
+    button.removeAttribute("disabled");
   }
 }
 
-
-let dashboard = null;
-export const showGMDashboard = () =>
-  new Promise(() => {
-    if (!dashboard) {
-      dashboard = new GMDashboard();
-    }
-    dashboard.render(true);
-  });
+export const showGMDashboard = async () => {
+  const dashboard = new GMDashboard();
+  dashboard.render(true);
+};

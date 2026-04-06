@@ -1,24 +1,24 @@
-<form class="paper scrollable br-1 p-2 gap-3">
+<section class="paper scrollable br-1 p-2 gap-3">
   <div class="col gap-1">
     <div>
       <div class="grid align-items-center">
         <label class="col col-4 text-regular">{{localize "MB.Type"}}</label>
         <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="type_npc" name="type" value="person" {{printIf (eq config.type "person") "checked"}}>
+          <div class="grid">
             <label for="type_npc">{{localize "MB.GeneratePerson"}}</label>
+            <input type="radio" id="type_npc" name="type" value="person" {{printIf (eq config.type "person") "checked"}}>
           </div>
         </div>
         <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="type_knight" name="type" value="knight" {{printIf (eq config.type "knight") "checked"}}>
+          <div class="grid">
             <label for="type_knight">{{localize "MB.GenerateKnight"}}</label>
+            <input type="radio" id="type_knight" name="type" value="knight" {{printIf (eq config.type "knight") "checked"}}>
           </div>
         </div>
         <div class="col">
-          <div class="grid align-items-center">
-            <input type="radio" id="type_soldier" name="type" value="soldier" {{printIf (eq config.type "soldier") "checked"}}>
+          <div class="grid">
             <label for="type_soldier">{{localize "MB.GenerateSoldier"}}</label>
+            <input type="radio" id="type_soldier" name="type" value="soldier" {{printIf (eq config.type "soldier") "checked"}}>
           </div>
         </div>
       </div>
@@ -41,7 +41,7 @@
     <div class="grid align-items-center">
       <label class="col col-4 text-regular">{{localize "MB.RandomWeapons"}}</label>
       <div class="col-2 align-items-center">
-          <input class="input-simple" placeholder="d6" value="{{config.weapons}}" type="text" name="weapons">
+        <input class="input-simple" placeholder="d6" value="{{config.weapons}}" type="text" name="weapons">
       </div>
     </div>
 
@@ -149,7 +149,7 @@
   </div>
 
   <div class="grid gap-1">
-    <button type="submit" class="col button-primary align-items-center cancel-button">{{localize "MB.Cancel"}}</button>
-    <button type="submit" class="col button-primary align-items-center ok-button">{{localize "MB.Generate"}}</button>
+    <button type="button" data-action="close" class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" data-action="submit" class="col button align-items-center button-primary ok-button">{{localize "MB.Generate"}}</button>
   </div>
-</form>
+</section>

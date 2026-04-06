@@ -317,62 +317,98 @@
 .mythic-bastionland .text-indent-1 {
   text-indent: 8px;
 }
-.mythic-bastionland.app {
-  color: var(--text-light-color);
+.mythic-bastionland.application {
+  color: var(--text-dark-color);
   background-color: var(--primary-color);
   border-radius: 8px;
   overflow: hidden;
 }
-.mythic-bastionland.app .window-header {
+.mythic-bastionland.application .window-header {
   background-color: var(--primary-color);
   border: none;
 }
-.mythic-bastionland.app .window-content {
+.mythic-bastionland.application .window-content {
   font-family: var(--text-font-family);
   background: none;
   font-size: 14px;
   line-height: 23px;
   padding: 0;
 }
-.mythic-bastionland.app .window-content i.fas {
+.mythic-bastionland.application .window-content i.fas {
   color: var(--secondary-color);
 }
-.mythic-bastionland.app .window-content i.fas.highlight {
+.mythic-bastionland.application .window-content i.fas.highlight {
   color: var(--highlight-dark-color);
 }
-.mythic-bastionland.app .window-content form {
+.mythic-bastionland.application .window-content section {
   height: 100%;
   overflow: hidden;
   display: flex;
   flex-direction: column;
 }
-.mythic-bastionland.app .window-content form input[type=radio] {
-  margin: 5px;
-  top: auto;
+.mythic-bastionland.application .window-content section input[type=radio] {
+  --checkbox-checked-color: var(--secondary-color);
+  --checkbox-checkmark-color: var(--secondary-color);
 }
-.mythic-bastionland.app .window-content form input[type=checkbox] {
-  margin: 0;
-  top: auto;
-  flex: none;
+.mythic-bastionland.application .window-content section input[type=radio]:indeterminate::before {
+  font-family: "Font Awesome 7 Pro";
+  position: relative;
 }
-.mythic-bastionland.app .window-content form button i.fas {
+.mythic-bastionland.application .window-content section input[type=radio]:indeterminate::before,
+.mythic-bastionland.application .window-content section input[type=radio]:checked::before,
+.mythic-bastionland.application .window-content section input[type=radio]::before {
+  content: "\f111";
+  font-weight: 500;
+}
+.mythic-bastionland.application .window-content section input[type=radio]:checked::after {
+  position: relative;
+  content: "\f192";
+  font-family: "Font Awesome 7 Pro";
+  font-weight: 400;
+}
+.mythic-bastionland.application .window-content section input[type=checkbox] {
+  --checkbox-checked-color: var(--secondary-color);
+  --checkbox-checkmark-color: var(--text-light-color);
+}
+.mythic-bastionland.application .window-content section input[type=checkbox] {
+  --checkbox-checked-color: var(--secondary-color);
+  --checkbox-checkmark-color: var(--secondary-color);
+}
+.mythic-bastionland.application .window-content section input[type=checkbox]::before {
+  font-family: "Font Awesome 7 Pro";
+  font-weight: 400;
+}
+.mythic-bastionland.application .window-content section input[type=checkbox]:checked::after {
+  position: relative;
+  content: "\f0c8";
+  font-family: "Font Awesome 7 Pro";
+  font-weight: 400;
+}
+.mythic-bastionland.application .window-content section input[type=checkbox]:focus-visible::before,
+.mythic-bastionland.application .window-content section input[type=radio]:focus-visible::before {
+  outline: 0;
+  outline-offset: 0;
+}
+.mythic-bastionland.application .window-content section button i.fas {
   color: var(--text-light-color);
 }
-.mythic-bastionland.app .scrollable {
+.mythic-bastionland.application .scrollable {
+  --scroll-margin: 0;
   overflow: auto;
+  scrollbar-width: none;
   flex: 1;
   display: flex;
   flex-direction: column;
 }
-.mythic-bastionland.app .scrollable::-webkit-scrollbar {
+.mythic-bastionland.application .scrollable::-webkit-scrollbar {
   width: 0px;
 }
-.mythic-bastionland.app .scrollable::-webkit-scrollbar-thumb {
+.mythic-bastionland.application .scrollable::-webkit-scrollbar-thumb {
   border-radius: 8px;
   background: var(--secondary-color);
   border-width: 0px;
 }
-.mythic-bastionland.app .scrollable::-webkit-scrollbar-track {
+.mythic-bastionland.application .scrollable::-webkit-scrollbar-track {
   box-shadow: none;
   margin: 8px 0;
 }
@@ -393,6 +429,7 @@
   border: none;
   margin: 0;
   font-family: var(--title-font-family);
+  font-weight: 400;
   font-size: 28px;
   line-height: 42px;
   margin-left: -2px;
@@ -505,6 +542,7 @@
   padding-left: 4px;
   box-shadow: none;
   font-family: var(--text-font-family);
+  background: rgba(0, 0, 0, 0.05);
   font-size: 13px;
   line-height: 28px;
   height: 28px;
@@ -543,9 +581,34 @@
   color: rgba(0, 0, 0, 0.5);
 }
 .mythic-bastionland input[type=checkbox].input-checkbox {
-  height: 22px;
-  margin-top: 6px !important;
-  margin-left: 8px !important;
+  height: 28px;
+  position: relative;
+  --checkbox-checked-color: var(--secondary-color);
+  --checkbox-checkmark-color: var(--text-light-color);
+  margin: 0;
+}
+.mythic-bastionland input[type=checkbox].input-checkbox::before {
+  font-family: "Font Awesome 7 Pro";
+  font-weight: 400;
+}
+.mythic-bastionland .input-large:disabled,
+.mythic-bastionland .input-regular:disabled,
+.mythic-bastionland .input-number:disabled {
+  background: none;
+}
+.mythic-bastionland .input-simple,
+.mythic-bastionland .input-large,
+.mythic-bastionland .input-regular,
+.mythic-bastionland .input-number {
+  outline: 0;
+  outline-offset: 0;
+}
+.mythic-bastionland .input-simple:focus,
+.mythic-bastionland .input-large:focus,
+.mythic-bastionland .input-regular:focus,
+.mythic-bastionland .input-number:focus {
+  outline: 0;
+  outline-offset: 0;
 }
 .mythic-bastionland .text-bold {
   font-weight: 700;
@@ -567,11 +630,11 @@
   background: none;
 }
 .mythic-bastionland .button-primary {
+  --button-size: auto;
   background: var(--secondary-color);
   color: var(--text-light-color);
   border: none;
   border-radius: 4px;
-  line-height: 16px;
   font-size: 12px;
   white-space: nowrap;
   margin: 0;
@@ -612,6 +675,35 @@
 .mythic-bastionland.sheet.gm-dashboard {
   min-width: 400px;
   max-height: 400px;
+}
+.mythic-bastionland.sheet.gm-dashboard select {
+  height: 24px;
+  background: transparent;
+  color: var(--primary-color);
+  border: 1px solid var(--secondary-color);
+}
+.mythic-bastionland.sheet.gm-dashboard select:focus {
+  outline: none;
+}
+.mythic-bastionland.sheet.gm-dashboard .tabs {
+  margin: 0;
+  border: none;
+  border-bottom: 1px solid var(--secondary-color);
+  padding: 8px;
+}
+.mythic-bastionland.sheet.gm-dashboard .tabs a {
+  color: var(--primary-color);
+  padding: 4px 8px;
+  font-size: 14px;
+  line-height: 14px;
+}
+.mythic-bastionland.sheet.gm-dashboard .tab {
+  width: 100%;
+}
+.mythic-bastionland.sheet.gm-dashboard .scrollable {
+  --scroll-margin: 0;
+  overflow: auto;
+  scrollbar-width: none;
 }
 .mythic-bastionland.sheet .editor-container {
   min-height: 200px;
@@ -657,17 +749,16 @@
 .mythic-bastionland.sheet .item i.fas {
   font-size: 13px;
 }
-.mythic-bastionland.sheet .tabs {
-  margin: 0;
-  border: none;
-  border-bottom: 1px solid var(--secondary-color);
-}
-.mythic-bastionland.sheet .tab {
-  width: 100%;
+.mythic-bastionland input[type=checkbox].input-checkbox {
+  margin-left: 8px !important;
+  display: flex;
+  align-items: flex-end;
 }
 .mythic-bastionland.chat-message {
   background: var(--primary-color);
   border-width: 3px;
+  padding: 4px;
+  border-radius: 12px;
 }
 .mythic-bastionland.chat-message .message-header {
   padding: 4px 8px;
@@ -746,4 +837,7 @@
 }
 .mythic-bastionland.chat-message .message-content .outcome .chat-message-button:disabled {
   cursor: not-allowed;
+}
+.mythic-bastionland.chat-message.combat .message-content {
+  padding: 8px;
 }

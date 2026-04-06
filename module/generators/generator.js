@@ -85,7 +85,7 @@ export const drawKnightRollTables = async (knightType) => {
   const rollTables = await findKnightFolderDocuments("RollTable", knightType);
   const result = {};
   for (const rollTable of rollTables) {
-    result[rollTable.name] = (await rollTable.draw({ displayChat: false })).results[0].getChatText();
+    result[rollTable.name] = (await rollTable.draw({ displayChat: false })).results[0].description;
   }
   return result;
 };
@@ -101,12 +101,14 @@ export const generateBiography = async ({ personality = false, desire = false, c
     [battlefield, generateBattlefield],
     [ailment, generateAilment]
   ];
+
   const biography = [];
   for (const [enable, generator, ...args] of generators) {
     if (enable) {
       biography.push(await generator(...args));
     }
   }
+
   return `
     <p>
       ${biography.join("</p><p>")}  
@@ -170,7 +172,7 @@ export const generateHolding = async () => {
     holding_style: (await drawSystemTableText("HOLDING - Style")).toLowerCase(),
     holding_feature: (await drawSystemTableText("HOLDING - Feature")).toLowerCase(),
     bailey_style: (await drawSystemTableText("BAILEY - Style")).toLowerCase(),
-    bailey_feature: (await drawSystemTableText("BAILEY - Feature")).toLowerCase(),    
+    bailey_feature: (await drawSystemTableText("BAILEY - Feature")).toLowerCase(),
     land_character: (await drawSystemTableText("LAND - Character")).toLowerCase(),
     land_landscape: (await drawSystemTableText("LAND - Landscape")).toLowerCase(),
     food_quality: (await drawSystemTableText("FOOD - Quality")).toLowerCase(),

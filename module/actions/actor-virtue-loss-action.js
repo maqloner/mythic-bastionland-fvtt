@@ -5,7 +5,7 @@ import { evaluateFormula } from "../utils/utils.js";
 /**
  * @param {Actor} actor
  */
-export const attackVirtueLossAction = async (actor) => {
+export const actorVirtueLossAction = async (actor) => {
   const { amountFormula, virtue } = await showVirtueLossDialog({ actor });
 
   const roll = (await evaluateFormula(amountFormula));

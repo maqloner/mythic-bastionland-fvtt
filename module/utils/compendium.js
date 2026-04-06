@@ -2,16 +2,16 @@ import { config } from "../config.js";
 
 /**
  * @param {String} packName
- * @param {String} itemName
+ * @param {String} documentName
  * @returns {Promise.<Item|RollTable|undefined>}
  */
-export const findPackDocument = async (packName, itemName) => {
+export const findPackDocument = async (packName, documentName) => {
   const compendium = game.packs.get(packName);
   if (compendium) {
     const documents = await compendium.getDocuments();
-    const document = documents.find((i) => i.name === itemName);
+    const document = documents.find((i) => i.name === documentName);
     if (!document) {
-      console.warn(`findCompendiumItem: Could not find item (${itemName}) in compendium (${packName})`);
+      console.warn(`findCompendiumItem: Could not find document (${documentName}) in compendium (${packName})`);
     }
     return document;
   }
@@ -34,7 +34,7 @@ export const drawPackTable = async (packName, tableName, options = {}) => {
  * @param {String} table
  * @returns {Promise.<String>}
  */
-export const drawPackTableText = async (packName, table, options = {}) => (await drawPackTable(packName, table, options)).results[0].getChatText();
+export const drawPackTableText = async (packName, table, options = {}) => (await drawPackTable(packName, table, options)).results[0].description;
 
 /**
  * @param {String} packName
@@ -69,8 +69,8 @@ export const findPackTableDocuments = async (results) => {
   let document = null;
   for (const result of results) {
     const type = result.type;
-    if (type === CONST.TABLE_RESULT_TYPES.COMPENDIUM) {
-      document = await findPackDocument(result.documentCollection, result.text);
+    if (type === CONST.TABLE_RESULT_TYPES.DOCUMENT) {
+      document = await fromUuid(result.documentUuid);
       if (document) {
         documents.push(document);
       }

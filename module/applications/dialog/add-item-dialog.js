@@ -1,40 +1,59 @@
 import { config } from "../../config.js";
 
-class AddItemDialog extends Application {
+class AddItemDialog extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
   }
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/dialog/add-item-dialog.hbs`,
-      classes: ["mythic-bastionland", "add-item-dialog"],
-      title: game.i18n.localize("MB.CreateItem"),
-      width: 420,
-      height: "auto"
-    });
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "add-item-dialog"],
+    window: {
+      resizable: false,
+      animate: false,
+      title: "MB.CreateItem"
+    },
+    form: {
+      closeOnSubmit: false,
+      submitOnChange: false,
+      handler: AddItemDialog._onSubmit
+    },
+    position: {
+      width: 420
+    }
+  };
+
+  static PARTS = {
+    form: {
+      template: `${config.systemPath}/templates/applications/dialog/add-item-dialog.hbs`
+    }
+  };
+
+  _onRender(context, options) {
+    super._onRender(context, options);
+    this.element.addEventListener("keydown", this._onKeyDown.bind(this));
   }
 
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
-    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
-    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+  _onKeyDown(event) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      return this.close();
+    }
   }
 
-  async #onCancel(event) {
+  /**
+   * @param {MouseEvent} event 
+   * @this AddItemDialog
+   */
+  static async _onSubmit(event) {
     event.preventDefault();
-    await this.close();
-  }
-
-  async #onSubmit(event) {
-    event.preventDefault();
-    const name = this.element.find("[name=itemname]").val();
-    const type = this.element.find("[name=itemtype]").val();
+    const name = this.element.querySelector("[name=itemname]").value;
+    const type = this.element.querySelector("[name=itemtype]").value;
 
     if (!name || !type) {
+      ui.notifications.warn("MB.AddItemNotificationInvalid", { localize: true });
       return;
     }
 

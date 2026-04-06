@@ -7,7 +7,6 @@ import { createWarband } from "../generators/warband.js";
  * @param {AppDirectory} app_directory
  */
 export const renderActorDirectory = () => {
-  console.log("renderActorDirectory, return ");
   if (document.querySelector(".mythic-bastionland.directory-header")) {
     // If the buttons already exist, do not add them again
     return;

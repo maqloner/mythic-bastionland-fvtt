@@ -40,7 +40,7 @@ export const configureHandlebar = () => {
     return out;
   });
 
-  loadTemplates({
+  foundry.applications.handlebars.loadTemplates({
     "item-list": `${config.systemPath}/templates/applications/sheet/actor/common/item-list.hbs`,
     "actor-list": `${config.systemPath}/templates/applications/sheet/actor/common/actor-list.hbs`,
     "virtues": `${config.systemPath}/templates/applications/sheet/actor/common/virtues.hbs`,

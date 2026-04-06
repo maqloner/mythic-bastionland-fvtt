@@ -1,28 +1,32 @@
-<form class="{{cssClass}} flexcol  ability" autocomplete="off" source="{{item.name}}">
+<section class="flexcol helm">
   <div class="paper scrollable br-1 p-2 gap-2">
 
     <div class="grid">
       <label class="col col-3 text-large label-large">{{localize "MB.Item.Name"}}</label>
       <div class="col col-9">
-        <input class="br-1 input-large " name="name" type="text" value="{{data.name}}"
-          placeholder="{{ localize "MB.Item.Name" }}" spellcheck="false" />
+        <input class="br-1 input-large" name="name" type="text" value="{{document.name}}" placeholder="{{ localize 'MB.Item.Name' }}" spellcheck="false" />
       </div>
     </div>
 
     <div class="grid">
       <label class="col col-3 text-regular label-number">{{localize "MB.Item.Armor"}}</label>
       <div class="col col-9">
-        <input class="br-1 input-number" name="system.armor" type="number" value="{{data.system.armor}}"
-          placeholder="{{ localize "MB.Item.Armor" }}" data-dtype="Number" spellcheck="false" />
+        <input class="br-1 input-number" name="system.armor" type="number" value="{{document.system.armor}}" placeholder="{{ localize 'MB.Item.Armor' }}" data-dtype="Number" spellcheck="false" />
       </div>
     </div>
 
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Item.Description"}}</h2>
       <div class="col col-12 editor-container">
-        {{editor data.system.description target="system.description" button=editable editable=editable}}
+        {{#if editable}}
+          <prose-mirror name="system.description" value="{{document.system.description}}" document-uuid="{{item.uuid}}" toggled="true" editable="{{editable}}">{{{extra.enrichedDescription}}}</prose-mirror>
+        {{else}}
+          <div class="editor">
+            <div class="editor-content">{{{ extra.enrichedDescription }}}</div>
+          </div>
+        {{/if}}
       </div>
     </div>
 
   </div>
-</form>
+</section>

@@ -12,10 +12,10 @@ const CHAT_MESSAGE_TEMPLATE = `${config.systemPath}/templates/chat-message/chat-
  * @param {Object[]} [buttons]
  * @return {Promise<ChatMessage>}
  */
-export const showChatMessage = async ({ actor, title, description, outcomes = [], buttons = [], items = [], rollMode = game.settings.get("core", "rollMode") } = {}) => {
+export const showChatMessage = async ({ actor, title, description, outcomes = [], buttons = [], items = [], cssClass = "", rollMode = game.settings.get("core", "messageMode") } = {}) => {
   const rolls = outcomes.map((outcome) => outcome.roll).filter((roll) => roll);
 
-  return ChatMessage.create(ChatMessage.applyRollMode({
+  return ChatMessage.create(ChatMessage.applyMode({
     content: await foundry.applications.handlebars.renderTemplate(CHAT_MESSAGE_TEMPLATE, {
       title,
       description,
@@ -25,7 +25,7 @@ export const showChatMessage = async ({ actor, title, description, outcomes = []
     }),
     flags: {
       systemMessage: { value: true },
-      cssClasses: { value: ["mythic-bastionland"] }
+      cssClasses: { value: ["mythic-bastionland"].concat(cssClass ? [cssClass] : []) }
     },
     rolls,
     rollMode,

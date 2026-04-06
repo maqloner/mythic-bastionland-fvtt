@@ -16,14 +16,16 @@ export const generateKnight = async () => {
   const tables = await drawKnightRollTables(knight);
   const knightItem = items.filter(item => item.type === config.itemTypes.knight).shift();
 
+  const name = await generateName();
   const actorData = {
-    name: await generateName(),
+    name,
+    prototypeToken: { name },
     type: config.actorTypes.knight,
     system: {
       knight,
       ...await generateVirtues("d12 + d6"),
       ...await generateGuard("d6"),
-      biography: await generateBiography({ knight: true }, { item :knightItem, tables }),
+      biography: await generateBiography({ knight: true }, { item: knightItem, tables }),
       actors: []
     },
     items: [

@@ -7,14 +7,28 @@ import { actorSaveAction } from "../actions/actor-save-action.js";
  */
 export class MBChatMessage extends ChatMessage {
   /** @override */
-  async getHTML() {
-    const html = await super.getHTML();
+  async renderHTML() {
+    const html = await super.renderHTML();
     if (this.flags.systemMessage) {
       if (this.flags.cssClasses.value) {
-        html.addClass(this.flags.cssClasses.value);
+        html.classList.add(...this.flags.cssClasses.value);
       }
-      html.on("click", ".inline-roll", (event) => this.#onInlineRollClick(event));
-      html.on("click", "button.chat-message-button", (event) => this.#onButtonClick(event));
+
+      const actor = ChatMessage.getSpeakerActor(this.speaker);
+
+      if (actor?.sheet?.isEditable) {
+        html.querySelectorAll("a.inline-roll").forEach(el => {
+          el.addEventListener("click", event => this.#onInlineRollClick(event));
+        });
+
+        html.querySelectorAll("button.chat-message-button").forEach(el => {
+          el.addEventListener("click", event => this.#onButtonClick(event));
+        });
+
+      } else {
+        html.querySelectorAll("a.inline-roll").forEach(el => el.setAttribute("disabled", "true"));
+        html.querySelectorAll("button.chat-message-button").forEach(el => el.setAttribute("disabled", "true"));
+      }
     }
     return html;
   }
@@ -24,20 +38,20 @@ export class MBChatMessage extends ChatMessage {
     event.stopPropagation();
 
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    await actorInlineRollAction(actor, this.#getOnlineRollData(event));
+
+    return (actor?.sheet?.isEditable) ? actorInlineRollAction(actor, this.#getOnlineRollData(event)) : null;
   }
 
   async #onButtonClick(event) {
     event.preventDefault();
+
     const actor = ChatMessage.getSpeakerActor(this.speaker);
-    if (!actor) {
-      return;
-    }
-    await this.#handleButtons(actor, event.currentTarget);
+
+    return (actor?.sheet?.isEditable) ? this.#handleButtons(actor, event.currentTarget) : null;
   }
 
   #getEventData(event, data) {
-    return $(event.target).closest(`[data-${data}]`).data(data);
+    return event.target.closest(`[data-${data}]`)?.dataset[data];
   }
 
   /**

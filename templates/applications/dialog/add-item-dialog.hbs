@@ -1,10 +1,9 @@
-<form class="paper scrollable br-1 p-2 gap-3">
+<section class="paper scrollable br-1 p-2 gap-3">
   <div class="grid">
     <div class="col col-12 gap-1">
       <div class="grid">
         <label class="col-5 text-regular">{{localize "MB.Name"}}</label>
-        <input class="col-7 input-simple" type="text" name="itemname" value="" placeholder="{{localize "MB.Name"}}"
-          data-dtype="String" />
+        <input class="col-7 input-simple" type="text" name="itemname" value="" autofocus placeholder="{{localize "MB.Name"}}" data-dtype="String" />
       </div>
       <div class="grid pb-1">
         <label class="col-5 text-regular">{{localize "MB.Type"}}</label>
@@ -23,9 +22,7 @@
     </div>
   </div>
   <div class="grid gap-1">
-    <button type="submit"
-      class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
-    <button type="submit"
-      class="col button align-items-center button-primary ok-button">{{localize "MB.Create"}}</button>
+    <button type="button" data-action="close" class="col button align-items-center button-primary cancel-button">{{localize "MB.Cancel"}}</button>
+    <button type="submit" data-action="submit" class="col button align-items-center button-primary ok-button">{{localize "MB.Create"}}</button>
   </div>
-</form>
+</section>

@@ -1,4 +1,4 @@
-<form class="{{cssClass}} flexcol knight" autocomplete="off">
+<section class="flexcol knight">
 
   {{> actions }}
 
@@ -9,16 +9,14 @@
         <div class="grid">
           <label class="col col-5 text-large label-large">{{localize "MB.Actor.KnightName"}}</label>
           <div class="col col-7">
-            <input class="input-large" name="name" type="text" value="{{data.name}}"
-              placeholder="{{ localize "MB.Actor.KnightName" }}" spellcheck="false" />
+            <input class="input-large" name="name" type="text" value="{{document.name}}" placeholder="{{ localize 'MB.Actor.KnightName' }}" spellcheck="false" />
           </div>
         </div>
 
         <div class="grid">
           <label class="col col-5 text-large label-large">{{localize "MB.Actor.KnightType"}}</label>
           <div class="col col-7">
-            <input class="input-large" name="system.knight" type="text"
-              value="{{data.system.knight}}" placeholder="{{ localize "MB.Actor.KnightType" }}" spellcheck="false" />
+            <input class="input-large" name="system.knight" type="text" value="{{document.system.knight}}" placeholder="{{ localize 'MB.Actor.KnightType' }}" spellcheck="false" />
           </div>
         </div>
 
@@ -26,7 +24,7 @@
           <label class="col col-5 text-regular label-regular">{{localize "MB.Actor.Age.Label"}}</label>
           <div class="col col-7">
             <select class="input-regular" name="system.age" data-dtype="String">
-              {{selectOptions ages selected=data.system.age localize=true}}
+              {{selectOptions values.ages selected=document.system.age localize=true}}
             </select>
           </div>
         </div>
@@ -35,7 +33,7 @@
           <label class="col col-5 text-regular label-regular">{{localize "MB.Actor.Rank.Label"}}</label>
           <div class="col col-7">
             <select class="input-regular" name="system.rank" data-dtype="String">
-              {{selectOptions ranks selected=data.system.rank localize=true}}
+              {{selectOptions values.ranks selected=document.system.rank localize=true}}
             </select>
           </div>
         </div>
@@ -43,22 +41,21 @@
         <div class="grid align-items-center">
           <label class="col col-5 text-regular label-number">{{localize "MB.Actor.Glory"}}</label>
           <div class="col col-7">
-            <input class="input-number" type="number" name="system.glory.value"
-              value="{{data.system.glory.value}}" data-dtype="Number" size="2" />
+            <input class="input-number" type="number" name="system.glory.value" value="{{document.system.glory.value}}" data-dtype="Number" size="2" />
           </div>
         </div>
       </div>
 
       <div class="col col-4">
         <div class="picture shield ml-2 align-self-center">
-          <img src="{{data.img}}" data-edit="img" title="{{data.name}}" />
+          <img data-action="editImage" src="{{document.img}}" data-edit="img" title="{{document.name}}" />
         </div>
       </div>
     </div>
 
     <div class="grid">
       <div class="col col-8">
-        {{> virtues  }}
+        {{> virtues }}
       </div>
       <div class="col col-4 text-medium text-small-caps align-items-center align-self-center">
         <div>{{localize "MB.Actor.Oath1"}}</div>
@@ -66,19 +63,19 @@
         <div>{{localize "MB.Actor.Oath3"}}</div>
       </div>
     </div>
- 
-    {{> item-list title=(localize "MB.Actor.Ability") items=data.abilities }}
-    {{> item-list title=(localize "MB.Actor.Passion") items=data.passions }}
-    {{> actor-list title=(localize "MB.Actor.Steed") actors=data.steeds }}
-    {{> actor-list title=(localize "MB.Actor.Companion") actors=data.companions }}
-    {{> item-list title=(localize "MB.Actor.Property") items=data.properties }}
-    {{> item-list title=(localize "MB.Actor.Scars") items=data.scars }}
-  
+
+    {{> item-list title=(localize "MB.Actor.Ability") items=extra.abilities }}
+    {{> item-list title=(localize "MB.Actor.Passion") items=extra.passions }}
+    {{> actor-list title=(localize "MB.Actor.Steed") actors=extra.steeds }}
+    {{> actor-list title=(localize "MB.Actor.Companion") actors=extra.companions }}
+    {{> item-list title=(localize "MB.Actor.Property") items=extra.properties }}
+    {{> item-list title=(localize "MB.Actor.Scars") items=extra.scars }}
+
     <div class="grid">
       <div class="col col-6">
         <h2 class="text-large">{{localize "MB.Actor.Feats"}}</h2>
         <div class="grid gap-1 pr-1 pl-1">
-          <div data-source="{{localize "MB.Smite"}}">
+          <div data-source="{{localize 'MB.Smite'}}">
             {{{localize "MB.Actor.Smite"}}}
             <ul class="m-0">
               <li>{{{localize "MB.Actor.SmiteLine1"}}}</li>
@@ -86,7 +83,7 @@
               <li>{{{localize "MB.Actor.SmiteLine3"}}}</li>
             </ul>
           </div>
-          <div data-source="{{localize "MB.Focus"}}">
+          <div data-source="{{localize 'MB.Focus'}}">
             {{{localize "MB.Actor.Focus"}}}
             <ul class="m-0">
               <li>{{{localize "MB.Actor.FocusLine1"}}}</li>
@@ -94,7 +91,7 @@
               <li>{{{localize "MB.Actor.FocusLine3"}}}</li>
             </ul>
           </div>
-          <div data-source="{{localize "MB.Deny"}}">
+          <div data-source="{{localize 'MB.Deny'}}">
             {{{localize "MB.Actor.Deny"}}}
             <ul class="m-0">
               <li>{{{localize "MB.Actor.DenyLine1"}}}</li>
@@ -129,9 +126,15 @@
     <div class="grid">
       <h2 class="col col-12 text-large">{{localize "MB.Actor.Biography"}}</h2>
       <div class="col col-12 editor-container">
-        {{editor data.system.biography target="system.biography" button=editable editable=editable}}
+        {{#if editable}}
+          <prose-mirror name="system.biography" value="{{document.system.biography}}" document-uuid="{{actor.uuid}}" toggled="true" editable="{{editable}}">{{{extra.enrichedBiography}}}</prose-mirror>
+        {{else}}
+          <div class="editor">
+            <div class="editor-content">{{{ extra.enrichedBiography }}}</div>
+          </div>
+        {{/if}}
       </div>
     </div>
-    
+
   </div>
-</form>
+</section>

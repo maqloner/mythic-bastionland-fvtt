@@ -1,41 +1,56 @@
 import { config } from "../../config.js";
 
-class RestoreDialog extends Application {
+class RestoreDialog extends foundry.applications.api.HandlebarsApplicationMixin(foundry.applications.api.ApplicationV2) {
   constructor({ callback } = {}) {
     super();
     this.callback = callback;
   }
 
-  /** @override */
-  static get defaultOptions() {
-    return foundry.utils.mergeObject(super.defaultOptions, {
-      template: `${config.systemPath}/templates/applications/dialog/restore-dialog.hbs`,
-      classes: ["mythic-bastionland", "restore-dialog"],
-      title: game.i18n.localize("MB.Restore"),
-      width: 500,
-      height: "auto"
-    });
+  static DEFAULT_OPTIONS = {
+    tag: "form",
+    classes: ["mythic-bastionland", "restore-dialog"],
+    window: {
+      resizable: false,
+      animate: false,
+      title: "MB.Restore"
+    },
+    form: {
+      closeOnSubmit: false,
+      submitOnChange: false,
+      handler: RestoreDialog._onSubmit
+    },
+    position: {
+      width: 500
+    }
+  };
+
+  static PARTS = {
+    form: {
+      template: `${config.systemPath}/templates/applications/dialog/restore-dialog.hbs`
+    }
+  };
+
+
+  _onRender(context, options) {
+    super._onRender(context, options);
+    this.element.addEventListener("keydown", this._onKeyDown.bind(this));
   }
 
-  /** @override */
-  activateListeners(html) {
-    super.activateListeners(html);
-    html.find(".cancel-button").on("click", (event) => this.#onCancel(event));
-    html.find(".ok-button").on("click", (event) => this.#onSubmit(event));
+  _onKeyDown(event) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      return this.close();
+    }
   }
 
-  async #onCancel(event) {
-    event.preventDefault();
-    await this.close();
-  }
-
-  async #onSubmit(event) {
-    event.preventDefault();
-    const vigour = !!this.element.find("[name=vigour]:checked").val();
-    const spirit = !!this.element.find("[name=spirit]:checked").val();
-    const clarity = !!this.element.find("[name=clarity]:checked").val();
+  static async _onSubmit() {
+    const vigour = !!this.element.querySelector("[name=vigour]").checked;
+    const spirit = !!this.element.querySelector("[name=spirit]").checked;
+    const clarity = !!this.element.querySelector("[name=clarity]").checked;
 
     if (!(vigour || spirit || clarity)) {
+      ui.notifications.warn("MB.RestoreNotificationInvalid", { localize: true });
       return;
     }
 

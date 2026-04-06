@@ -2,10 +2,10 @@
   "id": "mythicbastionland",
   "title": "Mythic Bastionland",
   "description": "FoundryVTT system for playing the Mythic Bastionland.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13.348"
+    "minimum": "14",
+    "verified": "14.359"
   },
   "url": "https://github.com/maqloner/mythic-bastionland-fvtt",
   "manifest": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.json",
@@ -100,5 +100,59 @@
     "units": "ft"
   },
   "primaryTokenAttribute": "guard",
-  "secondaryTokenAttribute": "virtues.vigour"
+  "secondaryTokenAttribute": "virtues.vigour",
+  "documentTypes": {
+    "Actor": {
+      "knight": {
+        "htmlFields": [ "biography" ]
+      },
+      "npc": {
+        "htmlFields": [ "biography" ]
+      },
+      "creature": {
+        "htmlFields": [ "biography" ]
+      },
+      "steed": {
+        "htmlFields": [ "biography" ]
+      },
+      "squire": {
+        "htmlFields": [ "biography" ]
+      },
+      "warband": {
+        "htmlFields": [ "biography" ]
+      }
+    },
+    "Item": {
+      "ability": {
+        "htmlFields": [ "description" ]
+      },
+      "weapon": {
+        "htmlFields": [ "description" ]
+      },
+      "coat": {
+        "htmlFields": [ "description" ]
+      },
+      "plate": {
+        "htmlFields": [ "description" ]
+      },
+      "shield": {
+        "htmlFields": [ "description" ]
+      },
+      "helm": {
+        "htmlFields": [ "description" ]
+      },
+      "passion": {
+        "htmlFields": [ "description" ]
+      },
+      "misc": {
+        "htmlFields": [ "description" ]
+      },
+      "scar": {
+        "htmlFields": [ "description" ]
+      },
+      "knight": {
+        "htmlFields": [ "description" ]
+      }
+    }
+  }
 }

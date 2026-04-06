@@ -29,12 +29,17 @@ Embark on a quest like no other with Mythic Bastionland, a tabletop RPG set in t
 1. In the Game Systems Tab, click `Install System`
 2. Search for "Mythic Bastionland" in the package search filter.
 
-## Installation - Manual - Foundry V13+
+## Installation - Manual - Foundry V14
 
 1. In the Game Systems Tab, click `Install System`
 2. Enter the Manifest URL: `https://github.com/maqloner/mythic-bastionland/releases/latest/download/system.json`
 
-## Installation - Manual - Foundry V12+
+## Installation - Manual - Foundry V13
+
+1. In the Game Systems Tab, click `Install System`
+2. Enter the Manifest URL: ``https://github.com/maqloner/mythic-bastionland-fvtt/releases/download/v1.0.8/system.json`
+
+## Installation - Manual - Foundry V12
 
 1. In the Game Systems Tab, click `Install System`
 2. Enter the Manifest URL: `https://github.com/maqloner/mythic-bastionland-fvtt/releases/download/v1.0.5/system.json`

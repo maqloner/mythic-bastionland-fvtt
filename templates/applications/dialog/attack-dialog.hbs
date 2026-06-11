@@ -10,9 +10,9 @@
             {{#each equippedItems as |item|}}
               <div class="grid align-items-center">
                 <div class="col col-1 align-items-center">
-                  <input type="checkbox" name="weapon[]" value="{{item._id}}" checked>
+                  <input type="checkbox" name="weapon[]" value="{{item._id}}" id="weapon_{{item._id}}" checked>
                 </div>
-                <label class="col col-8 text-regular">
+                <label for="weapon_{{item._id}}" class="col col-8 text-regular">
                   {{item.name}}
                   ({{item.system.damage}}{{#if item.system.hefty}},
                     {{localize "MB.Item.Hefty"}}{{/if}}{{#if item.system.long}},
@@ -21,9 +21,9 @@
                 <div class="col col-3">
                   <div class="grid align-items-center">
                     <div class="col col-4 align-items-center">
-                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
+                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}" id="weapon_{{item._id}}_impaired">
                     </div>
-                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
+                    <label for="weapon_{{item._id}}_impaired" class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
                   </div>
                 </div>
               </div>
@@ -34,15 +34,15 @@
             {{#each unequippedItems as |item|}}
               <div class="grid align-items-center">
                 <div class="col col-1 align-items-center">
-                  <input type="checkbox" name="weapon[]" value="{{item._id}}">
+                  <input type="checkbox" name="weapon[]" value="{{item._id}}" id="weapon_{{item._id}}">
                 </div>
-                <label class="col col-8 text-regular">{{item.name}} ({{item.system.damage}})</label>
+                <label for="weapon_{{item._id}}" class="col col-8 text-regular">{{item.name}} ({{item.system.damage}})</label>
                 <div class="col col-3">
                   <div class="grid align-items-center">
                     <div class="col col-4 align-items-center">
-                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}">
+                      <input type="checkbox" name="weapon_impaired[]" value="{{item._id}}" id="weapon_{{item._id}}_impaired">
                     </div>
-                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
+                    <label for="weapon_{{item._id}}_impaired" class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
                   </div>
                 </div>
               </div>
@@ -53,15 +53,15 @@
             {{#each steeds as |steed|}}
               <div class="grid align-items-center">
                 <div class="col col-1 align-items-center">
-                  <input type="checkbox" name="steed[]" value="{{steed._id}}">
+                  <input type="checkbox" name="steed[]" value="{{steed._id}}" id="steed_{{steed._id}}">
                 </div>
-                <label class="col col-8 text-regular">{{steed.name}} ({{steed.system.trample}})</label>
+                <label for="steed_{{steed._id}}" class="col col-8 text-regular">{{steed.name}} ({{steed.system.trample}})</label>
                 <div class="col col-3">
                   <div class="grid align-items-center">
                     <div class="col col-4 align-items-center">
-                      <input type="checkbox" name="steed_impaired[]" value="{{steed._id}}">
+                      <input type="checkbox" name="steed_impaired[]" value="{{steed._id}}" id="steed_{{steed._id}}_impaired">
                     </div>
-                    <label class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
+                    <label for="steed_{{steed._id}}_impaired" class="col col-8 text-regular text-italic">{{localize "MB.Impaired"}}</label>
                   </div>
                 </div>
               </div>
@@ -74,9 +74,9 @@
         {{#if isKnight }}
           <div class="grid align-items-center">
             <div class="col col-1 align-items-center">
-              <input type="checkbox" name="smite">
+              <input type="checkbox" name="smite" id="smite">
             </div>
-            <label class="col col-2 text-regular">{{localize "MB.Smite"}}</label>
+            <label for="smite" class="col col-2 text-regular">{{localize "MB.Smite"}}</label>
             <label class="col col-2 text-regular">
               <div class="grid align-items-center">+d12 <input type="radio" name="smite_type" value="damage" checked></div>
             </label>
@@ -88,25 +88,25 @@
 
         <div class="grid align-items-center">
           <div class="col col-1 align-items-center">
-            <input type="checkbox" name="impaired">
+            <input type="checkbox" name="impaired" id="impaired">
           </div>
-          <label class="col col-6 text-regular">{{localize "MB.Impaired"}}</label>
+          <label for="impaired" class="col col-6 text-regular">{{localize "MB.Impaired"}}</label>
         </div>
       </div>
 
       <div class="col gap-1">
 
         <div class="grid align-items-center">
-          <label class="col col-4 text-regular">{{localize "MB.BonusDice"}}</label>
+          <label class="col col-4 text-regular" for="bonus_dice">{{localize "MB.BonusDice"}}</label>
           <div class="col col-4 align-items-center">
-            <input class="input-simple" placeholder="d4" type="text" name="bonus_dice" autofocus>
+            <input class="input-simple" placeholder="d4" type="text" name="bonus_dice" autofocus id="bonus_dice">
           </div>
         </div>
 
         <div class="grid align-items-center">
-          <label class="col col-4 text-regular">{{localize "MB.Override"}}</label>
+          <label for="override_damage" class="col col-4 text-regular">{{localize "MB.Override"}}</label>
           <div class="col col-4 align-items-center">
-            <input class="input-simple" placeholder="2d6" type="text" name="override_damage">
+            <input class="input-simple" placeholder="2d6" type="text" name="override_damage" id="override_damage">
           </div>
         </div>
 

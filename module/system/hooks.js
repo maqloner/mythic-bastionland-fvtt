@@ -57,7 +57,7 @@ export const deleteCombat = (combat) => (game.settings.get("mythicbastionland", 
   null;
 
 export const ready = async () => {
-  if (game.user.isGM) {
+  if (game.user.isGM && game.settings.get("mythicbastionland", "MB.ShowHowToUseSystem")) {
     await showChatMessage({
       title: "Mythic Bastionland",
       description: "by Chris McDowall",
@@ -80,5 +80,8 @@ export const ready = async () => {
         }
       ]
     });
+
+    game.settings.set("mythicbastionland", "MB.ShowHowToUseSystem", false);
+
   }
 };

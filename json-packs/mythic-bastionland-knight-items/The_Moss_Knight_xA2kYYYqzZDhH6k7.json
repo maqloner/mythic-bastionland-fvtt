@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Moss Knight",
+  "system": {
+    "name": "",
+    "description": "The tree and stone had no need to be taught. The wisest knew to study beneath them.",
+    "flavor": "Full body Tattoos",
+    "flavorLabel1": "Design",
+    "flavorLabel2": "Effect"
+  },
+  "folder": "9dmqwY19zUkxAqvE",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399192,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xA2kYYYqzZDhH6k7",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xA2kYYYqzZDhH6k7"
+}

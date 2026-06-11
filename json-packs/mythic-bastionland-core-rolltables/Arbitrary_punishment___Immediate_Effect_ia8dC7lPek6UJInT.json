@@ -1,0 +1,174 @@
+{
+  "name": "Arbitrary punishment - Immediate Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Best clothes stolen",
+      "_id": "gDAJPPVnPd7n5Ozh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.gDAJPPVnPd7n5Ozh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Hiccups",
+      "_id": "smV0gXLaqS5Vpl3b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.smV0gXLaqS5Vpl3b"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Spoiled food",
+      "_id": "hvSkOVQNm106ieVP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.hvSkOVQNm106ieVP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Slippery hands",
+      "_id": "K3fogD5sT0uF3SeZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.K3fogD5sT0uF3SeZ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hair falls out",
+      "_id": "4NJwI6pGuH9fdPza",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.4NJwI6pGuH9fdPza"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Annoying insects",
+      "_id": "PuXRs8f6K8PdOO1f",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ia8dC7lPek6UJInT.PuXRs8f6K8PdOO1f"
+    }
+  ],
+  "folder": "fayKLxRMO7eZABty",
+  "_id": "ia8dC7lPek6UJInT",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ia8dC7lPek6UJInT"
+}

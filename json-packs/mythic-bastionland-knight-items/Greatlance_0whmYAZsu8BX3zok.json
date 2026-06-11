@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Greatlance",
+  "system": {
+    "description": "Hefty when mounted, slow on foot",
+    "damage": "2d10",
+    "hefty": false,
+    "long": false,
+    "slow": true,
+    "equipped": false
+  },
+  "folder": "WnueJk8sruRH8kIR",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398537,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "0whmYAZsu8BX3zok",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0whmYAZsu8BX3zok"
+}

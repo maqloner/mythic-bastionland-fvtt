@@ -1,0 +1,174 @@
+{
+  "name": "Item",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A dried flower",
+      "_id": "5w1dgifUdr3FL8tX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.5w1dgifUdr3FL8tX"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A sword hilt",
+      "_id": "Db7Umj95RevwtYME",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.Db7Umj95RevwtYME"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A pearl",
+      "_id": "ZOxWp9IxsWsLv1J3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.ZOxWp9IxsWsLv1J3"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A scrap of a banner",
+      "_id": "pcGjSj8I9ObgbwH9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.pcGjSj8I9ObgbwH9"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "An old coin",
+      "_id": "QVNjuJjfyZ0HAybI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.QVNjuJjfyZ0HAybI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A dog’s collar",
+      "_id": "2IyThdXQrHl2eX7P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uRizyMp9wcGPJz9u.2IyThdXQrHl2eX7P"
+    }
+  ],
+  "folder": "A6Q6CRbmhEwdMAWu",
+  "_id": "uRizyMp9wcGPJz9u",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!uRizyMp9wcGPJz9u"
+}

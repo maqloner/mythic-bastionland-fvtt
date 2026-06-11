@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Bright weeds",
+  "system": {
+    "description": "Create a cool glow when crushed to a powder",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "gLPR9HpxFnaPRbHk",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686410554,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "g6Cs3Zp5Thv5mrEL",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!g6Cs3Zp5Thv5mrEL"
+}

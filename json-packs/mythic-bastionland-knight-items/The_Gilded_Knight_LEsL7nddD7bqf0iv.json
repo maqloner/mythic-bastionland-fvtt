@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Gilded Knight",
+  "system": {
+    "name": "",
+    "description": "A beacon of the brave and bold. All cloaked and masked in sunnen gold.",
+    "flavor": "The Cost",
+    "flavorLabel1": "Where did the armour show itself?",
+    "flavorLabel2": "What was left behind?"
+  },
+  "folder": "irkUXo8SB3q30Udu",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686400699,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "LEsL7nddD7bqf0iv",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!LEsL7nddD7bqf0iv"
+}

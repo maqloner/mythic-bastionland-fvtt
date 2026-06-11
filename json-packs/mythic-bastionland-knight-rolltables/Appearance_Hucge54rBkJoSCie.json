@@ -1,0 +1,174 @@
+{
+  "name": "Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Massive (d10 long)",
+      "_id": "ktAs3orhyOMVrX8K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.ktAs3orhyOMVrX8K"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Curved (d8)",
+      "_id": "igCppcoyUsnlR2kq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.igCppcoyUsnlR2kq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Jagged (2d6 hefty)",
+      "_id": "t9Vb8LvbmxREbvyI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.t9Vb8LvbmxREbvyI"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hooked (2d8 long)",
+      "_id": "ZPLTv7Z6YRW31eUp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.ZPLTv7Z6YRW31eUp"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Shining (2d6)",
+      "_id": "cTIlfS0lAjT8eaNA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.cTIlfS0lAjT8eaNA"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Cruel (2d8 hefty)",
+      "_id": "3GtMNBmc07orBvtG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hucge54rBkJoSCie.3GtMNBmc07orBvtG"
+    }
+  ],
+  "folder": "502W0LoN4TJJpYg7",
+  "_id": "Hucge54rBkJoSCie",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Hucge54rBkJoSCie"
+}

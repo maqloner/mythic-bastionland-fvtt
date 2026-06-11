@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Sealing wax",
+  "system": {
+    "description": "Can render any container watertight and airtight",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "FlkIxiIR7YXiJjrS",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686450881,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "IVW30aj1BzZ7iTeW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IVW30aj1BzZ7iTeW"
+}

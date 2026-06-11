@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Sack of history tomes, treasured reliquary",
+  "system": {
+    "description": "See below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "wYrfLwuVdCuR1UBT",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686455422,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VU6G88qtPYQIDjh1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VU6G88qtPYQIDjh1"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "The song of the axe - Arcing Sound",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Humming",
+      "_id": "YZ0wWLjLhMZioRVG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.YZ0wWLjLhMZioRVG"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Whistling",
+      "_id": "riaEWmEFAAHSevAD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.riaEWmEFAAHSevAD"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hissing",
+      "_id": "jOOK6qNRDjlDEjYV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.jOOK6qNRDjlDEjYV"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Buzzing",
+      "_id": "vC6z4FzN0CcZALqr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.vC6z4FzN0CcZALqr"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Tearing",
+      "_id": "2Wm4vwqswQCDQwYK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.2Wm4vwqswQCDQwYK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Screaming",
+      "_id": "d6rVtNkaGJiYNqle",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pngk2CoPhBAspvSL.d6rVtNkaGJiYNqle"
+    }
+  ],
+  "folder": "yKS9ouTxHqgjzGgY",
+  "_id": "pngk2CoPhBAspvSL",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pngk2CoPhBAspvSL"
+}

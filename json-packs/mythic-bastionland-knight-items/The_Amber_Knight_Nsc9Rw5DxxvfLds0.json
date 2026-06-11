@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Amber Knight",
+  "system": {
+    "name": "",
+    "description": "Their wait has been longer than we could imagine. Their blade slow but unstoppable",
+    "flavor": "A steady hand",
+    "flavorLabel1": "Pastime",
+    "flavorLabel2": "Taught By"
+  },
+  "folder": "4X6Jyg4RLDgzr1uK",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404066,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Nsc9Rw5DxxvfLds0",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Nsc9Rw5DxxvfLds0"
+}

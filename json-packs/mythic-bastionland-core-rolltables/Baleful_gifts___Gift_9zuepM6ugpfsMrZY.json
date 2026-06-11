@@ -1,0 +1,174 @@
+{
+  "name": "Baleful gifts - Gift",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Apple pie",
+      "_id": "Fom0GCZ4Zp7txZUw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.Fom0GCZ4Zp7txZUw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Froghelm (A1)",
+      "_id": "3gVX2i34xiSSixYy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.3gVX2i34xiSSixYy"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Wooden flute",
+      "_id": "eGS70LiUEHAts3HE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.eGS70LiUEHAts3HE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Silver mirror",
+      "_id": "wBM5QN1wbFYM3sAp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.wBM5QN1wbFYM3sAp"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Woollen scarf",
+      "_id": "6AL2xYWlbHqLtFZD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.6AL2xYWlbHqLtFZD"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Copper mug",
+      "_id": "PYfI5sV2CsXA3VXK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9zuepM6ugpfsMrZY.PYfI5sV2CsXA3VXK"
+    }
+  ],
+  "folder": "HsYyEV9vv1hsujhZ",
+  "_id": "9zuepM6ugpfsMrZY",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!9zuepM6ugpfsMrZY"
+}

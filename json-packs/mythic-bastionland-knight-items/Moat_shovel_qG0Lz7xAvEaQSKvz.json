@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Moat shovel",
+  "system": {
+    "description": "Any hole dug with this immediately begins to fill with water, stopping when full",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "OrFm6gOamKyvqgfk",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686414438,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qG0Lz7xAvEaQSKvz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qG0Lz7xAvEaQSKvz"
+}

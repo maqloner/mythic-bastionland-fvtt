@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "The Red Hunt",
+  "system": {
+    "description": "Once each day, infuse a target’s spilt blood into an arrow to give it +[[/roll d12 #damage]] against the target. You can also taste a small amount of the blood to get a glimpse of their location."
+  },
+  "folder": "dDQDJ8rnxtKEhiLN",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686403049,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ey5CC7EXOGWT3YXV",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ey5CC7EXOGWT3YXV"
+}

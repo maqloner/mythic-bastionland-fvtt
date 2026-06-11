@@ -1,0 +1,32 @@
+{
+  "type": "shield",
+  "name": "Buckler",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "damage": "d4",
+    "equipped": false
+  },
+  "folder": "FlkIxiIR7YXiJjrS",
+  "img": "systems/mythicbastionland/tokens/items/shield.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.346",
+    "createdTime": 1707686450145,
+    "modifiedTime": 1707686494100,
+    "lastModifiedBy": "0wOTYIb2YCmPwFdU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "r3QTtLFJ8cZIcTKX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0wOTYIb2YCmPwFdU": 3
+  },
+  "_key": "!items!r3QTtLFJ8cZIcTKX"
+}

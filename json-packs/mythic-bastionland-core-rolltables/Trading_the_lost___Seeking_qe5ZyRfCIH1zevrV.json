@@ -1,0 +1,174 @@
+{
+  "name": "Trading the lost - Seeking",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Silver",
+      "_id": "Zgrs84GAWRtzjBLk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.Zgrs84GAWRtzjBLk"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Dogs",
+      "_id": "BlwZqCCXXpjRewN3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.BlwZqCCXXpjRewN3"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Needles",
+      "_id": "PsPiC5cSI39YgIib",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.PsPiC5cSI39YgIib"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hats",
+      "_id": "Wt8ALUFyZRF1wxK1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.Wt8ALUFyZRF1wxK1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Knives",
+      "_id": "lbgoyLUteMaBMH3P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.lbgoyLUteMaBMH3P"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shoes",
+      "_id": "Cxdxz0NwBOuRC1KL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qe5ZyRfCIH1zevrV.Cxdxz0NwBOuRC1KL"
+    }
+  ],
+  "folder": "ebwYk8um3ivtzRh3",
+  "_id": "qe5ZyRfCIH1zevrV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qe5ZyRfCIH1zevrV"
+}

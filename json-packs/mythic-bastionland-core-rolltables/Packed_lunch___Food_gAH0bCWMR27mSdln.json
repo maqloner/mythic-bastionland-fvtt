@@ -1,0 +1,174 @@
+{
+  "name": "Packed lunch - Food",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Meaty cake",
+      "_id": "KUyuFpmMwmaDxGKF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.KUyuFpmMwmaDxGKF"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spiced sausages",
+      "_id": "TMvN7bBlr3yQ4RYF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.TMvN7bBlr3yQ4RYF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Thick broth",
+      "_id": "L3fJlQ5rajaTHwEp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.L3fJlQ5rajaTHwEp"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Raw cabbage",
+      "_id": "dL8USDZDNSWMoBG9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.dL8USDZDNSWMoBG9"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Steamed snails",
+      "_id": "CMpJcw8sZJ2eOk8j",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.CMpJcw8sZJ2eOk8j"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Potato-filled bread",
+      "_id": "drGVMzYLqVJVYTOW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gAH0bCWMR27mSdln.drGVMzYLqVJVYTOW"
+    }
+  ],
+  "folder": "V6yZSa5hDTBV1bLt",
+  "_id": "gAH0bCWMR27mSdln",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!gAH0bCWMR27mSdln"
+}

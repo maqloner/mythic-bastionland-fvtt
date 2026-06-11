@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Strands of Past",
+  "system": {
+    "description": "By studying the ground for a whole Phase you can ask a single yes or no question about what happened here in the past few days."
+  },
+  "folder": "cCn9139FbJfcmEoU",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686403588,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "3h2LhQ8mI0xpStQd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3h2LhQ8mI0xpStQd"
+}

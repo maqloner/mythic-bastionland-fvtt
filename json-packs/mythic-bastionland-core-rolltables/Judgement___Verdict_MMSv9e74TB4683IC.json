@@ -1,0 +1,174 @@
+{
+  "name": "Judgement - Verdict",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Guilty",
+      "_id": "N3Wk82V3vxHDHWnT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.N3Wk82V3vxHDHWnT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Guilty, sentence to come next Season",
+      "_id": "5eqgTautawVzyKix",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.5eqgTautawVzyKix"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Follows her witnesses",
+      "_id": "jNAvBKOImV33dBbk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.jNAvBKOImV33dBbk"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Follows the evidence",
+      "_id": "a8BqojndPoWktUFw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.a8BqojndPoWktUFw"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Innocent for now",
+      "_id": "5cSQSLd3IYUEvmVT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.5cSQSLd3IYUEvmVT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Innocent",
+      "_id": "Mv3hR8VDwNsoAFuK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MMSv9e74TB4683IC.Mv3hR8VDwNsoAFuK"
+    }
+  ],
+  "folder": "D4smMpiFC1ANa0Ty",
+  "_id": "MMSv9e74TB4683IC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MMSv9e74TB4683IC"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "The hound within - Night Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Cannot use hands",
+      "_id": "ntmeZ5XLUQi5nAPE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.ntmeZ5XLUQi5nAPE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Unable to speak",
+      "_id": "2jjUfo5sZogmMmB5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.2jjUfo5sZogmMmB5"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fear of fire",
+      "_id": "M7eu7Bqw7lcw7RDa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.M7eu7Bqw7lcw7RDa"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pass a CLA Save or wander the wilderness",
+      "_id": "h8tOzJ1EfSPCiTIc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.h8tOzJ1EfSPCiTIc"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Howl at the moon",
+      "_id": "pOf4utXgpZhz8Wyd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.pOf4utXgpZhz8Wyd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Cannot sleep indoors",
+      "_id": "negpeLSq3pYb4yFc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ie9LJYSerax3lcNA.negpeLSq3pYb4yFc"
+    }
+  ],
+  "folder": "BpJGbeGyTfLDVRR7",
+  "_id": "Ie9LJYSerax3lcNA",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Ie9LJYSerax3lcNA"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Design",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Twisted ebony handle",
+      "_id": "BwojHpx1EGtKMFJH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.BwojHpx1EGtKMFJH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Feather motif",
+      "_id": "0NbtpouGEpiGcsyg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.0NbtpouGEpiGcsyg"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Tapered slicer",
+      "_id": "096cCrD2rSb3K02I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.096cCrD2rSb3K02I"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fang-like dagger",
+      "_id": "eNxHJchrlqgS9bxy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.eNxHJchrlqgS9bxy"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Long wavy blade",
+      "_id": "f0JbcDn5NcbUBM94",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.f0JbcDn5NcbUBM94"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Etched bone",
+      "_id": "V1hhfQF49OdYFav8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!To7bLV1V2VpDd3yo.V1hhfQF49OdYFav8"
+    }
+  ],
+  "folder": "KbJAgJE0ZyBPCln6",
+  "_id": "To7bLV1V2VpDd3yo",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!To7bLV1V2VpDd3yo"
+}

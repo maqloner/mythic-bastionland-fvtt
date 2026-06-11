@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Gouge",
+  "system": {
+    "description": "<p><em>Flesh torn from bone</em></p><p>When you get stitched up, if your max GD is 6 or less, increase it by [[/roll d6]].</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "4IwZEjYxqgzR01cz",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!4IwZEjYxqgzR01cz"
+}

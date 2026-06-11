@@ -1,0 +1,174 @@
+{
+  "name": "Lost item - Object",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Twisted tin flute",
+      "_id": "VQkizlujySJzDuvs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.VQkizlujySJzDuvs"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bejewelled chess set",
+      "_id": "NvlMEQLwVQEtCF95",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.NvlMEQLwVQEtCF95"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Huge cauldron",
+      "_id": "zUVJnxK9yO8Br0he",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.zUVJnxK9yO8Br0he"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Map-marked shield",
+      "_id": "DZ0S8jZW2wqxtXDx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.DZ0S8jZW2wqxtXDx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Mummified Seer head",
+      "_id": "elfd25JUvE9tWNX9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.elfd25JUvE9tWNX9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Crown of raw iron",
+      "_id": "FRbV38QuW0AWLrUr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!31JQqTdUBEOtoYmA.FRbV38QuW0AWLrUr"
+    }
+  ],
+  "folder": "plrccFRLccsxWkkN",
+  "_id": "31JQqTdUBEOtoYmA",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!31JQqTdUBEOtoYmA"
+}

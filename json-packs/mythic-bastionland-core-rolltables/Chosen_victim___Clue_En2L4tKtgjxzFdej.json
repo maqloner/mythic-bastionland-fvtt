@@ -1,0 +1,174 @@
+{
+  "name": "Chosen victim - Clue",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "They cannot eat",
+      "_id": "ePsGtsWWCjOp7RWE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.ePsGtsWWCjOp7RWE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "They cannot drink",
+      "_id": "8xzrBilzSzBCptWs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.8xzrBilzSzBCptWs"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Animals hate them",
+      "_id": "e5totsBq04pmKwWk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.e5totsBq04pmKwWk"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Children are scared",
+      "_id": "gVv61JsFHzcfTbfh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.gVv61JsFHzcfTbfh"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "They do not have any of their memories",
+      "_id": "cvnw6ACqtJypNsb7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.cvnw6ACqtJypNsb7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Sunlight causes great discomfort",
+      "_id": "djYlNeUHWoOQGBaW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!En2L4tKtgjxzFdej.djYlNeUHWoOQGBaW"
+    }
+  ],
+  "folder": "hPiw8oL26ubwOjGn",
+  "_id": "En2L4tKtgjxzFdej",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!En2L4tKtgjxzFdej"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Dawn Contemplation",
+  "system": {
+    "description": "At sunrise each day, choose any area of knowledge. You can ask the Referee three questions within this area, which they answer honestly with yes, no, or maybe if uncertain."
+  },
+  "folder": "t1Z2zcDi1ceedHVO",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686426508,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "50KcRMRroi4M8HvE",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!50KcRMRroi4M8HvE"
+}

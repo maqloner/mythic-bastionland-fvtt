@@ -1,0 +1,174 @@
+{
+  "name": "Fancy Helm",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Lion",
+      "_id": "wKIzjophsijpW7vL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.wKIzjophsijpW7vL"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Shark",
+      "_id": "e8WSRI9iaLrrYX4m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.e8WSRI9iaLrrYX4m"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Great Crest",
+      "_id": "p0uQ6VRnjRvRp8jH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.p0uQ6VRnjRvRp8jH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hawk",
+      "_id": "hsuYzXx04oISJavN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.hsuYzXx04oISJavN"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Bull",
+      "_id": "oCYqoh3Vhz6sxBes",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.oCYqoh3Vhz6sxBes"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Demon",
+      "_id": "6AJmWzl204TTbN1b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MDAtNnIg0jtMDz0y.6AJmWzl204TTbN1b"
+    }
+  ],
+  "folder": "dP4BnY3HO6xrTRk1",
+  "_id": "MDAtNnIg0jtMDz0y",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MDAtNnIg0jtMDz0y"
+}

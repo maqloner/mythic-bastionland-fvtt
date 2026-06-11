@@ -1,0 +1,174 @@
+{
+  "name": "Deeds of the elephant knight - Action",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Defeated the…",
+      "_id": "RbCdUFXwSdhE5vnu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.RbCdUFXwSdhE5vnu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Restored the…",
+      "_id": "ONaxU0i0Bf3VQCYD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.ONaxU0i0Bf3VQCYD"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mastered the…",
+      "_id": "6fOhuYMlCdgprnLq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.6fOhuYMlCdgprnLq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Exposed the…",
+      "_id": "aPhzjjJxex3gY6nE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.aPhzjjJxex3gY6nE"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sated the…",
+      "_id": "vSIHfnqlfC0GCEBa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.vSIHfnqlfC0GCEBa"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Beheaded the…",
+      "_id": "jQSfaMPr2qT0KS6U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ovshgUecmeN44hJZ.jQSfaMPr2qT0KS6U"
+    }
+  ],
+  "folder": "VvXBqXkrnHe7DXu6",
+  "_id": "ovshgUecmeN44hJZ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ovshgUecmeN44hJZ"
+}

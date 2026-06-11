@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Moat Knight",
+  "system": {
+    "name": "",
+    "description": "There they stood, awashed in soddled loam. A grottling dance, the dusky sky agloam",
+    "flavor": "An especially difficult steed",
+    "flavorLabel1": "Will Not",
+    "flavorLabel2": "But"
+  },
+  "folder": "OrFm6gOamKyvqgfk",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686413901,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XyuAs1KdvaXXCEYq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XyuAs1KdvaXXCEYq"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Bones of…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ivory",
+      "_id": "E1b9DdvoGhdLJ7Pg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.E1b9DdvoGhdLJ7Pg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bronze",
+      "_id": "yYccVxmyNn1OPJO2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.yYccVxmyNn1OPJO2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sapling branches",
+      "_id": "ivjRa6t7GBCc1RPP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.ivjRa6t7GBCc1RPP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "String",
+      "_id": "Prpd36slDdsYKGu7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.Prpd36slDdsYKGu7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wooden rods",
+      "_id": "FueY82Z8qYLoRvXd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.FueY82Z8qYLoRvXd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Iron chain",
+      "_id": "N84rM01hEMvxyelb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jssLyFedi6VsPhaz.N84rM01hEMvxyelb"
+    }
+  ],
+  "folder": "AHHjNWlDIelrtu74",
+  "_id": "jssLyFedi6VsPhaz",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!jssLyFedi6VsPhaz"
+}

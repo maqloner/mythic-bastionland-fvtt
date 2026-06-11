@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Vulture Knight",
+  "system": {
+    "name": "",
+    "description": "Gutly ribbons, blood’s sweet dance. The future calls in gory trance",
+    "flavor": "Sinister armour",
+    "flavorLabel1": "Material",
+    "flavorLabel2": "Detail"
+  },
+  "folder": "0iDFsQjUAhlijrEH",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686455691,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pFqgt23Qt10rzPWW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!pFqgt23Qt10rzPWW"
+}

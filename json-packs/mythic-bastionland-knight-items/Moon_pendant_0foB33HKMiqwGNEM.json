@@ -1,0 +1,34 @@
+{
+  "type": "misc",
+  "name": "Moon pendant",
+  "system": {
+    "description": "Grants the wearer a false form under moonlight, [[/roll roling #table-knight-the-riddle-knight]] each night",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    },
+    "value": 1
+  },
+  "folder": "qSMl87r3AWuKQbiY",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686402227,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "0foB33HKMiqwGNEM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0foB33HKMiqwGNEM"
+}

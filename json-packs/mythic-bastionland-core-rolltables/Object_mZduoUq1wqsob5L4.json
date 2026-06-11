@@ -1,0 +1,1758 @@
+{
+  "name": "Object",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Moonlit honey",
+      "_id": "XBSeHXlOAtlxyJ9N",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.XBSeHXlOAtlxyJ9N"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Grief flute",
+      "_id": "SUWODIcd8wTkkqCg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.SUWODIcd8wTkkqCg"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "City coin",
+      "_id": "TSDY2GKmT68NGobq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.TSDY2GKmT68NGobq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pain blade",
+      "_id": "su6ZDM8zntwE6lsg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.su6ZDM8zntwE6lsg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Weird bone",
+      "_id": "mNBs6BUFWjdzEg5R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.mNBs6BUFWjdzEg5R"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Thorn spear",
+      "_id": "XPFeAOlgwwaQFUuu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.XPFeAOlgwwaQFUuu"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Fang rattle",
+      "_id": "2hcWAjvYNMwG2Rrr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.2hcWAjvYNMwG2Rrr"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Silver armour",
+      "_id": "NIb1xHVpw7oOGZZf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.NIb1xHVpw7oOGZZf"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Steel rope",
+      "_id": "GyL2k8yYLDHfEjWu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.GyL2k8yYLDHfEjWu"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Black cloth",
+      "_id": "k5Gkq2d8JiWEXcoY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.k5Gkq2d8JiWEXcoY"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Limeweed",
+      "_id": "t2GaHvHzWuqtNtTo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.t2GaHvHzWuqtNtTo"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Venomous rose",
+      "_id": "HiwbCNbEtGqHyZyS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.HiwbCNbEtGqHyZyS"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Traveller’s hat",
+      "_id": "mYA8aj9lNpWp0z04",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.mYA8aj9lNpWp0z04"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Ghost axe",
+      "_id": "SGJ0jEUytlTWR3w4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.SGJ0jEUytlTWR3w4"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Lightning wine",
+      "_id": "oz2KjfJJV4N9fxaM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.oz2KjfJJV4N9fxaM"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Death woodcut",
+      "_id": "wAZZiXRi2WkcP9vi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.wAZZiXRi2WkcP9vi"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Vow sunflower",
+      "_id": "Zoaw4ccgUlF7vyfB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.Zoaw4ccgUlF7vyfB"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Cold carving",
+      "_id": "rP4UOqIWNh23OWzv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.rP4UOqIWNh23OWzv"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Storm ring",
+      "_id": "NvUs3t9QXMt3Dn3G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.NvUs3t9QXMt3Dn3G"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Artful cup",
+      "_id": "eUlNHaqBiheAZ9DH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.eUlNHaqBiheAZ9DH"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Unbreakable compass",
+      "_id": "rwTZ3JLLIAoKwfPZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.rwTZ3JLLIAoKwfPZ"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Destiny nut",
+      "_id": "y3MTojhdlEzEueuS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.y3MTojhdlEzEueuS"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Soldier’s horseshoe",
+      "_id": "UJtvyYDbvCvOIEui",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.UJtvyYDbvCvOIEui"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Bear wand",
+      "_id": "gGNb0C9fL6dob4ec",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.gGNb0C9fL6dob4ec"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Bird cauldron",
+      "_id": "9b4CDgiDJWuTKOy1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.9b4CDgiDJWuTKOy1"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Rainbow beads",
+      "_id": "tGzbh4Relg4EZ95h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.tGzbh4Relg4EZ95h"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Shadow lens",
+      "_id": "UJsx08jNpU7SVkh1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.UJsx08jNpU7SVkh1"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Dream cup",
+      "_id": "DTwBzde3deRNgIyF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.DTwBzde3deRNgIyF"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Beast idol",
+      "_id": "o5ZxXXVduXfMByTz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.o5ZxXXVduXfMByTz"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Vanity bone",
+      "_id": "ayxn8wLwa13j3O7Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.ayxn8wLwa13j3O7Q"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Fox pipe",
+      "_id": "tn1hHDsPllQF4Lx6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.tn1hHDsPllQF4Lx6"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Plague scabbard",
+      "_id": "tuMoNOXHjnelmSgM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.tuMoNOXHjnelmSgM"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Fake tooth",
+      "_id": "7DQeYVTuXwqz3gMi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.7DQeYVTuXwqz3gMi"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Nature bow",
+      "_id": "n9Xp2l6i7gjXtHaL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.n9Xp2l6i7gjXtHaL"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Singing shell",
+      "_id": "Z0PePl0QlenBw1k3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.Z0PePl0QlenBw1k3"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Hermit’s rope",
+      "_id": "ez83qd3d6CTIbmt7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.ez83qd3d6CTIbmt7"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Mist club",
+      "_id": "xmYWr9qaq5jfa3Bb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.xmYWr9qaq5jfa3Bb"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Peace stick",
+      "_id": "yxhYKso4TTuwQyVM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.yxhYKso4TTuwQyVM"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Shame gem",
+      "_id": "YqYOA2Yy5BKeSxvc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.YqYOA2Yy5BKeSxvc"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Mossy drum",
+      "_id": "IvDoADVQXkBMoeHX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.IvDoADVQXkBMoeHX"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Secret key",
+      "_id": "R6RyRUWtfBywADPC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.R6RyRUWtfBywADPC"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Paired chalk",
+      "_id": "sbFAQyONnSwBJs6b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.sbFAQyONnSwBJs6b"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Creation chest",
+      "_id": "WHLeLOSxpn6Qtk0m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.WHLeLOSxpn6Qtk0m"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Foul brooch",
+      "_id": "0zrTc9OhToMyurp6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.0zrTc9OhToMyurp6"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Whistling pin",
+      "_id": "IJ5BYHsnuwUhJ1Rb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.IJ5BYHsnuwUhJ1Rb"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "River helm",
+      "_id": "34Ot5PbWabnsckii",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.34Ot5PbWabnsckii"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Silver furs",
+      "_id": "fG3tc5r8x9SB1lf5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.fG3tc5r8x9SB1lf5"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Spinning goblet",
+      "_id": "riwEmo62lO79WwhW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.riwEmo62lO79WwhW"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Vassal rod",
+      "_id": "KSjcOhEFY75HEwN1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.KSjcOhEFY75HEwN1"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Wood mace",
+      "_id": "xtqcUPx47T2BGftY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.xtqcUPx47T2BGftY"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Flesh wax",
+      "_id": "E9oBk06KREAxtpUF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.E9oBk06KREAxtpUF"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "War ink",
+      "_id": "LcEjCxRBRhuD1B1s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.LcEjCxRBRhuD1B1s"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Tree chart",
+      "_id": "PqTeryH3Ldqsylbb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.PqTeryH3Ldqsylbb"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Leathered bone",
+      "_id": "Gi2sCWHqvI05c6QC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.Gi2sCWHqvI05c6QC"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Crystal mead",
+      "_id": "8BBMhGzhLkmiOP75",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.8BBMhGzhLkmiOP75"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Copper acorn",
+      "_id": "mI3UwiHOEU4qgrrx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.mI3UwiHOEU4qgrrx"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Immovable herb",
+      "_id": "J7S3mEerWYdvfJUQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.J7S3mEerWYdvfJUQ"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Leaf sword",
+      "_id": "av1lFS3lgDi8Kjxo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.av1lFS3lgDi8Kjxo"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Beggar shroud",
+      "_id": "VQEZKuiqu1MtJooG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.VQEZKuiqu1MtJooG"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Petty candle",
+      "_id": "XxNgA5MXm9XfsTJV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.XxNgA5MXm9XfsTJV"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Web net",
+      "_id": "fMaU74JSRY4A5Po8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.fMaU74JSRY4A5Po8"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Scaled daisy",
+      "_id": "OnexAAxQnFyYGjqn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.OnexAAxQnFyYGjqn"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "City rune",
+      "_id": "XEFdoHtPcvtkvDzp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.XEFdoHtPcvtkvDzp"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "History pack",
+      "_id": "T35YTi4H2nCWdFNo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.T35YTi4H2nCWdFNo"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Memory cloak",
+      "_id": "qz0vyR634wqomKWI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.qz0vyR634wqomKWI"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Seer arrow",
+      "_id": "9088LN0I21oHQfHH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.9088LN0I21oHQfHH"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Wolf knife",
+      "_id": "lvFXGJEHqhChJYY6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.lvFXGJEHqhChJYY6"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Ivory mask",
+      "_id": "Yzzk9JMSqJAJC0dU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.Yzzk9JMSqJAJC0dU"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Firebreath flask",
+      "_id": "qhtIvQWwCqnOHjvk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.qhtIvQWwCqnOHjvk"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Oceanic whetstone",
+      "_id": "MFvlh2Ow9I2wlduR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.MFvlh2Ow9I2wlduR"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Fear egg",
+      "_id": "G3Lim7OqFn4R57Ov",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.G3Lim7OqFn4R57Ov"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Grey lantern",
+      "_id": "PNcG4pN9ZYZRM7VZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mZduoUq1wqsob5L4.PNcG4pN9ZYZRM7VZ"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "mZduoUq1wqsob5L4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!mZduoUq1wqsob5L4"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Clockwork quirks - Behaviour",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Boasts and taunts",
+      "_id": "0hxZtkb8QPuRwL02",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.0hxZtkb8QPuRwL02"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Strict etiquette",
+      "_id": "gV70ENNbzthgogek",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.gV70ENNbzthgogek"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Cunning fighter",
+      "_id": "tRfCv1gXsgQeQg9u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.tRfCv1gXsgQeQg9u"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Soulless intimidation",
+      "_id": "hKhNZdoHCe916z8U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.hKhNZdoHCe916z8U"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Showboats for crowd",
+      "_id": "mRl3OpchAvS3m9cI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.mRl3OpchAvS3m9cI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Stiff and jerky",
+      "_id": "u9qXKU0DO7RbgDUi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqcvClZEdD8NxoeN.u9qXKU0DO7RbgDUi"
+    }
+  ],
+  "folder": "cwMbT6lo4qFtlulC",
+  "_id": "aqcvClZEdD8NxoeN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!aqcvClZEdD8NxoeN"
+}

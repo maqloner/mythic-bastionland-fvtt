@@ -1,0 +1,318 @@
+{
+  "name": "CONFLICT - Dispute",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Border",
+      "_id": "hhxdsGsCETmhnDx8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.hhxdsGsCETmhnDx8"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Religion",
+      "_id": "5rOjeX1xXc6d9yfu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.5rOjeX1xXc6d9yfu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Succession",
+      "_id": "ihGn5nbSz0t5vfN2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.ihGn5nbSz0t5vfN2"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Resource",
+      "_id": "P2ExFadOwgtO8MXt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.P2ExFadOwgtO8MXt"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Debt",
+      "_id": "MMlF7Tfwj3Vs4wSl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.MMlF7Tfwj3Vs4wSl"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Betrayal",
+      "_id": "EHh2ABxHCdExti2B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.EHh2ABxHCdExti2B"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Theft",
+      "_id": "lOr9qdc8jFWbTtLx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.lOr9qdc8jFWbTtLx"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Conquest",
+      "_id": "ch7r4ODskPzUciF2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.ch7r4ODskPzUciF2"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Marriage",
+      "_id": "nN2n1ggHQAUFaXkj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.nN2n1ggHQAUFaXkj"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Deceit",
+      "_id": "nVs8GKwvsgLzqzfH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.nVs8GKwvsgLzqzfH"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Waterway",
+      "_id": "xv2EvIQDrLpVKfVC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.xv2EvIQDrLpVKfVC"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Bloodfeud",
+      "_id": "QVeUGJol9TX8szDQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hR10oselCqMVNuMP.QVeUGJol9TX8szDQ"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "hR10oselCqMVNuMP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hR10oselCqMVNuMP"
+}

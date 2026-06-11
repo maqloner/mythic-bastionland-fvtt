@@ -1,0 +1,102 @@
+{
+  "name": "Increased taxes",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Immediate Misrule.",
+      "_id": "Fc0m4tSAYeUIikaT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yFmFrwhuyFEBEPqi.Fc0m4tSAYeUIikaT"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "description": "Your coffers are filled, but take a Crisis.",
+      "_id": "X174FqBifhA5vXiv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yFmFrwhuyFEBEPqi.X174FqBifhA5vXiv"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "description": "The Vassals pay willingly, mostly.",
+      "_id": "fCnXF4SriPWBuQZt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yFmFrwhuyFEBEPqi.fCnXF4SriPWBuQZt"
+    }
+  ],
+  "folder": "1wCdzrwXx1t2341x",
+  "_id": "yFmFrwhuyFEBEPqi",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!yFmFrwhuyFEBEPqi"
+}

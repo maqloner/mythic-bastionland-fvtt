@@ -1,0 +1,174 @@
+{
+  "name": "Ardwright projects - Material",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Branches",
+      "_id": "T032Lqj3lbMLMpBz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.T032Lqj3lbMLMpBz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Rocks",
+      "_id": "jgQ5EcZkiGMH9xXn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.jgQ5EcZkiGMH9xXn"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Grass",
+      "_id": "LpwOcjs3zmDttCUz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.LpwOcjs3zmDttCUz"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Mud",
+      "_id": "Deft5mTDIgNukjix",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.Deft5mTDIgNukjix"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Bones",
+      "_id": "x4fZKhgBp6UDlRlw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.x4fZKhgBp6UDlRlw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Petals",
+      "_id": "S8H2ZKAh8rRA9wIW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9jj3NdhAEurd3iw0.S8H2ZKAh8rRA9wIW"
+    }
+  ],
+  "folder": "yXJytNtXTbrckcSu",
+  "_id": "9jj3NdhAEurd3iw0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!9jj3NdhAEurd3iw0"
+}

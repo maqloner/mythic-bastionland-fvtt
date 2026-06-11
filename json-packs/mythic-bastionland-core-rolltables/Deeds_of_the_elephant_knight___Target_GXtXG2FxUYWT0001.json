@@ -1,0 +1,174 @@
+{
+  "name": "Deeds of the elephant knight - Target",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Iron Crocodile",
+      "_id": "khVKZBzWRspojCTY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.khVKZBzWRspojCTY"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Invisible Wolf",
+      "_id": "QLYAu1hCgecUdcoa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.QLYAu1hCgecUdcoa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Faerie King",
+      "_id": "JocWA8353DUdWGcJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.JocWA8353DUdWGcJ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Blood Heron",
+      "_id": "UkZ2eSnDpKfPGCGP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.UkZ2eSnDpKfPGCGP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Labyrinth Beast",
+      "_id": "JfD92yEfpNkuFzqy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.JfD92yEfpNkuFzqy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Mirror Ghost",
+      "_id": "ua3IzRZD1wg76Ewe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GXtXG2FxUYWT0001.ua3IzRZD1wg76Ewe"
+    }
+  ],
+  "folder": "VvXBqXkrnHe7DXu6",
+  "_id": "GXtXG2FxUYWT0001",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GXtXG2FxUYWT0001"
+}

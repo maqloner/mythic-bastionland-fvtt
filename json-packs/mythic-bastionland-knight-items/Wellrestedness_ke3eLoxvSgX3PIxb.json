@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Wellrestedness",
+  "system": {
+    "description": "Restore SPI when you sleep for two consecutive Phases."
+  },
+  "folder": "lm0vdv27dvm7P5Op",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686412270,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ke3eLoxvSgX3PIxb",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ke3eLoxvSgX3PIxb"
+}

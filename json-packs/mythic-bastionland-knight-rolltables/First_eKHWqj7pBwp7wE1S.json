@@ -1,0 +1,174 @@
+{
+  "name": "First",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Through darkness",
+      "_id": "lVgVvJcXiDnvWqpC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.lVgVvJcXiDnvWqpC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Through smoke",
+      "_id": "heUU4zFHMwRqHKQb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.heUU4zFHMwRqHKQb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Out of a cell",
+      "_id": "puPqxKzpV3pVX4Hi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.puPqxKzpV3pVX4Hi"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Climbing chains",
+      "_id": "PzgS75EES0RtDiqO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.PzgS75EES0RtDiqO"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Up the great stair",
+      "_id": "CZqHC161wGxNl46W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.CZqHC161wGxNl46W"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Through fire",
+      "_id": "jZkZHf2Kzcsjr012",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eKHWqj7pBwp7wE1S.jZkZHf2Kzcsjr012"
+    }
+  ],
+  "folder": "Sssb3gfYoBIPh9sM",
+  "_id": "eKHWqj7pBwp7wE1S",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!eKHWqj7pBwp7wE1S"
+}

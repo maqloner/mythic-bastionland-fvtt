@@ -1,0 +1,174 @@
+{
+  "name": "Scars from the last life - Location",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Face",
+      "_id": "T0sdOJhoKgjIpZb6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.T0sdOJhoKgjIpZb6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Arm",
+      "_id": "VkSN3Bo0uc2CJBYT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.VkSN3Bo0uc2CJBYT"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Leg",
+      "_id": "dtG02xOXmNRboYsy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.dtG02xOXmNRboYsy"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Torso",
+      "_id": "q1MssnZlNF7iBEqz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.q1MssnZlNF7iBEqz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Back",
+      "_id": "VfU6XsET490KzDlU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.VfU6XsET490KzDlU"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Head",
+      "_id": "2ufFQ7K6hwS7981m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Z8OhKklc8fLZO2i7.2ufFQ7K6hwS7981m"
+    }
+  ],
+  "folder": "KswiTNkhi7u2EqlO",
+  "_id": "Z8OhKklc8fLZO2i7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Z8OhKklc8fLZO2i7"
+}

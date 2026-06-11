@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Adventure",
+  "system": {
+    "description": "Restore SPI when you enter a Myth Hex."
+  },
+  "folder": "y7MFqzLTbgepVOmN",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686418743,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NMJEd7mkTBrgSilV",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NMJEd7mkTBrgSilV"
+}

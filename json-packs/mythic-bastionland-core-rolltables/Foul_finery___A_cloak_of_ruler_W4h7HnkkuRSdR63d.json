@@ -1,0 +1,174 @@
+{
+  "name": "Foul finery - A cloak of…ruler",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Skin",
+      "_id": "Rl1zpYTBEOxiu5md",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.Rl1zpYTBEOxiu5md"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Feathers",
+      "_id": "lZ7Hj3ul12g5sgjy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.lZ7Hj3ul12g5sgjy"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Moss",
+      "_id": "4JvYBgyb9N4Wq80q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.4JvYBgyb9N4Wq80q"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Stomachs",
+      "_id": "ZLiIRKBTpvgzwJuu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.ZLiIRKBTpvgzwJuu"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Bark",
+      "_id": "ze633mONIc04VdMe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.ze633mONIc04VdMe"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Matted hair",
+      "_id": "fYJWBu8jeub4OyJd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W4h7HnkkuRSdR63d.fYJWBu8jeub4OyJd"
+    }
+  ],
+  "folder": "sDw2KLKwv5VWyGbu",
+  "_id": "W4h7HnkkuRSdR63d",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!W4h7HnkkuRSdR63d"
+}

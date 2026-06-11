@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Riddle Knight",
+  "system": {
+    "name": "",
+    "description": "The right words say everything and nothing. A different truth to each ear.",
+    "flavor": "Moon Form",
+    "flavorLabel1": "Body",
+    "flavorLabel2": "Visage"
+  },
+  "folder": "qSMl87r3AWuKQbiY",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686401885,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "fjkTrMc4dg8EQG0S",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fjkTrMc4dg8EQG0S"
+}

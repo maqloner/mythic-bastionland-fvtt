@@ -1,0 +1,174 @@
+{
+  "name": "Non-Visible",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fiery nightmares",
+      "_id": "I8rUUoo7xnju4Kfg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.I8rUUoo7xnju4Kfg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Noise sensitivity",
+      "_id": "yeSu6N4v3HpYXDdI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.yeSu6N4v3HpYXDdI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Distrust of sky",
+      "_id": "pIpWjyOxcSxwzx4y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.pIpWjyOxcSxwzx4y"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "High pain threshold",
+      "_id": "Wl3UedCHwLmJPoKl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.Wl3UedCHwLmJPoKl"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Light sensitivity",
+      "_id": "cevuEd6VBhABRXTI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.cevuEd6VBhABRXTI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Fear of water",
+      "_id": "R12Z2zy74z5zYHia",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3dQnh7uV70P38q7E.R12Z2zy74z5zYHia"
+    }
+  ],
+  "folder": "LyHHZbjPDOjhWxYx",
+  "_id": "3dQnh7uV70P38q7E",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3dQnh7uV70P38q7E"
+}

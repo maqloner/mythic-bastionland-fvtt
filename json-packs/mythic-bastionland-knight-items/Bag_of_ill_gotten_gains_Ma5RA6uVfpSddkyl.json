@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Bag of ill-gotten gains",
+  "system": {
+    "description": "See below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "0G8yeSi5T3dhnEDJ",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686413616,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Ma5RA6uVfpSddkyl",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Ma5RA6uVfpSddkyl"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Where did the armour show itself?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Lake",
+      "_id": "YDRgfn1fgKTJNAZh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.YDRgfn1fgKTJNAZh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Waterfall",
+      "_id": "Mwx7EP483KzfcEnX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.Mwx7EP483KzfcEnX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "River",
+      "_id": "FU9R5B3y6TiaznSx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.FU9R5B3y6TiaznSx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Beach",
+      "_id": "Da2LVtGl6ECEw5FH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.Da2LVtGl6ECEw5FH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Cave",
+      "_id": "0I641OIYQp91IhYo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.0I641OIYQp91IhYo"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Mountain",
+      "_id": "CVVbJaJ83FrbkcAZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c00ansjeVkJLQRoC.CVVbJaJ83FrbkcAZ"
+    }
+  ],
+  "folder": "mZOhhKk8psV0mBmX",
+  "_id": "c00ansjeVkJLQRoC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!c00ansjeVkJLQRoC"
+}

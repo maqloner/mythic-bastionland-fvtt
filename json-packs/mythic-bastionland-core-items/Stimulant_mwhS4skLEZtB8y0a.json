@@ -1,0 +1,34 @@
+{
+  "type": "misc",
+  "name": "Stimulant",
+  "system": {
+    "description": "Enlightening herbal preparations. Used to recover CLA.",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    },
+    "value": 1
+  },
+  "folder": "rIfJpQ6hVAUgQjQj",
+  "_id": "mwhS4skLEZtB8y0a",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146671006,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!mwhS4skLEZtB8y0a"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Points to Water",
+      "_id": "bVZDgG2iiOs3TtLW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.bVZDgG2iiOs3TtLW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Burns before an ambush",
+      "_id": "SZ94BsLZseCfry2B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.SZ94BsLZseCfry2B"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A1 in saltwater",
+      "_id": "74S6GQKdirRdq3rE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.74S6GQKdirRdq3rE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A1 under moonlight",
+      "_id": "nxzDBX7telQ4rOA4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.nxzDBX7telQ4rOA4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A1 in rivers or streams",
+      "_id": "CnbLvRtkLfunj15h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.CnbLvRtkLfunj15h"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Conceals a third eye",
+      "_id": "1PgXnySHkDNYuzHd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OwgTdQjfNSYA9qO3.1PgXnySHkDNYuzHd"
+    }
+  ],
+  "folder": "IJNDJnO8YPBhmzMR",
+  "_id": "OwgTdQjfNSYA9qO3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!OwgTdQjfNSYA9qO3"
+}

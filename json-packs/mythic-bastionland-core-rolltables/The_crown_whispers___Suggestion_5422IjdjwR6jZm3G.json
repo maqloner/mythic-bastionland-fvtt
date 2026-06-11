@@ -1,0 +1,174 @@
+{
+  "name": "The crown whispers - Suggestion",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Raise an army",
+      "_id": "1IneGgK0E2icQUA8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.1IneGgK0E2icQUA8"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Punish the Vassals",
+      "_id": "iieIJiYvsTmPk6Gi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.iieIJiYvsTmPk6Gi"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Listen to the Seers",
+      "_id": "EGaoTraiPD72ZxaY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.EGaoTraiPD72ZxaY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Execute Knights",
+      "_id": "hMw8ij3VCnNN1ltH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.hMw8ij3VCnNN1ltH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Build fortifications",
+      "_id": "ZIHQ48oLYs5f3wd7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.ZIHQ48oLYs5f3wd7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Attack another Realm",
+      "_id": "q4xYCj4RzERcMqWk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5422IjdjwR6jZm3G.q4xYCj4RzERcMqWk"
+    }
+  ],
+  "folder": "9KpLnHtCOEF7zFWR",
+  "_id": "5422IjdjwR6jZm3G",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!5422IjdjwR6jZm3G"
+}

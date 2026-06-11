@@ -1,0 +1,174 @@
+{
+  "name": "Heightened Sense",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Vision (detail)",
+      "_id": "i5jWlyoQhispN95h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.i5jWlyoQhispN95h"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Vision (distance)",
+      "_id": "Ak23SfEyzCM0e0kr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.Ak23SfEyzCM0e0kr"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hearing",
+      "_id": "ah4hhcm3aZ3xuWqD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.ah4hhcm3aZ3xuWqD"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Smell",
+      "_id": "qD0jaNxxXyts3cRd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.qD0jaNxxXyts3cRd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Weather prediction",
+      "_id": "twEiUtODQoAob51t",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.twEiUtODQoAob51t"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Emotional insight",
+      "_id": "rs3omKIqjfWphoa3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3G05ZC18QlQIDliL.rs3omKIqjfWphoa3"
+    }
+  ],
+  "folder": "qATdCmzvfoEz9Ljy",
+  "_id": "3G05ZC18QlQIDliL",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3G05ZC18QlQIDliL"
+}

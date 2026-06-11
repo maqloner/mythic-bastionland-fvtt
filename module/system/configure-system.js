@@ -75,4 +75,12 @@ export const configureSystem = () => {
     type: Boolean,
     default: true
   });
+
+  game.settings.register("mythicbastionland", "MB.ShowHowToUseSystem", {
+    scope: "world",
+    config: false,
+    requiresReload: false,
+    type: Boolean,
+    default: true
+  });
 };

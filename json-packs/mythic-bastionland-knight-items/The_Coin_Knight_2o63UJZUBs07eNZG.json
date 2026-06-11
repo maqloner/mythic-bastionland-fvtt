@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Coin Knight",
+  "system": {
+    "name": "",
+    "description": "In arg or aur, decisions spun. A prize, a life, lost or won",
+    "flavor": "Sound of the flute",
+    "flavorLabel1": "Loved by",
+    "flavorLabel2": "Hated by"
+  },
+  "folder": "QrYDNaG90tAQmyGV",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686436745,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2o63UJZUBs07eNZG",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2o63UJZUBs07eNZG"
+}

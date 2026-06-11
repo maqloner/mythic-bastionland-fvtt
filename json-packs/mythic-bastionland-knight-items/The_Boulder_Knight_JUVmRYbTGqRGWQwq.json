@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Boulder Knight",
+  "system": {
+    "name": "",
+    "description": "A fated charge in mail and stalward plate. Abaited foes await that thundring gait",
+    "flavor": "Fancy armour",
+    "flavorLabel1": "Design",
+    "flavorLabel2": "Quirk"
+  },
+  "folder": "EvsCYdqcBl1UiHTq",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686414639,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "JUVmRYbTGqRGWQwq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JUVmRYbTGqRGWQwq"
+}

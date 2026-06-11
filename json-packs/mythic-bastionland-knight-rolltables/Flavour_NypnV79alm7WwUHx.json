@@ -1,0 +1,174 @@
+{
+  "name": "Flavour",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sour",
+      "_id": "131u2A9JTQLWvU4z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.131u2A9JTQLWvU4z"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Salty",
+      "_id": "5Euz0OJ0GToyqfQt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.5Euz0OJ0GToyqfQt"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fiery",
+      "_id": "hkidRJFDg8b7C7mU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.hkidRJFDg8b7C7mU"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Smoked",
+      "_id": "L2zSKTsWAUYB0kUE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.L2zSKTsWAUYB0kUE"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Burnt",
+      "_id": "DM4VXQZZa6AkJM96",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.DM4VXQZZa6AkJM96"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Chewy",
+      "_id": "qj4ztLh2O2dE5mYH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NypnV79alm7WwUHx.qj4ztLh2O2dE5mYH"
+    }
+  ],
+  "folder": "PblxPKnNlzopi6gW",
+  "_id": "NypnV79alm7WwUHx",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!NypnV79alm7WwUHx"
+}

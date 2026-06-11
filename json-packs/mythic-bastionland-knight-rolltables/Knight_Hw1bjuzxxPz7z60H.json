@@ -1,0 +1,174 @@
+{
+  "name": "Knight",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Found a lost treasure",
+      "_id": "Bke6hbSPVLRIYPcH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.Bke6hbSPVLRIYPcH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Avenged family",
+      "_id": "YZ9zCqzZOp9U3R1A",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.YZ9zCqzZOp9U3R1A"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Won a tournament",
+      "_id": "YDAnCFz97lvxjmIg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.YDAnCFz97lvxjmIg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Escaped capture",
+      "_id": "lUQ4Ip3TgIr5m1Xx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.lUQ4Ip3TgIr5m1Xx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Broke a siege",
+      "_id": "3td5MPjwIK8hzUKJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.3td5MPjwIK8hzUKJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Rescued a loved-one",
+      "_id": "Wjk51uhsItis5LbK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hw1bjuzxxPz7z60H.Wjk51uhsItis5LbK"
+    }
+  ],
+  "folder": "bEtrB2RcYZetna0Y",
+  "_id": "Hw1bjuzxxPz7z60H",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Hw1bjuzxxPz7z60H"
+}

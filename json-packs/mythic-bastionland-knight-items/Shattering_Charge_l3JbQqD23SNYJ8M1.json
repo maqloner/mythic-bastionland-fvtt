@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Shattering Charge",
+  "system": {
+    "description": "Once per day, make a solo mounted charging Attack with a lance. The Attack gains +[[/roll d12 #damage]], Blast, and Gambits caused by the Attack count as strong. The lance is shattered."
+  },
+  "folder": "y7MFqzLTbgepVOmN",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686418611,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "l3JbQqD23SNYJ8M1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l3JbQqD23SNYJ8M1"
+}

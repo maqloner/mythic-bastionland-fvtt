@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Cold stone",
+  "system": {
+    "description": "Can absorb a single ailment from the wielder before vanishing in a burning light",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "5oFy3zoaV89VgISo",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686420491,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Wf4GrgSRi9q6Licv",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Wf4GrgSRi9q6Licv"
+}

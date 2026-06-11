@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Hooded Knight",
+  "system": {
+    "name": "",
+    "description": "As deeds abound in history's script. More slip from time’s forgetful grip",
+    "flavor": "Hood and cloak",
+    "flavorLabel1": "Hood",
+    "flavorLabel2": "Cloak"
+  },
+  "folder": "3lbk4WnOOBYEt8ZE",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686417357,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ZfMGch7CFjXPVsBm",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZfMGch7CFjXPVsBm"
+}

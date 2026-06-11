@@ -1,0 +1,174 @@
+{
+  "name": "A distant realm - Environment",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Desert",
+      "_id": "g5ZPlBIBQ6AxvFCr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.g5ZPlBIBQ6AxvFCr"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Jungle",
+      "_id": "zlMPj319CHjoiNDr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.zlMPj319CHjoiNDr"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Swamp",
+      "_id": "vvLoH1C4HnGomnaV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.vvLoH1C4HnGomnaV"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Mountains",
+      "_id": "kCYnOvneVuie7Mwq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.kCYnOvneVuie7Mwq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Archipelago",
+      "_id": "iyBBVHTkqtEZ3CJ2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.iyBBVHTkqtEZ3CJ2"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tundra",
+      "_id": "em7whP4qhldUIxn3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xiRJnxXKLFC4ocwJ.em7whP4qhldUIxn3"
+    }
+  ],
+  "folder": "DVgfxy53HlORUGd0",
+  "_id": "xiRJnxXKLFC4ocwJ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!xiRJnxXKLFC4ocwJ"
+}

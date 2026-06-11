@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Beakhammer",
+  "system": {
+    "description": "",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "lm0vdv27dvm7P5Op",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686412360,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2NnYlsj4jmuExb19",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2NnYlsj4jmuExb19"
+}

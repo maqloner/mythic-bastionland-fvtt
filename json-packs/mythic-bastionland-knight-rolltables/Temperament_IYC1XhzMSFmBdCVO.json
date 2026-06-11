@@ -1,0 +1,174 @@
+{
+  "name": "Temperament",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Completely silent",
+      "_id": "S6sThkNFO0iYgHTh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.S6sThkNFO0iYgHTh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Highly alert",
+      "_id": "ZvBSGrmURTO4qxY7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.ZvBSGrmURTO4qxY7"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Eternally valiant",
+      "_id": "fMcyseZKs0nDxbNH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.fMcyseZKs0nDxbNH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fierce ([[/roll d8 #damage]] trample)",
+      "_id": "aEu8ii14bRvBsFnZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.aEu8ii14bRvBsFnZ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Loved by other beasts",
+      "_id": "u1uuvkU9DBcd17LZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.u1uuvkU9DBcd17LZ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Perfect sense of direction",
+      "_id": "C9rDGBj7oiTASzse",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IYC1XhzMSFmBdCVO.C9rDGBj7oiTASzse"
+    }
+  ],
+  "folder": "9yd5ybeRtZDrkOpv",
+  "_id": "IYC1XhzMSFmBdCVO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!IYC1XhzMSFmBdCVO"
+}

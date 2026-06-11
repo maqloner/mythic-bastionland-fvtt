@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Destinous Sigil",
+  "system": {
+    "description": "At sunset, etch a cosmic rune somewhere secret on your person. Choose a number. When a die rolls that number you may adjust it to any other value on that die. This can be performed a number of times equal to the chosen number. A different number is chosen next sunset."
+  },
+  "folder": "cTOSzlVSroPXBg8k",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686423324,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "V150Dqtz4lGkVEFB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!V150Dqtz4lGkVEFB"
+}

@@ -1,0 +1,318 @@
+{
+  "name": "FLORA - Form",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Grasses",
+      "_id": "AiLZ05Q7iMHXVpuM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.AiLZ05Q7iMHXVpuM"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Heather",
+      "_id": "GH7tifnPGQ78k9MH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.GH7tifnPGQ78k9MH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Shrubs",
+      "_id": "SrS6hKrruMnB9Zsx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.SrS6hKrruMnB9Zsx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Brambles",
+      "_id": "V5soxM1JHiY7PtUr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.V5soxM1JHiY7PtUr"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Canopy",
+      "_id": "QuBIsKVmPDzjjxvZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.QuBIsKVmPDzjjxvZ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ferns",
+      "_id": "xZiPlQ1HXNP2qBDF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.xZiPlQ1HXNP2qBDF"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Trunks",
+      "_id": "MArBHzz78gWRmop6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.MArBHzz78gWRmop6"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Vines",
+      "_id": "DbiDW4rZWC4ldgyA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.DbiDW4rZWC4ldgyA"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Conifers",
+      "_id": "h4EabqMuDHT8fdSy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.h4EabqMuDHT8fdSy"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Saplings",
+      "_id": "6BSKJqNzDt7ePaN8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.6BSKJqNzDt7ePaN8"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Reeds",
+      "_id": "WtKOfBm7eayA0IQB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.WtKOfBm7eayA0IQB"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Roots",
+      "_id": "GoYOTLtTgzRRdqhc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!azFTy8JKrEq5NM3U.GoYOTLtTgzRRdqhc"
+    }
+  ],
+  "folder": "MTEoIQiTorUuC8qP",
+  "_id": "azFTy8JKrEq5NM3U",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!azFTy8JKrEq5NM3U"
+}

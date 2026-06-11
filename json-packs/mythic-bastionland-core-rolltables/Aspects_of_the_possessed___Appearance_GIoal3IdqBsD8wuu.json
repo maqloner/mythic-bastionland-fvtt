@@ -1,0 +1,174 @@
+{
+  "name": "Aspects of the possessed - Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Swollen head",
+      "_id": "O5jnkcGwXBcP2N0s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.O5jnkcGwXBcP2N0s"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bloody teeth",
+      "_id": "02uEjFZJSXkCw3Xi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.02uEjFZJSXkCw3Xi"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Writhing veins",
+      "_id": "kDgmyE9wg5eidPSB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.kDgmyE9wg5eidPSB"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hot breath",
+      "_id": "edPO0fVHU8wxOUBl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.edPO0fVHU8wxOUBl"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Protruding bones",
+      "_id": "Bl0ggMPidZaR2zJK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.Bl0ggMPidZaR2zJK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Withered tongue",
+      "_id": "MjjoLGwXMZoOtAD3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GIoal3IdqBsD8wuu.MjjoLGwXMZoOtAD3"
+    }
+  ],
+  "folder": "uRy1PHH9vkLzwYYZ",
+  "_id": "GIoal3IdqBsD8wuu",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GIoal3IdqBsD8wuu"
+}

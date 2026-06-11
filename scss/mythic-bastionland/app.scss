@@ -58,12 +58,8 @@
         }
 
         input[type="checkbox"] {
-          --checkbox-checked-color: var(--secondary-color);
-          --checkbox-checkmark-color: var(--text-light-color);
-        }
-
-
-        input[type="checkbox"] {
+          margin: 0;
+          line-height: 0;
           --checkbox-checked-color: var(--secondary-color);
           --checkbox-checkmark-color: var(--secondary-color);
         }

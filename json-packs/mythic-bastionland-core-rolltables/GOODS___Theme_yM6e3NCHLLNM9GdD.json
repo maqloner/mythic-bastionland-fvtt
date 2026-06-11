@@ -1,0 +1,318 @@
+{
+  "name": "GOODS - Theme",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Military",
+      "_id": "kJySebcsovZXewu8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.kJySebcsovZXewu8"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Abundant",
+      "_id": "v7ZYvGftthViO8WH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.v7ZYvGftthViO8WH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Traditional",
+      "_id": "iOfqLWeO4CJmCe5H",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.iOfqLWeO4CJmCe5H"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Specialist",
+      "_id": "osx7I81iKOHqqX6F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.osx7I81iKOHqqX6F"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Industrious",
+      "_id": "b7G7qKppdhlne2yM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.b7G7qKppdhlne2yM"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Innovative",
+      "_id": "mfegYYxgN8dFiGvM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.mfegYYxgN8dFiGvM"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Secretive",
+      "_id": "JC9Ap4U9q1Nym0jA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.JC9Ap4U9q1Nym0jA"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Simple",
+      "_id": "h262LiCOEi10g0k4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.h262LiCOEi10g0k4"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Strong",
+      "_id": "iXFN889tdJWqgx0B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.iXFN889tdJWqgx0B"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Decorated",
+      "_id": "uemnzKZdy2F5ce2K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.uemnzKZdy2F5ce2K"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Fine",
+      "_id": "dAjDtOXjKGhuvfET",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.dAjDtOXjKGhuvfET"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Lucky",
+      "_id": "oGCyR4qUeUKrSJDd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yM6e3NCHLLNM9GdD.oGCyR4qUeUKrSJDd"
+    }
+  ],
+  "folder": "zqAqD9UZgSZFBVBx",
+  "_id": "yM6e3NCHLLNM9GdD",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!yM6e3NCHLLNM9GdD"
+}

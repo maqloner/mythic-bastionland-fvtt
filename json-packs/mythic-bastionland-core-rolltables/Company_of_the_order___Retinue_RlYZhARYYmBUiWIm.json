@@ -1,0 +1,174 @@
+{
+  "name": "Company of the order - Retinue",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "None",
+      "_id": "MRSafHWccZKgvdDd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.MRSafHWccZKgvdDd"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "2 riders 3GD, axes (d8), steeds",
+      "_id": "2xRf0g0SJuyahol3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.2xRf0g0SJuyahol3"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "8 conscripts 2GD, billhooks (d10)",
+      "_id": "MtFs3R0G7OGNORqo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.MtFs3R0G7OGNORqo"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "6 archers 3GD, d6 shortbows",
+      "_id": "QlO4zSAQU40SuCI8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.QlO4zSAQU40SuCI8"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "4 mercenaries 5GD, longaxes (d10)",
+      "_id": "DZDNnR4FzOwICBaW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.DZDNnR4FzOwICBaW"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "3 Scouts 2GD, shortbows (d6)",
+      "_id": "lAjAS9ZqyCV4PPF6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RlYZhARYYmBUiWIm.lAjAS9ZqyCV4PPF6"
+    }
+  ],
+  "folder": "LcAMe4LIz42IDWhj",
+  "_id": "RlYZhARYYmBUiWIm",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RlYZhARYYmBUiWIm"
+}

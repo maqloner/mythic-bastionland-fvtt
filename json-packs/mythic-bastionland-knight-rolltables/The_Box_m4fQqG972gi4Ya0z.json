@@ -1,0 +1,174 @@
+{
+  "name": "The Box",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Silver coffer",
+      "_id": "wp6vWrBVigJ8EJ68",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.wp6vWrBVigJ8EJ68"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ivory cage",
+      "_id": "cP5ExH5b8TjD6AyF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.cP5ExH5b8TjD6AyF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bronze cylinder",
+      "_id": "RNRpMDfQM0OommZ5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.RNRpMDfQM0OommZ5"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Velvet pouch",
+      "_id": "Iu8XjAtDvs2iudVC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.Iu8XjAtDvs2iudVC"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Painted wooden case",
+      "_id": "4DmLYfrUEyIT5SnP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.4DmLYfrUEyIT5SnP"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Gilded clam shell",
+      "_id": "rfsOo1fLLt4K9VTr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!m4fQqG972gi4Ya0z.rfsOo1fLLt4K9VTr"
+    }
+  ],
+  "folder": "xtqW90QSG3Rdi1KS",
+  "_id": "m4fQqG972gi4Ya0z",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!m4fQqG972gi4Ya0z"
+}

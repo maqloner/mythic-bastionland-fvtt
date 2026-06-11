@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Wild Eye",
+  "system": {
+    "description": "Observe a beast in secret. Learn a useful truth about their habitat."
+  },
+  "folder": "6ydZKCT3QWKz8Xyk",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686397988,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qikS7yRmaf2DQpSP",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qikS7yRmaf2DQpSP"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Emerald Knight",
+  "system": {
+    "name": "",
+    "description": "A verdant cloak on sable steed. Neath nature’s veil, yond sight and heed",
+    "flavor": "Hidden action",
+    "flavorLabel1": "Hidden Action",
+    "flavorLabel2": "Heightened Sense"
+  },
+  "folder": "CDwkryzyLW4z1dyK",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686405316,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "wkdbPE0m70jVUKAi",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!wkdbPE0m70jVUKAi"
+}

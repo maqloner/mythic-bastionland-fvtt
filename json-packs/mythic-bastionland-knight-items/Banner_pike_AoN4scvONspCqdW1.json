@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Banner-pike",
+  "system": {
+    "description": "See below, lose [[/roll d6]] SPI if the banner ever falls to the ground in battle",
+    "damage": "d10",
+    "hefty": false,
+    "long": true,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "i53mIHsFkNycKrJS",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686406685,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "AoN4scvONspCqdW1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AoN4scvONspCqdW1"
+}

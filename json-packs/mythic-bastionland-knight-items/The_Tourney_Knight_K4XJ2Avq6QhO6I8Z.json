@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Tourney Knight",
+  "system": {
+    "name": "",
+    "description": "A calling brought a life of combat. Nay a protector, in fact a competitor.",
+    "flavor": "Calling and Helm",
+    "flavorLabel1": "Call to Battle",
+    "flavorLabel2": "Fancy Helm"
+  },
+  "folder": "WnueJk8sruRH8kIR",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398225,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "K4XJ2Avq6QhO6I8Z",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!K4XJ2Avq6QhO6I8Z"
+}

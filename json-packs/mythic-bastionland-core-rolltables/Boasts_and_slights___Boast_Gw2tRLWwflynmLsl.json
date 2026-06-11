@@ -1,0 +1,174 @@
+{
+  "name": "Boasts and slights - Boast",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "I shaped the moon",
+      "_id": "q6tqHz1n34pvXUD6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.q6tqHz1n34pvXUD6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "I set stars in motion",
+      "_id": "NUnmlgJGczYgvYTB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.NUnmlgJGczYgvYTB"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "I awoke the first Spring",
+      "_id": "18s7ifKMvvO408QX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.18s7ifKMvvO408QX"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "I dug out the sea",
+      "_id": "hD1VlmFdxVh9nLME",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.hD1VlmFdxVh9nLME"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "I rendered the trees motionless",
+      "_id": "Z1fZRuDf0pTQbGKX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.Z1fZRuDf0pTQbGKX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "I made the mountains",
+      "_id": "pR5A3VvRyhGp7L9c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Gw2tRLWwflynmLsl.pR5A3VvRyhGp7L9c"
+    }
+  ],
+  "folder": "46BE651SVTfAQdLW",
+  "_id": "Gw2tRLWwflynmLsl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Gw2tRLWwflynmLsl"
+}

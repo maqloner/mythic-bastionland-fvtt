@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Unnoticed Deed",
+  "system": {
+    "description": "Once per day you can retroactively declare an action that you took earlier that day, such as giving instructions to an ally, or gathering a specific piece of information. This cannot be used to acquire new items."
+  },
+  "folder": "3lbk4WnOOBYEt8ZE",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686417474,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "GBELDXZ1chqhXGpe",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!GBELDXZ1chqhXGpe"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Twist",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Cannot shoot in dark",
+      "_id": "nL1DCUuTg01b9YKs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.nL1DCUuTg01b9YKs"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Only you can shoot it",
+      "_id": "v5ZDP2kEhBQhc3zf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.v5ZDP2kEhBQhc3zf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Extremely loud clunk",
+      "_id": "l29LhtJE7AXJ8p4u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.l29LhtJE7AXJ8p4u"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "No bolts required",
+      "_id": "9ieZcMA9fNb9KYkj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.9ieZcMA9fNb9KYkj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Very painful wounds",
+      "_id": "SFFdA0UCWECliWW8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.SFFdA0UCWECliWW8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Can also be used in melee combat",
+      "_id": "UTfWfgJhzQnmiwTx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UpcxERV6cRRlCGoV.UTfWfgJhzQnmiwTx"
+    }
+  ],
+  "folder": "2Lf4vsAlc4IHf2Cf",
+  "_id": "UpcxERV6cRRlCGoV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!UpcxERV6cRRlCGoV"
+}

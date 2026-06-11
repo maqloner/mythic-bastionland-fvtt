@@ -1,0 +1,174 @@
+{
+  "name": "Cunning instincts - Objective",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Regroup later",
+      "_id": "jmFojmG8GeC6calQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.jmFojmG8GeC6calQ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Surprise the enemy",
+      "_id": "aLpfYRX6amUufcLq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.aLpfYRX6amUufcLq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Target a single enemy",
+      "_id": "n1Po8JkTpVerhNNL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.n1Po8JkTpVerhNNL"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Confuse the enemy",
+      "_id": "f69zRVkC3NOXdKq4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.f69zRVkC3NOXdKq4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Set up an advantage",
+      "_id": "NkkUJ0doJgV18iHX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.NkkUJ0doJgV18iHX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Exploit a weak spot",
+      "_id": "cFf5GqVQw4VFv7SZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4p1KUU5ruJOVAROO.cFf5GqVQw4VFv7SZ"
+    }
+  ],
+  "folder": "cgYP9LiNN5pyqTKG",
+  "_id": "4p1KUU5ruJOVAROO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!4p1KUU5ruJOVAROO"
+}

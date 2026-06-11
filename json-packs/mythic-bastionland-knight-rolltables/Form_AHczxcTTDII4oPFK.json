@@ -1,0 +1,174 @@
+{
+  "name": "Form",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Handheld (d6)",
+      "_id": "LyGFFbKF9UP38f1I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.LyGFFbKF9UP38f1I"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Lightwood (d8 hefty)",
+      "_id": "0ZksOfZxtvfjHQeT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.0ZksOfZxtvfjHQeT"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Repeating (d8 long)",
+      "_id": "KKARBXELhwrlEDUF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.KKARBXELhwrlEDUF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Double (2d6 long)",
+      "_id": "YJ9qXysMWYoS12w1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.YJ9qXysMWYoS12w1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Bronze (2d8 slow)",
+      "_id": "wdMvVvexMrZlnnyT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.wdMvVvexMrZlnnyT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ironwood (d10 slow)",
+      "_id": "ISsZ87iAu67IziXY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AHczxcTTDII4oPFK.ISsZ87iAu67IziXY"
+    }
+  ],
+  "folder": "2Lf4vsAlc4IHf2Cf",
+  "_id": "AHczxcTTDII4oPFK",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!AHczxcTTDII4oPFK"
+}

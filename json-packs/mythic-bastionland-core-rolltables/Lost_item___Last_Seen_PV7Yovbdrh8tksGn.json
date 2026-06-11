@@ -1,0 +1,174 @@
+{
+  "name": "Lost item - Last Seen",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sinking into water",
+      "_id": "1k5sGLJmyqM8v7uZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.1k5sGLJmyqM8v7uZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "In the Seat of Power",
+      "_id": "Dc1lNruJXQHNrhMA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.Dc1lNruJXQHNrhMA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Seized by a Seer",
+      "_id": "dWYoZPiBu1NVU2kD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.dWYoZPiBu1NVU2kD"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Buried in the woods",
+      "_id": "7mW24rCmFt0riA06",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.7mW24rCmFt0riA06"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hurled from a peak",
+      "_id": "PZxgAHHx82UWoh7e",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.PZxgAHHx82UWoh7e"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Entombed in a tree",
+      "_id": "1TT5Oqh5vsudo0XY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PV7Yovbdrh8tksGn.1TT5Oqh5vsudo0XY"
+    }
+  ],
+  "folder": "plrccFRLccsxWkkN",
+  "_id": "PV7Yovbdrh8tksGn",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!PV7Yovbdrh8tksGn"
+}

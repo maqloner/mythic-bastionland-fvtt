@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Mule Knight",
+  "system": {
+    "name": "",
+    "description": "A humble beast, no roar or flight. Beneath the grey a show of might",
+    "flavor": "Explosives",
+    "flavorLabel1": "Form Explosion",
+    "flavorLabel2": "Trigger"
+  },
+  "folder": "Pboz62IXdNeYBGHf",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686430474,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "A7VN5ekxs0OL7Lnj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!A7VN5ekxs0OL7Lnj"
+}

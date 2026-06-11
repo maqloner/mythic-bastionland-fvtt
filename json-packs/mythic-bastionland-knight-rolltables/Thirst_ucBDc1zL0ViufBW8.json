@@ -1,0 +1,174 @@
+{
+  "name": "Thirst",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A story",
+      "_id": "V6fGyuVsyEXHXZn1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.V6fGyuVsyEXHXZn1"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A blade",
+      "_id": "GO84XLFKwyBRkrZF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.GO84XLFKwyBRkrZF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A small creature",
+      "_id": "2ebdGkosXcUyJLKx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.2ebdGkosXcUyJLKx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Delicious fruit",
+      "_id": "gCNfJX1vqVjci5Ex",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.gCNfJX1vqVjci5Ex"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Honey",
+      "_id": "XQsRtptwhZxCnckK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.XQsRtptwhZxCnckK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Music",
+      "_id": "b9RKidWIJxNHJ0Z9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ucBDc1zL0ViufBW8.b9RKidWIJxNHJ0Z9"
+    }
+  ],
+  "folder": "zsQH0TgrSqvuzKIK",
+  "_id": "ucBDc1zL0ViufBW8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ucBDc1zL0ViufBW8"
+}

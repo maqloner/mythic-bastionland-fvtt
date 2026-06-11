@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Soothing salve",
+  "system": {
+    "description": "You prepare enough for one use each day, restores VIG, see below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "Ot2dSfwXDbdlYTN1",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686407996,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SWF0F28fD6V8iPOP",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SWF0F28fD6V8iPOP"
+}

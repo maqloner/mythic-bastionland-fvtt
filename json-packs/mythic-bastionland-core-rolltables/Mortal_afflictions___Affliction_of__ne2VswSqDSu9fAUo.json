@@ -1,0 +1,174 @@
+{
+  "name": "Mortal afflictions - Affliction of…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Mind",
+      "_id": "SDVTQkkzjnYdBnau",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.SDVTQkkzjnYdBnau"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Lungs",
+      "_id": "QIrZm2SGlEyTzr1G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.QIrZm2SGlEyTzr1G"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Heart",
+      "_id": "YyxMRJZObN10hS33",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.YyxMRJZObN10hS33"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Back",
+      "_id": "Q8Y6i1xuwcZCsYtb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.Q8Y6i1xuwcZCsYtb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Senses",
+      "_id": "BujqihQZicV7lquw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.BujqihQZicV7lquw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Limbs",
+      "_id": "lyCNUOyfztZFO0zg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ne2VswSqDSu9fAUo.lyCNUOyfztZFO0zg"
+    }
+  ],
+  "folder": "7jEesc9CmVdngief",
+  "_id": "ne2VswSqDSu9fAUo",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ne2VswSqDSu9fAUo"
+}

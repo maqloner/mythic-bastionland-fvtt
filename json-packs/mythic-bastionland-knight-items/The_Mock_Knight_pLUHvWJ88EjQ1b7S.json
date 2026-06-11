@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Mock Knight",
+  "system": {
+    "name": "",
+    "description": "Sycamore, leather, felt and strings. In heartless chest a soul still sings",
+    "flavor": "Unnatural body",
+    "flavorLabel1": "Bones of…",
+    "flavorLabel2": "Skin of…"
+  },
+  "folder": "JwSlq0kHm9krfvwt",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686438815,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pLUHvWJ88EjQ1b7S",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!pLUHvWJ88EjQ1b7S"
+}

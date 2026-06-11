@@ -1,0 +1,174 @@
+{
+  "name": "A shifting form - Body",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Long dragging limbs",
+      "_id": "Q01Z0WPQqZI6Njia",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.Q01Z0WPQqZI6Njia"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Hanging wet jaw",
+      "_id": "QTr6fTswRiNoUWAu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.QTr6fTswRiNoUWAu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Huge black eyes",
+      "_id": "kmOkIiofIa1vP27r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.kmOkIiofIa1vP27r"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Spiked prehensile tail",
+      "_id": "tNgYtT046mKX7AMS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.tNgYtT046mKX7AMS"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Many rows of teeth",
+      "_id": "IaO4HbrvSPlsZupu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.IaO4HbrvSPlsZupu"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Normal pitiful human",
+      "_id": "kTaBl3Pljyvv5MfQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MCrU1vaF8WzSIn06.kTaBl3Pljyvv5MfQ"
+    }
+  ],
+  "folder": "6OONGK9vkKaEkQHW",
+  "_id": "MCrU1vaF8WzSIn06",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MCrU1vaF8WzSIn06"
+}

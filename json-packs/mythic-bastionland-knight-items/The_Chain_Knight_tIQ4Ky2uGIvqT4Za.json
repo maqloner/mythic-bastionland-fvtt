@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Chain Knight",
+  "system": {
+    "name": "",
+    "description": "Born below the soil, below the stone, below all thought. Down, down, further down, of blood and iron wrought",
+    "flavor": "How you reached the surface",
+    "flavorLabel1": "First",
+    "flavorLabel2": "Then"
+  },
+  "folder": "jwjCw9UVmT0AMbpU",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686405873,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tIQ4Ky2uGIvqT4Za",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tIQ4Ky2uGIvqT4Za"
+}

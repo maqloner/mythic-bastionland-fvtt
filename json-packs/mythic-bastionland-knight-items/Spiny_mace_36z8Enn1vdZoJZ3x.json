@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Spiny mace",
+  "system": {
+    "description": "",
+    "damage": "d8",
+    "hefty": true,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "P9tsnQbPwgaF4cnH",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686408369,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "36z8Enn1vdZoJZ3x",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!36z8Enn1vdZoJZ3x"
+}

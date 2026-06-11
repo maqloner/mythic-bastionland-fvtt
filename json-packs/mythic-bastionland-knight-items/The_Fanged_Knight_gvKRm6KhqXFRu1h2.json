@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Fanged Knight",
+  "system": {
+    "name": "",
+    "description": "I can show you why I cannot bare the false smile. Now bare your skin and harden your heart",
+    "flavor": "References in your scroll",
+    "flavorLabel1": "Place",
+    "flavorLabel2": "Ancestor to"
+  },
+  "folder": "IMsyPPOAxYu9Fk7W",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686471167,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "gvKRm6KhqXFRu1h2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gvKRm6KhqXFRu1h2"
+}

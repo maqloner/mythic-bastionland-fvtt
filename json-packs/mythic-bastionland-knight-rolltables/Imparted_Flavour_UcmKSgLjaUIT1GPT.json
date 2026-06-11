@@ -1,0 +1,174 @@
+{
+  "name": "Imparted Flavour",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Floral honey",
+      "_id": "m1iBDqH3L0UsasZO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.m1iBDqH3L0UsasZO"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Smoky salt",
+      "_id": "1CF3m9VR8wyYjlLQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.1CF3m9VR8wyYjlLQ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Toasty almond",
+      "_id": "P4p13BuHGbPLW536",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.P4p13BuHGbPLW536"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ice water",
+      "_id": "q8FlAhumFlqZf6fa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.q8FlAhumFlqZf6fa"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Warm berries",
+      "_id": "dSwxIVA7sBTL1oBi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.dSwxIVA7sBTL1oBi"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Meat dripping",
+      "_id": "5h79Yq8VQGdni2F9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UcmKSgLjaUIT1GPT.5h79Yq8VQGdni2F9"
+    }
+  ],
+  "folder": "H5C0rzRz1I1RKWqw",
+  "_id": "UcmKSgLjaUIT1GPT",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!UcmKSgLjaUIT1GPT"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "coat",
+  "name": "Patchwork mail with hooded cloak",
+  "system": {
+    "description": "Can be used to vanish into a significantly large crowd",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "Vw5V6J2oCCMMSMVq",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686407367,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zn8FPiRQvCaw7QFF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zn8FPiRQvCaw7QFF"
+}

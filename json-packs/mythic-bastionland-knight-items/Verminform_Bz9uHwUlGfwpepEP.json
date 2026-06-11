@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Verminform",
+  "system": {
+    "description": "Take the form of a rat to squeeze into any space that a rat could fit into. You return to your normal form as soon as you are in a space that allows it. You can also speak with rats, who are generally helpful."
+  },
+  "folder": "ssz80Wmnwc6VRyZd",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686475842,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Bz9uHwUlGfwpepEP",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Bz9uHwUlGfwpepEP"
+}

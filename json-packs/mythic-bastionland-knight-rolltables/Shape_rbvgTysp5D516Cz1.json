@@ -1,0 +1,174 @@
+{
+  "name": "Shape",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Towers",
+      "_id": "LWr6EJPCAASYurW7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.LWr6EJPCAASYurW7"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Walls",
+      "_id": "JM3EYp2qcXnJiNe9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.JM3EYp2qcXnJiNe9"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Flowers",
+      "_id": "QG0VovYUnbzSMUIC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.QG0VovYUnbzSMUIC"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ships",
+      "_id": "wb9VJkgAKLUk7su7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.wb9VJkgAKLUk7su7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Water",
+      "_id": "n3WhIMQxeGBsEhpX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.n3WhIMQxeGBsEhpX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Clouds",
+      "_id": "W6Ep4RKQo2PMCC5T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rbvgTysp5D516Cz1.W6Ep4RKQo2PMCC5T"
+    }
+  ],
+  "folder": "857N5uA99I7Y05Ck",
+  "_id": "rbvgTysp5D516Cz1",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!rbvgTysp5D516Cz1"
+}

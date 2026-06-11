@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Leaf Knight",
+  "system": {
+    "name": "",
+    "description": "No greater gift than bough and bush. What more could we ask from this bountiful land?",
+    "flavor": "Why is this stick useful?",
+    "flavorLabel1": "Use",
+    "flavorLabel2": "But…"
+  },
+  "folder": "iiG15oJ7aMDz04hH",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686460521,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xB3EcfRpYLT9jG4G",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xB3EcfRpYLT9jG4G"
+}

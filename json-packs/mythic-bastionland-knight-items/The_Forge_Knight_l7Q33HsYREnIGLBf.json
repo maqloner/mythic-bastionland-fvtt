@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Forge Knight",
+  "system": {
+    "name": "",
+    "description": "Gravid beats on ferrous slab, thick air a crimson sheen. Each mallenstroke leaves scars aworn, apparent and unseen",
+    "flavor": "Scars from the forge",
+    "flavorLabel1": "Visible",
+    "flavorLabel2": "Non-Visible"
+  },
+  "folder": "sSPzabrCNUhiEk6k",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686421776,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "l7Q33HsYREnIGLBf",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l7Q33HsYREnIGLBf"
+}

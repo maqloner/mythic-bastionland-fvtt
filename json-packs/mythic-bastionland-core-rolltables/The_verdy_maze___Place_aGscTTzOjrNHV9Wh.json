@@ -1,0 +1,174 @@
+{
+  "name": "The verdy maze - Place",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Entwined Wall of Trunks and Roots",
+      "_id": "Q61IbrqtZG0vWRMN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.Q61IbrqtZG0vWRMN"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Descent into Damp Earth",
+      "_id": "mTduHwJJEWXsuvqB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.mTduHwJJEWXsuvqB"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mossy Stone Pile",
+      "_id": "B4dqnYvawTlo0otv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.B4dqnYvawTlo0otv"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Leafy Clearing",
+      "_id": "AmWCvhspRwkKZFH4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.AmWCvhspRwkKZFH4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Tree Bridge",
+      "_id": "ko5teZEyBGaurYfI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.ko5teZEyBGaurYfI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Trailway",
+      "_id": "6ZbwZ2UIEnH4VzzV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aGscTTzOjrNHV9Wh.6ZbwZ2UIEnH4VzzV"
+    }
+  ],
+  "folder": "TxkVexr8XRFTK5RA",
+  "_id": "aGscTTzOjrNHV9Wh",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!aGscTTzOjrNHV9Wh"
+}

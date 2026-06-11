@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Violet Knight",
+  "system": {
+    "name": "",
+    "description": "A glow unseen, from neath a dream. Illuminates the fabric’s seam",
+    "flavor": "A steed without a name",
+    "flavorLabel1": "Why?",
+    "flavorLabel2": "A Strange Steed"
+  },
+  "folder": "rGkfLmUvRkZXSGXd",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686443912,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "iPgb0Xo8ztgOxmt2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!iPgb0Xo8ztgOxmt2"
+}

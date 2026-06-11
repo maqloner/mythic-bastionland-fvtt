@@ -5,7 +5,7 @@
   "version": "1.0.9",
   "compatibility": {
     "minimum": "14",
-    "verified": "14.359"
+    "verified": "14.364"
   },
   "url": "https://github.com/maqloner/mythic-bastionland-fvtt",
   "manifest": "https://github.com/maqloner/mythic-bastionland-fvtt/releases/latest/download/system.json",

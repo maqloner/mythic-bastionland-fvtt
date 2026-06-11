@@ -1,0 +1,174 @@
+{
+  "name": "Boneborn forms - Body",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Winged (can fly)",
+      "_id": "1mVXNMw99ZfqA8Gh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.1mVXNMw99ZfqA8Gh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Clawed (can burrow)",
+      "_id": "7HW3G63cZe53pYMW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.7HW3G63cZe53pYMW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Extra bones (VIG 15)",
+      "_id": "BaoWs5BaHmrDheby",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.BaoWs5BaHmrDheby"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bone shield (A1)",
+      "_id": "7WCY79tCKlgjpcat",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.7WCY79tCKlgjpcat"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Piecemeal (immune to ranged attacks)",
+      "_id": "9ihoniLFXmUVUFXV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.9ihoniLFXmUVUFXV"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Sprawling (roll twice on the Attack column)",
+      "_id": "194dWXpA2fsZowI6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Ea0NC7pyfr6r8q9Z.194dWXpA2fsZowI6"
+    }
+  ],
+  "folder": "ZibrFh7AgkepPSdi",
+  "_id": "Ea0NC7pyfr6r8q9Z",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Ea0NC7pyfr6r8q9Z"
+}

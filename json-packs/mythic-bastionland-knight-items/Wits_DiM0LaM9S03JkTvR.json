@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Wits",
+  "system": {
+    "description": "Restore SPI when you avoid being tricked or outwitted."
+  },
+  "folder": "FlkIxiIR7YXiJjrS",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686449613,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "DiM0LaM9S03JkTvR",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DiM0LaM9S03JkTvR"
+}

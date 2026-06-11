@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The War Knight",
+  "system": {
+    "name": "",
+    "description": "Forged and broken in the bloodied mud. Won some, lost some, ever survived.",
+    "flavor": "Military Gear",
+    "flavorLabel1": "Special Polearm",
+    "flavorLabel2": "Helm"
+  },
+  "folder": "5bmoTfAZzVqR9v6C",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399553,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "JNTtgYev5gl00aqd",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JNTtgYev5gl00aqd"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Barbed Knight",
+  "system": {
+    "name": "",
+    "description": "Cruelty can bring a peace. Stone and spikes split into bloom.",
+    "flavor": "Bad Reputation",
+    "flavorLabel1": "Begrudging Ally",
+    "flavorLabel2": "Hated Enemy"
+  },
+  "folder": "dDQDJ8rnxtKEhiLN",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686402978,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "3P7IzWTkArzaJtYB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3P7IzWTkArzaJtYB"
+}

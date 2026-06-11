@@ -1,0 +1,318 @@
+{
+  "name": "BATTLEFIELD - Feature",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "River",
+      "_id": "xzeR6yH7cyESA4zB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.xzeR6yH7cyESA4zB"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ruins",
+      "_id": "vejXuC7tDlCSJGEC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.vejXuC7tDlCSJGEC"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hill",
+      "_id": "yXvJ8ZJIO3xnPV7O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.yXvJ8ZJIO3xnPV7O"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Forest",
+      "_id": "gvph03uMOMFkuZGR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.gvph03uMOMFkuZGR"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lake",
+      "_id": "WGgs4HIbY6dEtsJm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.WGgs4HIbY6dEtsJm"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Outpost",
+      "_id": "AVJv7WyQiHAd2dZx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.AVJv7WyQiHAd2dZx"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Pass",
+      "_id": "09DUUXjm9ujl7uQG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.09DUUXjm9ujl7uQG"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Farm",
+      "_id": "hi4QiRR6TReIi7UT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.hi4QiRR6TReIi7UT"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Trail",
+      "_id": "Qu8BakCwgkIQod9E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.Qu8BakCwgkIQod9E"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Bridge",
+      "_id": "fN5iQCIQp2d1uCg5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.fN5iQCIQp2d1uCg5"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Wall",
+      "_id": "omgIPrgBq8FOsqnP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.omgIPrgBq8FOsqnP"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Dwelling",
+      "_id": "unNUhFto4u1L0P93",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oFzlMLkUSEbpc0go.unNUhFto4u1L0P93"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "oFzlMLkUSEbpc0go",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!oFzlMLkUSEbpc0go"
+}

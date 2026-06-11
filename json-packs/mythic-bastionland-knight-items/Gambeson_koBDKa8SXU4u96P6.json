@@ -1,0 +1,31 @@
+{
+  "type": "coat",
+  "name": "Gambeson",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "WnueJk8sruRH8kIR",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.346",
+    "createdTime": 1707686398489,
+    "modifiedTime": 1707686494100,
+    "lastModifiedBy": "0wOTYIb2YCmPwFdU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "koBDKa8SXU4u96P6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0wOTYIb2YCmPwFdU": 3
+  },
+  "_key": "!items!koBDKa8SXU4u96P6"
+}

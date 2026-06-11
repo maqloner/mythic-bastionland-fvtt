@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Gallows Knight",
+  "system": {
+    "name": "",
+    "description": "In dregs of dawn the damnlings sway. For famine’s brood a gifted prey",
+    "flavor": "Salvaged armour",
+    "flavorLabel1": "Type",
+    "flavorLabel2": "Detail"
+  },
+  "folder": "t22VP4Og2RPTyAl6",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686425165,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WSf3ghcMG1aI2iIl",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WSf3ghcMG1aI2iIl"
+}

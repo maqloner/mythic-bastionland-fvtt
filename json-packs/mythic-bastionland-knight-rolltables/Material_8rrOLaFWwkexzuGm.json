@@ -1,0 +1,174 @@
+{
+  "name": "Material",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burned mail",
+      "_id": "P2X3C8Sa4J1dVhNR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.P2X3C8Sa4J1dVhNR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Blackened bronze",
+      "_id": "1RCEoMOjaYnFIF7v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.1RCEoMOjaYnFIF7v"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bloody gambeson",
+      "_id": "bFqYnoKP1QP3OGCM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.bFqYnoKP1QP3OGCM"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Jagged iron strips",
+      "_id": "wC5ZzIZKJlJj0mV7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.wC5ZzIZKJlJj0mV7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Spiked leather",
+      "_id": "xX5ULRbEXOsMsyJ0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.xX5ULRbEXOsMsyJ0"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Barbed scales",
+      "_id": "MVVQuBHPoK6fAcR9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8rrOLaFWwkexzuGm.MVVQuBHPoK6fAcR9"
+    }
+  ],
+  "folder": "8aJXWR8vulaiB2zv",
+  "_id": "8rrOLaFWwkexzuGm",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!8rrOLaFWwkexzuGm"
+}

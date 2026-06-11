@@ -1,0 +1,174 @@
+{
+  "name": "Whims of the dust hag - The Catch",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Immediately",
+      "_id": "liKoYoRh5Nz4OvIS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.liKoYoRh5Nz4OvIS"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Of a very specific type",
+      "_id": "3Kaq1X5supLKjnmd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.3Kaq1X5supLKjnmd"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "At the cost of another",
+      "_id": "jwXSoXTHzvswhWiX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.jwXSoXTHzvswhWiX"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "No amount is enough",
+      "_id": "u17n2gqe544NSnls",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.u17n2gqe544NSnls"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "In another, distant lair",
+      "_id": "QAJiDTyAbYCZsnxN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.QAJiDTyAbYCZsnxN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Also the Seat of Power",
+      "_id": "8kKvM8PYIk8OKTyt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7duTe99YKX3mNws4.8kKvM8PYIk8OKTyt"
+    }
+  ],
+  "folder": "U5e1au4j1s5OAlDa",
+  "_id": "7duTe99YKX3mNws4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!7duTe99YKX3mNws4"
+}

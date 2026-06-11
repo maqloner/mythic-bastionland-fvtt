@@ -1,0 +1,174 @@
+{
+  "name": "But",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Eats anything",
+      "_id": "fWvvLALaQxH1PSsp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.fWvvLALaQxH1PSsp"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Is beautiful",
+      "_id": "f2Q5legQRBn5w7Fo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.f2Q5legQRBn5w7Fo"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Always hears an ambush coming",
+      "_id": "4K4VKh3jDxgo3zpI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.4K4VKh3jDxgo3zpI"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Always knows which way is north",
+      "_id": "gSk4Jay9nTtODlZ6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.gSk4Jay9nTtODlZ6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hums tunefully",
+      "_id": "yH3xuXcGvxWBxR12",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.yH3xuXcGvxWBxR12"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Is very tough (A1)",
+      "_id": "xdVnvBBKZ6MWuGUA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9REadRSYgtpTOafO.xdVnvBBKZ6MWuGUA"
+    }
+  ],
+  "folder": "k11PWuPaEoSv3ujk",
+  "_id": "9REadRSYgtpTOafO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!9REadRSYgtpTOafO"
+}

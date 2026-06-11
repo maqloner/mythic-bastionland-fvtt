@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Constellations",
+  "system": {
+    "description": "Restore SPI when you get tell somebody new about the stars as you point to them."
+  },
+  "folder": "CZGNXi4Zc78N50CQ",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686445931,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qMSi3N0ARptExwjm",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qMSi3N0ARptExwjm"
+}

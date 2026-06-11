@@ -1,0 +1,174 @@
+{
+  "name": "Treasures of the hydra - Descriptor",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Golden",
+      "_id": "xAXQbNofaePBQnWt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.xAXQbNofaePBQnWt"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bejewelled",
+      "_id": "sGJK3ivYWGeIH9DU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.sGJK3ivYWGeIH9DU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Engraved",
+      "_id": "pYMJSnnPXobsQr89",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.pYMJSnnPXobsQr89"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Luminous",
+      "_id": "sYzm9dSAhUnOMY3Y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.sYzm9dSAhUnOMY3Y"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Ancient",
+      "_id": "mzdWTB4VSjUYX7FR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.mzdWTB4VSjUYX7FR"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Runic",
+      "_id": "xVxTIEOnY2KqfmjZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MrOMeQ7REZCDbyky.xVxTIEOnY2KqfmjZ"
+    }
+  ],
+  "folder": "lM2HenXBLlPvyIKv",
+  "_id": "MrOMeQ7REZCDbyky",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MrOMeQ7REZCDbyky"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "The song of the axe - Strike Sound",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Thunderclap",
+      "_id": "jHTp41YYFBwcDUn0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.jHTp41YYFBwcDUn0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Deep rumble",
+      "_id": "LJQDi4j9y9yjKfDF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.LJQDi4j9y9yjKfDF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Shattering stone",
+      "_id": "3GTCg4kPvdhmWqcA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.3GTCg4kPvdhmWqcA"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bell toll",
+      "_id": "RbQ3kYGoP5MEcHMe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.RbQ3kYGoP5MEcHMe"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Echoing boom",
+      "_id": "uQCvp9zt4PG9Uaml",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.uQCvp9zt4PG9Uaml"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Crashing wave",
+      "_id": "UVLo8n9kvWm8JrwR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hU6yf43AHraEvJxt.UVLo8n9kvWm8JrwR"
+    }
+  ],
+  "folder": "yKS9ouTxHqgjzGgY",
+  "_id": "hU6yf43AHraEvJxt",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hU6yf43AHraEvJxt"
+}

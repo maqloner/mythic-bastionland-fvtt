@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Humiliation",
+  "system": {
+    "description": "<p><em>A most dolorous stroke</em></p><p>Roll [[/roll 1d6]]</p><p>When you achieve revenge, if your max GD is 12 or less, increase it by [[/roll 1d6]].</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "xziHCxFGyNS4ukZy",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.9",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1781193217949,
+    "lastModifiedBy": "E2PofAnebKy77kP8"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!xziHCxFGyNS4ukZy"
+}

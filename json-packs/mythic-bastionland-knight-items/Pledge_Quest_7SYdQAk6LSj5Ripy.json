@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Pledge Quest",
+  "system": {
+    "description": "Swear a quest to somebody who cares. Until you complete the quest you cannot regain lost GD, but get +[[/roll d12 #damage]] on all attacks against those who stand in your way. Lose [[/roll d12]] SPI if you abandon the quest."
+  },
+  "folder": "5oFy3zoaV89VgISo",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686419783,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "7SYdQAk6LSj5Ripy",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7SYdQAk6LSj5Ripy"
+}

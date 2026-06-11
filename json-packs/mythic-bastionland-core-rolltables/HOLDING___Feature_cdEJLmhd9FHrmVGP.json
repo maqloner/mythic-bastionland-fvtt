@@ -1,0 +1,318 @@
+{
+  "name": "HOLDING - Feature",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Turrets",
+      "_id": "Ba2761XKD1Jpm18s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.Ba2761XKD1Jpm18s"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Tower",
+      "_id": "s0JQKiAxzt29LEbb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.s0JQKiAxzt29LEbb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Wall",
+      "_id": "lmJL28t79dbYS2Yj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.lmJL28t79dbYS2Yj"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Battlements",
+      "_id": "x0Gk43lx5EGY31Lk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.x0Gk43lx5EGY31Lk"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Citadel",
+      "_id": "eCpIVMOTaYH44Xdf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.eCpIVMOTaYH44Xdf"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Gate",
+      "_id": "UEzzZxdCoHPTTXiF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.UEzzZxdCoHPTTXiF"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Spire",
+      "_id": "gWYs34Jxh6RhrLkv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.gWYs34Jxh6RhrLkv"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Dome",
+      "_id": "s9a5MwpvsOxCuzoA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.s9a5MwpvsOxCuzoA"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Beacons",
+      "_id": "Q1KJb3SZC6ARVEtc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.Q1KJb3SZC6ARVEtc"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Bridge",
+      "_id": "JTcpk7eDFOZvI194",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.JTcpk7eDFOZvI194"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Pillars",
+      "_id": "StKUMaAWn2ZeGphA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.StKUMaAWn2ZeGphA"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Moat",
+      "_id": "E8u6eO5syzdKNuew",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cdEJLmhd9FHrmVGP.E8u6eO5syzdKNuew"
+    }
+  ],
+  "folder": "zqAqD9UZgSZFBVBx",
+  "_id": "cdEJLmhd9FHrmVGP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!cdEJLmhd9FHrmVGP"
+}

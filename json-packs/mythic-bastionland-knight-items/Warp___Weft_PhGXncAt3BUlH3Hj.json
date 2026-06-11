@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Warp & Weft",
+  "system": {
+    "description": "Swap the positions of an object you are holding and another object you can see. They must be of a similar size and shape, such as two swords."
+  },
+  "folder": "7wiRZUPjQmHoGHQL",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686466646,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "PhGXncAt3BUlH3Hj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PhGXncAt3BUlH3Hj"
+}

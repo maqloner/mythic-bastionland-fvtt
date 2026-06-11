@@ -1,0 +1,31 @@
+{
+  "type": "shield",
+  "name": "Battered tower shield",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "damage": "d4",
+    "equipped": false
+  },
+  "folder": "lm0vdv27dvm7P5Op",
+  "img": "systems/mythicbastionland/tokens/items/shield.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686412456,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VZgYtIgkWVjekcgp",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VZgYtIgkWVjekcgp"
+}

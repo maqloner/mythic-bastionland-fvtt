@@ -1,0 +1,318 @@
+{
+  "name": "LAND - Landscape",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Marsh",
+      "_id": "vELqQdrWbztKJ8wW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.vELqQdrWbztKJ8wW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Heath",
+      "_id": "3pWESqgKmlD93YPW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.3pWESqgKmlD93YPW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Crags",
+      "_id": "AKlbOGwaPDqkOc2Z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.AKlbOGwaPDqkOc2Z"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Peaks",
+      "_id": "dJIQbnoJ2MMMW0tM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.dJIQbnoJ2MMMW0tM"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Forest",
+      "_id": "4mC26glwdmCZR7IQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.4mC26glwdmCZR7IQ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Valley",
+      "_id": "cjJ6DMXdnCSCXsoT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.cjJ6DMXdnCSCXsoT"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Hills",
+      "_id": "EeXnoRnwonfo5Q1J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.EeXnoRnwonfo5Q1J"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Meadow",
+      "_id": "aakmfyM4pGJlF8Aq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.aakmfyM4pGJlF8Aq"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Bog",
+      "_id": "Byld8BRMTONPZUqi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.Byld8BRMTONPZUqi"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Lakes",
+      "_id": "8fyl2MJNjSdTkXGt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.8fyl2MJNjSdTkXGt"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Glades",
+      "_id": "vkUmnlXZS2vv3UDw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.vkUmnlXZS2vv3UDw"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Plain",
+      "_id": "3OQRKsOFHFeeq3Q5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cbyl5hC6KcTUlQnl.3OQRKsOFHFeeq3Q5"
+    }
+  ],
+  "folder": "MTEoIQiTorUuC8qP",
+  "_id": "cbyl5hC6KcTUlQnl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!cbyl5hC6KcTUlQnl"
+}

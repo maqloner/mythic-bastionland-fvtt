@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Vigilance",
+  "system": {
+    "description": "Restore SPI when you prevent a betrayal."
+  },
+  "folder": "iZzpjKeO1dP9xqEQ",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686440310,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "QGU1WX3Ey2sBVAND",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QGU1WX3Ey2sBVAND"
+}

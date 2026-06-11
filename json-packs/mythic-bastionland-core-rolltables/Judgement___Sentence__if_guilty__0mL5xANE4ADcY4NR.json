@@ -1,0 +1,174 @@
+{
+  "name": "Judgement - Sentence (if guilty)",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Immediate execution",
+      "_id": "zGqMX2LqlIg4jKrh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.zGqMX2LqlIg4jKrh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Stripped of all possessions",
+      "_id": "DtpMkvf6Od6MimLf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.DtpMkvf6Od6MimLf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Life imprisonment",
+      "_id": "GBlXSxKNbzX9FJAa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.GBlXSxKNbzX9FJAa"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Stripped of knighthood",
+      "_id": "hJG03LVL1ZBmpq5X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.hJG03LVL1ZBmpq5X"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Execution next Season",
+      "_id": "Jd78S5VqBbWhQtSy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.Jd78S5VqBbWhQtSy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Just a warning",
+      "_id": "Ik7B7Oa5ktNx6nJE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!0mL5xANE4ADcY4NR.Ik7B7Oa5ktNx6nJE"
+    }
+  ],
+  "folder": "D4smMpiFC1ANa0Ty",
+  "_id": "0mL5xANE4ADcY4NR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!0mL5xANE4ADcY4NR"
+}

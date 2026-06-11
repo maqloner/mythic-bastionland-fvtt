@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Tear",
+  "system": {
+    "description": "<p><em>Something taken in violent struggle</em></p><p>Roll [[/roll 1d6]]</p><p>1: Nose, 2: Ear, 3: Finger 4: Thumb, 5: Eye, 6: Chunk of Scalp</p><p>When you get patched up, if your max GD is 8 or less, increase it by [[/roll d6]]</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "1oGWgivha3gFL1XP",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!1oGWgivha3gFL1XP"
+}

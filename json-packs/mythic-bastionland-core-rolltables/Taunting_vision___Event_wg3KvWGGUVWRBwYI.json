@@ -1,0 +1,174 @@
+{
+  "name": "Taunting vision - Event",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burned",
+      "_id": "oJU1POTPr4zd7j4i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.oJU1POTPr4zd7j4i"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Crowned",
+      "_id": "3DuazFYS7xMFO1TO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.3DuazFYS7xMFO1TO"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Drowned",
+      "_id": "XKAW6RLi3VJ1UMrT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.XKAW6RLi3VJ1UMrT"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Satisfied",
+      "_id": "rA7UpnewpGQbZ7RA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.rA7UpnewpGQbZ7RA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Condemned",
+      "_id": "N3kKtDVQA4tlJySd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.N3kKtDVQA4tlJySd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Celebrated",
+      "_id": "iEBKfN3w1s6nfWxu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wg3KvWGGUVWRBwYI.iEBKfN3w1s6nfWxu"
+    }
+  ],
+  "folder": "XJOCB4s8yi4ZCdwm",
+  "_id": "wg3KvWGGUVWRBwYI",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!wg3KvWGGUVWRBwYI"
+}

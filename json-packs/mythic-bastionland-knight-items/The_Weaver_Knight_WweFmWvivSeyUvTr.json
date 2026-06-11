@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Weaver Knight",
+  "system": {
+    "name": "",
+    "description": "This and that, might just be that and this. As today were tomorrow, soon yesterday, no truth lies set in stone",
+    "flavor": "Unusual thrown weapon",
+    "flavorLabel1": "Design",
+    "flavorLabel2": "Ability"
+  },
+  "folder": "7wiRZUPjQmHoGHQL",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686466472,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WweFmWvivSeyUvTr",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WweFmWvivSeyUvTr"
+}

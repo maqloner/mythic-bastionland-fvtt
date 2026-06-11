@@ -1,0 +1,174 @@
+{
+  "name": "Forms of the beast - Adornments",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Countless tails",
+      "_id": "RBqZbIp4J8Vdm0WD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.RBqZbIp4J8Vdm0WD"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Chitinous plates",
+      "_id": "yEqnxACdUTW9Aj0o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.yEqnxACdUTW9Aj0o"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Multiple rows of teeth",
+      "_id": "kX3zbsAa2fA9k4ho",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.kX3zbsAa2fA9k4ho"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Six limbs",
+      "_id": "ED5vpeeqzlDxTs29",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.ED5vpeeqzlDxTs29"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Psychedelic colouring",
+      "_id": "KlI4k5I6DZgBfqMn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.KlI4k5I6DZgBfqMn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Antlers and tusks",
+      "_id": "STEEcgCnL33lm11A",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!w7Rs90pKdDNmNLDT.STEEcgCnL33lm11A"
+    }
+  ],
+  "folder": "BhqaNL3l9A8X5MXq",
+  "_id": "w7Rs90pKdDNmNLDT",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!w7Rs90pKdDNmNLDT"
+}

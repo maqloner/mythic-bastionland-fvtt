@@ -1,0 +1,174 @@
+{
+  "name": "Forged by",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Battling a monster",
+      "_id": "aAxHV5VeqIRZaBxA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.aAxHV5VeqIRZaBxA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A raided village",
+      "_id": "IC9xvyvtcoLaPaZe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.IC9xvyvtcoLaPaZe"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rescuing the helpless",
+      "_id": "szZnkm9eJYu6sc7y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.szZnkm9eJYu6sc7y"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Killing a tyrant",
+      "_id": "ViGRvSjE3Z434Pse",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.ViGRvSjE3Z434Pse"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A long journey",
+      "_id": "CXFwQhb6Jv7XFxcp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.CXFwQhb6Jv7XFxcp"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Facing temptation",
+      "_id": "5jHGttP1p4UX8bwo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!g8ImVyiHc6QhseJH.5jHGttP1p4UX8bwo"
+    }
+  ],
+  "folder": "59tmqVyUck2H3CQ6",
+  "_id": "g8ImVyiHc6QhseJH",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!g8ImVyiHc6QhseJH"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Scars from the last life - Description",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Pierced",
+      "_id": "4Uk7tQLjiN76OaqP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.4Uk7tQLjiN76OaqP"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Burned",
+      "_id": "0XIBOcpqnVO2eIzf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.0XIBOcpqnVO2eIzf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Crushed",
+      "_id": "Am02XUQkGEIOUhVw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.Am02XUQkGEIOUhVw"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Whipped",
+      "_id": "WbJYWau7XkOJZbjo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.WbJYWau7XkOJZbjo"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Mangled",
+      "_id": "pRJ54wh23dEWGUmY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.pRJ54wh23dEWGUmY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Sliced",
+      "_id": "siyf1QZWWSKC3sat",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WYJvdI1DgehjfxhX.siyf1QZWWSKC3sat"
+    }
+  ],
+  "folder": "KswiTNkhi7u2EqlO",
+  "_id": "WYJvdI1DgehjfxhX",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WYJvdI1DgehjfxhX"
+}

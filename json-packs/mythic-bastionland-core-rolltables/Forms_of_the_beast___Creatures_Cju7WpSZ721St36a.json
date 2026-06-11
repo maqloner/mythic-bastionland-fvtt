@@ -1,0 +1,174 @@
+{
+  "name": "Forms of the beast - Creatures",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Stag and fish",
+      "_id": "MnwSkkv9GKPtVKcl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.MnwSkkv9GKPtVKcl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Wolf and beetle",
+      "_id": "VbAjjxjIwnITrm3z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.VbAjjxjIwnITrm3z"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Panther and ox",
+      "_id": "PW7Jl5BcIzSo8nXc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.PW7Jl5BcIzSo8nXc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Lion and ram",
+      "_id": "3aoNa9FfLKRtFWuz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.3aoNa9FfLKRtFWuz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Crocodile and fox",
+      "_id": "wpA0tivUZRaCr1nC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.wpA0tivUZRaCr1nC"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Goat and serpent",
+      "_id": "X4LbW7q92CZ3SgYa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Cju7WpSZ721St36a.X4LbW7q92CZ3SgYa"
+    }
+  ],
+  "folder": "BhqaNL3l9A8X5MXq",
+  "_id": "Cju7WpSZ721St36a",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Cju7WpSZ721St36a"
+}

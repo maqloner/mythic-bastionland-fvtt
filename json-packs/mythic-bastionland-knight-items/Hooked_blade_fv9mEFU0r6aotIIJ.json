@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Hooked blade",
+  "system": {
+    "description": "",
+    "damage": "d8",
+    "hefty": true,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "yrFB9Y1xauyuWopo",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686452192,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "fv9mEFU0r6aotIIJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fv9mEFU0r6aotIIJ"
+}

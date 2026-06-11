@@ -1,0 +1,174 @@
+{
+  "name": "Trigger",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Lying to you about their identity",
+      "_id": "GbINz10keMPMPyBn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.GbINz10keMPMPyBn"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Giving false witness to you.",
+      "_id": "kaXL5s0Elc7eL9rn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.kaXL5s0Elc7eL9rn"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Giving you malicious advice.",
+      "_id": "UdjqzN4Ok8A9qvvi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.UdjqzN4Ok8A9qvvi"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Lying while bearing the shield.",
+      "_id": "mU3zvh0CYaJQ01N5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.mU3zvh0CYaJQ01N5"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Omitting key information to you.",
+      "_id": "uI6zF0rSE0xdbjdp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.uI6zF0rSE0xdbjdp"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lying to you about their intent.",
+      "_id": "B8OZ7AmLs6lIjMqg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eVBnSS8kB3k70nZj.B8OZ7AmLs6lIjMqg"
+    }
+  ],
+  "folder": "Sbb6YQbn6xn5MosW",
+  "_id": "eVBnSS8kB3k70nZj",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!eVBnSS8kB3k70nZj"
+}

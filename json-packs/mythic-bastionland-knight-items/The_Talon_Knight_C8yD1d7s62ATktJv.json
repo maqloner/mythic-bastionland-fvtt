@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Talon Knight",
+  "system": {
+    "name": "",
+    "description": "The claw is nothing without the eye. The eye is nothing without the wing.",
+    "flavor": "Loyal Bird",
+    "flavorLabel1": "Breed",
+    "flavorLabel2": "Special Training"
+  },
+  "folder": "v9yMud17KwgIF9EQ",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686402434,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "C8yD1d7s62ATktJv",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!C8yD1d7s62ATktJv"
+}

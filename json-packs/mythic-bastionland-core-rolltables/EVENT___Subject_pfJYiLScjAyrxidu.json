@@ -1,0 +1,318 @@
+{
+  "name": "EVENT - Subject",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Reserves",
+      "_id": "FPawy1mFpY9bc8i4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.FPawy1mFpY9bc8i4"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Morale",
+      "_id": "X2zqUYa2tOZu0EIf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.X2zqUYa2tOZu0EIf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Weather",
+      "_id": "a93hfkfAfY8HCNIx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.a93hfkfAfY8HCNIx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Terrain",
+      "_id": "I4HEVqWpctvmL4LX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.I4HEVqWpctvmL4LX"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Strategy",
+      "_id": "DRWffaPGPObraNQy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.DRWffaPGPObraNQy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Discipline",
+      "_id": "i81hC2WYZLD4GXor",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.i81hC2WYZLD4GXor"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Animal",
+      "_id": "sT2ICbrEiFMAeouX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.sT2ICbrEiFMAeouX"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Opportunists",
+      "_id": "6ExM44nFOJVX0DRO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.6ExM44nFOJVX0DRO"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Deception",
+      "_id": "GFEDOfV8z48kpqb6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.GFEDOfV8z48kpqb6"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Leader",
+      "_id": "DVssftB3j1eKsGgl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.DVssftB3j1eKsGgl"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Loot",
+      "_id": "pAsABtvNjTRHlgtA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.pAsABtvNjTRHlgtA"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Weapons",
+      "_id": "Bc3RDwA4pgnFoGsY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pfJYiLScjAyrxidu.Bc3RDwA4pgnFoGsY"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "pfJYiLScjAyrxidu",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pfJYiLScjAyrxidu"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Blessings of the bull - First",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Drinks tastes better",
+      "_id": "YfEbuyVumf7B9hrl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.YfEbuyVumf7B9hrl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bread stays warm",
+      "_id": "DfvaQOq8IbM6ZbRb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.DfvaQOq8IbM6ZbRb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Heavenly dreams",
+      "_id": "CUAJKYvl0UbQoX9O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.CUAJKYvl0UbQoX9O"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "The sick are healed",
+      "_id": "Nk7fWmAKF2US8q0J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.Nk7fWmAKF2US8q0J"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wounds are mended",
+      "_id": "CmpJ1CYvlraeBTSs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.CmpJ1CYvlraeBTSs"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The wind smells great",
+      "_id": "K0S56qmAPuGaUROt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LyLIpQPDNHryQHhG.K0S56qmAPuGaUROt"
+    }
+  ],
+  "folder": "QmK2E7F4JEgjWChs",
+  "_id": "LyLIpQPDNHryQHhG",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!LyLIpQPDNHryQHhG"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Heightened Sharpness",
+  "system": {
+    "description": "When you perform a Strong Gambit with a bladed weapon you may choose one of the following as the effect, the target receiving a Save as normal: • Take a limb • Take a head if their GD is 0"
+  },
+  "folder": "cHvlPDp0zpGbZWgA",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686432834,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1Tz6Ajytbk2huGiR",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1Tz6Ajytbk2huGiR"
+}

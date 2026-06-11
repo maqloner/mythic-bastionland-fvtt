@@ -1,0 +1,174 @@
+{
+  "name": "Alcohol",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burning Wine",
+      "_id": "2S3VHaYHavXCCxNt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.2S3VHaYHavXCCxNt"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Strong Mead",
+      "_id": "ZYi9nuyT0FWdpWlw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.ZYi9nuyT0FWdpWlw"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Spiced Ale",
+      "_id": "lPlEskOm9aE0btKt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.lPlEskOm9aE0btKt"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sour Milk",
+      "_id": "4LjYY16rdkTaDazN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.4LjYY16rdkTaDazN"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fermented Vegetable",
+      "_id": "wxIm8slsxHDzylRN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.wxIm8slsxHDzylRN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Blood Brew",
+      "_id": "mD1xDMWQ7SfMabe2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CjMAnqjssRkh1Vin.mD1xDMWQ7SfMabe2"
+    }
+  ],
+  "folder": "sC8E9YbeAxIaKgWb",
+  "_id": "CjMAnqjssRkh1Vin",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!CjMAnqjssRkh1Vin"
+}

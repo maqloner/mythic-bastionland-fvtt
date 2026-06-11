@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Lance",
+  "system": {
+    "description": "count as hefty if mounted",
+    "damage": "d10",
+    "hefty": false,
+    "long": true,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "u0SfKqvJqBKkhKtJ",
+  "_id": "0csccAkFrxeYJ7mR",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146668558,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0csccAkFrxeYJ7mR"
+}

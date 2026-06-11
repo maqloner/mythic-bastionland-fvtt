@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Bond Breaker",
+  "system": {
+    "description": "Strike a chain or lock with a metal weapon. Both shatter loudly."
+  },
+  "folder": "i45qsoWiWyChqN9y",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686456972,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6IhRlIlATAOsahhV",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6IhRlIlATAOsahhV"
+}

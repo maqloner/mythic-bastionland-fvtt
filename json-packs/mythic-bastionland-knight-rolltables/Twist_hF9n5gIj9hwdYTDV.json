@@ -1,0 +1,174 @@
+{
+  "name": "Twist",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ghosts!",
+      "_id": "NvxrPKksZdQT8XN0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.NvxrPKksZdQT8XN0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Long-lost twins!",
+      "_id": "7yInZLWoS7HDNT0j",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.7yInZLWoS7HDNT0j"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Memory loss!",
+      "_id": "CTazwDmQBZyBwrri",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.CTazwDmQBZyBwrri"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Reincarnation!",
+      "_id": "gwFhoqHnU1pg1vVc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.gwFhoqHnU1pg1vVc"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Talking animals!",
+      "_id": "ZaUavhKeDUBwZVTI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.ZaUavhKeDUBwZVTI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Everybody dies!",
+      "_id": "29LIFx0lNrar1CVH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hF9n5gIj9hwdYTDV.29LIFx0lNrar1CVH"
+    }
+  ],
+  "folder": "DdRnhuXx69tKvcHk",
+  "_id": "hF9n5gIj9hwdYTDV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hF9n5gIj9hwdYTDV"
+}

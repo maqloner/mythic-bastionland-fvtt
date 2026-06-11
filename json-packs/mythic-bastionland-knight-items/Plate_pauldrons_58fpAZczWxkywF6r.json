@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Plate pauldrons",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "cHvlPDp0zpGbZWgA",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686433459,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "58fpAZczWxkywF6r",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!58fpAZczWxkywF6r"
+}

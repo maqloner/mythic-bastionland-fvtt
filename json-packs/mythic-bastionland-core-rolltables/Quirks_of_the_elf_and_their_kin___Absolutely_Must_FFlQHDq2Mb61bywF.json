@@ -1,0 +1,174 @@
+{
+  "name": "Quirks of the elf and their kin - Absolutely Must",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Extinguish fires",
+      "_id": "9waJCoAYe829YwxS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.9waJCoAYe829YwxS"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Kill the elderly",
+      "_id": "DmfMIsc6FGTxfSVA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.DmfMIsc6FGTxfSVA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Scare children",
+      "_id": "mHJbdwTzZR4CMPGk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.mHJbdwTzZR4CMPGk"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Steal jewellery",
+      "_id": "9S0lUUSL84NWlrXB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.9S0lUUSL84NWlrXB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Consume food seen",
+      "_id": "zp4X33cemw4Ga8k6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.zp4X33cemw4Ga8k6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Punish the ugly",
+      "_id": "39LvxhNzqxOVgakR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FFlQHDq2Mb61bywF.39LvxhNzqxOVgakR"
+    }
+  ],
+  "folder": "EtH5Axhg1rM4xBux",
+  "_id": "FFlQHDq2Mb61bywF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!FFlQHDq2Mb61bywF"
+}

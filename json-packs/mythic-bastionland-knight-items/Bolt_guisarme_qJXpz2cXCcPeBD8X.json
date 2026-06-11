@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Bolt-guisarme",
+  "system": {
+    "description": "Long in melee or slow in ranged",
+    "damage": "d10",
+    "hefty": false,
+    "long": true,
+    "slow": true,
+    "equipped": false
+  },
+  "folder": "sSPzabrCNUhiEk6k",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686422240,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qJXpz2cXCcPeBD8X",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qJXpz2cXCcPeBD8X"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "The Seal Knight",
+  "type": "RollTable",
+  "folder": null,
+  "sorting": "a",
+  "_id": "E1GY9U6TYw9YKhl1",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691525,
+    "modifiedTime": 1756663691525,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "_key": "!folders!E1GY9U6TYw9YKhl1"
+}

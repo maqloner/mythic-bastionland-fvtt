@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Branchspear",
+  "system": {
+    "description": "When stabbed into a tree it is immovable by anyone but you",
+    "damage": "d8",
+    "hefty": true,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "CDwkryzyLW4z1dyK",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686405559,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "UxdcrWYKd2YzQmIe",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!UxdcrWYKd2YzQmIe"
+}

@@ -1,0 +1,318 @@
+{
+  "name": "BACKGROUND - Memory",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "War",
+      "_id": "NVKcitm2j9NW4EZz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.NVKcitm2j9NW4EZz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Migration",
+      "_id": "7mDIMDv0v7TAXvqI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.7mDIMDv0v7TAXvqI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Duel",
+      "_id": "2ZI1vcdqiVfjCPbs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.2ZI1vcdqiVfjCPbs"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Mentor",
+      "_id": "Hj3VubTtHhK6Vz4s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.Hj3VubTtHhK6Vz4s"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Exile",
+      "_id": "U2ifvpbh5x1FpUNw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.U2ifvpbh5x1FpUNw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Joy",
+      "_id": "pNrDBRi3TsbWo8i1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.pNrDBRi3TsbWo8i1"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Sickness",
+      "_id": "R6zFvYpi9Kuy5BEL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.R6zFvYpi9Kuy5BEL"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Escape",
+      "_id": "ZZCEClP9CtrEOEiN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.ZZCEClP9CtrEOEiN"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Injury",
+      "_id": "CLpvdsiEWDz8awuo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.CLpvdsiEWDz8awuo"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Friendship",
+      "_id": "ioJZRjKx8GlfNC5T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.ioJZRjKx8GlfNC5T"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Execution",
+      "_id": "On8BvNWNeRPAl3Cf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.On8BvNWNeRPAl3Cf"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Romance",
+      "_id": "fhpnJ034Tx45rSoa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WMD5TJ3HBlnnBPeP.fhpnJ034Tx45rSoa"
+    }
+  ],
+  "folder": "KWtiiRLXMmqW8Efw",
+  "_id": "WMD5TJ3HBlnnBPeP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WMD5TJ3HBlnnBPeP"
+}

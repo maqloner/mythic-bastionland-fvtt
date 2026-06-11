@@ -1,0 +1,174 @@
+{
+  "name": "End",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "They’re eaten by a pack of wolves",
+      "_id": "47onenP3I0vm8xpJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.47onenP3I0vm8xpJ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "They all die of a disgusting plague",
+      "_id": "C166UDjjWmaJXfft",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.C166UDjjWmaJXfft"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "It turns into a call to find the City",
+      "_id": "LJ1A4aw9SK7aLk0O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.LJ1A4aw9SK7aLk0O"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "It devolves into psychedelic nonsense",
+      "_id": "09rpdq79g438h4Y3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.09rpdq79g438h4Y3"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "It ends on a literal cliffhanger",
+      "_id": "sCPXACmdIhDEPHPL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.sCPXACmdIhDEPHPL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "They all lived happily ever after",
+      "_id": "oSURbHGEGBLyda6W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fM8fc08UGVniyeDp.oSURbHGEGBLyda6W"
+    }
+  ],
+  "folder": "HcDeS1yeH1MnT2J5",
+  "_id": "fM8fc08UGVniyeDp",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fM8fc08UGVniyeDp"
+}

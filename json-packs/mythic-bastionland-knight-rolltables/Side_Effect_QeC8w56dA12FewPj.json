@@ -1,0 +1,174 @@
+{
+  "name": "Side Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Mild nausea",
+      "_id": "wNMe4oFJnHFqrUXI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.wNMe4oFJnHFqrUXI"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Unable to speak",
+      "_id": "LTXP6sBMhp5NQg7N",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.LTXP6sBMhp5NQg7N"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hazy vision",
+      "_id": "GOkgquPbbOO24MAx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.GOkgquPbbOO24MAx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Lose [[/roll d6]] VIG",
+      "_id": "FF5SHFGIAmp2Ke6Z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.FF5SHFGIAmp2Ke6Z"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lose [[/roll d6]] CLA",
+      "_id": "2QdfBbl6kaxlRi84",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.2QdfBbl6kaxlRi84"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lose [[/roll d6]] SPI",
+      "_id": "PKkRvX0ixj0rfswp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QeC8w56dA12FewPj.PKkRvX0ixj0rfswp"
+    }
+  ],
+  "folder": "eEeqOBkAdvCMdX2v",
+  "_id": "QeC8w56dA12FewPj",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QeC8w56dA12FewPj"
+}

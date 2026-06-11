@@ -1,0 +1,174 @@
+{
+  "name": "Prophecy",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Death",
+      "_id": "987DWQZWWTwoCxRI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.987DWQZWWTwoCxRI"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Torment",
+      "_id": "VvhAHYCKfgv0uBTq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.VvhAHYCKfgv0uBTq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rebirth",
+      "_id": "Y0vfafraAqvNZdld",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.Y0vfafraAqvNZdld"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Treachery",
+      "_id": "rMCK4kqrBSE0qiSF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.rMCK4kqrBSE0qiSF"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Growth",
+      "_id": "iG4U9r3wuXccUaGg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.iG4U9r3wuXccUaGg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Realm Glory",
+      "_id": "KFD6DmGRtQ0rWQkH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2XdfJJiaYelKD0XK.KFD6DmGRtQ0rWQkH"
+    }
+  ],
+  "folder": "E1GY9U6TYw9YKhl1",
+  "_id": "2XdfJJiaYelKD0XK",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2XdfJJiaYelKD0XK"
+}

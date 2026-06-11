@@ -4,8 +4,10 @@
   "description": "FoundryVTT system for the Mythic Bastionland TTPRG",
   "main": "./module/mythicbastionland.js",
   "scripts": {
-    "build:css": "gulp buildCSS",
-    "build:watch": "gulp",
+    "build:css": "sass --no-source-map scss/mythic-bastionland.scss css/mythic-bastionland.css --style=expanded",
+    "build:watch": "sass --watch --no-source-map scss/mythic-bastionland.scss:css/mythic-bastionland.css",
+    "packs:build": "scripts/build-packs",
+    "packs:extract": "scripts/extract-packs",
     "lint": "eslint --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "lint:fix": "eslint --fix --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "i18n:unused": "i18n-unused display-unused",
@@ -25,22 +27,14 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.28.0",
     "@eslint/compat": "^1.3.2",
+    "@foundryvtt/foundryvtt-cli": "^3.0.3",
     "@league-of-foundry-developers/foundry-vtt-types": "^13.340.1",
-    "@rollup/plugin-node-resolve": "^16.0.1",
     "@stylistic/eslint-plugin": "^5.2.3",
     "@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",
     "eslint-plugin-i18n-json": "^4.0.1",
     "eslint-plugin-import": "^2.32.0",
-    "gulp": "^5.0.1",
-    "gulp-autoprefixer": "^9.0.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-eslint-new": "^2.4.0",
-    "gulp-if": "^3.0.0",
-    "gulp-sass": "^6.0.1",
     "husky": "^9.1.7",
     "i18n-unused": "^0.19.0",
-    "merge-stream": "^2.0.0",
-    "rollup": "^4.46.2",
-    "sass": "^1.90.0"
+    "sass": "^1.100.0"
   }
 }

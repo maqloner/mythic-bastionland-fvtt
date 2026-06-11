@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Death Ward",
+  "system": {
+    "description": "Use when a nearby ally would take a Mortal Wound or be killed outright. You take a Mortal Wound instead."
+  },
+  "folder": "Ot2dSfwXDbdlYTN1",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686407583,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "RooB2IK8wQri8n84",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RooB2IK8wQri8n84"
+}

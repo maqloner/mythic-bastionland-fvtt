@@ -1,0 +1,174 @@
+{
+  "name": "Foul finery - And a crown of…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Bones",
+      "_id": "OxkeXtYmHawKtgJR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.OxkeXtYmHawKtgJR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Twigs",
+      "_id": "NRzog6BnPJ7Cw3j6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.NRzog6BnPJ7Cw3j6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Dead birds",
+      "_id": "Mm4i8Q6JEp6ZDkkS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.Mm4i8Q6JEp6ZDkkS"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Eyes",
+      "_id": "kySjHohhzG1q4GqP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.kySjHohhzG1q4GqP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Teeth",
+      "_id": "zKWrN3fYPeOitGvw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.zKWrN3fYPeOitGvw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Rocks",
+      "_id": "KKVjfvBICusOZEwh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QHSfZoqHb5uZl3sE.KKVjfvBICusOZEwh"
+    }
+  ],
+  "folder": "sDw2KLKwv5VWyGbu",
+  "_id": "QHSfZoqHb5uZl3sE",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QHSfZoqHb5uZl3sE"
+}

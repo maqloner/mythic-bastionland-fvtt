@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Disfigurement",
+  "system": {
+    "description": "<p><em>A permanent mark</em></p><p>Roll [[/roll 1d6]]</p><p>1: Eye, 2: Cheek, 3: Neck 4: Torso, 5: Nose, 6: Jaw</p><p>If your max GD is 2 or less, increase it by [[/roll d6]].</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "U8yGj7jxavqewRKH",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.364",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.9",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1781193244955,
+    "lastModifiedBy": "E2PofAnebKy77kP8"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!U8yGj7jxavqewRKH"
+}

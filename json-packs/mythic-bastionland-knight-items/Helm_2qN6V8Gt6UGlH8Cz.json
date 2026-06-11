@@ -1,0 +1,30 @@
+{
+  "type": "helm",
+  "name": "Helm",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "5bmoTfAZzVqR9v6C",
+  "img": "systems/mythicbastionland/tokens/items/helm.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686402667,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2qN6V8Gt6UGlH8Cz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2qN6V8Gt6UGlH8Cz"
+}

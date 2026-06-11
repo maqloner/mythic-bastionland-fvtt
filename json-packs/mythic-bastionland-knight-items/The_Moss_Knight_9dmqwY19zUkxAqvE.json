@@ -1,0 +1,23 @@
+{
+  "name": "The Moss Knight",
+  "type": "Item",
+  "folder": null,
+  "_id": "9dmqwY19zUkxAqvE",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399105,
+    "modifiedTime": 1756662987644,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!9dmqwY19zUkxAqvE"
+}

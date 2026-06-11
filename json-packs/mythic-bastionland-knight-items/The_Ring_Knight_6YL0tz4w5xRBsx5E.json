@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Ring Knight",
+  "system": {
+    "name": "",
+    "description": "With ring a’lone, head dreams of home. With rings o’two, heart fills with rue",
+    "flavor": "Properties of the rings",
+    "flavorLabel1": "Design",
+    "flavorLabel2": "Effect"
+  },
+  "folder": "UwXKNc9uaDh7NOsJ",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686420771,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6YL0tz4w5xRBsx5E",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6YL0tz4w5xRBsx5E"
+}

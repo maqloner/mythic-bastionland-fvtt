@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Hive Knight",
+  "system": {
+    "name": "",
+    "description": "A bed of gluous, parchly cloth, a coat of stickly sleen. Emerged in morning good as new, chirurgery unseen",
+    "flavor": "Forming the cocoon",
+    "flavorLabel1": "You must be",
+    "flavorLabel2": "You require"
+  },
+  "folder": "YzgsClt2FQb5SjiY",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686463560,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "axtrL7QSDmauFg86",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!axtrL7QSDmauFg86"
+}

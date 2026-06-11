@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Strike of Serenity",
+  "system": {
+    "description": "Make a melee Attack against a wounded target. Get +[[/roll d8 #damage]] to the Attack. If this defeats the target then all allies restore SPI."
+  },
+  "folder": "gLPR9HpxFnaPRbHk",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686410169,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WWeVjG3V0b5Oexpw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WWeVjG3V0b5Oexpw"
+}

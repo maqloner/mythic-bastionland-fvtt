@@ -1,0 +1,32 @@
+{
+  "type": "shield",
+  "name": "Kite shield",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "damage": "d4",
+    "equipped": false
+  },
+  "folder": "XfEpQyxCnAibdRjg",
+  "img": "systems/mythicbastionland/tokens/items/shield.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.346",
+    "createdTime": 1707686432278,
+    "modifiedTime": 1707686494100,
+    "lastModifiedBy": "0wOTYIb2YCmPwFdU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NqlvnbD48Bn2Zlf6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0wOTYIb2YCmPwFdU": 3
+  },
+  "_key": "!items!NqlvnbD48Bn2Zlf6"
+}

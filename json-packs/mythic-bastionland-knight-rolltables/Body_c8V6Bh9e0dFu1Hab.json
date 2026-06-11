@@ -1,0 +1,174 @@
+{
+  "name": "Body",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Muscular ([[/roll d8 #damage]] grasp)",
+      "_id": "9EqrKYYx5owPQ7vA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.9EqrKYYx5owPQ7vA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Shrunken ([[/roll d6 #damage]] bite)",
+      "_id": "302ERfk68jYbNbqU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.302ERfk68jYbNbqU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Stretched ([[/roll d6 #damage]] strike)",
+      "_id": "pzvqhbUWGoA3b4Re",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.pzvqhbUWGoA3b4Re"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Skeletal ([[/roll d6 #damage]] slash)",
+      "_id": "EHLbVcIQLLUIm4V8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.EHLbVcIQLLUIm4V8"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Canine ([[/roll d8 #damage]] jaws)",
+      "_id": "mK1gpRRBKQuW1Lua",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.mK1gpRRBKQuW1Lua"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Feline ([[/roll d6 #damage]] claws)",
+      "_id": "pV3ypcOWgNbM8m8n",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c8V6Bh9e0dFu1Hab.pV3ypcOWgNbM8m8n"
+    }
+  ],
+  "folder": "72i9iXbEokTyWghl",
+  "_id": "c8V6Bh9e0dFu1Hab",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!c8V6Bh9e0dFu1Hab"
+}

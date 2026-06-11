@@ -1,0 +1,174 @@
+{
+  "name": "A Strange Steed",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Cannot utter a sound",
+      "_id": "nQPyfFUMNRjoYx0M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.nQPyfFUMNRjoYx0M"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cannot ride through water",
+      "_id": "feMYHyrxZYLJVFWX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.feMYHyrxZYLJVFWX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Seems more comfortable at night",
+      "_id": "9mqLGunCpHk7fQ6P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.9mqLGunCpHk7fQ6P"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Arrows cannot harm it",
+      "_id": "sP2v96DGtTVeLv7G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.sP2v96DGtTVeLv7G"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Can ride on sea water",
+      "_id": "XVUwVzmLhaZGpma5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.XVUwVzmLhaZGpma5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Other steeds show fealty to it",
+      "_id": "UOafg93RPizb0MRy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7AfU0bZ8vMLLtRtG.UOafg93RPizb0MRy"
+    }
+  ],
+  "folder": "jKvpG8Un7Qrp8Acq",
+  "_id": "7AfU0bZ8vMLLtRtG",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!7AfU0bZ8vMLLtRtG"
+}

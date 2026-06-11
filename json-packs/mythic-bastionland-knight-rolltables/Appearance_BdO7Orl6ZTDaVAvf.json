@@ -1,0 +1,174 @@
+{
+  "name": "Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Silver rings",
+      "_id": "XGtCk3BipTeEDQ06",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.XGtCk3BipTeEDQ06"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Blackened iron",
+      "_id": "T7T8y9eLosighkjz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.T7T8y9eLosighkjz"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Two-headed",
+      "_id": "C1eBEl6qihtWaFIH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.C1eBEl6qihtWaFIH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Faint golden glow",
+      "_id": "EzAvhNinfglWMncv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.EzAvhNinfglWMncv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Five prongs",
+      "_id": "A2hZW5ahAs3S9Lk8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.A2hZW5ahAs3S9Lk8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Telescopic shaft",
+      "_id": "TS3Ri663EDHTHyzl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BdO7Orl6ZTDaVAvf.TS3Ri663EDHTHyzl"
+    }
+  ],
+  "folder": "oKMCyZhBWftYz3jV",
+  "_id": "BdO7Orl6ZTDaVAvf",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!BdO7Orl6ZTDaVAvf"
+}

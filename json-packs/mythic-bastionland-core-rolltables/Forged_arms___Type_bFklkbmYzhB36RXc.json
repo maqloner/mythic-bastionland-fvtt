@@ -1,0 +1,174 @@
+{
+  "name": "Forged arms - Type",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Blade (d6)",
+      "_id": "Nfw48mQfgpPZUGVv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.Nfw48mQfgpPZUGVv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spear (d8 hefty)",
+      "_id": "RGxZW8DulBa742UW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.RGxZW8DulBa742UW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hammer (d8 hefty)",
+      "_id": "gVBHszThEz3zCDJ5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.gVBHszThEz3zCDJ5"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bardiche (d10 long)",
+      "_id": "ltYlR7bncfcD3hT6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.ltYlR7bncfcD3hT6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Maul (2d10 slow)",
+      "_id": "zc9Le8slvAHeGYkb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.zc9Le8slvAHeGYkb"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Greatbow (d10 slow)",
+      "_id": "VXOc9SKcI5WTbwjx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bFklkbmYzhB36RXc.VXOc9SKcI5WTbwjx"
+    }
+  ],
+  "folder": "t72GAcjYzVdxEI8p",
+  "_id": "bFklkbmYzhB36RXc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bFklkbmYzhB36RXc"
+}

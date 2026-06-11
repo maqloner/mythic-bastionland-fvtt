@@ -1,0 +1,174 @@
+{
+  "name": "Form",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ashen pinecone",
+      "_id": "77fdU71FsmFQ8P2B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.77fdU71FsmFQ8P2B"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Vial of red dust",
+      "_id": "XSKrn2cPDIlSgYlp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.XSKrn2cPDIlSgYlp"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bottle of white oil",
+      "_id": "EWR3Lxf8O3NgpKN2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.EWR3Lxf8O3NgpKN2"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hellfire chestnut",
+      "_id": "KUSQJyjHQndqzeMB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.KUSQJyjHQndqzeMB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Preserved drake gizzard",
+      "_id": "zZTBF34z1gnLzll2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.zZTBF34z1gnLzll2"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Firebird egg",
+      "_id": "Ek9XJ3H7yVIK5gjc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vVYPB4IFTFwRGjot.Ek9XJ3H7yVIK5gjc"
+    }
+  ],
+  "folder": "I4ToPIrjXUgY3NPZ",
+  "_id": "vVYPB4IFTFwRGjot",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!vVYPB4IFTFwRGjot"
+}

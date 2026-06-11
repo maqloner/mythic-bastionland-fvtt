@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Kindness",
+  "system": {
+    "description": "Restore SPI when you stop an act of cruelty."
+  },
+  "folder": "Pboz62IXdNeYBGHf",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686430873,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Lm0IF8hcWkbSuzen",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Lm0IF8hcWkbSuzen"
+}

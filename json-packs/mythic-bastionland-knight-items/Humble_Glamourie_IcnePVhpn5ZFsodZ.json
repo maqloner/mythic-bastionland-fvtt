@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Humble Glamourie",
+  "system": {
+    "description": "After eating and drinking with somebody for a few hours they consider you trustworthy enough to speak openly about anything you ask about. The next day they come to their senses and realise if they revealed too much."
+  },
+  "folder": "ptQffBtFitpF3khi",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686415642,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "IcnePVhpn5ZFsodZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IcnePVhpn5ZFsodZ"
+}

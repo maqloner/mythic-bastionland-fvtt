@@ -1,0 +1,174 @@
+{
+  "name": "Whims of the dust hag - Wants",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Treasure",
+      "_id": "FouQuuH8KP8LWm4w",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.FouQuuH8KP8LWm4w"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Entertainment",
+      "_id": "Fohx3E8RWNUhqWhE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.Fohx3E8RWNUhqWhE"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Praise",
+      "_id": "aTcwyqPXVXYgH5tW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.aTcwyqPXVXYgH5tW"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Peace and quiet",
+      "_id": "vxe1qn9T7nq9UgEK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.vxe1qn9T7nq9UgEK"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Authority",
+      "_id": "fCtwxpEEHwWJoYEx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.fCtwxpEEHwWJoYEx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Security",
+      "_id": "mb4YvbpWjFJ1d6fK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6S2bZeqhubbqHB6G.mb4YvbpWjFJ1d6fK"
+    }
+  ],
+  "folder": "U5e1au4j1s5OAlDa",
+  "_id": "6S2bZeqhubbqHB6G",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!6S2bZeqhubbqHB6G"
+}

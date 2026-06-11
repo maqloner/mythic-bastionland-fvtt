@@ -1,0 +1,174 @@
+{
+  "name": "Past wielders - Name",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Erdyg, Shamed Knight",
+      "_id": "ukhw95l2hlRKLVaC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.ukhw95l2hlRKLVaC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Belwin, River Bandit",
+      "_id": "E1g6G5Dt3yGq4dMB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.E1g6G5Dt3yGq4dMB"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Gwelhelm, Butcher",
+      "_id": "RzBNTlTQKAqPpn1u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.RzBNTlTQKAqPpn1u"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ordrig, Tower Guard",
+      "_id": "TZmujtf2sDbI9zVa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.TZmujtf2sDbI9zVa"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Regan, Cup Knight",
+      "_id": "qFQdSb90IqDEy387",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.qFQdSb90IqDEy387"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lervlin, Squire",
+      "_id": "FKJHeWo9MfQp3FTe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!xjqIopcqxO05Bojv.FKJHeWo9MfQp3FTe"
+    }
+  ],
+  "folder": "AuDv75wYABz7flTN",
+  "_id": "xjqIopcqxO05Bojv",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!xjqIopcqxO05Bojv"
+}

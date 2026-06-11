@@ -1,0 +1,174 @@
+{
+  "name": "Aspects of the spider - Body",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Growing extra arms",
+      "_id": "Y6IamWdhl7k13A8D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.Y6IamWdhl7k13A8D"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Growing extra legs",
+      "_id": "WS48ncVw1JOIIk6M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.WS48ncVw1JOIIk6M"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bristly hair",
+      "_id": "9xxDNwI8V6Fyv1OK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.9xxDNwI8V6Fyv1OK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Swollen abdomen",
+      "_id": "WiyX9kII6Te4Rmy3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.WiyX9kII6Te4Rmy3"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Jittery movement",
+      "_id": "MLBkkTVilSmJ6dIZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.MLBkkTVilSmJ6dIZ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Spindly limbs",
+      "_id": "KNX6X4rEVna01eYA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!exYtZK61VdlvFkm5.KNX6X4rEVna01eYA"
+    }
+  ],
+  "folder": "M6acLTLKwl8xXHfy",
+  "_id": "exYtZK61VdlvFkm5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!exYtZK61VdlvFkm5"
+}

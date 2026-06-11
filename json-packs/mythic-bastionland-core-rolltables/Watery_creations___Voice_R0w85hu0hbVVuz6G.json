@@ -1,0 +1,174 @@
+{
+  "name": "Watery creations - Voice",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Low gurgling",
+      "_id": "cjLtb8qZXvzxoSEA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.cjLtb8qZXvzxoSEA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Splashing cries",
+      "_id": "yvleRnXsuOhtSMxp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.yvleRnXsuOhtSMxp"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sloshing song",
+      "_id": "2zugxkcmBg05jmXg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.2zugxkcmBg05jmXg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Frothing hiss",
+      "_id": "xyuvuxpcR918zLAV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.xyuvuxpcR918zLAV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Drowning moan",
+      "_id": "GPCAi8vIZknupQC7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.GPCAi8vIZknupQC7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Rumbling roar",
+      "_id": "KRknwdEqh6Sq0KhO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R0w85hu0hbVVuz6G.KRknwdEqh6Sq0KhO"
+    }
+  ],
+  "folder": "xKXXX7lF38l5ZtQy",
+  "_id": "R0w85hu0hbVVuz6G",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!R0w85hu0hbVVuz6G"
+}

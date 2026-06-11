@@ -1,0 +1,174 @@
+{
+  "name": "Side",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Hallucination",
+      "_id": "izAv2p31R7TQg8xj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.izAv2p31R7TQg8xj"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Lethargy",
+      "_id": "GwGpZuoOn6YSEl2Z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.GwGpZuoOn6YSEl2Z"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Stimulation",
+      "_id": "pnOjWBU8zBpLgp2G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.pnOjWBU8zBpLgp2G"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sorrow",
+      "_id": "7faMAZhgrWPf20ge",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.7faMAZhgrWPf20ge"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Giddiness",
+      "_id": "61njOeaLulnZFt0e",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.61njOeaLulnZFt0e"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Absent-mindedness",
+      "_id": "OSZGxi3GprOyOnc8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WqI1zTBKi9wClZCl.OSZGxi3GprOyOnc8"
+    }
+  ],
+  "folder": "koabtDwGBVn31bLk",
+  "_id": "WqI1zTBKi9wClZCl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WqI1zTBKi9wClZCl"
+}

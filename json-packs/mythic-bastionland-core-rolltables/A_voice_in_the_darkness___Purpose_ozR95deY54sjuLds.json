@@ -1,0 +1,174 @@
+{
+  "name": "A voice in the darkness - Purpose",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Scare them back to the surface",
+      "_id": "sO5mrBLVkRNIdBuH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.sO5mrBLVkRNIdBuH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Lure them deeper",
+      "_id": "EJ6ayksqj27np8wA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.EJ6ayksqj27np8wA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Show them things they cannot take home",
+      "_id": "veoCLnb2cxPMgJDq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.veoCLnb2cxPMgJDq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sow discontent",
+      "_id": "whu8xXdrXWQtiKvx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.whu8xXdrXWQtiKvx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wear them down",
+      "_id": "i8P4TLmxAwhRGibq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.i8P4TLmxAwhRGibq"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Provide a little comfort",
+      "_id": "Q07lGcr4lzkHnfqm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ozR95deY54sjuLds.Q07lGcr4lzkHnfqm"
+    }
+  ],
+  "folder": "c0hK55DQu77yKq17",
+  "_id": "ozR95deY54sjuLds",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ozR95deY54sjuLds"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Pool effects - Blessing",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Invisible in moonlight",
+      "_id": "K4wVDk4V3NpYHbRE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.K4wVDk4V3NpYHbRE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Never age past",
+      "_id": "KVATJbjRvE0a2lJ2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.KVATJbjRvE0a2lJ2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Immunity to fire",
+      "_id": "N2la5AGA8JRBaPYc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.N2la5AGA8JRBaPYc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fire breath (d8 blast)",
+      "_id": "gJag9AmSEz7PI6Pe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.gJag9AmSEz7PI6Pe"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wish for one object",
+      "_id": "yqBRUGMMzcrAIS3I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.yqBRUGMMzcrAIS3I"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "An icesword (3d6 hefty) rises from the water for you",
+      "_id": "ZsqywAN2lG0jRoRP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YO64WYgdk6cGJY7m.ZsqywAN2lG0jRoRP"
+    }
+  ],
+  "folder": "T5YkInQCkEZZCpVx",
+  "_id": "YO64WYgdk6cGJY7m",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!YO64WYgdk6cGJY7m"
+}

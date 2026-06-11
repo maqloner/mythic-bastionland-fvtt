@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Misery",
+  "system": {
+    "description": "Restore SPI when you meet somebody new and complain to them about something."
+  },
+  "folder": "t22VP4Og2RPTyAl6",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686425513,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "d8ArI2Y0K9RFLCcf",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d8ArI2Y0K9RFLCcf"
+}

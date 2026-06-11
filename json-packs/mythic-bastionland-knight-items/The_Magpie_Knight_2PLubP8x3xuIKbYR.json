@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Magpie Knight",
+  "system": {
+    "name": "",
+    "description": "Keen eyes see what cold heart seeks. No empty handed fool, this bird",
+    "flavor": "A treasured memento",
+    "flavorLabel1": "Item",
+    "flavorLabel2": "Reminds you of…"
+  },
+  "folder": "dPgbZA276B8FWe99",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686453142,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2PLubP8x3xuIKbYR",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2PLubP8x3xuIKbYR"
+}

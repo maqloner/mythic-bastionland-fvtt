@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Mortality",
+  "system": {
+    "description": "Restore SPI when you see an ally suffer a Mortal Wound."
+  },
+  "folder": "Ot2dSfwXDbdlYTN1",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686407660,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "W8WQbVp6PVEZmoeZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!W8WQbVp6PVEZmoeZ"
+}

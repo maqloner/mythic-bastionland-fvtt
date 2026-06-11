@@ -1,0 +1,174 @@
+{
+  "name": "You must be",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fed beyond full",
+      "_id": "C21GySMCUcjZlHEa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.C21GySMCUcjZlHEa"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Thoroughly cleaned",
+      "_id": "n4OeTvxhO0kZMQcD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.n4OeTvxhO0kZMQcD"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sung to sleep",
+      "_id": "myV7yK54fhPIwRub",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.myV7yK54fhPIwRub"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Set alight",
+      "_id": "2Vi6YTTNL1tJ5xa4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.2Vi6YTTNL1tJ5xa4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Buried in soil",
+      "_id": "BCYZcoGhOUlZHNDx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.BCYZcoGhOUlZHNDx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Beheaded",
+      "_id": "frHNUhGFNUsHVbIs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kBdePxGVwkATpDW1.frHNUhGFNUsHVbIs"
+    }
+  ],
+  "folder": "gMlJL0F1ATEkWGlS",
+  "_id": "kBdePxGVwkATpDW1",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!kBdePxGVwkATpDW1"
+}

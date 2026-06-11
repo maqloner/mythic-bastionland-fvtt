@@ -1,0 +1,174 @@
+{
+  "name": "Yfran’s big score - Target",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Retired",
+      "_id": "LMHCoHXkl0KLQmeW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.LMHCoHXkl0KLQmeW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Wandering Seer",
+      "_id": "sfPrJh9nxgcBZDue",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.sfPrJh9nxgcBZDue"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "The Seat of Power",
+      "_id": "3nOQWcDou4WegPhh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.3nOQWcDou4WegPhh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Neighbouring ruler",
+      "_id": "gTjKxlVDdoj9krmA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.gTjKxlVDdoj9krmA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wealthy commoner",
+      "_id": "y4nGBf6Bi1gJ26ZC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.y4nGBf6Bi1gJ26ZC"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Rival bandit",
+      "_id": "U1hPgkUOo2eBg5tE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7sKNmeSx2T7ukTOf.U1hPgkUOo2eBg5tE"
+    }
+  ],
+  "folder": "Yhw7pUcm69MutWhc",
+  "_id": "7sKNmeSx2T7ukTOf",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!7sKNmeSx2T7ukTOf"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Arboreal Archive",
+  "system": {
+    "description": "Spend a Phase running hands over a tree to access its memory, seeing anything that happened under its shade or over its roots."
+  },
+  "folder": "7wn8x4ZmfxuydJjz",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686416622,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "QitiCHoN1HqhoqA9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QitiCHoN1HqhoqA9"
+}

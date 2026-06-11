@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Reliquary Knight",
+  "system": {
+    "name": "",
+    "description": "Final rest, earned in life. The echos linger on",
+    "flavor": "Treasured relic",
+    "flavorLabel1": "Bodypart",
+    "flavorLabel2": "Being"
+  },
+  "folder": "wYrfLwuVdCuR1UBT",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686454573,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "fp9oZieQDkxddc9S",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fp9oZieQDkxddc9S"
+}

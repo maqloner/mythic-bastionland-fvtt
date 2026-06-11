@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Stun",
+  "system": {
+    "description": "<p><em>Pain drowns the senses</em></p><p>Lose [[/roll d6]] CLA.</p><p>If your max GD is 4 or less, increase it by [[/roll d6]].</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "rJSE6nT4zNqxqZd2",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!rJSE6nT4zNqxqZd2"
+}

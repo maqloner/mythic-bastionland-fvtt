@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Tempering Strike",
+  "system": {
+    "description": "When you cause a Wound with a melee weapon, that weapon receives +[[/roll d6 #damage]] until the end of combat. This effect can stack."
+  },
+  "folder": "sSPzabrCNUhiEk6k",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686421936,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1iC1oJR0F8KQTkRu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1iC1oJR0F8KQTkRu"
+}

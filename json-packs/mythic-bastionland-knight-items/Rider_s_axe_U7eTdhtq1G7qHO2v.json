@@ -1,0 +1,34 @@
+{
+  "type": "weapon",
+  "name": "Rider's axe",
+  "system": {
+    "description": "+[[/roll d6 #damage]] when mounted, can be thrown",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "60ZJgfovGYHTgpt8",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.346",
+    "createdTime": 1707686401716,
+    "modifiedTime": 1707686494100,
+    "lastModifiedBy": "0wOTYIb2YCmPwFdU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "U7eTdhtq1G7qHO2v",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0wOTYIb2YCmPwFdU": 3
+  },
+  "_key": "!items!U7eTdhtq1G7qHO2v"
+}

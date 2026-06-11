@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Spikehammer",
+  "system": {
+    "description": "",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "i53mIHsFkNycKrJS",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686406754,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "QHpU08QGSwe13rrZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!QHpU08QGSwe13rrZ"
+}

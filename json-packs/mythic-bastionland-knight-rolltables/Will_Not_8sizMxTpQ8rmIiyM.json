@@ -1,0 +1,174 @@
+{
+  "name": "Will Not",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Jump",
+      "_id": "ef23HqtUy6ByPNeh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.ef23HqtUy6ByPNeh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Stop suddenly",
+      "_id": "DPwlmYOOCeGKoUqF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.DPwlmYOOCeGKoUqF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Carry anybody but their Knight",
+      "_id": "WZMbl0L6enrUxwiA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.WZMbl0L6enrUxwiA"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Follow instructions unless being ridden",
+      "_id": "hYmCOR2JyxfXrUxV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.hYmCOR2JyxfXrUxV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pull a cart",
+      "_id": "lEcEZ3hwZsjCCDm8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.lEcEZ3hwZsjCCDm8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Travel in darkness",
+      "_id": "9tkRRCl3qSOgbGfm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8sizMxTpQ8rmIiyM.9tkRRCl3qSOgbGfm"
+    }
+  ],
+  "folder": "k11PWuPaEoSv3ujk",
+  "_id": "8sizMxTpQ8rmIiyM",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!8sizMxTpQ8rmIiyM"
+}

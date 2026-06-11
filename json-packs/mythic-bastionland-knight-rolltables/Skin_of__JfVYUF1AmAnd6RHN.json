@@ -1,0 +1,174 @@
+{
+  "name": "Skin of…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Leather",
+      "_id": "2nE007zL0sTQiQVk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.2nE007zL0sTQiQVk"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Felt",
+      "_id": "cye6lNE4i1P2x8pM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.cye6lNE4i1P2x8pM"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Silk",
+      "_id": "DeMauBsNqTw8H9uh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.DeMauBsNqTw8H9uh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Wool",
+      "_id": "uFLq5FkRvgImXlO6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.uFLq5FkRvgImXlO6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Parchment",
+      "_id": "w3IEkI7r1qFNAd8J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.w3IEkI7r1qFNAd8J"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Clay",
+      "_id": "EOTCaCwglEnTgKfz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JfVYUF1AmAnd6RHN.EOTCaCwglEnTgKfz"
+    }
+  ],
+  "folder": "AHHjNWlDIelrtu74",
+  "_id": "JfVYUF1AmAnd6RHN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JfVYUF1AmAnd6RHN"
+}

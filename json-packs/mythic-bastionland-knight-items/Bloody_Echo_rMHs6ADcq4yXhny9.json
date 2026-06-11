@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Bloody Echo",
+  "system": {
+    "description": "Use immediately after defeating an opponent. Your next melee attack in this combat gains Blast."
+  },
+  "folder": "uyPSw4DSmoRUPcrU",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398779,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "rMHs6ADcq4yXhny9",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rMHs6ADcq4yXhny9"
+}

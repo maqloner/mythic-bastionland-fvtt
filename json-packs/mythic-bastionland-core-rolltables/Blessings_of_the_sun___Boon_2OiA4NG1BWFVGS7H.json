@@ -1,0 +1,174 @@
+{
+  "name": "Blessings of the sun - Boon",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Early harvest",
+      "_id": "n9P6Nyo6iOeNURRb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.n9P6Nyo6iOeNURRb"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Huge ball game",
+      "_id": "19wIOoiictZe982I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.19wIOoiictZe982I"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Outdoor performance",
+      "_id": "Jq7Of1AvwKkjaAg1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.Jq7Of1AvwKkjaAg1"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Choir of birds",
+      "_id": "PyIWK1YVTf0bfeX9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.PyIWK1YVTf0bfeX9"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Travelling merchants",
+      "_id": "JnEOUm4COFSrQAwl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.JnEOUm4COFSrQAwl"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Day of rest proclaimed",
+      "_id": "SUcAa6jE2LZ0OdHj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2OiA4NG1BWFVGS7H.SUcAa6jE2LZ0OdHj"
+    }
+  ],
+  "folder": "A4fg5mg0Bcwal3lr",
+  "_id": "2OiA4NG1BWFVGS7H",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2OiA4NG1BWFVGS7H"
+}

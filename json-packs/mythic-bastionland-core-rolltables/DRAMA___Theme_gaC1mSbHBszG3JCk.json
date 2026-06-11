@@ -1,0 +1,318 @@
+{
+  "name": "DRAMA - Theme",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Betrayal",
+      "_id": "WYCWJ68ffSEa3ssl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.WYCWJ68ffSEa3ssl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Jealousy",
+      "_id": "To3KyXC2UdPK2SPK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.To3KyXC2UdPK2SPK"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rivalry",
+      "_id": "4mq4bClke6I4cFzu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.4mq4bClke6I4cFzu"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Infidelity",
+      "_id": "ZISo4sUJdq6S2mNC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.ZISo4sUJdq6S2mNC"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Coup",
+      "_id": "uw5loWOfCogjoN06",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.uw5loWOfCogjoN06"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ambition",
+      "_id": "GBoy1KIGKiu3qYWe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.GBoy1KIGKiu3qYWe"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Redemption",
+      "_id": "Kf6R93ZVmSxwms0T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.Kf6R93ZVmSxwms0T"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Revelation",
+      "_id": "RnAS2k16c5ldaTT3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.RnAS2k16c5ldaTT3"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Wrath",
+      "_id": "QAJMMVXalLC87Oov",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.QAJMMVXalLC87Oov"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Greed",
+      "_id": "LZwjMBEWmbmuqLhm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.LZwjMBEWmbmuqLhm"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Banishment",
+      "_id": "NeYjzLRUP7iSFjLX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.NeYjzLRUP7iSFjLX"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Manipulation",
+      "_id": "NcmmRb3YF1lVXOOF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gaC1mSbHBszG3JCk.NcmmRb3YF1lVXOOF"
+    }
+  ],
+  "folder": "zqAqD9UZgSZFBVBx",
+  "_id": "gaC1mSbHBszG3JCk",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!gaC1mSbHBszG3JCk"
+}

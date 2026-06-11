@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Anonymity",
+  "system": {
+    "description": "Restore SPI when somebody believes in a false identity you are portraying."
+  },
+  "folder": "3lbk4WnOOBYEt8ZE",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686417632,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "L1DKx3ulyZBOKuEW",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!L1DKx3ulyZBOKuEW"
+}

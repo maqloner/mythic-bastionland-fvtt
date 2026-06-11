@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Snare Knight",
+  "system": {
+    "name": "",
+    "description": "Immersed within the woods. A sheriff of natural order",
+    "flavor": "Knight & Companion",
+    "flavorLabel1": "History",
+    "flavorLabel2": "Type"
+  },
+  "folder": "6ydZKCT3QWKz8Xyk",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686397929,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "FPhvH2aVCjJ9vb4h",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!FPhvH2aVCjJ9vb4h"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Distraction",
+  "system": {
+    "description": "Restore SPI when you abandon a set plan."
+  },
+  "folder": "0G8yeSi5T3dhnEDJ",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686413019,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NV2tvzKhBN2L5wZM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NV2tvzKhBN2L5wZM"
+}

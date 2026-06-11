@@ -1,0 +1,174 @@
+{
+  "name": "False superstitions - Tradition",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sleep in the soil",
+      "_id": "tKgaL4FfbwT57QDg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.tKgaL4FfbwT57QDg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sever a toe",
+      "_id": "Q8OPUcwz51ZXOZUe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.Q8OPUcwz51ZXOZUe"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Eat mouldy cheese",
+      "_id": "rFSR52MyT6gAuTiq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.rFSR52MyT6gAuTiq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Drink bitter root tea",
+      "_id": "6pbrkpR1Z9AAFut0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.6pbrkpR1Z9AAFut0"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Steal a horseshoe",
+      "_id": "EJYa16luntcBW7tC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.EJYa16luntcBW7tC"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Nurture a butterfly",
+      "_id": "QqiMVVBTKGvjb4Bp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qWSdj4GMrtj7OttD.QqiMVVBTKGvjb4Bp"
+    }
+  ],
+  "folder": "wO2txg5OFVO9BzN6",
+  "_id": "qWSdj4GMrtj7OttD",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qWSdj4GMrtj7OttD"
+}

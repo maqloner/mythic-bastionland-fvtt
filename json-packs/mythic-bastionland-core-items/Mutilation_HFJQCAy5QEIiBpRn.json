@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Mutilation",
+  "system": {
+    "description": "<p><em>A limb rendered lost or useless</em></p><p>Roll [[/roll 1d6]]</p><p>1-2: Leg, 3-4: Shield Arm, 5-6: Sword Arm</p><p>By next Season you have a prosthetic or have learned to get by, and if your max GD is 10 or less, increase it by [[/roll d6]].</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "HFJQCAy5QEIiBpRn",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!HFJQCAy5QEIiBpRn"
+}

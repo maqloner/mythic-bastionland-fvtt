@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Willow Knight",
+  "system": {
+    "name": "",
+    "description": "The giants fought the storm, falling, all broken bones. The youth, thrown about, arose in the calm.",
+    "flavor": "Memories of Home",
+    "flavorLabel1": "Place",
+    "flavorLabel2": "Disaster"
+  },
+  "folder": "USRwMje0COaF6RnW",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686400234,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XbeEsezrF7f6ergE",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XbeEsezrF7f6ergE"
+}

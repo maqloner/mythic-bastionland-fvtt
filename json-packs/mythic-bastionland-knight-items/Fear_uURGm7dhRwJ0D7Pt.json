@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Fear",
+  "system": {
+    "description": "Restore SPI when refusing to go into the dark."
+  },
+  "folder": "cCn9139FbJfcmEoU",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686403667,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uURGm7dhRwJ0D7Pt",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uURGm7dhRwJ0D7Pt"
+}

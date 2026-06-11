@@ -1,0 +1,174 @@
+{
+  "name": "Path to the peak - Route",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Cliffside climb",
+      "_id": "oOy5nXPp4Fh2ihQH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.oOy5nXPp4Fh2ihQH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Tight squeeze",
+      "_id": "gCjGDTwZ4rEyMDbP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.gCjGDTwZ4rEyMDbP"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Giant steps",
+      "_id": "TBUWOt4WdPhsBq9M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.TBUWOt4WdPhsBq9M"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Crumbling path",
+      "_id": "EFtvKyqCTJRuCbGq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.EFtvKyqCTJRuCbGq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Rope bridge",
+      "_id": "X3ARj36KGXtHGqCL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.X3ARj36KGXtHGqCL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Winding tunnel",
+      "_id": "bJkMa2r4fpnAjMSv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!48fU6OWWOsG8Yxu2.bJkMa2r4fpnAjMSv"
+    }
+  ],
+  "folder": "RgHoSQOc8ihIUX2C",
+  "_id": "48fU6OWWOsG8Yxu2",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!48fU6OWWOsG8Yxu2"
+}

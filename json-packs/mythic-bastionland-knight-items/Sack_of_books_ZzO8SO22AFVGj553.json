@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Sack of books",
+  "system": {
+    "description": "1-in-2 chance you have a small snippet of information on any particular topic at hand, otherwise you find a miscellaneous tome, as below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "7wn8x4ZmfxuydJjz",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686417114,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ZzO8SO22AFVGj553",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZzO8SO22AFVGj553"
+}

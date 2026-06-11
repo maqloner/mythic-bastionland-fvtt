@@ -1,0 +1,174 @@
+{
+  "name": "Your Betrayal",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Disloyalty",
+      "_id": "DN6e0jgQWopngYzB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.DN6e0jgQWopngYzB"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Petty theft",
+      "_id": "f785baQTBdY7cb7f",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.f785baQTBdY7cb7f"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A violent argument",
+      "_id": "v1YSjwzymzMh8tC6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.v1YSjwzymzMh8tC6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A broken promise",
+      "_id": "doB10wK53R44ITuv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.doB10wK53R44ITuv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Slander",
+      "_id": "yK575ozVechkKSZL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.yK575ozVechkKSZL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Neglect in a time of great need",
+      "_id": "M3Pk7s5SPsT6wHR9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ICouHRk2HxlmxjEY.M3Pk7s5SPsT6wHR9"
+    }
+  ],
+  "folder": "9YON9p9OqQVW1Ubt",
+  "_id": "ICouHRk2HxlmxjEY",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ICouHRk2HxlmxjEY"
+}

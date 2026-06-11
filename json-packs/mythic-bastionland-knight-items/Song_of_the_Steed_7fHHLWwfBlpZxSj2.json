@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Song of the Steed",
+  "system": {
+    "description": "Speak in a voice comprehensible to horses. They need reasoning with rather than commanding."
+  },
+  "folder": "60ZJgfovGYHTgpt8",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686401283,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "7fHHLWwfBlpZxSj2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7fHHLWwfBlpZxSj2"
+}

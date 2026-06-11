@@ -1,0 +1,174 @@
+{
+  "name": "Steed",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fought bravely",
+      "_id": "Fi1esYYvMTf5bl0s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.Fi1esYYvMTf5bl0s"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Galloped all night",
+      "_id": "cGdjXHV5CnlrX84S",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.cGdjXHV5CnlrX84S"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Spotted an ambush",
+      "_id": "pa30SrWU8AwOicCO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.pa30SrWU8AwOicCO"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Returned from death",
+      "_id": "PmQnAM7Eq6o7m0Bn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.PmQnAM7Eq6o7m0Bn"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lost an eye",
+      "_id": "s2I2eujOKrhd0wVU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.s2I2eujOKrhd0wVU"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shrugged off arrows",
+      "_id": "PmSHC8wvpmtMG5fx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fyviuvtynfx6qiab.PmSHC8wvpmtMG5fx"
+    }
+  ],
+  "folder": "bEtrB2RcYZetna0Y",
+  "_id": "Fyviuvtynfx6qiab",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Fyviuvtynfx6qiab"
+}

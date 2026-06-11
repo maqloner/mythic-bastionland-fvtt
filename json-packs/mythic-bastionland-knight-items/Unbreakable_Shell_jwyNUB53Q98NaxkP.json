@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Unbreakable Shell",
+  "system": {
+    "description": "Use at the start of your turn. You cannot move, but double the Armour score of your shield and gain +[[/roll d6 #damage]] when attacking with a shield."
+  },
+  "folder": "lm0vdv27dvm7P5Op",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686412169,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jwyNUB53Q98NaxkP",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jwyNUB53Q98NaxkP"
+}

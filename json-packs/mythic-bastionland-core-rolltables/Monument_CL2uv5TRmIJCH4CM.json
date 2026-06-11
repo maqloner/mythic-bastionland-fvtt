@@ -1,0 +1,1758 @@
+{
+  "name": "Monument",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Royal statue",
+      "_id": "KnMKJOKQaxUrTXfn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.KnMKJOKQaxUrTXfn"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ancient obelisk",
+      "_id": "FK3wUeQknnefhEmW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.FK3wUeQknnefhEmW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Runic cairn",
+      "_id": "58huQeZEFAFfiG9w",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.58huQeZEFAFfiG9w"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Knight mausoleum",
+      "_id": "Shrg4oIbuEmdmlKO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.Shrg4oIbuEmdmlKO"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Voyage mosaic",
+      "_id": "cmpnH1hhtsJuWTgy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.cmpnH1hhtsJuWTgy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Victory pillar",
+      "_id": "dpieiNaoCw8jI7eo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.dpieiNaoCw8jI7eo"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Sun beacon",
+      "_id": "zuRnBLvorZLIzSQo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.zuRnBLvorZLIzSQo"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Primal menhir",
+      "_id": "UKnD6hL9IRDxTEbv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.UKnD6hL9IRDxTEbv"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Wooden arch",
+      "_id": "b3KKvw6Z9Et7soRv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.b3KKvw6Z9Et7soRv"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Moon totem",
+      "_id": "HD1puaEDW4DgWZHG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.HD1puaEDW4DgWZHG"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Sword carving",
+      "_id": "LIY0daqggmvgilyQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.LIY0daqggmvgilyQ"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Star stone",
+      "_id": "ie90aIjV4IBbA5Jr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.ie90aIjV4IBbA5Jr"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Huge banner",
+      "_id": "ZvOV4Ixw44t7oAt2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.ZvOV4Ixw44t7oAt2"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Queen’s colossus",
+      "_id": "as5rd2wQDGGqIGqH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.as5rd2wQDGGqIGqH"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Guarded reliquary",
+      "_id": "jTY2AJxSW5lroePi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.jTY2AJxSW5lroePi"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Cleaved mountain",
+      "_id": "hDPv3GKRT9JqmDIe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.hDPv3GKRT9JqmDIe"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Eternal tree",
+      "_id": "w66R59PfyaMOhz80",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.w66R59PfyaMOhz80"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Titan seat",
+      "_id": "jjoFd9w9iT3Zc9lu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.jjoFd9w9iT3Zc9lu"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Raised ship",
+      "_id": "W3W1m9r2IEmaf590",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.W3W1m9r2IEmaf590"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Clifftop tomb",
+      "_id": "eQm20fRVjd41nRqg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.eQm20fRVjd41nRqg"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Carved names",
+      "_id": "RwTvy3yJtEMF7O8P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.RwTvy3yJtEMF7O8P"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "First flame",
+      "_id": "5uF8TFQ9WIjbQfZ4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.5uF8TFQ9WIjbQfZ4"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Seer’s skull",
+      "_id": "yEBdLmDonjq6oqNN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.yEBdLmDonjq6oqNN"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Buried library",
+      "_id": "tfVsCkgOUoLgeVgH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.tfVsCkgOUoLgeVgH"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Heron statue",
+      "_id": "qhMi54cKTRirkWNq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.qhMi54cKTRirkWNq"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Flower-adorned graves",
+      "_id": "SultwMfbBwKcFv8Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.SultwMfbBwKcFv8Q"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Candle-lit shrine",
+      "_id": "227VcnMUzymdjT0k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.227VcnMUzymdjT0k"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Mossy bridge",
+      "_id": "vp2M89nlqbtgivtM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.vp2M89nlqbtgivtM"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Sun brazier",
+      "_id": "LUUBWflJfoRWmc7E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.LUUBWflJfoRWmc7E"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Spear reliquary",
+      "_id": "51aJhhm7sI8vJQ1z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.51aJhhm7sI8vJQ1z"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Duelling ground",
+      "_id": "t9azDaGqJ315BFVc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.t9azDaGqJ315BFVc"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Lizard statue",
+      "_id": "ieIvl8oPT4ijoOHz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.ieIvl8oPT4ijoOHz"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Ancient bridge",
+      "_id": "qLRurAtfXsf5WkpC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.qLRurAtfXsf5WkpC"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Golden yew",
+      "_id": "KdsjBi6yypekL7zt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.KdsjBi6yypekL7zt"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Floral chapel",
+      "_id": "rSxyTCt6rkdctes2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.rSxyTCt6rkdctes2"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Star sculpture",
+      "_id": "XUR7kMlvfIpb0UTj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.XUR7kMlvfIpb0UTj"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Eternal hearth",
+      "_id": "zJvYFl36Lo6QvZOj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.zJvYFl36Lo6QvZOj"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Victory arena",
+      "_id": "9r0A3bPZJV3wgJyo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.9r0A3bPZJV3wgJyo"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Model city",
+      "_id": "sp5cNA7qWpDRLaAY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.sp5cNA7qWpDRLaAY"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Elder tree",
+      "_id": "J7p1SZbnspQlga9m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.J7p1SZbnspQlga9m"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Crystal rose",
+      "_id": "IBgiQTAoT2Tst060",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.IBgiQTAoT2Tst060"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Obsidian henge",
+      "_id": "jbQcrfWFzltmfTM7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.jbQcrfWFzltmfTM7"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Story stone",
+      "_id": "6VK2NRH3PTLfY0cV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.6VK2NRH3PTLfY0cV"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Looming arch",
+      "_id": "3zY1ODjcFUmhkg1J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.3zY1ODjcFUmhkg1J"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Quartz pillar",
+      "_id": "U2G01QmhAKyVqCod",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.U2G01QmhAKyVqCod"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Sky boulder",
+      "_id": "xEMolxnQFUmoR0zr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.xEMolxnQFUmoR0zr"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Sun garden",
+      "_id": "MGyI2DJjnScHX3bc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.MGyI2DJjnScHX3bc"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Triple obelisk",
+      "_id": "0xfU40XTVXDX0uBY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.0xfU40XTVXDX0uBY"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Carved monolith",
+      "_id": "SnY88oXFcycICmzw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.SnY88oXFcycICmzw"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Lyre tree",
+      "_id": "PEyWHjefHJxd9XxH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.PEyWHjefHJxd9XxH"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Marble mesa",
+      "_id": "hNgcYlZMnFqwILrt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.hNgcYlZMnFqwILrt"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Kestrel statue",
+      "_id": "4aeQIAf7oMxqw91L",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.4aeQIAf7oMxqw91L"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Memory opals",
+      "_id": "gkj6qh7mYHBMVvvV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.gkj6qh7mYHBMVvvV"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Seer bone reliquary",
+      "_id": "FJ8Ve7y4Y8dVpft7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.FJ8Ve7y4Y8dVpft7"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Ancient throne",
+      "_id": "HvwweQN2ZidAng3J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.HvwweQN2ZidAng3J"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Coin pool",
+      "_id": "yE7KeLX0ILOUrGHo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.yE7KeLX0ILOUrGHo"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Golden leaf",
+      "_id": "dnfsoPo4LF4FdKou",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.dnfsoPo4LF4FdKou"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Offering plinth",
+      "_id": "6Wcmj96X9AH1aogN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.6Wcmj96X9AH1aogN"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Silver arch",
+      "_id": "ONN6kiWbuvmBWOXT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.ONN6kiWbuvmBWOXT"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Eternal beacon",
+      "_id": "7D1MKHC7G8lTdQrk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.7D1MKHC7G8lTdQrk"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Pillar of ice",
+      "_id": "m085iFvz8ENKxytW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.m085iFvz8ENKxytW"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Shell circle",
+      "_id": "YFh6ZfFkCCSWjzjM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.YFh6ZfFkCCSWjzjM"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Crowned oak",
+      "_id": "pyONJUJioVrdaToK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.pyONJUJioVrdaToK"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Painted cliff",
+      "_id": "mkB65Y0xaPrPFFza",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.mkB65Y0xaPrPFFza"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Worldview peak",
+      "_id": "XtGgbgCOsxby0Pju",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.XtGgbgCOsxby0Pju"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Constellation dome",
+      "_id": "IFJsUXGZ4CJpiXGL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.IFJsUXGZ4CJpiXGL"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Roots of the world",
+      "_id": "43dCMClLXkk3XesA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.43dCMClLXkk3XesA"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Sky spire",
+      "_id": "MErDGiZNsHDgv8Az",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.MErDGiZNsHDgv8Az"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Guardian willow",
+      "_id": "MwNiB7lcefUTuDpd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.MwNiB7lcefUTuDpd"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Diamond aurora",
+      "_id": "N5QHsuYpPV94aPat",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.N5QHsuYpPV94aPat"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Echo of song",
+      "_id": "MaWB0kmDKXceJKM0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.MaWB0kmDKXceJKM0"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Quiet flame",
+      "_id": "DAeLNm1dD7vl71qi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CL2uv5TRmIJCH4CM.DAeLNm1dD7vl71qi"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "CL2uv5TRmIJCH4CM",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!CL2uv5TRmIJCH4CM"
+}

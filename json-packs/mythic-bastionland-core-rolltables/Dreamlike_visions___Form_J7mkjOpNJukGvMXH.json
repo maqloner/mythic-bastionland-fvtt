@@ -1,0 +1,174 @@
+{
+  "name": "Dreamlike visions - Form",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Frozen",
+      "_id": "3KQirmFXEsvUp1vF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.3KQirmFXEsvUp1vF"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Abstract",
+      "_id": "uEVZ2aYbcKACKaU7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.uEVZ2aYbcKACKaU7"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Non-visual",
+      "_id": "UvPy5g388scDNepX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.UvPy5g388scDNepX"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ghostly",
+      "_id": "x0g2Li1UzoS0m1IW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.x0g2Li1UzoS0m1IW"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Melodramatic",
+      "_id": "wwiIiPyLXGqN3yvX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.wwiIiPyLXGqN3yvX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Watery",
+      "_id": "aeqTo5OggItqlUAa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7mkjOpNJukGvMXH.aeqTo5OggItqlUAa"
+    }
+  ],
+  "folder": "LmKkL3Eh82jjoeHG",
+  "_id": "J7mkjOpNJukGvMXH",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!J7mkjOpNJukGvMXH"
+}

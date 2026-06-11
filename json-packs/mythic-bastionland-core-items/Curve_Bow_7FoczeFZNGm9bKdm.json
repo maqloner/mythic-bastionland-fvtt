@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Curve Bow",
+  "system": {
+    "description": "",
+    "damage": "2d6",
+    "hefty": false,
+    "long": true,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "u0SfKqvJqBKkhKtJ",
+  "_id": "7FoczeFZNGm9bKdm",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.9",
+    "coreVersion": "14.364",
+    "createdTime": 1702146668863,
+    "modifiedTime": 1781192827318,
+    "lastModifiedBy": "E2PofAnebKy77kP8",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7FoczeFZNGm9bKdm"
+}

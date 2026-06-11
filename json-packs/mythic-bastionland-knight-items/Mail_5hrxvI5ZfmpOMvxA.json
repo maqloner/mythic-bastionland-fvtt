@@ -1,0 +1,31 @@
+{
+  "type": "coat",
+  "name": "Mail",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "ZGlvO36Hxjz3P4Vt",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.346",
+    "createdTime": 1707686397723,
+    "modifiedTime": 1707686494100,
+    "lastModifiedBy": "0wOTYIb2YCmPwFdU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5hrxvI5ZfmpOMvxA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0wOTYIb2YCmPwFdU": 3
+  },
+  "_key": "!items!5hrxvI5ZfmpOMvxA"
+}

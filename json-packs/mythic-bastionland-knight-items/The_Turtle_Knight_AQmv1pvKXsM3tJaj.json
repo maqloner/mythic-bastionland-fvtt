@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Turtle Knight",
+  "system": {
+    "name": "",
+    "description": "I stand inclad in shelldy stead. Nawone of you will see me dead!",
+    "flavor": "Drinking horn",
+    "flavorLabel1": "Appearance",
+    "flavorLabel2": "Imparted Flavour"
+  },
+  "folder": "lm0vdv27dvm7P5Op",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686412020,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "AQmv1pvKXsM3tJaj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AQmv1pvKXsM3tJaj"
+}

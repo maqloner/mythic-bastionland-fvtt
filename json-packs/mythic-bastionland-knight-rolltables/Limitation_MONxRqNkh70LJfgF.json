@@ -1,0 +1,174 @@
+{
+  "name": "Limitation",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sink like a stone",
+      "_id": "Dy4e2KRpNbJqfqxZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.Dy4e2KRpNbJqfqxZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Red glow when angry",
+      "_id": "hoZqqNepGeU6MrtF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.hoZqqNepGeU6MrtF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Slow running speed",
+      "_id": "xsL1DHB2VDQt4JaP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.xsL1DHB2VDQt4JaP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Horses other than your own are afraid of you",
+      "_id": "VDXasP56NhEJByMe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.VDXasP56NhEJByMe"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lose [[/roll d6]] SPI if you ever strike the first blow to a Knight",
+      "_id": "UBguv5hbVvTqcncn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.UBguv5hbVvTqcncn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Only protects under daylight",
+      "_id": "6PfbzuXSqla3NGCM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MONxRqNkh70LJfgF.6PfbzuXSqla3NGCM"
+    }
+  ],
+  "folder": "XU3Y8mdQiqjGlp5m",
+  "_id": "MONxRqNkh70LJfgF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MONxRqNkh70LJfgF"
+}

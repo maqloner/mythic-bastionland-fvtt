@@ -1,0 +1,174 @@
+{
+  "name": "Being",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Forgotten Seer",
+      "_id": "w2oV47iQYduf7Y8t",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.w2oV47iQYduf7Y8t"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Glorious Knight",
+      "_id": "V2jaekkkeE14BGyN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.V2jaekkkeE14BGyN"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Deposed monarch",
+      "_id": "NyrHGui6IaRcAXJF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.NyrHGui6IaRcAXJF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pitied monster",
+      "_id": "2uBjK2Wztrf1n1KZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.2uBjK2Wztrf1n1KZ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hateful bird",
+      "_id": "dda7e0hT2wLK4rI5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.dda7e0hT2wLK4rI5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ancient reptile",
+      "_id": "VYngoOODvo57VJyv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZuouB1WbUhw4nLgK.VYngoOODvo57VJyv"
+    }
+  ],
+  "folder": "78rTSYRcvoDkd1vP",
+  "_id": "ZuouB1WbUhw4nLgK",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ZuouB1WbUhw4nLgK"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Sacred fruit - Punishment if Eaten",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Turn to stone",
+      "_id": "L3XPCzsslmRCg9Dn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.L3XPCzsslmRCg9Dn"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Voice silenced",
+      "_id": "GmX2J23uy3Gx687X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.GmX2J23uy3Gx687X"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Loss of eyes",
+      "_id": "Xxo6hsu08I2uj1oe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.Xxo6hsu08I2uj1oe"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A hand withers away",
+      "_id": "9Fej3SubypHvel9K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.9Fej3SubypHvel9K"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Ghoulish face",
+      "_id": "SCT9nrlBodSVKzcz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.SCT9nrlBodSVKzcz"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Become Exposed",
+      "_id": "LyullGP6GYSOFsod",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dIxe0styWqJeR9Ro.LyullGP6GYSOFsod"
+    }
+  ],
+  "folder": "qXPBwMAAgs63Ajg6",
+  "_id": "dIxe0styWqJeR9Ro",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!dIxe0styWqJeR9Ro"
+}

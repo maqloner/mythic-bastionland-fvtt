@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Branch cudgel",
+  "system": {
+    "description": "",
+    "damage": "d8",
+    "hefty": true,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "9dmqwY19zUkxAqvE",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399443,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zeAOlSHReVgXCJ9Y",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zeAOlSHReVgXCJ9Y"
+}

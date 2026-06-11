@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Naturality",
+  "system": {
+    "description": "Restore SPI when you reject an opportunity to sleep indoors, sleeping in nature instead."
+  },
+  "folder": "9dmqwY19zUkxAqvE",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399300,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "PK2mtxjUhWttefAX",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PK2mtxjUhWttefAX"
+}

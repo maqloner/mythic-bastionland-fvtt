@@ -1,0 +1,174 @@
+{
+  "name": "Design",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Faded Spirals",
+      "_id": "eiIca9ANqnzuKHNw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.eiIca9ANqnzuKHNw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Blue Thorns",
+      "_id": "Hqo62sqjtjtMdh8p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.Hqo62sqjtjtMdh8p"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Silver Stars",
+      "_id": "X4AE2ngbzrzBR23W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.X4AE2ngbzrzBR23W"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pale Snakes",
+      "_id": "hElAqv2M8sLLp2lX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.hElAqv2M8sLLp2lX"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Red Bones",
+      "_id": "OuImM7bEem0GMxrh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.OuImM7bEem0GMxrh"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Burnt Rings",
+      "_id": "P8UPxuZTlVCgwtBQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!VqvL0GKFbpp3j6RB.P8UPxuZTlVCgwtBQ"
+    }
+  ],
+  "folder": "IJNDJnO8YPBhmzMR",
+  "_id": "VqvL0GKFbpp3j6RB",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!VqvL0GKFbpp3j6RB"
+}

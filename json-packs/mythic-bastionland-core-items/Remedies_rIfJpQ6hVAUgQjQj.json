@@ -1,0 +1,23 @@
+{
+  "name": "Remedies",
+  "type": "Item",
+  "folder": null,
+  "_id": "rIfJpQ6hVAUgQjQj",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702146670869,
+    "modifiedTime": 1756662958288,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!rIfJpQ6hVAUgQjQj"
+}

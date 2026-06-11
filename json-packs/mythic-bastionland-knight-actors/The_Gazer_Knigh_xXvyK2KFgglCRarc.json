@@ -1,0 +1,23 @@
+{
+  "name": "The Gazer Knigh",
+  "type": "Actor",
+  "folder": null,
+  "_id": "xXvyK2KFgglCRarc",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.348",
+    "createdTime": 1707685338399,
+    "modifiedTime": 1756663044592,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!xXvyK2KFgglCRarc"
+}

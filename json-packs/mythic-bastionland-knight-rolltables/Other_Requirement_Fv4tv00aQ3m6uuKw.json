@@ -1,0 +1,174 @@
+{
+  "name": "Other Requirement",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Midnight ritual",
+      "_id": "99oKYzb2bnyAARBh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.99oKYzb2bnyAARBh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A Seer’s blessing",
+      "_id": "sfaxYWfp8etpaI2s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.sfaxYWfp8etpaI2s"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "You must be Wounded",
+      "_id": "NV4Ti9NNi88j4EER",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.NV4Ti9NNi88j4EER"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Coin sacrifice",
+      "_id": "RbLo3xSURLJLs6O5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.RbLo3xSURLJLs6O5"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Light of sunrise",
+      "_id": "HSecyOU7odKTU0yI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.HSecyOU7odKTU0yI"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Bird nest",
+      "_id": "1akCtq2YelwBL6rZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Fv4tv00aQ3m6uuKw.1akCtq2YelwBL6rZ"
+    }
+  ],
+  "folder": "fF0bcdcuAJyLXb2e",
+  "_id": "Fv4tv00aQ3m6uuKw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Fv4tv00aQ3m6uuKw"
+}

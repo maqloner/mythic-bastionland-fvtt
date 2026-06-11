@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Handaxe attached to Wildrope",
+  "system": {
+    "description": "Attached to Wildrope. (strong rope that blends perfectly into foliage),",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "6ydZKCT3QWKz8Xyk",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398119,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "vrLyUqp8W10muH3E",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vrLyUqp8W10muH3E"
+}

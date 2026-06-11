@@ -1,0 +1,174 @@
+{
+  "name": "Clockwork quirks - Body",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ignore Mortal Wounds",
+      "_id": "tBBLdDMzyeJYMiV4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.tBBLdDMzyeJYMiV4"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cannot be disarmed",
+      "_id": "7kszlEUwhJROQohN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.7kszlEUwhJROQohN"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Human-like voice",
+      "_id": "r3nfpmFzekTlu3tl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.r3nfpmFzekTlu3tl"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Mean arm (can Smite)",
+      "_id": "xxIDUeLRrfk9Mo69",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.xxIDUeLRrfk9Mo69"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Real skull for head",
+      "_id": "CD7Sh0N4AUu9sON6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.CD7Sh0N4AUu9sON6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Extra fast (can Deny)",
+      "_id": "tqM1TsX06Hempq6W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oUHgrags3AgrEJdo.tqM1TsX06Hempq6W"
+    }
+  ],
+  "folder": "cwMbT6lo4qFtlulC",
+  "_id": "oUHgrags3AgrEJdo",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!oUHgrags3AgrEJdo"
+}

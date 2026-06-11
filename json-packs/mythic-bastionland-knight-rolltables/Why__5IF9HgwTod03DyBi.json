@@ -1,0 +1,174 @@
+{
+  "name": "Why?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "For service in battle",
+      "_id": "oSBcHUKF5C4Ff168",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.oSBcHUKF5C4Ff168"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "It happened before you bought them",
+      "_id": "ysdUe92s92j83ir8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.ysdUe92s92j83ir8"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "They were born that way",
+      "_id": "aTPH3t0MUcxKEe1F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.aTPH3t0MUcxKEe1F"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "It happened overnight",
+      "_id": "1EjNr0n6wcMUPFZS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.1EjNr0n6wcMUPFZS"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "They appeared slowly",
+      "_id": "ZNQ8ncK331tOYlSo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.ZNQ8ncK331tOYlSo"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A Seer demanded it",
+      "_id": "09U7qEV391iBYag5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5IF9HgwTod03DyBi.09U7qEV391iBYag5"
+    }
+  ],
+  "folder": "IRtc0s4FzAhoPnf3",
+  "_id": "5IF9HgwTod03DyBi",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!5IF9HgwTod03DyBi"
+}

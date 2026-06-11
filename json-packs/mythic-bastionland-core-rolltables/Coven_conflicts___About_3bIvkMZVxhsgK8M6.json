@@ -1,0 +1,174 @@
+{
+  "name": "Coven conflicts - About",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Food",
+      "_id": "AFK4rZKtFi0tdzwq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.AFK4rZKtFi0tdzwq"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Gifts",
+      "_id": "R4UU6N8XFZvBWUvf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.R4UU6N8XFZvBWUvf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Travel",
+      "_id": "OOoAP4XCf133NKJo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.OOoAP4XCf133NKJo"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Manners",
+      "_id": "DcsCfut4ck52ltBT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.DcsCfut4ck52ltBT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Birds",
+      "_id": "sxfthwmJ4AnRwqf5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.sxfthwmJ4AnRwqf5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Property",
+      "_id": "1pbqtNDiGSV4cQH4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3bIvkMZVxhsgK8M6.1pbqtNDiGSV4cQH4"
+    }
+  ],
+  "folder": "PQnNmZNL3VmhLMWR",
+  "_id": "3bIvkMZVxhsgK8M6",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3bIvkMZVxhsgK8M6"
+}

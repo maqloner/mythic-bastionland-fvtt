@@ -1,0 +1,34 @@
+{
+  "type": "misc",
+  "name": "Sustenance",
+  "system": {
+    "description": "The means for a generous feast. Used to recover VIG.",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    },
+    "value": 1
+  },
+  "folder": "rIfJpQ6hVAUgQjQj",
+  "_id": "GpUOhYwoMH0M9pV7",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146670948,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!GpUOhYwoMH0M9pV7"
+}

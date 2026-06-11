@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Luminous Eruption",
+  "system": {
+    "description": "Use once per Phase. A light source you are holding briefly illuminates the entire Hex and causes [[/roll d12 #damage]] Damage to nearby beings who live in darkness."
+  },
+  "folder": "XfEpQyxCnAibdRjg",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686431706,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "vuPwDNIV6Kw12Kcc",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!vuPwDNIV6Kw12Kcc"
+}

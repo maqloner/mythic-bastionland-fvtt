@@ -1,0 +1,174 @@
+{
+  "name": "A shifting form - Call",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Hooting",
+      "_id": "DbWovICyzs0Rm6JI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.DbWovICyzs0Rm6JI"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Shrieking",
+      "_id": "1cM6Jnv9cTywcd4f",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.1cM6Jnv9cTywcd4f"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Grinding",
+      "_id": "4yAOBE20asjhpHhg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.4yAOBE20asjhpHhg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Weeping",
+      "_id": "HJtw7vBsqL40dyxx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.HJtw7vBsqL40dyxx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Gasping",
+      "_id": "FbDpMd1wq6vdKEMe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.FbDpMd1wq6vdKEMe"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Singing",
+      "_id": "JkIemLySeodTVcce",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!UwBC8EOwxGGrcfl9.JkIemLySeodTVcce"
+    }
+  ],
+  "folder": "6OONGK9vkKaEkQHW",
+  "_id": "UwBC8EOwxGGrcfl9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!UwBC8EOwxGGrcfl9"
+}

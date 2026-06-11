@@ -1,0 +1,174 @@
+{
+  "name": "Who gave it to you?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "The tide",
+      "_id": "4y0cjgiSLH4txjLv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.4y0cjgiSLH4txjLv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A tomb",
+      "_id": "0w8KSURbDJz5f1OR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.0w8KSURbDJz5f1OR"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A tree",
+      "_id": "ECPWOwyKisUC2uxu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.ECPWOwyKisUC2uxu"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "An eagle",
+      "_id": "cdU3ILwsnt3cRvZY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.cdU3ILwsnt3cRvZY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A hermit",
+      "_id": "1F7HwNT17TDpiTMf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.1F7HwNT17TDpiTMf"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A mountain",
+      "_id": "Bhweo9a5KvD6a9po",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2rVzKA40TiNGgXLR.Bhweo9a5KvD6a9po"
+    }
+  ],
+  "folder": "502W0LoN4TJJpYg7",
+  "_id": "2rVzKA40TiNGgXLR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2rVzKA40TiNGgXLR"
+}

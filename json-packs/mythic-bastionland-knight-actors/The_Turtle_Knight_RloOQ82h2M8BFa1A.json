@@ -1,0 +1,23 @@
+{
+  "name": "The Turtle Knight",
+  "type": "Actor",
+  "folder": null,
+  "_id": "RloOQ82h2M8BFa1A",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.348",
+    "createdTime": 1707685335427,
+    "modifiedTime": 1756663044592,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!RloOQ82h2M8BFa1A"
+}

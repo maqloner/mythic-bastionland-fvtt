@@ -1,0 +1,174 @@
+{
+  "name": "If Shaken",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Warmth of a hearth",
+      "_id": "9nZCuz8Vw5K6r3vp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.9nZCuz8Vw5K6r3vp"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Veil of darkness",
+      "_id": "jYhUg82hVdTizm3J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.jYhUg82hVdTizm3J"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Gentle light",
+      "_id": "DvuOUE4zQukjYDvv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.DvuOUE4zQukjYDvv"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Repels birds",
+      "_id": "b4MUe92PwgJeGos6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.b4MUe92PwgJeGos6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Soothes canines",
+      "_id": "k8eKC4Gx8uCXkXmb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.k8eKC4Gx8uCXkXmb"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Eases pain",
+      "_id": "JGO9ltaNYZb9uLuu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pSSiko8sDLhEIPbe.JGO9ltaNYZb9uLuu"
+    }
+  ],
+  "folder": "4d0AJ3lzWtolTkZx",
+  "_id": "pSSiko8sDLhEIPbe",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pSSiko8sDLhEIPbe"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Packed lunch - Drink",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Old wine",
+      "_id": "jEc1uVTyz7CnsiDz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.jEc1uVTyz7CnsiDz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Medicinal tea",
+      "_id": "uPxailQCqY2AYLKc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.uPxailQCqY2AYLKc"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Strong mead",
+      "_id": "06wd5CjDVcRYCXeM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.06wd5CjDVcRYCXeM"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Apple juice",
+      "_id": "NPw74s3WxRlObc1l",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.NPw74s3WxRlObc1l"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pond water",
+      "_id": "HwbsYXHhPg7vCo3z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.HwbsYXHhPg7vCo3z"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lemon water",
+      "_id": "wahO21il2Q4q3Ux0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YE5PwaBRtZfdg2o7.wahO21il2Q4q3Ux0"
+    }
+  ],
+  "folder": "V6yZSa5hDTBV1bLt",
+  "_id": "YE5PwaBRtZfdg2o7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!YE5PwaBRtZfdg2o7"
+}

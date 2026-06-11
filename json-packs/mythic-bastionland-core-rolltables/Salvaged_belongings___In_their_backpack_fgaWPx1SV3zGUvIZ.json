@@ -1,0 +1,174 @@
+{
+  "name": "Salvaged belongings - In their backpack",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sack of grain",
+      "_id": "zXwl3R90SFAtED6b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.zXwl3R90SFAtED6b"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Patchwork quilt",
+      "_id": "7DUQQFgStQrLN3ts",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.7DUQQFgStQrLN3ts"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Dried fish",
+      "_id": "ZOMIyhofqJpnIp6r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.ZOMIyhofqJpnIp6r"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bladder of wine",
+      "_id": "lb8WmTQuKeKatw7K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.lb8WmTQuKeKatw7K"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Metal pots",
+      "_id": "pEvVpBieMz3CkrRJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.pEvVpBieMz3CkrRJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Herb bundles",
+      "_id": "R4MDhjL7H6zkmt8Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fgaWPx1SV3zGUvIZ.R4MDhjL7H6zkmt8Q"
+    }
+  ],
+  "folder": "SgZfFVdSzPwW6AjD",
+  "_id": "fgaWPx1SV3zGUvIZ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fgaWPx1SV3zGUvIZ"
+}

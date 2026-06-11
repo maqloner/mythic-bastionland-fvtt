@@ -1,0 +1,174 @@
+{
+  "name": "Flotsam & jetsam - Item",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Armour",
+      "_id": "OLlzoP1JEBGc5veD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.OLlzoP1JEBGc5veD"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Stone Tablet",
+      "_id": "ZjPRHCTEBWIwZkVa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.ZjPRHCTEBWIwZkVa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Corpse",
+      "_id": "dALL05u3ZsxdZRJI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.dALL05u3ZsxdZRJI"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sword",
+      "_id": "kzAVR8yG51p4pXW3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.kzAVR8yG51p4pXW3"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pendant",
+      "_id": "U7Xlv5sI9S2Cb6Qw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.U7Xlv5sI9S2Cb6Qw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shield",
+      "_id": "cWHW1THtWNVwPDDb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pdlx1Rm91RRux5zI.cWHW1THtWNVwPDDb"
+    }
+  ],
+  "folder": "6yiSjxYAq7xINEbj",
+  "_id": "pdlx1Rm91RRux5zI",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pdlx1Rm91RRux5zI"
+}

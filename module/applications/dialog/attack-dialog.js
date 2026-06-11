@@ -72,8 +72,8 @@ class AttackDialog extends foundry.applications.api.HandlebarsApplicationMixin(f
     const impairedSteeds = Array.from(this.element.querySelectorAll("input[name='steed_impaired[]']:checked")).map(input => input.value);
     const impairedWeapons = Array.from(this.element.querySelectorAll("input[name='weapon_impaired[]']:checked")).map(input => input.value);
 
-    const smite = !!this.element.querySelector("[name=smite]").checked;
-    const smiteType = this.element.querySelector("[name=smite_type]:checked").value;
+    const smite = !!this.element.querySelector("[name=smite]")?.checked;
+    const smiteType = this.element.querySelector("[name=smite_type]:checked")?.value;
     const impaired = !!this.element.querySelector("[name=impaired]").checked;
     const bonusDice = this.element.querySelector("[name=bonus_dice]").value;
     const overrideDamage = this.element.querySelector("[name=override_damage]").value;

@@ -1,0 +1,174 @@
+{
+  "name": "Laws of the lich - Must…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fast for the day",
+      "_id": "C2S2kkKakTojlOrH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.C2S2kkKakTojlOrH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Donate an eyeball",
+      "_id": "dhKW7ZXXj701KIOO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.dhKW7ZXXj701KIOO"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Be dressed in black",
+      "_id": "ywkumvVx8Q8aPiFi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.ywkumvVx8Q8aPiFi"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Donate a bone",
+      "_id": "FAaKr80tsiT6uE96",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.FAaKr80tsiT6uE96"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Leave the Realm",
+      "_id": "aEnMzTYsZ83ei9hu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.aEnMzTYsZ83ei9hu"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Swear to the Lich",
+      "_id": "zdEjQVfvLvS4Ppm1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oNk5Nqm7WRCEKMgT.zdEjQVfvLvS4Ppm1"
+    }
+  ],
+  "folder": "DYxURefJMUeettkF",
+  "_id": "oNk5Nqm7WRCEKMgT",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!oNk5Nqm7WRCEKMgT"
+}

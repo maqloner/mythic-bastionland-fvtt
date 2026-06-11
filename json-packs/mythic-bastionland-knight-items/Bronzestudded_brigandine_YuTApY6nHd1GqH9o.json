@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Bronzestudded brigandine",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "7L51hf6FBgkGtzcR",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686411563,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YuTApY6nHd1GqH9o",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YuTApY6nHd1GqH9o"
+}

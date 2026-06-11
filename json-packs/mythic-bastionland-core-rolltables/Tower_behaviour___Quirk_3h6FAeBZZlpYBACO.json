@@ -1,0 +1,174 @@
+{
+  "name": "Tower behaviour - Quirk",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Rumbling howl",
+      "_id": "ANLoFUkTpqWf9faG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.ANLoFUkTpqWf9faG"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Keeps falling down",
+      "_id": "0Sh5OUKiggG8WXVg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.0Sh5OUKiggG8WXVg"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Very sluggish",
+      "_id": "GirrjORirjyQFO1H",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.GirrjORirjyQFO1H"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hatred of birds",
+      "_id": "Wbkd6TRoplexqIY1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.Wbkd6TRoplexqIY1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Broken leg",
+      "_id": "rBy01SVZSv103VCH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.rBy01SVZSv103VCH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Fear of water",
+      "_id": "RUwqYiIMzpFMx88q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3h6FAeBZZlpYBACO.RUwqYiIMzpFMx88q"
+    }
+  ],
+  "folder": "xw2MX4O8cNYKFhSY",
+  "_id": "3h6FAeBZZlpYBACO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3h6FAeBZZlpYBACO"
+}

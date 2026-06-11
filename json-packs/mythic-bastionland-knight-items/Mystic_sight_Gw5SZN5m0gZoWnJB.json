@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Mystic sight",
+  "system": {
+    "description": "You can see something you shouldn't be able to, see below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "y7MFqzLTbgepVOmN",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686419313,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Gw5SZN5m0gZoWnJB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Gw5SZN5m0gZoWnJB"
+}

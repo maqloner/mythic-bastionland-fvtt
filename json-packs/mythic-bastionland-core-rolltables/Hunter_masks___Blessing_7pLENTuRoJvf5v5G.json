@@ -1,0 +1,174 @@
+{
+  "name": "Hunter masks - Blessing",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A4 vs the Boar",
+      "_id": "4HPYwUkMcxg62QmC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.4HPYwUkMcxg62QmC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cheat death once",
+      "_id": "B1sUV6FGf0ALkjrV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.B1sUV6FGf0ALkjrV"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Can throw greatspear",
+      "_id": "WB33c8Ax1eV3aEzz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.WB33c8Ax1eV3aEzz"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Can Smite",
+      "_id": "eAihZaCBEHSYHYE3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.eAihZaCBEHSYHYE3"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Can Focus",
+      "_id": "y7ieX8EE6fYtVntr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.y7ieX8EE6fYtVntr"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Can Deny",
+      "_id": "yKAVZruwUYAz39Ut",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!7pLENTuRoJvf5v5G.yKAVZruwUYAz39Ut"
+    }
+  ],
+  "folder": "xb4HXo4fOqBSeYOE",
+  "_id": "7pLENTuRoJvf5v5G",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!7pLENTuRoJvf5v5G"
+}

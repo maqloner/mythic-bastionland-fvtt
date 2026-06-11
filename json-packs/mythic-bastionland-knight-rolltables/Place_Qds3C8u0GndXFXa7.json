@@ -1,0 +1,174 @@
+{
+  "name": "Place",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Riverside",
+      "_id": "nj18SUdamLONng2E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.nj18SUdamLONng2E"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Coastal",
+      "_id": "lxscTap9e62n6TAA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.lxscTap9e62n6TAA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mountain",
+      "_id": "FnU6Pld59AOWXsF4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.FnU6Pld59AOWXsF4"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pine Forest",
+      "_id": "ugzAxJcEX9cZfPTl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.ugzAxJcEX9cZfPTl"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Moor",
+      "_id": "tKF9q4ke8QzlGuAd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.tKF9q4ke8QzlGuAd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Castle",
+      "_id": "CJs3pBk9mm7eTeCF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Qds3C8u0GndXFXa7.CJs3pBk9mm7eTeCF"
+    }
+  ],
+  "folder": "iNP0kcpuRDbAszKK",
+  "_id": "Qds3C8u0GndXFXa7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Qds3C8u0GndXFXa7"
+}

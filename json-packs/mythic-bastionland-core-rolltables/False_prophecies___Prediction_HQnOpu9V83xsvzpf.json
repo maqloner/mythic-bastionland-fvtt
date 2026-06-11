@@ -1,0 +1,174 @@
+{
+  "name": "False prophecies - Prediction",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Must kill the Wraith",
+      "_id": "149m0ooXvNkOunOT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.149m0ooXvNkOunOT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Is the Fallen Seer",
+      "_id": "qKlbaORElbliJHiI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.qKlbaORElbliJHiI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Is the Wraith",
+      "_id": "TIxmVS7ZZ4wseqnM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.TIxmVS7ZZ4wseqnM"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Must serve the Wraith",
+      "_id": "ZGGU8SsFvoweYYSP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.ZGGU8SsFvoweYYSP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Must kill a Seer",
+      "_id": "ZKyAR0LD5qkg27Sf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.ZKyAR0LD5qkg27Sf"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Must die at next night",
+      "_id": "313SpA4T4qjuCleV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HQnOpu9V83xsvzpf.313SpA4T4qjuCleV"
+    }
+  ],
+  "folder": "ZMSVTWsfarVjLNN5",
+  "_id": "HQnOpu9V83xsvzpf",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!HQnOpu9V83xsvzpf"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Thrown weapon",
+  "system": {
+    "description": "See below",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "7wiRZUPjQmHoGHQL",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686467389,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "f14m0SrXrs6SColf",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f14m0SrXrs6SColf"
+}

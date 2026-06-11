@@ -1,0 +1,174 @@
+{
+  "name": "Impish pranks - Transform…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Item of clothing",
+      "_id": "nxb2qq7tdwIRQuoP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.nxb2qq7tdwIRQuoP"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bed",
+      "_id": "LW5ZRWvy5eei9nSj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.LW5ZRWvy5eei9nSj"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Food",
+      "_id": "rgc5YQRo2SDoV3nK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.rgc5YQRo2SDoV3nK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pet",
+      "_id": "23RdHEx15cVq11Kq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.23RdHEx15cVq11Kq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Heirloom",
+      "_id": "lxjgT3aptfB6AQHE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.lxjgT3aptfB6AQHE"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Flowers",
+      "_id": "qYpGw0YqCDElU0nX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1vQyn26wzpWIzQY0.qYpGw0YqCDElU0nX"
+    }
+  ],
+  "folder": "oObhMFrUwdiOeDe2",
+  "_id": "1vQyn26wzpWIzQY0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!1vQyn26wzpWIzQY0"
+}

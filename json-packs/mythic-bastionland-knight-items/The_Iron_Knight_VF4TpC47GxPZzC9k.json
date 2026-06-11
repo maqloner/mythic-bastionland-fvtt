@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Iron Knight",
+  "system": {
+    "name": "",
+    "description": "As sword abend, as plate afold,. As shield asplint, a tale atold.",
+    "flavor": "Origin of the cleavingblade",
+    "flavorLabel1": "Out of a…",
+    "flavorLabel2": "At a time of…"
+  },
+  "folder": "cHvlPDp0zpGbZWgA",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686432686,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VF4TpC47GxPZzC9k",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VF4TpC47GxPZzC9k"
+}

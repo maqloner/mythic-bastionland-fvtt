@@ -1,0 +1,174 @@
+{
+  "name": "But you cannot see",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Colour",
+      "_id": "96gPq6SNaTLE05xK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.96gPq6SNaTLE05xK"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Writing",
+      "_id": "8gBzBYg3r2QGwZBa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.8gBzBYg3r2QGwZBa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Birds",
+      "_id": "PDufsCsrsabifdYH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.PDufsCsrsabifdYH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Water",
+      "_id": "mb8jryoCawnJ4Uk0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.mb8jryoCawnJ4Uk0"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Stars and sun",
+      "_id": "8ybNoawzXScV95Ng",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.8ybNoawzXScV95Ng"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Silver and gold",
+      "_id": "sUtAaxZog7Q91vah",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LBpxnH8V5ox4YPpc.sUtAaxZog7Q91vah"
+    }
+  ],
+  "folder": "UdBtcJE7VAbFnN7E",
+  "_id": "LBpxnH8V5ox4YPpc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!LBpxnH8V5ox4YPpc"
+}

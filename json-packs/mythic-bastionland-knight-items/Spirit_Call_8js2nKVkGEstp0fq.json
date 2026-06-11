@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Spirit Call",
+  "system": {
+    "description": "Once per day, release the invisible spirit from your reliquary. It will follow a single, specific command. It acts with the general capacities of a normal human but can be invisible and immaterial as needed."
+  },
+  "folder": "wYrfLwuVdCuR1UBT",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686454732,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8js2nKVkGEstp0fq",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8js2nKVkGEstp0fq"
+}

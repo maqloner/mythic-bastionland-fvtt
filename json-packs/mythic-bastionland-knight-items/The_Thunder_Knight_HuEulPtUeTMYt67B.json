@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Thunder Knight",
+  "system": {
+    "name": "",
+    "description": "Thunder!. Should be felt, not heard, else call it a whimper!",
+    "flavor": "Caged bug",
+    "flavorLabel1": "Ability",
+    "flavorLabel2": "Manner"
+  },
+  "folder": "EseqJ2Nucgqdw4fZ",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686468015,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "HuEulPtUeTMYt67B",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HuEulPtUeTMYt67B"
+}

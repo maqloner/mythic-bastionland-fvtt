@@ -1,0 +1,318 @@
+{
+  "name": "FAUNA - Form",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ungulates",
+      "_id": "Ls64otldw0qJGuQP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.Ls64otldw0qJGuQP"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Songbirds",
+      "_id": "opAfdppV2AXIzOd9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.opAfdppV2AXIzOd9"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Canines",
+      "_id": "T3QeMmzcwtvlw3h0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.T3QeMmzcwtvlw3h0"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Rodents",
+      "_id": "ZNyvULX1MgxPO2n1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.ZNyvULX1MgxPO2n1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Amphibians",
+      "_id": "mDNfcKHu9jkZMuWp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.mDNfcKHu9jkZMuWp"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Insects",
+      "_id": "uFC1x7ZmU99XLyRa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.uFC1x7ZmU99XLyRa"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Felines",
+      "_id": "VuGbIuy6hcXx98i0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.VuGbIuy6hcXx98i0"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Reptiles",
+      "_id": "ekO8bh3F0HWgFzor",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.ekO8bh3F0HWgFzor"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Birds of Prey",
+      "_id": "6b8kxYumCnsh8hRR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.6b8kxYumCnsh8hRR"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Mustelids",
+      "_id": "RN82coQ9ybD5gUVM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.RN82coQ9ybD5gUVM"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Fowl",
+      "_id": "D9z2sj3Jy95Nuk4g",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.D9z2sj3Jy95Nuk4g"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Bears",
+      "_id": "1NIiglDOQ2aJGNWz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!U2HH9yF84KjQA1rE.1NIiglDOQ2aJGNWz"
+    }
+  ],
+  "folder": "MTEoIQiTorUuC8qP",
+  "_id": "U2HH9yF84KjQA1rE",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!U2HH9yF84KjQA1rE"
+}

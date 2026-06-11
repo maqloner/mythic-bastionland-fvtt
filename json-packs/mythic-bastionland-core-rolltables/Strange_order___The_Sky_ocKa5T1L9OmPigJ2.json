@@ -1,0 +1,174 @@
+{
+  "name": "Strange order - The Sky",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Stars fully aligned",
+      "_id": "nTRmRQhPfcgCQ3lH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.nTRmRQhPfcgCQ3lH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spiral clouds",
+      "_id": "TVu8R1wSmbBAJSvp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.TVu8R1wSmbBAJSvp"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Orderly rain",
+      "_id": "H20ECvOG8qXZivuG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.H20ECvOG8qXZivuG"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "No wind",
+      "_id": "M9QkhvR7f7zh4Cn1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.M9QkhvR7f7zh4Cn1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wasps in formation",
+      "_id": "G3pFVfkR1snijj82",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.G3pFVfkR1snijj82"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Birds forming line",
+      "_id": "LJkrV4KMVLPBQdI8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ocKa5T1L9OmPigJ2.LJkrV4KMVLPBQdI8"
+    }
+  ],
+  "folder": "u07BEkJHru9KGSYy",
+  "_id": "ocKa5T1L9OmPigJ2",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ocKa5T1L9OmPigJ2"
+}

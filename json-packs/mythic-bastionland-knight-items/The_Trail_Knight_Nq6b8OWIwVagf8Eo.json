@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Trail Knight",
+  "system": {
+    "name": "",
+    "description": "More than foxes leave trails in their stead. Comings and goings laid plain as a thread",
+    "flavor": "Personal code",
+    "flavorLabel1": "Value",
+    "flavorLabel2": "Forged by"
+  },
+  "folder": "cCn9139FbJfcmEoU",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686403512,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Nq6b8OWIwVagf8Eo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Nq6b8OWIwVagf8Eo"
+}

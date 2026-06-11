@@ -1,0 +1,174 @@
+{
+  "name": "Design",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Club",
+      "_id": "Arn6h0KAjBGwqt4u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.Arn6h0KAjBGwqt4u"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Disc",
+      "_id": "ZEZYIB3BA3NSmTzV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.ZEZYIB3BA3NSmTzV"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Spike",
+      "_id": "m9Oe50KZIW3bHoyc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.m9Oe50KZIW3bHoyc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bola",
+      "_id": "ZFwXtCiVsd5ToJbA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.ZFwXtCiVsd5ToJbA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fork",
+      "_id": "WsCUgPIWWL9jjQWR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.WsCUgPIWWL9jjQWR"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ball",
+      "_id": "LeDp8eijPlL4VmDa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1lGlyt0UPOvWdseS.LeDp8eijPlL4VmDa"
+    }
+  ],
+  "folder": "z8fXI9m8hHldyqmR",
+  "_id": "1lGlyt0UPOvWdseS",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!1lGlyt0UPOvWdseS"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Path to the peak - Surroundings",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Barren rock",
+      "_id": "nOjhh9HQpdsjrj7X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.nOjhh9HQpdsjrj7X"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Mocking goats",
+      "_id": "NLACrweXXAiZiz3p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.NLACrweXXAiZiz3p"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Watching crows",
+      "_id": "QnAmOVb41e5h9f6h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.QnAmOVb41e5h9f6h"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Aromatic shrubs",
+      "_id": "yHjK26Dmecan6qCO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.yHjK26Dmecan6qCO"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Thorny bushes",
+      "_id": "HUZLAFMElM7yMdZm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.HUZLAFMElM7yMdZm"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Gnarled trees",
+      "_id": "fsWLv2uGjr56bUEv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!812QhFkPfPj4TkSV.fsWLv2uGjr56bUEv"
+    }
+  ],
+  "folder": "RgHoSQOc8ihIUX2C",
+  "_id": "812QhFkPfPj4TkSV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!812QhFkPfPj4TkSV"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "The Gazer Knight",
+  "type": "Item",
+  "folder": null,
+  "_id": "OyZXP2i13doVnXHX",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "11.315",
+    "createdTime": 1702144402219,
+    "modifiedTime": 1702144742857,
+    "lastModifiedBy": "5fV2p77dLBLdIuri"
+  },
+  "_key": "!folders!OyZXP2i13doVnXHX"
+}

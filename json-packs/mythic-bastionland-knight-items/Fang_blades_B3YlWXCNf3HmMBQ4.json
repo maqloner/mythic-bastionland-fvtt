@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Fang blades",
+  "system": {
+    "description": "[[/roll d8 #damage]] each when wielded as a pair",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "Uv2YuXgdMm8OaxYS",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686459759,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "B3YlWXCNf3HmMBQ4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!B3YlWXCNf3HmMBQ4"
+}

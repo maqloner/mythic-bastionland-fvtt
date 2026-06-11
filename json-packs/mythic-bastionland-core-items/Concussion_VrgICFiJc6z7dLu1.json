@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Concussion",
+  "system": {
+    "description": "<p><em>A heavy blow numbs the mind</em></p><p>Lose [[/roll 2d6]] CLA</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "VrgICFiJc6z7dLu1",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!VrgICFiJc6z7dLu1"
+}

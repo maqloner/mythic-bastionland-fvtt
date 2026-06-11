@@ -1,0 +1,174 @@
+{
+  "name": "Boasts and slights - Slight",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "It was in a past life",
+      "_id": "Srt742SKjt9QxGLr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.Srt742SKjt9QxGLr"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "They disgust me",
+      "_id": "XwEctjCFxmFPzVE2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.XwEctjCFxmFPzVE2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "They don’t appreciate their standing",
+      "_id": "52BO6y0ykNA4LnNG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.52BO6y0ykNA4LnNG"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "They mistreated a cat",
+      "_id": "PDrztCuRV8FjZ0KU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.PDrztCuRV8FjZ0KU"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "They squander their lands",
+      "_id": "0l7DZtbXg3LWljh8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.0l7DZtbXg3LWljh8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "They sleep too much",
+      "_id": "UDhStUt98xUaDHzP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JZETGvLllZ3hdurt.UDhStUt98xUaDHzP"
+    }
+  ],
+  "folder": "46BE651SVTfAQdLW",
+  "_id": "JZETGvLllZ3hdurt",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JZETGvLllZ3hdurt"
+}

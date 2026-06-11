@@ -1,0 +1,174 @@
+{
+  "name": "A distant realm - How far away?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Neighbour Realm",
+      "_id": "eXPmAYffqBaApoxc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.eXPmAYffqBaApoxc"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Two Realms over",
+      "_id": "WuiqVsT5jnrJnAv9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.WuiqVsT5jnrJnAv9"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Three Realms over",
+      "_id": "kkUicjKHy3ryBXar",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.kkUicjKHy3ryBXar"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Deep underground",
+      "_id": "lplIzSUkkpFi1qRR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.lplIzSUkkpFi1qRR"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Months over sea",
+      "_id": "DiFRlSoy01NxqSAH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.DiFRlSoy01NxqSAH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Impossibly far",
+      "_id": "yOpy3hD42P24exKQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2jMowCUHKjAY0R1L.yOpy3hD42P24exKQ"
+    }
+  ],
+  "folder": "DVgfxy53HlORUGd0",
+  "_id": "2jMowCUHKjAY0R1L",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2jMowCUHKjAY0R1L"
+}

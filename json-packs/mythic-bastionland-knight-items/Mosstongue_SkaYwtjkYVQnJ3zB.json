@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Mosstongue",
+  "system": {
+    "description": "Speak with uncut stones and particularly old trees. If you push them for too much knowledge they rebuke you, shunning you for the rest of the day."
+  },
+  "folder": "9dmqwY19zUkxAqvE",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686399245,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SkaYwtjkYVQnJ3zB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SkaYwtjkYVQnJ3zB"
+}

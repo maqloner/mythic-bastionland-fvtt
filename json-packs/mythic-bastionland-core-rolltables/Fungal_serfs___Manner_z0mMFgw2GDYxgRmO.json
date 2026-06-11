@@ -1,0 +1,174 @@
+{
+  "name": "Fungal serfs - Manner",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Wheezing spores",
+      "_id": "F9KtbVfIPVGfJV3j",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.F9KtbVfIPVGfJV3j"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Curious of the world",
+      "_id": "VILK92j2ZuQijat4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.VILK92j2ZuQijat4"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Aggressively diligent",
+      "_id": "xbgkTsP1YMA6A7B8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.xbgkTsP1YMA6A7B8"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Warm and jovial",
+      "_id": "GlyJpRf0OVMdRo3h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.GlyJpRf0OVMdRo3h"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Proud and aloof",
+      "_id": "nO8Yb8dU0FVCnYow",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.nO8Yb8dU0FVCnYow"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Eating own body",
+      "_id": "OmlYhCHoadLKLes1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!z0mMFgw2GDYxgRmO.OmlYhCHoadLKLes1"
+    }
+  ],
+  "folder": "HzsxePMsiT2tpc58",
+  "_id": "z0mMFgw2GDYxgRmO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!z0mMFgw2GDYxgRmO"
+}

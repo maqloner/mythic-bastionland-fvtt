@@ -1,0 +1,174 @@
+{
+  "name": "Quirk",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Floats in water",
+      "_id": "fh33CKFrOkERBpr6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.fh33CKFrOkERBpr6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Quick to don or remove",
+      "_id": "qCVuit35h4z11zEI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.qCVuit35h4z11zEI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Silent when moving",
+      "_id": "bUVXOwE4Wtot2PUz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.bUVXOwE4Wtot2PUz"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Intimidating helm (A1)",
+      "_id": "fZWMIy0ednGnREO8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.fZWMIy0ednGnREO8"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Spiked gauntlets ([[/roll d6 #damage]])",
+      "_id": "X5wewi6Ka7iUERu6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.X5wewi6Ka7iUERu6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Ignore fall Damage",
+      "_id": "QIDvxMMUTmyqaFdb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4QajK787YDgteeGb.QIDvxMMUTmyqaFdb"
+    }
+  ],
+  "folder": "Na1FMc7FswI5wR8k",
+  "_id": "4QajK787YDgteeGb",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!4QajK787YDgteeGb"
+}

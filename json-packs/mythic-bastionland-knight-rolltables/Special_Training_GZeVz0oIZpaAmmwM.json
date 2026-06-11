@@ -1,0 +1,174 @@
+{
+  "name": "Special Training",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Singing",
+      "_id": "20lC7TXmKQk5erw8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.20lC7TXmKQk5erw8"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Fighting Humans (+[[/roll d6 #damage]] vs humans)",
+      "_id": "UdvmdEsVdhJUq60Y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.UdvmdEsVdhJUq60Y"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Silent Flight",
+      "_id": "kDNlGfWReHa6wC1e",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.kDNlGfWReHa6wC1e"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Delivery",
+      "_id": "hXLWW1AJzE44ESSY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.hXLWW1AJzE44ESSY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Stealing",
+      "_id": "ruTYkklbOUlqZZ4E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.ruTYkklbOUlqZZ4E"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Fighting Birds (+[[/roll d6 #damage]] vs birds)",
+      "_id": "0TYvGs4Rrssynarw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZeVz0oIZpaAmmwM.0TYvGs4Rrssynarw"
+    }
+  ],
+  "folder": "Y4mfJwxpvLYeE7Zl",
+  "_id": "GZeVz0oIZpaAmmwM",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GZeVz0oIZpaAmmwM"
+}

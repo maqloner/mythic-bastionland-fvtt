@@ -1,0 +1,174 @@
+{
+  "name": "Blessings of the sun - Bane",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Forest fire",
+      "_id": "iv6GGWNYMJVlbjC0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.iv6GGWNYMJVlbjC0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Exhausted elders",
+      "_id": "yQjixKpAKxP12LrK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.yQjixKpAKxP12LrK"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Worn out steeds",
+      "_id": "ZVBeWl1kpnEt2X22",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.ZVBeWl1kpnEt2X22"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ruined cropfield",
+      "_id": "TaZ5VDEmIZDh7YpT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.TaZ5VDEmIZDh7YpT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Insect swarms",
+      "_id": "mZYlXsvkXlhuRQiE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.mZYlXsvkXlhuRQiE"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Desperate predators",
+      "_id": "MIDuCOXDw1crBCVz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IS3C1dREAlKaP2tR.MIDuCOXDw1crBCVz"
+    }
+  ],
+  "folder": "A4fg5mg0Bcwal3lr",
+  "_id": "IS3C1dREAlKaP2tR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!IS3C1dREAlKaP2tR"
+}

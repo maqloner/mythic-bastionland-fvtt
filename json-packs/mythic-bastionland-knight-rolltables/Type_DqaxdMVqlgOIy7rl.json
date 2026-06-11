@@ -1,0 +1,174 @@
+{
+  "name": "Type",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Copper mail (A1)",
+      "_id": "ruC8W7ood0VwPKxk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.ruC8W7ood0VwPKxk"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cracked chestplate and bracers (A1)",
+      "_id": "C84tgEUpmrm2S7Gb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.C84tgEUpmrm2S7Gb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Red brigandine (A1)",
+      "_id": "5Wk3cqT885Do1Y0v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.5Wk3cqT885Do1Y0v"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Padded cloth (A1)",
+      "_id": "nJZe7JYTHDt6HfAR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.nJZe7JYTHDt6HfAR"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hardened leather (A1)",
+      "_id": "uVSivGqqg8i7acKp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.uVSivGqqg8i7acKp"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Dented plate (A1)",
+      "_id": "xs44PXo9yWpWFhdi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!DqaxdMVqlgOIy7rl.xs44PXo9yWpWFhdi"
+    }
+  ],
+  "folder": "9LDu3MOjZOqjE9X7",
+  "_id": "DqaxdMVqlgOIy7rl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!DqaxdMVqlgOIy7rl"
+}

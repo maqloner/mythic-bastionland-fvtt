@@ -1,0 +1,174 @@
+{
+  "name": "Strange order - The Land",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Crops grow in squares",
+      "_id": "ncU2I3XnTyHymsAp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.ncU2I3XnTyHymsAp"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cube boulders",
+      "_id": "Hjs4ZxYVb09M7x9E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.Hjs4ZxYVb09M7x9E"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Worms forming signs",
+      "_id": "PtCiccU4ISHG83gt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.PtCiccU4ISHG83gt"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Rivers straightening",
+      "_id": "oFVoBEzPbeKUe0pD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.oFVoBEzPbeKUe0pD"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Symmetrical trees",
+      "_id": "Vr4Jwwo6Tchn6eR8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.Vr4Jwwo6Tchn6eR8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Pulse from below",
+      "_id": "ZIEtyVg33ZWEzcqq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nwStlbBNSIZ3eFc4.ZIEtyVg33ZWEzcqq"
+    }
+  ],
+  "folder": "u07BEkJHru9KGSYy",
+  "_id": "nwStlbBNSIZ3eFc4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!nwStlbBNSIZ3eFc4"
+}

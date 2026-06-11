@@ -1,0 +1,174 @@
+{
+  "name": "A voice in the darkness - Origin",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Whispering from the violet fungi",
+      "_id": "UQLdv2YtC1SCg0oE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.UQLdv2YtC1SCg0oE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Singing from the drifting lights",
+      "_id": "ZCiUOm7G9BAGazbx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.ZCiUOm7G9BAGazbx"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Murmuring from the mirrored pools",
+      "_id": "ayTbwQq5dNdYS5zR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.ayTbwQq5dNdYS5zR"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Taunting from the shadows",
+      "_id": "dswzbKVOu5W125xn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.dswzbKVOu5W125xn"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Beckoning from the distant dark",
+      "_id": "uDsYS1rZctq3Sy0h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.uDsYS1rZctq3Sy0h"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Chattering in the cold",
+      "_id": "by5e8Bj0Jkhrl87i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HED7grMYL4KdBh2W.by5e8Bj0Jkhrl87i"
+    }
+  ],
+  "folder": "c0hK55DQu77yKq17",
+  "_id": "HED7grMYL4KdBh2W",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!HED7grMYL4KdBh2W"
+}

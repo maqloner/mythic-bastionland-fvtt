@@ -1,0 +1,174 @@
+{
+  "name": "Dreamlike visions - Content",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Regrets (lose d6 SPI)",
+      "_id": "ZRlgglfBngQsbYKh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.ZRlgglfBngQsbYKh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Hardship (lose d6 VIG)",
+      "_id": "CRgLYBq7gUWRtgDo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.CRgLYBq7gUWRtgDo"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fear (lose d6 CLA)",
+      "_id": "lvVA7CewEfuLFV6h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.lvVA7CewEfuLFV6h"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pride (restore SPI)",
+      "_id": "BoMuHe3GW4N3HiKb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.BoMuHe3GW4N3HiKb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Comfort (restore VIG)",
+      "_id": "AMHTzfElHYHnz0dF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.AMHTzfElHYHnz0dF"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Guidance (restore CLA)",
+      "_id": "0t9PmJPVcQvgjqm8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Uqr5WLR3juQlQrJR.0t9PmJPVcQvgjqm8"
+    }
+  ],
+  "folder": "LmKkL3Eh82jjoeHG",
+  "_id": "Uqr5WLR3juQlQrJR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Uqr5WLR3juQlQrJR"
+}

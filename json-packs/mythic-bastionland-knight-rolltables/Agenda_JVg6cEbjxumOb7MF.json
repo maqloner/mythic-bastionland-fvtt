@@ -1,0 +1,174 @@
+{
+  "name": "Agenda",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Your death",
+      "_id": "50j4RchcVkYargTh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.50j4RchcVkYargTh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Order",
+      "_id": "FdwLMYG2b4HyDrgs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.FdwLMYG2b4HyDrgs"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bloodshed",
+      "_id": "7LWGJNL6C4tfCga3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.7LWGJNL6C4tfCga3"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Peace",
+      "_id": "g7mYvr9kcTTgiLnI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.g7mYvr9kcTTgiLnI"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Chaos",
+      "_id": "0k31i25Tx8ADLUZo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.0k31i25Tx8ADLUZo"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Your ambitions",
+      "_id": "rJay3SRykXXw5H8b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JVg6cEbjxumOb7MF.rJay3SRykXXw5H8b"
+    }
+  ],
+  "folder": "WXJV2SHbebniR472",
+  "_id": "JVg6cEbjxumOb7MF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JVg6cEbjxumOb7MF"
+}

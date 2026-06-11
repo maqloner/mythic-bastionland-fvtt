@@ -1,0 +1,318 @@
+{
+  "name": "PERSONALITY - Interest",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Botany",
+      "_id": "3Wy54yXnT5iFlc8x",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.3Wy54yXnT5iFlc8x"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "History",
+      "_id": "SiHYKt04gjnXwZZn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.SiHYKt04gjnXwZZn"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Music",
+      "_id": "qspkuzgdrweLeCJq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.qspkuzgdrweLeCJq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Gambling",
+      "_id": "G9dcnebfV3brrWn8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.G9dcnebfV3brrWn8"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Animals",
+      "_id": "gkDVDWMQyNUUvKNz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.gkDVDWMQyNUUvKNz"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Art",
+      "_id": "9hx0u7UPKX1feWUA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.9hx0u7UPKX1feWUA"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Cookery",
+      "_id": "om0YiKQos5XTVxJT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.om0YiKQos5XTVxJT"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Craft",
+      "_id": "2sGGwrSZFvnTrx0Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.2sGGwrSZFvnTrx0Q"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Fishing",
+      "_id": "AskpQqzEJjdz6UAY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.AskpQqzEJjdz6UAY"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Myths",
+      "_id": "9bkhd1CIpr0reA08",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.9bkhd1CIpr0reA08"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Hunting",
+      "_id": "2zKZfRG1OqkcJXIA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.2zKZfRG1OqkcJXIA"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Stories",
+      "_id": "jRVlBw68iuLblvcp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qj4qGHyT4baEGdA9.jRVlBw68iuLblvcp"
+    }
+  ],
+  "folder": "KWtiiRLXMmqW8Efw",
+  "_id": "qj4qGHyT4baEGdA9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qj4qGHyT4baEGdA9"
+}

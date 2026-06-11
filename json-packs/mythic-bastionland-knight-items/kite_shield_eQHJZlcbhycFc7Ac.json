@@ -1,0 +1,31 @@
+{
+  "type": "shield",
+  "name": "kite shield",
+  "system": {
+    "description": "Marked with a symbol of the truth",
+    "armor": 1,
+    "damage": "d4",
+    "equipped": false
+  },
+  "folder": "ZGlvO36Hxjz3P4Vt",
+  "img": "systems/mythicbastionland/tokens/items/shield.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686397821,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "eQHJZlcbhycFc7Ac",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eQHJZlcbhycFc7Ac"
+}

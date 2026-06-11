@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Handaxe",
+  "system": {
+    "description": "",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "u0SfKqvJqBKkhKtJ",
+  "_id": "PZLRtu1UqDS68Rne",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146668025,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PZLRtu1UqDS68Rne"
+}

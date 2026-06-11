@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Listening horn",
+  "system": {
+    "description": "When placed against a wall, hear everything from the other side in perfect clarity",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "ssz80Wmnwc6VRyZd",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686476902,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jVvzh3xizco1wlMF",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jVvzh3xizco1wlMF"
+}

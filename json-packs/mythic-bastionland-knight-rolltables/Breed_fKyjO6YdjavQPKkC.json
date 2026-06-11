@@ -1,0 +1,174 @@
+{
+  "name": "Breed",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fisherhawk (can dive into water)",
+      "_id": "aXOL2zNsr7mFRWi0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.aXOL2zNsr7mFRWi0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cave Owl (nocturnal)",
+      "_id": "G1UsweDy0nLAKdXy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.G1UsweDy0nLAKdXy"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Grey Raven (highly intelligent)",
+      "_id": "VTiD1lfO5jdxt64i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.VTiD1lfO5jdxt64i"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Red Eagle (d6 Talons)",
+      "_id": "eLw3J3Lyhn9hO4d5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.eLw3J3Lyhn9hO4d5"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Rock Falcon (preys on reptiles)",
+      "_id": "Bdab0bHuvf4hlTr3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.Bdab0bHuvf4hlTr3"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Bog Vulture (5GD)",
+      "_id": "13YYcUjaShDZXxlA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fKyjO6YdjavQPKkC.13YYcUjaShDZXxlA"
+    }
+  ],
+  "folder": "Y4mfJwxpvLYeE7Zl",
+  "_id": "fKyjO6YdjavQPKkC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fKyjO6YdjavQPKkC"
+}

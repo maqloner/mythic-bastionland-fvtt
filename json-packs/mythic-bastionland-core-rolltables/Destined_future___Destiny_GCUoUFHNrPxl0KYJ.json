@@ -1,0 +1,174 @@
+{
+  "name": "Destined future - Destiny",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Must die next Season",
+      "_id": "gvcDKNdUPpfUFEfz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.gvcDKNdUPpfUFEfz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Must leave the Realm",
+      "_id": "s3wAo2CxdssE3kTQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.s3wAo2CxdssE3kTQ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Must be imprisoned in the Citadel",
+      "_id": "hFdlTcv5Eb2d8WDD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.hFdlTcv5Eb2d8WDD"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Must die",
+      "_id": "1IH7kmRVQ5A0U3gv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.1IH7kmRVQ5A0U3gv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Must find the City",
+      "_id": "DzcMk1DNMJ1kaW1k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.DzcMk1DNMJ1kaW1k"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Must rule the Realm",
+      "_id": "yEU7JlmT6PjvSziK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GCUoUFHNrPxl0KYJ.yEU7JlmT6PjvSziK"
+    }
+  ],
+  "folder": "IxT57h2A2x2mCnm7",
+  "_id": "GCUoUFHNrPxl0KYJ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GCUoUFHNrPxl0KYJ"
+}

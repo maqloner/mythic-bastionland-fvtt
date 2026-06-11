@@ -1,0 +1,174 @@
+{
+  "name": "Riverboats - Intent",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Raiding",
+      "_id": "EBl5zzpJ80p6FjuH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.EBl5zzpJ80p6FjuH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Trade",
+      "_id": "3lPb4vuexnTytUxR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.3lPb4vuexnTytUxR"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Adventure",
+      "_id": "1y9gBJ8HYdVsn8oO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.1y9gBJ8HYdVsn8oO"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Safety",
+      "_id": "222ux4WVp5thSClf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.222ux4WVp5thSClf"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hunting",
+      "_id": "IFESxjreqMlbBX81",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.IFESxjreqMlbBX81"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Pilgrimage",
+      "_id": "dqkCxVzqtCLPwqTv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!G66cjxvXu7Kq5g32.dqkCxVzqtCLPwqTv"
+    }
+  ],
+  "folder": "QGYPri1UkNmLJfDu",
+  "_id": "G66cjxvXu7Kq5g32",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!G66cjxvXu7Kq5g32"
+}

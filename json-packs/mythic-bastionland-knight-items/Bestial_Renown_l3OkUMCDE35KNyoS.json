@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Bestial Renown",
+  "system": {
+    "description": "Each time you defeat an animal in a contest befitting its strengths, all animals of that type will react favourably to you."
+  },
+  "folder": "Uv2YuXgdMm8OaxYS",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686459437,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "l3OkUMCDE35KNyoS",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!l3OkUMCDE35KNyoS"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Infuriating children - Wants",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Entertaining",
+      "_id": "vGPKZf2STQcYafts",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.vGPKZf2STQcYafts"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A very specific food",
+      "_id": "AxIK4NmP0ujKnS6F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.AxIK4NmP0ujKnS6F"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "What you have",
+      "_id": "v4xasU926L6JOI1u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.v4xasU926L6JOI1u"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "To go home",
+      "_id": "VjE0rAYyAyKYcE71",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.VjE0rAYyAyKYcE71"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Something another child has",
+      "_id": "esxahgpicPtwnyYd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.esxahgpicPtwnyYd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "They don’t even know",
+      "_id": "VDdgsmAvIeonCCo7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qxiMAd1sawNv2WZG.VDdgsmAvIeonCCo7"
+    }
+  ],
+  "folder": "4xHBG6Xs6qBtCbhO",
+  "_id": "qxiMAd1sawNv2WZG",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qxiMAd1sawNv2WZG"
+}

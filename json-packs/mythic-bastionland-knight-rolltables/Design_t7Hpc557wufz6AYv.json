@@ -1,0 +1,174 @@
+{
+  "name": "Design",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Abstract shapes",
+      "_id": "aFDQGUkB2mZjdh7U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.aFDQGUkB2mZjdh7U"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ancient runes",
+      "_id": "U7S1tQYDNaOGMWoO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.U7S1tQYDNaOGMWoO"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Letters you do not understand",
+      "_id": "AqvILletozL0L8UK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.AqvILletozL0L8UK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Skulls and bones",
+      "_id": "9AEN3Rgj9JSkTNKE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.9AEN3Rgj9JSkTNKE"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Thunderbolts",
+      "_id": "f7zg4bbTZZchBix1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.f7zg4bbTZZchBix1"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Thorns and flowers",
+      "_id": "BLHxVpoiuR4i8x41",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!t7Hpc557wufz6AYv.BLHxVpoiuR4i8x41"
+    }
+  ],
+  "folder": "IRtc0s4FzAhoPnf3",
+  "_id": "t7Hpc557wufz6AYv",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!t7Hpc557wufz6AYv"
+}

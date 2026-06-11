@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Carrion Casting",
+  "system": {
+    "description": "Spread the innards of the recently dead across the ground. Ask a single question, they point you in a direction that would help."
+  },
+  "folder": "0iDFsQjUAhlijrEH",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686455844,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "bqrVlNinkF3HGHiz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!bqrVlNinkF3HGHiz"
+}

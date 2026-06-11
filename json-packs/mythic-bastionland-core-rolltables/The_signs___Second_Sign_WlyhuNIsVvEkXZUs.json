@@ -1,0 +1,174 @@
+{
+  "name": "The signs - Second Sign",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Harvest of Snakes",
+      "_id": "dttU60hscIl81IZh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.dttU60hscIl81IZh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sudden Winter",
+      "_id": "4Ac6YuQKMfuSkBJz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.4Ac6YuQKMfuSkBJz"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Night Terrors",
+      "_id": "c0uKW0uTTKMJGcaF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.c0uKW0uTTKMJGcaF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sleeping Mist",
+      "_id": "sCMzXcByeUNkWrz6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.sCMzXcByeUNkWrz6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Earthquake",
+      "_id": "LhF7ITpNJErF4fVj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.LhF7ITpNJErF4fVj"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Burning Graves",
+      "_id": "LV4kbnOXYaKmbiBx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WlyhuNIsVvEkXZUs.LV4kbnOXYaKmbiBx"
+    }
+  ],
+  "folder": "5rAAqYCNSPdAMYWR",
+  "_id": "WlyhuNIsVvEkXZUs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WlyhuNIsVvEkXZUs"
+}

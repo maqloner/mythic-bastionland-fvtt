@@ -1,0 +1,1758 @@
+{
+  "name": "Hazard",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Choking woodland",
+      "_id": "kLcVxnFUMc4EIguF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.kLcVxnFUMc4EIguF"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Stinging leaves",
+      "_id": "uSj8ybswQdkcPxlX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.uSj8ybswQdkcPxlX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Forgotten traps",
+      "_id": "fOdUHdB0XfyPz5jE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.fOdUHdB0XfyPz5jE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Razor rocks",
+      "_id": "i1pO0dO8dTjvRBFV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.i1pO0dO8dTjvRBFV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Carrion birds",
+      "_id": "Z9QOtBqS7DrWAe3C",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.Z9QOtBqS7DrWAe3C"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Salt bog",
+      "_id": "PgsKhqv1AN1gF3XQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.PgsKhqv1AN1gF3XQ"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Barbed gorge",
+      "_id": "virW9VF5Ia1zVu7q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.virW9VF5Ia1zVu7q"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Sticky weeds",
+      "_id": "UCBh6qOjRjxzCn7W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.UCBh6qOjRjxzCn7W"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Steam holes",
+      "_id": "E2XgsYsEscVN6hnN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.E2XgsYsEscVN6hnN"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Raging rapids",
+      "_id": "G0hQh9iWFtByVxTR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.G0hQh9iWFtByVxTR"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Toxic air",
+      "_id": "RwaTyVtpYo5acdqb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.RwaTyVtpYo5acdqb"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Spiked wall",
+      "_id": "mDmpGZ4hkfYSuWhQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.mDmpGZ4hkfYSuWhQ"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Crumbling cliffs",
+      "_id": "3cIisfluqakGFKxI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.3cIisfluqakGFKxI"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Floodplain",
+      "_id": "RIInhufzVqhVmxRt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.RIInhufzVqhVmxRt"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Gulping marsh",
+      "_id": "EkdcuuHt1VRJokxk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.EkdcuuHt1VRJokxk"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Spiked roots",
+      "_id": "4HHl2eSdh3TyuYkx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.4HHl2eSdh3TyuYkx"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Slippery rocks",
+      "_id": "3tianPbVnNO69dEf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.3tianPbVnNO69dEf"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Tight squeeze",
+      "_id": "XXxeRzRB8hxRUcdW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.XXxeRzRB8hxRUcdW"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Draining climb",
+      "_id": "Fb7UOXtLFxEzx0fI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.Fb7UOXtLFxEzx0fI"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Perilous crossing",
+      "_id": "4H7QWRuBLavQcUgy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.4H7QWRuBLavQcUgy"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Thorn snares",
+      "_id": "LhyACY5aRNkSOPlD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.LhyACY5aRNkSOPlD"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Fallen woods",
+      "_id": "iJ4qgLkl3aDhmP9J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.iJ4qgLkl3aDhmP9J"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Mud slopes",
+      "_id": "lXIpZhirl7YhfmYW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.lXIpZhirl7YhfmYW"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Spike rocks",
+      "_id": "0XRKY5JDLxeKauqj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.0XRKY5JDLxeKauqj"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Flooded glade",
+      "_id": "0NKyaV5J20OjYrVG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.0NKyaV5J20OjYrVG"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Bone ridges",
+      "_id": "nKxggFvaji0m1zob",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.nKxggFvaji0m1zob"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Lurking predators",
+      "_id": "eClCB7sxF0PjYXo5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.eClCB7sxF0PjYXo5"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Slippery climb",
+      "_id": "JPL0zNaeJfhCSsPX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.JPL0zNaeJfhCSsPX"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Stinging swarms",
+      "_id": "PrEYJdzi9E7lmaOU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.PrEYJdzi9E7lmaOU"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Biting thorns",
+      "_id": "pfNjueNEBOV1Kusw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.pfNjueNEBOV1Kusw"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Rat territory",
+      "_id": "fyjSa5fO1WfkGrBQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.fyjSa5fO1WfkGrBQ"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Sinkholes",
+      "_id": "mfomusU4fUYbK9Mx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.mfomusU4fUYbK9Mx"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Choking dust",
+      "_id": "Neo7GWzSkUkhGsp9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.Neo7GWzSkUkhGsp9"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Briar field",
+      "_id": "y3DzuWNJVIzWPYT9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.y3DzuWNJVIzWPYT9"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Tangling moss",
+      "_id": "EiA37y8ysGv6i8bj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.EiA37y8ysGv6i8bj"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Chill air",
+      "_id": "b8SOQ8Ofs1fRxYba",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.b8SOQ8Ofs1fRxYba"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Burning heat",
+      "_id": "NvWyv17PmXkqECCs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.NvWyv17PmXkqECCs"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Quickmud",
+      "_id": "DBbz3w9izud1rvov",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.DBbz3w9izud1rvov"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Crumbling ground",
+      "_id": "P0uCyUqpvOksGVw8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.P0uCyUqpvOksGVw8"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Icy rapids",
+      "_id": "9bB0lYZU6B0HE8Bx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.9bB0lYZU6B0HE8Bx"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Fierce winds",
+      "_id": "ZZyGin3xJs47hFAu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.ZZyGin3xJs47hFAu"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Venomous fens",
+      "_id": "YcXQZmf9poCxzleQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.YcXQZmf9poCxzleQ"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Razor crags",
+      "_id": "0WLIyh5OMmqX2dD6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.0WLIyh5OMmqX2dD6"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Crumbling ridge",
+      "_id": "C0N4UIFRlHljU4ji",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.C0N4UIFRlHljU4ji"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Brimstone springs",
+      "_id": "TUZX5rDPgFc6ioVt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.TUZX5rDPgFc6ioVt"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Vulture peaks",
+      "_id": "xED3Nkmk74yniM3U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.xED3Nkmk74yniM3U"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Thorned trench",
+      "_id": "uki0LCLZA18b0Epz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.uki0LCLZA18b0Epz"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Quaking ground",
+      "_id": "pUA7PyNZlqdUlN7D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.pUA7PyNZlqdUlN7D"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Needle grass",
+      "_id": "g6VtqaO5pOk7AX8B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.g6VtqaO5pOk7AX8B"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Numb ache on the air",
+      "_id": "cfr5dyeUVwAX9QSq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.cfr5dyeUVwAX9QSq"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Draining dunes",
+      "_id": "HcjIwSAC0nllFS2O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.HcjIwSAC0nllFS2O"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Hopeless climb",
+      "_id": "4QqcNPVmaKnQgzvG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.4QqcNPVmaKnQgzvG"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Earsplitting screams",
+      "_id": "4ckKnisjZNvXEbEi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.4ckKnisjZNvXEbEi"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Pouncing spiders",
+      "_id": "SSgJDzlCgg9uTMFa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.SSgJDzlCgg9uTMFa"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Dust storm",
+      "_id": "IZSUzEtD4hpOHHld",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.IZSUzEtD4hpOHHld"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Red hail",
+      "_id": "40MaBdzEYyAS8ijj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.40MaBdzEYyAS8ijj"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Immaterial attackers",
+      "_id": "6k1b48Pjaaw97Jgd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.6k1b48Pjaaw97Jgd"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Glue bog",
+      "_id": "DGIBXvndtKPnXaVf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.DGIBXvndtKPnXaVf"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Strangling fog",
+      "_id": "ru8cU1VGNaisNSYj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.ru8cU1VGNaisNSYj"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Fire nettles",
+      "_id": "Eo3Hzt7toqbKzqiZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.Eo3Hzt7toqbKzqiZ"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Frostbite fog",
+      "_id": "BNjazAo1Y4Im97uK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.BNjazAo1Y4Im97uK"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Chilling bushes",
+      "_id": "wfCE0PRVoiLxldBp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.wfCE0PRVoiLxldBp"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Scalding heat",
+      "_id": "Cbd8gBNPbZiuo9wv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.Cbd8gBNPbZiuo9wv"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Boulder rapids",
+      "_id": "eDE3YexiKIIs3xnd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.eDE3YexiKIIs3xnd"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Lack of air",
+      "_id": "7D9wtQPvtgxsOGP0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.7D9wtQPvtgxsOGP0"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Exhausting spores",
+      "_id": "eqwa9HMSQmLyCGZU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.eqwa9HMSQmLyCGZU"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Biting muck",
+      "_id": "8bI1ycF9P63WQv7C",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.8bI1ycF9P63WQv7C"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Bloodsucking insects",
+      "_id": "lmWpQqOrZulj9t2s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.lmWpQqOrZulj9t2s"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Parasitic worms",
+      "_id": "9yGEh5FevzGlZTsk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.9yGEh5FevzGlZTsk"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Acidic fog",
+      "_id": "kUxxHItTK7fzuNyB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.kUxxHItTK7fzuNyB"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Biting serpents",
+      "_id": "AqM33b1XGaQJX5NR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.AqM33b1XGaQJX5NR"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Magma field",
+      "_id": "wsDRvuFM24RfuCRR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Mx8etqdbvad7Q02Y.wsDRvuFM24RfuCRR"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "Mx8etqdbvad7Q02Y",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Mx8etqdbvad7Q02Y"
+}

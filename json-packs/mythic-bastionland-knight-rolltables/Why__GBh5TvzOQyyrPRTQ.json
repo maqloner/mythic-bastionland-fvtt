@@ -1,0 +1,174 @@
+{
+  "name": "Why?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Seer’s orders",
+      "_id": "LdH1otnvkGx9vph6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.LdH1otnvkGx9vph6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "It frightens you",
+      "_id": "tIfvtw0Wk1YjwmXz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.tIfvtw0Wk1YjwmXz"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "The word is forgotten",
+      "_id": "ClKDF4yvWGpPyC1s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.ClKDF4yvWGpPyC1s"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "You can’t speak it",
+      "_id": "yCFPcPOCVlDOvPV1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.yCFPcPOCVlDOvPV1"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "It dies when named",
+      "_id": "dH6fvFpcBgcBqCIo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.dH6fvFpcBgcBqCIo"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Its name has power",
+      "_id": "0wNOD5hY344C8eIa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GBh5TvzOQyyrPRTQ.0wNOD5hY344C8eIa"
+    }
+  ],
+  "folder": "jKvpG8Un7Qrp8Acq",
+  "_id": "GBh5TvzOQyyrPRTQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GBh5TvzOQyyrPRTQ"
+}

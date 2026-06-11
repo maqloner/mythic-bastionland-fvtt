@@ -1,0 +1,174 @@
+{
+  "name": "Baleful gifts - Curse",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Deathly sleep",
+      "_id": "D81Te0ZVW9n50LOG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.D81Te0ZVW9n50LOG"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Loss of speech",
+      "_id": "lHkhEBPgwFa5ITRZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.lHkhEBPgwFa5ITRZ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hideous face",
+      "_id": "1h3bNgMv4Hs7rVVY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.1h3bNgMv4Hs7rVVY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Loss of vision",
+      "_id": "UybWvmfskbHEYXCv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.UybWvmfskbHEYXCv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Total memory loss",
+      "_id": "ZhNb1d7lp0WlqOZR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.ZhNb1d7lp0WlqOZR"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Loss of hearing",
+      "_id": "S4HjuamCaw1aNnR8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PrmlRx4rsvoew4Bn.S4HjuamCaw1aNnR8"
+    }
+  ],
+  "folder": "HsYyEV9vv1hsujhZ",
+  "_id": "PrmlRx4rsvoew4Bn",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!PrmlRx4rsvoew4Bn"
+}

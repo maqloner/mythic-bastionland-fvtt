@@ -1,0 +1,174 @@
+{
+  "name": "False superstitions - Supposed Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "See in the dark",
+      "_id": "YfYmyq03df56JX1d",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.YfYmyq03df56JX1d"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Speak with animals",
+      "_id": "MaHUIXtww9jDhDCq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.MaHUIXtww9jDhDCq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Avoid nightmares",
+      "_id": "j0mPAVDglkHd2R2p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.j0mPAVDglkHd2R2p"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Prophetic dreams",
+      "_id": "jisndQ22aIPH1w01",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.jisndQ22aIPH1w01"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Find love",
+      "_id": "yldxNMTRN5u6wc2j",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.yldxNMTRN5u6wc2j"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Cheat death",
+      "_id": "TONUpipo4dDo0BXT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8gh2QrK7p7xJ2Q8.TONUpipo4dDo0BXT"
+    }
+  ],
+  "folder": "wO2txg5OFVO9BzN6",
+  "_id": "M8gh2QrK7p7xJ2Q8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!M8gh2QrK7p7xJ2Q8"
+}

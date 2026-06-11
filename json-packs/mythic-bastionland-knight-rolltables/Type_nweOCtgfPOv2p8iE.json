@@ -1,0 +1,174 @@
+{
+  "name": "Type",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Leather",
+      "_id": "uqs9id88izojwGp1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.uqs9id88izojwGp1"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Velvet",
+      "_id": "2ehJJNakUcOdX2EC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.2ehJJNakUcOdX2EC"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fur",
+      "_id": "W2wM47bZYotlanug",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.W2wM47bZYotlanug"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Scales",
+      "_id": "rwRhX2aMFxF4AhKx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.rwRhX2aMFxF4AhKx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hair",
+      "_id": "s3yV32jVVTH5yATY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.s3yV32jVVTH5yATY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Straw",
+      "_id": "PO1ySCLWi1mDyszr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!nweOCtgfPOv2p8iE.PO1ySCLWi1mDyszr"
+    }
+  ],
+  "folder": "WgQqFqSDKvBZTYtE",
+  "_id": "nweOCtgfPOv2p8iE",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!nweOCtgfPOv2p8iE"
+}

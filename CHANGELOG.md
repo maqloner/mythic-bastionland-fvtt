@@ -1,3 +1,9 @@
+# v1.0.10
+- Fixed Curvebow dealing d26 damage.
+- Fixed the Attack dialog for non-knight actors.
+- The "How to Use the System" chat message is now shown only on first startup.
+- Compendium packs are now built during release.
+
 # v1.0.9
 - Compatible with Foundry Virtual Tabletop v14
 - Removed deprecation warnings up to v16

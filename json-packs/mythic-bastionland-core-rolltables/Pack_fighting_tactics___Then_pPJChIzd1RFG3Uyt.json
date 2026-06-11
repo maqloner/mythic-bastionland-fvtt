@@ -1,0 +1,174 @@
+{
+  "name": "Pack fighting tactics - Then",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Slip into shadow",
+      "_id": "UprmCUzKyKam702d",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.UprmCUzKyKam702d"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Drag one away",
+      "_id": "g4jmjQVKrHUVxeTe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.g4jmjQVKrHUVxeTe"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Never let them sleep",
+      "_id": "Bpg8wOV0N2aNGYM0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.Bpg8wOV0N2aNGYM0"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Attack their intended destination instead",
+      "_id": "yXy2uq6AvFbEANPE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.yXy2uq6AvFbEANPE"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Stay just out of reach",
+      "_id": "JupzLgd3QfNpStvb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.JupzLgd3QfNpStvb"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Go and dig a pit trap",
+      "_id": "2UvsAV8nmnsXvvHA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pPJChIzd1RFG3Uyt.2UvsAV8nmnsXvvHA"
+    }
+  ],
+  "folder": "5sT9iCnWq7y7Qw8C",
+  "_id": "pPJChIzd1RFG3Uyt",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pPJChIzd1RFG3Uyt"
+}

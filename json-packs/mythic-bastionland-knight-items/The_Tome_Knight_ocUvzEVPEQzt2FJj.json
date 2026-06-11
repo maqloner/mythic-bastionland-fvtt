@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Tome Knight",
+  "system": {
+    "name": "",
+    "description": "A loom of wisdom spun at dawn. Laid to rest til coming morn",
+    "flavor": "Limits of memory",
+    "flavorLabel1": "Blind spot for…",
+    "flavorLabel2": "And…"
+  },
+  "folder": "t1Z2zcDi1ceedHVO",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686426289,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ocUvzEVPEQzt2FJj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ocUvzEVPEQzt2FJj"
+}

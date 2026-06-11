@@ -1,0 +1,174 @@
+{
+  "name": "Stretches of wall - Condition",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Crumbling",
+      "_id": "3k6RypmzGfRWQJEA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.3k6RypmzGfRWQJEA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Reinforced",
+      "_id": "g0lcRYFRDrGkUbsF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.g0lcRYFRDrGkUbsF"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Under Repair",
+      "_id": "bVbOh2KIGGsy5cN9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.bVbOh2KIGGsy5cN9"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Overgrown",
+      "_id": "gfAT7gTvs6BPfjIp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.gfAT7gTvs6BPfjIp"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Mid Inspection",
+      "_id": "ZhtDPAfQfnwTDEA7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.ZhtDPAfQfnwTDEA7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Breached",
+      "_id": "mMjgjyFdw7gd7qYx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QnGUchWzMjFTZxwU.mMjgjyFdw7gd7qYx"
+    }
+  ],
+  "folder": "TZ2BCiWoMRGrJxtb",
+  "_id": "QnGUchWzMjFTZxwU",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QnGUchWzMjFTZxwU"
+}

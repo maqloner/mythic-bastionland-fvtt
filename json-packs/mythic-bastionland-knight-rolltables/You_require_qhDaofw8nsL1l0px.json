@@ -1,0 +1,174 @@
+{
+  "name": "You require",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Complete darkness",
+      "_id": "c6kcKuy10ovLC0yu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.c6kcKuy10ovLC0yu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Submersion in water",
+      "_id": "PoqOIsnHUug0tHo0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.PoqOIsnHUug0tHo0"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Milk and honey",
+      "_id": "9a6Y2Y3ZE9rIXGcx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.9a6Y2Y3ZE9rIXGcx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Choking smoke",
+      "_id": "Vh3vxny13nysKquY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.Vh3vxny13nysKquY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A blanket of leaves",
+      "_id": "uuHX1QXgsLrKjIS6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.uuHX1QXgsLrKjIS6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Burning embers",
+      "_id": "s8KbYc5qWwQ0XcS9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qhDaofw8nsL1l0px.s8KbYc5qWwQ0XcS9"
+    }
+  ],
+  "folder": "gMlJL0F1ATEkWGlS",
+  "_id": "qhDaofw8nsL1l0px",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qhDaofw8nsL1l0px"
+}

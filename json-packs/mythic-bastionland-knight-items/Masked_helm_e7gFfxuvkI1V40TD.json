@@ -1,0 +1,30 @@
+{
+  "type": "helm",
+  "name": "Masked helm",
+  "system": {
+    "description": "See below",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "iZzpjKeO1dP9xqEQ",
+  "img": "systems/mythicbastionland/tokens/items/helm.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686441011,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "e7gFfxuvkI1V40TD",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e7gFfxuvkI1V40TD"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Reminds you of…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A great victory",
+      "_id": "8bTYvTCMZBeBcvHv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.8bTYvTCMZBeBcvHv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A shameful defeat",
+      "_id": "uCS8ooGwQ7COASUy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.uCS8ooGwQ7COASUy"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A happy place",
+      "_id": "q95m2YKj2jVze5RQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.q95m2YKj2jVze5RQ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A sorrowful place",
+      "_id": "OXAPqbPP77hB9iUg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.OXAPqbPP77hB9iUg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Somebody you loved",
+      "_id": "sWQzEkv4avVjAjLd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.sWQzEkv4avVjAjLd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Somebody you hated",
+      "_id": "jAu3q8JZ5sk94HV5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uwF5IXK4v3YjOfTw.jAu3q8JZ5sk94HV5"
+    }
+  ],
+  "folder": "A6Q6CRbmhEwdMAWu",
+  "_id": "uwF5IXK4v3YjOfTw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!uwF5IXK4v3YjOfTw"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Taunting vision - Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "One of the Company",
+      "_id": "jgH53rIX6VFzZRcu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.jgH53rIX6VFzZRcu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Another Knight",
+      "_id": "hilUupbOs8e6cpLS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.hilUupbOs8e6cpLS"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A Seer",
+      "_id": "OcvxolygAYvVBB6k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.OcvxolygAYvVBB6k"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "The Seat of Power",
+      "_id": "M3znnAGQN2wLQsYP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.M3znnAGQN2wLQsYP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "The Snail",
+      "_id": "6iANvm0FvAI1yXHW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.6iANvm0FvAI1yXHW"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The Realm",
+      "_id": "axR0i2hDQVlLWXdQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!THbrIAWkBbl2CrCH.axR0i2hDQVlLWXdQ"
+    }
+  ],
+  "folder": "XJOCB4s8yi4ZCdwm",
+  "_id": "THbrIAWkBbl2CrCH",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!THbrIAWkBbl2CrCH"
+}

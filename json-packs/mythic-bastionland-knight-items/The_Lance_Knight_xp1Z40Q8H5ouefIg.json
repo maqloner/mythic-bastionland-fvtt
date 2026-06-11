@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Lance Knight",
+  "system": {
+    "name": "",
+    "description": "Steed agasp, spear agroan, strike agore. Sharp afrail, sight ablind, then no more",
+    "flavor": "Mystic sight",
+    "flavorLabel1": "What can you see?",
+    "flavorLabel2": "But you cannot see"
+  },
+  "folder": "y7MFqzLTbgepVOmN",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686418450,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xp1Z40Q8H5ouefIg",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xp1Z40Q8H5ouefIg"
+}

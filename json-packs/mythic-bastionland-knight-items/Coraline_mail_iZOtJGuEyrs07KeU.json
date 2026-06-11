@@ -1,0 +1,30 @@
+{
+  "type": "coat",
+  "name": "Coraline mail",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "OKBRDb1wy4Z0eK50",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686443454,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "iZOtJGuEyrs07KeU",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!iZOtJGuEyrs07KeU"
+}

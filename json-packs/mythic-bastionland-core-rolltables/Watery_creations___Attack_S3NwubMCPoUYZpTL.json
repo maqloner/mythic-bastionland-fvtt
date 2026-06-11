@@ -1,0 +1,174 @@
+{
+  "name": "Watery creations - Attack",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Lashing weeds (2d6)",
+      "_id": "Gq13ojkoDKSbd3c9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.Gq13ojkoDKSbd3c9"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bloated limbs (d8)",
+      "_id": "o0CMqd3DplS8yuru",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.o0CMqd3DplS8yuru"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rusted axe (d8)",
+      "_id": "BDtG2PeFAzfzjVJ2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.BDtG2PeFAzfzjVJ2"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "River rock (2d10 slow)",
+      "_id": "IFFytYC0Zhn7d7gH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.IFFytYC0Zhn7d7gH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Choking hands (d6)",
+      "_id": "LgIQ2uBcua2sEgvP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.LgIQ2uBcua2sEgvP"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Cold scream (d6 blast)",
+      "_id": "Di4eE0Wd5iKSVXnJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S3NwubMCPoUYZpTL.Di4eE0Wd5iKSVXnJ"
+    }
+  ],
+  "folder": "xKXXX7lF38l5ZtQy",
+  "_id": "S3NwubMCPoUYZpTL",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!S3NwubMCPoUYZpTL"
+}

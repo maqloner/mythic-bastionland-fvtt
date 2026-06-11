@@ -1,0 +1,174 @@
+{
+  "name": "Useful crystals - Power when Broken",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "d10 blast of lightning",
+      "_id": "D8vWtTdaKJdZZrZM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.D8vWtTdaKJdZZrZM"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Releases horrifying but harmless ghosts",
+      "_id": "7g6i478RH4DPoAHo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.7g6i478RH4DPoAHo"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Winter arrives immediately",
+      "_id": "pr3iJvDCTKtiyh6z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.pr3iJvDCTKtiyh6z"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Open up a flaming pit (d10) in the ground",
+      "_id": "lVCaDgWqSB7TsZ0V",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.lVCaDgWqSB7TsZ0V"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Vision of a useful truth",
+      "_id": "rOO9MMnAcWD4TYvj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.rOO9MMnAcWD4TYvj"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Plants grow rapidly",
+      "_id": "ABwTKICh18nsV1se",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!BxpCSCUKgzTdHk1R.ABwTKICh18nsV1se"
+    }
+  ],
+  "folder": "b40KdOJKgW9mqnmt",
+  "_id": "BxpCSCUKgzTdHk1R",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!BxpCSCUKgzTdHk1R"
+}

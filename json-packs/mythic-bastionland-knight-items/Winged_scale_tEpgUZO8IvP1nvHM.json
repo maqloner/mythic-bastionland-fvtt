@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Winged scale",
+  "system": {
+    "description": "Can’t fly, but see below",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "gLPR9HpxFnaPRbHk",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686410474,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tEpgUZO8IvP1nvHM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tEpgUZO8IvP1nvHM"
+}

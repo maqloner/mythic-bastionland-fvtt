@@ -1,0 +1,23 @@
+{
+  "name": "The Tome Knight",
+  "type": "Actor",
+  "folder": null,
+  "_id": "SGUAR08tyLZ143m3",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.348",
+    "createdTime": 1707685338048,
+    "modifiedTime": 1756663044592,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!SGUAR08tyLZ143m3"
+}

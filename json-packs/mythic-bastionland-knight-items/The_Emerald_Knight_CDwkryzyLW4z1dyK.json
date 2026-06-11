@@ -1,0 +1,23 @@
+{
+  "name": "The Emerald Knight",
+  "type": "Item",
+  "folder": null,
+  "_id": "CDwkryzyLW4z1dyK",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.2",
+    "coreVersion": "13.348",
+    "createdTime": 1707686405176,
+    "modifiedTime": 1756662987644,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!CDwkryzyLW4z1dyK"
+}

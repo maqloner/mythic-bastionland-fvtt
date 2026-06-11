@@ -1,0 +1,174 @@
+{
+  "name": "Modified for…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fast donning/removal",
+      "_id": "wGzXdGwQqIqKUuQL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.wGzXdGwQqIqKUuQL"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Fire immunity",
+      "_id": "FLGYApuNYnXNWVAu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.FLGYApuNYnXNWVAu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Ease of swimming",
+      "_id": "LH4LpSueBUxV0u0v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.LH4LpSueBUxV0u0v"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Total fall protection",
+      "_id": "C2Uiu4eNGHZNZagA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.C2Uiu4eNGHZNZagA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Concealing robes",
+      "_id": "7NZMv9g48W2RwQFn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.7NZMv9g48W2RwQFn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Repellent to rats",
+      "_id": "1QNiCYI9xrzjHDR2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ulkoVztRkrS5J8P7.1QNiCYI9xrzjHDR2"
+    }
+  ],
+  "folder": "WgQqFqSDKvBZTYtE",
+  "_id": "ulkoVztRkrS5J8P7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ulkoVztRkrS5J8P7"
+}

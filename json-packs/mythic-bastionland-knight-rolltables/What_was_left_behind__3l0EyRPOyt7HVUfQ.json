@@ -1,0 +1,174 @@
+{
+  "name": "What was left behind?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A Farm",
+      "_id": "V8Sz9DROIExgeYtv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.V8Sz9DROIExgeYtv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A Name",
+      "_id": "FAVj3vbPm3LSNoHY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.FAVj3vbPm3LSNoHY"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Only Graves",
+      "_id": "s4GQDL6UHRUgckBm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.s4GQDL6UHRUgckBm"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A Student",
+      "_id": "LmEfPzSpX1FjlXH0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.LmEfPzSpX1FjlXH0"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A Teacher",
+      "_id": "hvN7V9aMgqz4M29d",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.hvN7V9aMgqz4M29d"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A Castle",
+      "_id": "dOnCU9l9U2MpjPyw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!3l0EyRPOyt7HVUfQ.dOnCU9l9U2MpjPyw"
+    }
+  ],
+  "folder": "mZOhhKk8psV0mBmX",
+  "_id": "3l0EyRPOyt7HVUfQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!3l0EyRPOyt7HVUfQ"
+}

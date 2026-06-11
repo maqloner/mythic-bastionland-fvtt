@@ -1,0 +1,174 @@
+{
+  "name": "Salvaged belongings - In their hands",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Broken crutch",
+      "_id": "mmVLDI5Cehc0HCvE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.mmVLDI5Cehc0HCvE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Crying infant",
+      "_id": "GKeqonZrbcUYLlBk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.GKeqonZrbcUYLlBk"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Live chicken",
+      "_id": "WqjzFprUIFaBMYav",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.WqjzFprUIFaBMYav"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Flimsy hoe",
+      "_id": "Ivo2hQMDxO28XCir",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.Ivo2hQMDxO28XCir"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Rope tied to a goat",
+      "_id": "4pKRTI3Asi6p5tcn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.4pKRTI3Asi6p5tcn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lucky beads",
+      "_id": "vULKBz0bggOXBcTk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Rxx3mIMvsNQfQ7jX.vULKBz0bggOXBcTk"
+    }
+  ],
+  "folder": "SgZfFVdSzPwW6AjD",
+  "_id": "Rxx3mIMvsNQfQ7jX",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Rxx3mIMvsNQfQ7jX"
+}

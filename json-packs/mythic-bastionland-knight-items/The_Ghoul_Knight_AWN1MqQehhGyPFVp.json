@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Ghoul Knight",
+  "system": {
+    "name": "",
+    "description": "Arise! Arise!. But, for what? For whom?",
+    "flavor": "Wooden animal",
+    "flavorLabel1": "Animal Type",
+    "flavorLabel2": "Origin"
+  },
+  "folder": "BurWF5QL5Hk5lrhs",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686465170,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "AWN1MqQehhGyPFVp",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!AWN1MqQehhGyPFVp"
+}

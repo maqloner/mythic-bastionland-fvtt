@@ -1,0 +1,174 @@
+{
+  "name": "Value",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Honour",
+      "_id": "TfhGfqIO1fjG9qVx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.TfhGfqIO1fjG9qVx"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Duty",
+      "_id": "p4U2SFd0rjncDiHe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.p4U2SFd0rjncDiHe"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Loyalty",
+      "_id": "wgeN0BnU7mkZABe0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.wgeN0BnU7mkZABe0"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Justice",
+      "_id": "GSPzCcQ18aqEVzCd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.GSPzCcQ18aqEVzCd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Respect",
+      "_id": "mQ1zrHtBSOSGlrRX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.mQ1zrHtBSOSGlrRX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Truth",
+      "_id": "LhP133vk0lUpVOsc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bXrjFhRmL7DC6yCC.LhP133vk0lUpVOsc"
+    }
+  ],
+  "folder": "59tmqVyUck2H3CQ6",
+  "_id": "bXrjFhRmL7DC6yCC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bXrjFhRmL7DC6yCC"
+}

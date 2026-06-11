@@ -1,0 +1,1758 @@
+{
+  "name": "Ruin",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burned village",
+      "_id": "h84BJXuZuxduSmzq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.h84BJXuZuxduSmzq"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Defiled totem",
+      "_id": "xTp7cj49UElCJzXY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.xTp7cj49UElCJzXY"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Skull heap",
+      "_id": "CAuDr6ZdPRLk2OoX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.CAuDr6ZdPRLk2OoX"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hanging skeletons",
+      "_id": "7Vrj4s50No3LHrA5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.7Vrj4s50No3LHrA5"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Gory painting",
+      "_id": "eWOsMVGDS5ysDSH5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.eWOsMVGDS5ysDSH5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shattered shield",
+      "_id": "jVT03jf2vRUSXCaj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.jVT03jf2vRUSXCaj"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Horse tomb",
+      "_id": "sF6LQY1m9ynqqgVJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.sF6LQY1m9ynqqgVJ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Toppled henge",
+      "_id": "wbozPLGlAORLamaB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.wbozPLGlAORLamaB"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Fouled garden",
+      "_id": "lYoXEvtAmTIUxMV1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.lYoXEvtAmTIUxMV1"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Crumbled bridge",
+      "_id": "B9DGoJ24b0G6DaB4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.B9DGoJ24b0G6DaB4"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Broken fort",
+      "_id": "x4UrFBU9Deybu8kL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.x4UrFBU9Deybu8kL"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Impact crater",
+      "_id": "GB3oHIGum1ak8wV9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.GB3oHIGum1ak8wV9"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Shipwreck",
+      "_id": "h3EHXif57gVDQOPO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.h3EHXif57gVDQOPO"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Statuary rubble",
+      "_id": "fSQmxn2Fvss4IsGM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.fSQmxn2Fvss4IsGM"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Looted shrine",
+      "_id": "j5kYedTMGZO3EOJl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.j5kYedTMGZO3EOJl"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Ash-drowned town",
+      "_id": "a6cmg2kdCtZeZDAT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.a6cmg2kdCtZeZDAT"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Smashed glade",
+      "_id": "rnYpcbVQ348pvzeg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.rnYpcbVQ348pvzeg"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Forgotten palace",
+      "_id": "pUOLK8rMDbC1pS9L",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.pUOLK8rMDbC1pS9L"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Raiding debris",
+      "_id": "v6Vj56Z4254yRbIM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.v6Vj56Z4254yRbIM"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Rotten gallows",
+      "_id": "lA2TOg5Vl3j9EpmQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.lA2TOg5Vl3j9EpmQ"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Unmarked graves",
+      "_id": "u2x5wrByuMn4c7Pb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.u2x5wrByuMn4c7Pb"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Tumbled tower",
+      "_id": "hLCaPlFp2UrCZRDx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.hLCaPlFp2UrCZRDx"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Bloodied altar",
+      "_id": "fBcTJ9ZyLyLT9FJ3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.fBcTJ9ZyLyLT9FJ3"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Ash pit",
+      "_id": "izxewUc8cxZUspwK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.izxewUc8cxZUspwK"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Smashed pottery",
+      "_id": "tatZ6x1WOI7Qg56q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.tatZ6x1WOI7Qg56q"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Bloody battlefield",
+      "_id": "75LSXsinR2uk5plt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.75LSXsinR2uk5plt"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Collapsed bridge",
+      "_id": "yW6rjDE68JagDqcN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.yW6rjDE68JagDqcN"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Dead tree-shrine",
+      "_id": "AQwDHVS90UpYo9yD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.AQwDHVS90UpYo9yD"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Dirge-horn altar",
+      "_id": "Knt8PcmMpw05KyhW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.Knt8PcmMpw05KyhW"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Hunter remains",
+      "_id": "rsgEo09n0ao4DEa4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.rsgEo09n0ao4DEa4"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Murder pit",
+      "_id": "feWryfoLVSKTQr4E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.feWryfoLVSKTQr4E"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Collapsed wall",
+      "_id": "fgQOOM3cM76OtzDB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.fgQOOM3cM76OtzDB"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Wicked trophies",
+      "_id": "QEv1YtRFlpF3BJbA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.QEv1YtRFlpF3BJbA"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Ghosts of slaughter",
+      "_id": "YajPoOpOBW8XhNeo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.YajPoOpOBW8XhNeo"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Vine-choked tower",
+      "_id": "PKL3RvXA61dnNZ8e",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.PKL3RvXA61dnNZ8e"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Flooded village",
+      "_id": "WOvSO4BHKR6V5ewk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.WOvSO4BHKR6V5ewk"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Sorrowful statues",
+      "_id": "xs7I4Iqe8pkXNpeq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.xs7I4Iqe8pkXNpeq"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Missing tower",
+      "_id": "qZWtZ70m07j2BGYG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.qZWtZ70m07j2BGYG"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Traps and corpses",
+      "_id": "CWHrO4MAtgk8en7v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.CWHrO4MAtgk8en7v"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Barricaded rubble",
+      "_id": "Xdz1LbUdIp9s1I1q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.Xdz1LbUdIp9s1I1q"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Sunken abbey",
+      "_id": "RkJD2xZR1Vq3NdSp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.RkJD2xZR1Vq3NdSp"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Haunted hamlet",
+      "_id": "iLikIeTEozvyUcmi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.iLikIeTEozvyUcmi"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Lost fort",
+      "_id": "pA5zxNUu8UVGjswy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.pA5zxNUu8UVGjswy"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Frayed bridge",
+      "_id": "gwmgPKwEebPI7hQ4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.gwmgPKwEebPI7hQ4"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Scorched workshop",
+      "_id": "ngumGKBKBA9zg28z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.ngumGKBKBA9zg28z"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Fallen treehouse",
+      "_id": "vSmzMMiZSMToEU9J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.vSmzMMiZSMToEU9J"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Bloody well",
+      "_id": "od51HPjm8CVsEqo0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.od51HPjm8CVsEqo0"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Broken mast",
+      "_id": "5wp8KZQrP5OxKIZL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.5wp8KZQrP5OxKIZL"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Faded library",
+      "_id": "YzqYk43RXCfOYLMk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.YzqYk43RXCfOYLMk"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Scoured trail",
+      "_id": "olbMsJ0I5jm0wILK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.olbMsJ0I5jm0wILK"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Broken tools",
+      "_id": "6NhAZNmgM4XeO3EC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.6NhAZNmgM4XeO3EC"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Crumbled mosaic",
+      "_id": "LjBDbUvXS0fuKt8k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.LjBDbUvXS0fuKt8k"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Abandoned home",
+      "_id": "QKD3GjhEWC8EnDI0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.QKD3GjhEWC8EnDI0"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Torn tapestry",
+      "_id": "eM6oZw7NKIc4a0ki",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.eM6oZw7NKIc4a0ki"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Looted caravan",
+      "_id": "94CviC86QDZWj5Lx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.94CviC86QDZWj5Lx"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Screaming cave",
+      "_id": "PF6cqPM9c6wWMKVE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.PF6cqPM9c6wWMKVE"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Beheaded statue",
+      "_id": "SaiRW6VRcMwHWKW0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.SaiRW6VRcMwHWKW0"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Sinister altar",
+      "_id": "ZqIMN4icFpHwMqIA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.ZqIMN4icFpHwMqIA"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Darkened fort",
+      "_id": "3VxH18nlAvYnVVgZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.3VxH18nlAvYnVVgZ"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Bone mausoleum",
+      "_id": "GobLB1M2f8GpcynT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.GobLB1M2f8GpcynT"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Shattered stained glass",
+      "_id": "CYWsKucnwcNNtzrz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.CYWsKucnwcNNtzrz"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Broken henge",
+      "_id": "aSRO7jIa9hw57XiH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.aSRO7jIa9hw57XiH"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Ghostly village",
+      "_id": "XtrxEeN9jexNrLa3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.XtrxEeN9jexNrLa3"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Scorched farm",
+      "_id": "e6zYadLeUjn6VLwS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.e6zYadLeUjn6VLwS"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Only shadows left",
+      "_id": "pElwgsQ5Ay5imEVn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.pElwgsQ5Ay5imEVn"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Smashed jail",
+      "_id": "XmyRWJqpS49Xjs5P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.XmyRWJqpS49Xjs5P"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Massacre moor",
+      "_id": "8Wmhgju7MQXV5UUH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.8Wmhgju7MQXV5UUH"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Desolate inn",
+      "_id": "8i6r63WfAGIf3H4G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.8i6r63WfAGIf3H4G"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Great fallen tree",
+      "_id": "CpRcXA5unFkPl5cx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.CpRcXA5unFkPl5cx"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Crumbled obelisk",
+      "_id": "7xNqSXPDJVmDmNDX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.7xNqSXPDJVmDmNDX"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Tomb of the oathbreaker",
+      "_id": "83ALZsYd0SD0AwKL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.83ALZsYd0SD0AwKL"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Defiled catacomb",
+      "_id": "cAfe20UaJphwl1DK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S2dKDSz73b6SYcoA.cAfe20UaJphwl1DK"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "S2dKDSz73b6SYcoA",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!S2dKDSz73b6SYcoA"
+}

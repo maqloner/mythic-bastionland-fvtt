@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Martyr-in-Waiting",
+  "system": {
+    "description": "Use as a reaction to being Mortally Wounded. Allies fighting with you regain [[/roll d6 #guard]]GD and get +[[/roll d12 #damage]] against your attacker for the combat."
+  },
+  "folder": "irkUXo8SB3q30Udu",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686400754,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8HC8rd5QVhTFO5Vi",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8HC8rd5QVhTFO5Vi"
+}

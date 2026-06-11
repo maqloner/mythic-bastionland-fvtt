@@ -1,0 +1,23 @@
+{
+  "name": "Scars",
+  "type": "Item",
+  "folder": null,
+  "sorting": "m",
+  "_id": "RdZ1nl7NPnGwbCi3",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958291,
+    "modifiedTime": 1756662958291,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "_key": "!folders!RdZ1nl7NPnGwbCi3"
+}

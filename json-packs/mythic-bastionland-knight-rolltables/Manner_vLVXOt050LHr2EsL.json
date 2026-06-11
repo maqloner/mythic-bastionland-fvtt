@@ -1,0 +1,174 @@
+{
+  "name": "Manner",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Completely wild",
+      "_id": "oujrUKlrkppndAPZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.oujrUKlrkppndAPZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Well-trained",
+      "_id": "tNoiOnDDxzMo5GCS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.tNoiOnDDxzMo5GCS"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Particularly stupid",
+      "_id": "nbRHCVbpZuIKV7g9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.nbRHCVbpZuIKV7g9"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Eager to please",
+      "_id": "xQ67a95fmNnf54Es",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.xQ67a95fmNnf54Es"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hates you",
+      "_id": "bwnCIPvMN9a2tsr6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.bwnCIPvMN9a2tsr6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A bright and noble creature",
+      "_id": "YHi9tWRM8feySGGF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vLVXOt050LHr2EsL.YHi9tWRM8feySGGF"
+    }
+  ],
+  "folder": "d8Bz46MeU9w2YGDH",
+  "_id": "vLVXOt050LHr2EsL",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!vLVXOt050LHr2EsL"
+}

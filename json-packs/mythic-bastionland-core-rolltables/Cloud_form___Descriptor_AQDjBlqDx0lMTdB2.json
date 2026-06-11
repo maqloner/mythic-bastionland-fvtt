@@ -1,0 +1,174 @@
+{
+  "name": "Cloud form - Descriptor",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Thin (VIG 6)",
+      "_id": "C7RLS2bzXNx6ybE4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.C7RLS2bzXNx6ybE4"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Swift (can fly)",
+      "_id": "XfMP6mcEHz9nIgmk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.XfMP6mcEHz9nIgmk"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Icy (A2)",
+      "_id": "qcIwS0leQHUl2t9m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.qcIwS0leQHUl2t9m"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Dense (VIG 16)",
+      "_id": "9zVv9ty1NrdyP3FM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.9zVv9ty1NrdyP3FM"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Unstable (collapses into water if Wounded)",
+      "_id": "JmopUNrYXrFsqP7N",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.JmopUNrYXrFsqP7N"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Crackling (can use lightning twice",
+      "_id": "VRrugNEzfIFFa0VD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!AQDjBlqDx0lMTdB2.VRrugNEzfIFFa0VD"
+    }
+  ],
+  "folder": "Z9BBBHzyLFgZVLmq",
+  "_id": "AQDjBlqDx0lMTdB2",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!AQDjBlqDx0lMTdB2"
+}

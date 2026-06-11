@@ -1,0 +1,174 @@
+{
+  "name": "Flavour",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Salty",
+      "_id": "OIMTVJWze3npUZYM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.OIMTVJWze3npUZYM"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Picante",
+      "_id": "v4vkCRhEV0YKULb6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.v4vkCRhEV0YKULb6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sour",
+      "_id": "RpGd62x6zigIQc3L",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.RpGd62x6zigIQc3L"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Challenging",
+      "_id": "SKrvxLiCIqMXoVcD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.SKrvxLiCIqMXoVcD"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Soapy",
+      "_id": "jX5dwrX1aC9BJQ2K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.jX5dwrX1aC9BJQ2K"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Smoky",
+      "_id": "MYcTR7Uq9Vi4xIgw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CLmsVaLOiMVypdSc.MYcTR7Uq9Vi4xIgw"
+    }
+  ],
+  "folder": "IgDBLZ7nCQhfzlSQ",
+  "_id": "CLmsVaLOiMVypdSc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!CLmsVaLOiMVypdSc"
+}

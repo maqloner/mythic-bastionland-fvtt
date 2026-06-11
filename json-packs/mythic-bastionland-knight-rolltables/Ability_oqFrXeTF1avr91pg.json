@@ -1,0 +1,174 @@
+{
+  "name": "Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Jolting bite ([[/roll d6 #damage]])",
+      "_id": "uFyFKZ3e9pkV3Plq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.uFyFKZ3e9pkV3Plq"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Can slowly eat through metal",
+      "_id": "Gw2BcosphVD4IALP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.Gw2BcosphVD4IALP"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Melodious chirp",
+      "_id": "lsE5aEGvjRBUC1WE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.lsE5aEGvjRBUC1WE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Can fetch items up to the weight of a coin",
+      "_id": "GZtps34y3URJWEvj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.GZtps34y3URJWEvj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Always goes toward food",
+      "_id": "U4YeYLSvlnsRTMoJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.U4YeYLSvlnsRTMoJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Agonising but harmless bite",
+      "_id": "HwiGZl8elps90qEk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!oqFrXeTF1avr91pg.HwiGZl8elps90qEk"
+    }
+  ],
+  "folder": "d8Bz46MeU9w2YGDH",
+  "_id": "oqFrXeTF1avr91pg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!oqFrXeTF1avr91pg"
+}

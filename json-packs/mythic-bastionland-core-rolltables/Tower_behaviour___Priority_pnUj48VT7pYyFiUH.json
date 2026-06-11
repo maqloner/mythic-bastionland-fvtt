@@ -1,0 +1,174 @@
+{
+  "name": "Tower behaviour - Priority",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Destroy threats",
+      "_id": "GDPm5AvMns2CYkR6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.GDPm5AvMns2CYkR6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Uproot trees",
+      "_id": "NL4rQZXRn7BZwo4Y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.NL4rQZXRn7BZwo4Y"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Lure prey",
+      "_id": "4R1Cp8Hl9Ly6HJfA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.4R1Cp8Hl9Ly6HJfA"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Spread terror",
+      "_id": "xpjNmSE3ZGuFung6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.xpjNmSE3ZGuFung6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Observe spire",
+      "_id": "y141Dd1CNvQHMboh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.y141Dd1CNvQHMboh"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Consume stone",
+      "_id": "6fUee73YzcKV4HcE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pnUj48VT7pYyFiUH.6fUee73YzcKV4HcE"
+    }
+  ],
+  "folder": "xw2MX4O8cNYKFhSY",
+  "_id": "pnUj48VT7pYyFiUH",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pnUj48VT7pYyFiUH"
+}

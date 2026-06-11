@@ -1,0 +1,174 @@
+{
+  "name": "Special Polearm",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "+[[/roll d10 #damage]] vs mounted targets",
+      "_id": "dDnplIzbQGQ8XLL0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.dDnplIzbQGQ8XLL0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "+[[/roll d10 #damage]] vs targets with a shield",
+      "_id": "amtUetPiiP5BG97X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.amtUetPiiP5BG97X"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "+[[/roll d10 #damage]] vs targets in armour",
+      "_id": "pCfcm38BrdxisROL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.pCfcm38BrdxisROL"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "+[[/roll d10 #damage]] vs targets without a shield",
+      "_id": "uPhOgYN22Y20sDvH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.uPhOgYN22Y20sDvH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "+[[/roll d10 #damage]] vs beasts and monsters",
+      "_id": "a4mnMGezcfyij4LX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.a4mnMGezcfyij4LX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "+[[/roll d10 #damage]] vs anybody attacking you",
+      "_id": "kODpCWymIebcJqK3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!INkgawaUgSoE4zqG.kODpCWymIebcJqK3"
+    }
+  ],
+  "folder": "XHaMW7XskDdX8MrA",
+  "_id": "INkgawaUgSoE4zqG",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!INkgawaUgSoE4zqG"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Avarice",
+  "system": {
+    "description": "Restore SPI when you gain significant wealth."
+  },
+  "folder": "4X6Jyg4RLDgzr1uK",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404226,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zwka1gt7ClxJLrEx",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zwka1gt7ClxJLrEx"
+}

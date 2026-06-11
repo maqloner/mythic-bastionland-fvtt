@@ -1,0 +1,174 @@
+{
+  "name": "Style",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Quest",
+      "_id": "HQXjYriQVAcCvGrX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.HQXjYriQVAcCvGrX"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Romance",
+      "_id": "WtfwiC8NdYKyEdaH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.WtfwiC8NdYKyEdaH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Revenge",
+      "_id": "uRlr1X25VCWtZaN7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.uRlr1X25VCWtZaN7"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Farce",
+      "_id": "K543dnOXkNkm62Qj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.K543dnOXkNkm62Qj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Nonsense",
+      "_id": "oTfEjOnK45MIJta6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.oTfEjOnK45MIJta6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tragedy",
+      "_id": "rTMVXiG7V3Rfu9wo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!X9K5N7BJp39R0uJP.rTMVXiG7V3Rfu9wo"
+    }
+  ],
+  "folder": "DdRnhuXx69tKvcHk",
+  "_id": "X9K5N7BJp39R0uJP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!X9K5N7BJp39R0uJP"
+}

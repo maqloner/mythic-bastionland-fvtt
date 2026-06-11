@@ -1,0 +1,174 @@
+{
+  "name": "Things in the troll lair - Object",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Human skull",
+      "_id": "yZGcUm7VqD1a7YZW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.yZGcUm7VqD1a7YZW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Animal bone",
+      "_id": "jYtHzGZdeTmrzzli",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.jYtHzGZdeTmrzzli"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Knight’s sword",
+      "_id": "23uWR17LX2Zm2R2b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.23uWR17LX2Zm2R2b"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Tapestry",
+      "_id": "oAorY0pNbg2llCvr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.oAorY0pNbg2llCvr"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pot",
+      "_id": "wvqNplPJ8QTnan9T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.wvqNplPJ8QTnan9T"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Horn",
+      "_id": "EOh6slJ2DUFcCqPy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FTRW1h9l49gnkuMF.EOh6slJ2DUFcCqPy"
+    }
+  ],
+  "folder": "gWvdkqtzwMYucw1g",
+  "_id": "FTRW1h9l49gnkuMF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!FTRW1h9l49gnkuMF"
+}

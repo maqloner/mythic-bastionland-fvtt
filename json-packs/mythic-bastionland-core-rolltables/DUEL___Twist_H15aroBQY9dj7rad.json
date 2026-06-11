@@ -1,0 +1,318 @@
+{
+  "name": "DUEL - Twist",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Timed",
+      "_id": "jQ7HuenQpf8GpimV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.jQ7HuenQpf8GpimV"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Pit",
+      "_id": "63t0VPwcorxgCunt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.63t0VPwcorxgCunt"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bridge",
+      "_id": "1E7klSTjcYosT5WJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.1E7klSTjcYosT5WJ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Immobile",
+      "_id": "AWqiLMF8el8JETTI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.AWqiLMF8el8JETTI"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Maze",
+      "_id": "elda6cmPB0j6Patf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.elda6cmPB0j6Patf"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Archers",
+      "_id": "SWEGXJhugSIRvrdO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.SWEGXJhugSIRvrdO"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Fire",
+      "_id": "Q9w3c0CoQ684UsRJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.Q9w3c0CoQ684UsRJ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Beasts",
+      "_id": "22F9HChKdTfgfZUA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.22F9HChKdTfgfZUA"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Mud",
+      "_id": "6a2WNYHi3p6xZ5ed",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.6a2WNYHi3p6xZ5ed"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Spikes",
+      "_id": "jmKUWXd9UowlZ9we",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.jmKUWXd9UowlZ9we"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Water",
+      "_id": "W1wSsYipG0JJlD2R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.W1wSsYipG0JJlD2R"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Cage",
+      "_id": "PmddKUFXEezcgrGb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H15aroBQY9dj7rad.PmddKUFXEezcgrGb"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "H15aroBQY9dj7rad",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!H15aroBQY9dj7rad"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "The Seer reading",
+      "_id": "4bq072xXXNYL9D8V",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.4bq072xXXNYL9D8V"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "The Seal Knight",
+      "_id": "DZxxGJr92PT0cFkI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.DZxxGJr92PT0cFkI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Another Knight",
+      "_id": "sa0i1p22lxnIBHTE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.sa0i1p22lxnIBHTE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Another Seer",
+      "_id": "vCIUYZvNQTjCquax",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.vCIUYZvNQTjCquax"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A Myth",
+      "_id": "3J49DqEiyGMFBWaJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.3J49DqEiyGMFBWaJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The whole",
+      "_id": "WqKDOw7GaWygXHed",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fUJyv2olsvDznD1P.WqKDOw7GaWygXHed"
+    }
+  ],
+  "folder": "E1GY9U6TYw9YKhl1",
+  "_id": "fUJyv2olsvDznD1P",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fUJyv2olsvDznD1P"
+}

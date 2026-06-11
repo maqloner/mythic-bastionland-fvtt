@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Jaunty flute",
+  "system": {
+    "description": "Can only play a certain type of music, see below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "QrYDNaG90tAQmyGV",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686438502,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zbtvo2Q2ASPTXNax",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zbtvo2Q2ASPTXNax"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "coat",
+  "name": "Verdant leather",
+  "system": {
+    "description": "While within foliage",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "iiG15oJ7aMDz04hH",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686461284,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "orce3ydEJj2rqkFk",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!orce3ydEJj2rqkFk"
+}

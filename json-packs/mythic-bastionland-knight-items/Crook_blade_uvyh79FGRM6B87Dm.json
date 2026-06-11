@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Crook-blade",
+  "system": {
+    "description": "",
+    "damage": "d10",
+    "hefty": false,
+    "long": true,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "7L51hf6FBgkGtzcR",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686411288,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uvyh79FGRM6B87Dm",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uvyh79FGRM6B87Dm"
+}

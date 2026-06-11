@@ -1,0 +1,174 @@
+{
+  "name": "And…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "In large gatherings",
+      "_id": "xkf4PAsOCFqqQCJX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.xkf4PAsOCFqqQCJX"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "In combat",
+      "_id": "7BPzkB4ToC2Ovx4F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.7BPzkB4ToC2Ovx4F"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "At morning",
+      "_id": "FVfyY0GdYLIis49S",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.FVfyY0GdYLIis49S"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "At night",
+      "_id": "BIG0zCupW2QSk8cB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.BIG0zCupW2QSk8cB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "When alone",
+      "_id": "OeIQeMzDaQWJvrOW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.OeIQeMzDaQWJvrOW"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "After a drink",
+      "_id": "eakJRckrj5yKLti8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RnYXwu1t05P6Vg3F.eakJRckrj5yKLti8"
+    }
+  ],
+  "folder": "ni0yeXQxQk3ihymc",
+  "_id": "RnYXwu1t05P6Vg3F",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RnYXwu1t05P6Vg3F"
+}

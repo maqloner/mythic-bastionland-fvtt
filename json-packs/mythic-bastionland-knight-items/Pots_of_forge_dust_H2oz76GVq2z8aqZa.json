@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Pots of forge dust",
+  "system": {
+    "description": "Spreads irritating gas in the area when broken, Impairing attacks from within. You can make more anywhere with a forge",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "sSPzabrCNUhiEk6k",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686422815,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "H2oz76GVq2z8aqZa",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!H2oz76GVq2z8aqZa"
+}

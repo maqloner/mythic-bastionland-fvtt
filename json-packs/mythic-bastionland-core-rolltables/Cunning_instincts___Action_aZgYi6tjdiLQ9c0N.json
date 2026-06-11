@@ -1,0 +1,174 @@
+{
+  "name": "Cunning instincts - Action",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burrow",
+      "_id": "az14gIRuPtvXhoF9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.az14gIRuPtvXhoF9"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Scatter",
+      "_id": "vU6qBVTLZlFmemXl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.vU6qBVTLZlFmemXl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Camouflage",
+      "_id": "o7YyYZmvJ9ENNCGx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.o7YyYZmvJ9ENNCGx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sprout wings",
+      "_id": "6LTUy0mce8yl8Ai6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.6LTUy0mce8yl8Ai6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Spawn more",
+      "_id": "nY1dRvezkKTqpTK7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.nY1dRvezkKTqpTK7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Spit acid",
+      "_id": "wOmETvPoZk131G8Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aZgYi6tjdiLQ9c0N.wOmETvPoZk131G8Q"
+    }
+  ],
+  "folder": "cgYP9LiNN5pyqTKG",
+  "_id": "aZgYi6tjdiLQ9c0N",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!aZgYi6tjdiLQ9c0N"
+}

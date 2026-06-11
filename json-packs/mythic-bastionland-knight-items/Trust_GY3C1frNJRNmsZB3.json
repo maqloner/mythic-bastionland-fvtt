@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Trust",
+  "system": {
+    "description": "Restore SPI when giving the benefit of the doubt in a way that leaves you vulnerable."
+  },
+  "folder": "ssz80Wmnwc6VRyZd",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686476152,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "GY3C1frNJRNmsZB3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!GY3C1frNJRNmsZB3"
+}

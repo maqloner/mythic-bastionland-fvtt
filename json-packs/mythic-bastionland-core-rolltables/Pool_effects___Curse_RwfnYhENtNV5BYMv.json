@@ -1,0 +1,174 @@
+{
+  "name": "Pool effects - Curse",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Blind in moonlight",
+      "_id": "FHWzly595MBdvImK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.FHWzly595MBdvImK"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Mature Become Old",
+      "_id": "WqEeTPkKOt1EmDb2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.WqEeTPkKOt1EmDb2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Memory wiped",
+      "_id": "eckyXWFNQvIpuoEv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.eckyXWFNQvIpuoEv"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A limb withers away",
+      "_id": "3qSfgUIWUr1usCRU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.3qSfgUIWUr1usCRU"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "All possessions lost",
+      "_id": "wu1i8R2uqT9kJzJL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.wu1i8R2uqT9kJzJL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Attack nearest ally, stopping only when Mortally Wounded",
+      "_id": "jY3pX8GymsCiHuN6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RwfnYhENtNV5BYMv.jY3pX8GymsCiHuN6"
+    }
+  ],
+  "folder": "T5YkInQCkEZZCpVx",
+  "_id": "RwfnYhENtNV5BYMv",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RwfnYhENtNV5BYMv"
+}

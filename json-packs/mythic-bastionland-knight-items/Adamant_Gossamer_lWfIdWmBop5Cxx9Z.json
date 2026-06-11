@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Adamant Gossamer",
+  "system": {
+    "description": "You can draw thin strands of silky string of any length from your mouth. They are utterly unbreakable, but burn to ash in an instant."
+  },
+  "folder": "ZwhBNvqpcqCx3bpq",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686458116,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "lWfIdWmBop5Cxx9Z",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!lWfIdWmBop5Cxx9Z"
+}

@@ -1,0 +1,318 @@
+{
+  "name": "AILMENT - Symptom",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Insomnia",
+      "_id": "JMfdLKZsce5b8crN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.JMfdLKZsce5b8crN"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Migraines",
+      "_id": "VjBCan5H7IyVAaqU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.VjBCan5H7IyVAaqU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Arthritis",
+      "_id": "as8t8PXLi2Wm7VP0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.as8t8PXLi2Wm7VP0"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Nausea",
+      "_id": "vXOeCN18118vOvJ9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.vXOeCN18118vOvJ9"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fixation",
+      "_id": "JFdAECaqHFdKMygj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.JFdAECaqHFdKMygj"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Blindness",
+      "_id": "Ut7pVymG65M43RTo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.Ut7pVymG65M43RTo"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Deafness",
+      "_id": "YOX0YyssrLutCA2g",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.YOX0YyssrLutCA2g"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Melancholy",
+      "_id": "MGlRYpxsHY6qEDF2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.MGlRYpxsHY6qEDF2"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Shaking",
+      "_id": "VVNJFSA9TdZRXAET",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.VVNJFSA9TdZRXAET"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Frailty",
+      "_id": "pvSxKzyzlL02OE2r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.pvSxKzyzlL02OE2r"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Coughing",
+      "_id": "pZ7qJPg7wUPZ7Ve9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.pZ7qJPg7wUPZ7Ve9"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Lethargy",
+      "_id": "pA9Hgg1TzRPcZuHF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MASQg9t6MXpyY4ip.pA9Hgg1TzRPcZuHF"
+    }
+  ],
+  "folder": "KWtiiRLXMmqW8Efw",
+  "_id": "MASQg9t6MXpyY4ip",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MASQg9t6MXpyY4ip"
+}

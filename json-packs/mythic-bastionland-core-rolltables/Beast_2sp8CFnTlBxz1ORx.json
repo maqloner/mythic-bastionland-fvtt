@@ -1,0 +1,1758 @@
+{
+  "name": "Beast",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Giant magpie",
+      "_id": "28DKr2LpspCBnm2p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.28DKr2LpspCBnm2p"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Grey deer",
+      "_id": "qt8QXYGe3hxGza3S",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.qt8QXYGe3hxGza3S"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mighty newt",
+      "_id": "6DbgmjH5tZ2w7thQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.6DbgmjH5tZ2w7thQ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Crowned stag",
+      "_id": "jYP1qaX6On3cKHGP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.jYP1qaX6On3cKHGP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Tender bloodhound",
+      "_id": "FDdG6vV7ShAjs2DP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.FDdG6vV7ShAjs2DP"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Laughing shrew",
+      "_id": "f5mvIkmBiqQqDFyW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.f5mvIkmBiqQqDFyW"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Redmaw wolf",
+      "_id": "vEix5oVINDZzMUZP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.vEix5oVINDZzMUZP"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Draft horse",
+      "_id": "scfhMuvhrebcehQm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.scfhMuvhrebcehQm"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Red vultures",
+      "_id": "dKCmrqv43Or1d1O3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.dKCmrqv43Or1d1O3"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "White ravens",
+      "_id": "QKthWg62DnXqiZXf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.QKthWg62DnXqiZXf"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Leeches",
+      "_id": "dUDa7YTXDgNVic4Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.dUDa7YTXDgNVic4Q"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Glutton crow",
+      "_id": "1cwDOJpbv2sq8DrC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.1cwDOJpbv2sq8DrC"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Moon toad",
+      "_id": "b4TqpsG3R68weMIa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.b4TqpsG3R68weMIa"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Granddad louse",
+      "_id": "9yLMP68iWvLYhOo4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.9yLMP68iWvLYhOo4"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Graveyard horse",
+      "_id": "4Iujc2jbm2bVu4eP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.4Iujc2jbm2bVu4eP"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Bony zebra",
+      "_id": "Rk2x0KTNXcEaGScF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.Rk2x0KTNXcEaGScF"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Tiny chameleon",
+      "_id": "ezMsEGeKuEgPHRed",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.ezMsEGeKuEgPHRed"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Ivory goat",
+      "_id": "XsiNyX0NTga4VRaC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.XsiNyX0NTga4VRaC"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Roaring coot",
+      "_id": "LC95UBZaVlkzVL3G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.LC95UBZaVlkzVL3G"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Longly viper",
+      "_id": "osk2TQXhJQ6RXVhf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.osk2TQXhJQ6RXVhf"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Flame weasel",
+      "_id": "hNK60NYkQHD25HZN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.hNK60NYkQHD25HZN"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Swiftly blackbird",
+      "_id": "CezucfJahwERfV34",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.CezucfJahwERfV34"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Leafy goose",
+      "_id": "OulMoW5zXymJDTrM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.OulMoW5zXymJDTrM"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Emerald panther",
+      "_id": "R0LjHekvXwan4uvN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.R0LjHekvXwan4uvN"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Oily buzzard",
+      "_id": "d83S3qSbRYUh2CUg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.d83S3qSbRYUh2CUg"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Riding peacock",
+      "_id": "AsE6oCizoktf5uIq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.AsE6oCizoktf5uIq"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Two-tailed eel",
+      "_id": "RVqut2XYagnP6Gj4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.RVqut2XYagnP6Gj4"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Bright mole",
+      "_id": "dbGF95D9gXaxceJ0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.dbGF95D9gXaxceJ0"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Burrowing otter",
+      "_id": "iK9EIJdEHcV3BdI1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.iK9EIJdEHcV3BdI1"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Shouting pike",
+      "_id": "jMD4I90qESULevSJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.jMD4I90qESULevSJ"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Milk finch",
+      "_id": "GoqdwxEP0FYim92H",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.GoqdwxEP0FYim92H"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Clawed bees",
+      "_id": "pJfUmsucHMNIZERc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.pJfUmsucHMNIZERc"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Knightly salamander",
+      "_id": "A1MZWTT7udbrl5bp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.A1MZWTT7udbrl5bp"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Stinging crocodile",
+      "_id": "QAiAhnsXT3lcpHED",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.QAiAhnsXT3lcpHED"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Carrion stork",
+      "_id": "zK7XW1Zjn2RgjZJc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.zK7XW1Zjn2RgjZJc"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Fanged dove",
+      "_id": "M3YnSKUsnLGkMnWr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.M3YnSKUsnLGkMnWr"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Taloned heron",
+      "_id": "k8J1MXXYZLONpPgo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.k8J1MXXYZLONpPgo"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Slow butterfly",
+      "_id": "MSL57Mj6dIPCLeFE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.MSL57Mj6dIPCLeFE"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Overgrown hawk",
+      "_id": "egmNR6qsehwz12Ad",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.egmNR6qsehwz12Ad"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Dark swan",
+      "_id": "6pzbOXh9xltrHiva",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.6pzbOXh9xltrHiva"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Witchy goat",
+      "_id": "SmgAQHW1pK1pdRQ9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.SmgAQHW1pK1pdRQ9"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Frosted hare",
+      "_id": "FNcDZOiaNdqz48FS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.FNcDZOiaNdqz48FS"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Tiger spider",
+      "_id": "Ldw7YzzYrjdZCMdQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.Ldw7YzzYrjdZCMdQ"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Imitation sparrow",
+      "_id": "T33c4ERZZcyIfD9c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.T33c4ERZZcyIfD9c"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Eternal scorpion",
+      "_id": "NeXOpfXPtHuGXQNH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.NeXOpfXPtHuGXQNH"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Horned quail",
+      "_id": "7y9XKL4g7VehFGXt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.7y9XKL4g7VehFGXt"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Spotted wasp",
+      "_id": "wCRzbHNaowpsLBUF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.wCRzbHNaowpsLBUF"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Dead greyhound",
+      "_id": "TtIqw6MQ8N1IhyAX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.TtIqw6MQ8N1IhyAX"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Sniffer bear",
+      "_id": "HmYoDPpti7MM5pNs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.HmYoDPpti7MM5pNs"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Thorn frog",
+      "_id": "ajTqKoKCImZtuNUz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.ajTqKoKCImZtuNUz"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Wolfy hedgehog",
+      "_id": "zhiVSI0sx8lyTtF3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.zhiVSI0sx8lyTtF3"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Dust mongoose",
+      "_id": "5fY9YNOsjPdBVS7h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.5fY9YNOsjPdBVS7h"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Hammer crane",
+      "_id": "LuSOgBg5S9Yb8RfU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.LuSOgBg5S9Yb8RfU"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Fat beetle",
+      "_id": "52ilowwd0cgu8cbr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.52ilowwd0cgu8cbr"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Paradise cockerel",
+      "_id": "qOZxYxaU4mCvbrTw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.qOZxYxaU4mCvbrTw"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Armoured pigeon",
+      "_id": "v0UOe1EEW8TdpK8k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.v0UOe1EEW8TdpK8k"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Flat owl",
+      "_id": "D1vv5XuoWd6dpMg3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.D1vv5XuoWd6dpMg3"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Grim donkey",
+      "_id": "tISt67UlpFNwaLgD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.tISt67UlpFNwaLgD"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Singing bull",
+      "_id": "zcpWGCBlGT1mrR6R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.zcpWGCBlGT1mrR6R"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Ghost carp",
+      "_id": "bsR98xQAA7EDFN3k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.bsR98xQAA7EDFN3k"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Listening asp",
+      "_id": "HmXZNwcWjSUDUIQ5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.HmXZNwcWjSUDUIQ5"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Massive badger",
+      "_id": "SnzndPELymX0VcAV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.SnzndPELymX0VcAV"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Clever tortoise",
+      "_id": "1gYuXAsjnOz7caza",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.1gYuXAsjnOz7caza"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Wood centipede",
+      "_id": "CTmVPA87N951EAAQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.CTmVPA87N951EAAQ"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Blind boar",
+      "_id": "93ZlsE4GZASZcKje",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.93ZlsE4GZASZcKje"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Watcher python",
+      "_id": "Q1ApSjmAKEKhRw4s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.Q1ApSjmAKEKhRw4s"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Talking hyena",
+      "_id": "t0M5LlXctNZF79Vc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.t0M5LlXctNZF79Vc"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Moss ostrich",
+      "_id": "7JZJ3HfhNXid6Afe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.7JZJ3HfhNXid6Afe"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Sword rhinoceros",
+      "_id": "upkyer4NVW8GxxG3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.upkyer4NVW8GxxG3"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Herbalist dog",
+      "_id": "4CV8311awQWLbZBg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.4CV8311awQWLbZBg"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Lesser mule",
+      "_id": "sNt7pL6EkK3inK8I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.sNt7pL6EkK3inK8I"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Smiling fox",
+      "_id": "zAbEjwusciB8IPt5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2sp8CFnTlBxz1ORx.zAbEjwusciB8IPt5"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "2sp8CFnTlBxz1ORx",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2sp8CFnTlBxz1ORx"
+}

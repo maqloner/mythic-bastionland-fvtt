@@ -1,0 +1,174 @@
+{
+  "name": "Detail",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Bat wing motif",
+      "_id": "az0MMoVEqcDsHBTm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.az0MMoVEqcDsHBTm"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Blood red embroidery",
+      "_id": "KOIPh90vUzyh1hOa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.KOIPh90vUzyh1hOa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Shadow is darker",
+      "_id": "fGYlPwfQIzcr8m44",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.fGYlPwfQIzcr8m44"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Tattered cloak",
+      "_id": "TvuAeF266VVKQJbB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.TvuAeF266VVKQJbB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Embedded bones",
+      "_id": "T11kiKQrZsqWwVrA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.T11kiKQrZsqWwVrA"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tiny skulls everywhere",
+      "_id": "7JGMNsD6727W5y1C",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ARKkRcfk4lZhw78F.7JGMNsD6727W5y1C"
+    }
+  ],
+  "folder": "8aJXWR8vulaiB2zv",
+  "_id": "ARKkRcfk4lZhw78F",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ARKkRcfk4lZhw78F"
+}

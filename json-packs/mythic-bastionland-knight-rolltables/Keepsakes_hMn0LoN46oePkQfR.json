@@ -1,0 +1,174 @@
+{
+  "name": "Keepsakes",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A scrap of a poem",
+      "_id": "BD97Ioiavol0oTwR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.BD97Ioiavol0oTwR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A lock of hair",
+      "_id": "cKpQ2NNvxFcjANrz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.cKpQ2NNvxFcjANrz"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A wooden ring",
+      "_id": "8JFpsbzzxcNQyS6v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.8JFpsbzzxcNQyS6v"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Some baby teeth",
+      "_id": "In8d5j69U6J9mGks",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.In8d5j69U6J9mGks"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A vial of blood",
+      "_id": "FHh339sDYu0OYCbS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.FHh339sDYu0OYCbS"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Wooden figurine",
+      "_id": "rnD5lEj8Ovfiyzvl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hMn0LoN46oePkQfR.rnD5lEj8Ovfiyzvl"
+    }
+  ],
+  "folder": "jT6GC5c3KftM9FqY",
+  "_id": "hMn0LoN46oePkQfR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hMn0LoN46oePkQfR"
+}

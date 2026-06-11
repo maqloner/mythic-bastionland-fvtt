@@ -1,0 +1,174 @@
+{
+  "name": "Useful crystals - Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Flickering grey",
+      "_id": "7CHKJTug0OCNL6JO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.7CHKJTug0OCNL6JO"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Milky white",
+      "_id": "KgHQlz6gGVUijb1h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.KgHQlz6gGVUijb1h"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Dull ochre",
+      "_id": "2yD8ZDSS5EIFZjsR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.2yD8ZDSS5EIFZjsR"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pale mauve",
+      "_id": "Rn7vh9NZsWq0usgq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.Rn7vh9NZsWq0usgq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Swirling turquoise",
+      "_id": "SmFXTeawRTU848ZX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.SmFXTeawRTU848ZX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Pulsing crimson",
+      "_id": "j7sGNcJ09SUYy6co",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qENVyASSu37lZbLd.j7sGNcJ09SUYy6co"
+    }
+  ],
+  "folder": "b40KdOJKgW9mqnmt",
+  "_id": "qENVyASSu37lZbLd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qENVyASSu37lZbLd"
+}

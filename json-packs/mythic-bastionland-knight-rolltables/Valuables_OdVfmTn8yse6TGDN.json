@@ -1,0 +1,174 @@
+{
+  "name": "Valuables",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Polished gems",
+      "_id": "ObNYmYvVu3nCJ2Le",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.ObNYmYvVu3nCJ2Le"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Silver coins",
+      "_id": "v8ScyKmgDDawCsdm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.v8ScyKmgDDawCsdm"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Box of salt",
+      "_id": "uNvw6QVtYbriiA6d",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.uNvw6QVtYbriiA6d"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Tiny, perfect diamond",
+      "_id": "wZ5WB7opfK3HrIWT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.wZ5WB7opfK3HrIWT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Golden hairpin",
+      "_id": "Y3pdBBDSmcGgVafh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.Y3pdBBDSmcGgVafh"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Wooden figurine",
+      "_id": "XSOIsgetIhwfobpj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OdVfmTn8yse6TGDN.XSOIsgetIhwfobpj"
+    }
+  ],
+  "folder": "jT6GC5c3KftM9FqY",
+  "_id": "OdVfmTn8yse6TGDN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!OdVfmTn8yse6TGDN"
+}

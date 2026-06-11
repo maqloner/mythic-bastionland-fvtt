@@ -1,0 +1,174 @@
+{
+  "name": "Origin",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Gift from a friend",
+      "_id": "EPdohrWe4M6gyMSg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.EPdohrWe4M6gyMSg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "You stole it",
+      "_id": "FgJSUt2uwlCrnTx2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.FgJSUt2uwlCrnTx2"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Made yourself",
+      "_id": "UE7YLecJZ7kmkj17",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.UE7YLecJZ7kmkj17"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "From a parent",
+      "_id": "NVGfpRBI2Jcteqhb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.NVGfpRBI2Jcteqhb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Found in a ruin",
+      "_id": "tUaqkjReq6cvjhf1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.tUaqkjReq6cvjhf1"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Found in a river",
+      "_id": "fZ7Za9JFmKaeopln",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Bo25PBTNqBdajKxp.fZ7Za9JFmKaeopln"
+    }
+  ],
+  "folder": "DPLsNlTjLV7HsJYn",
+  "_id": "Bo25PBTNqBdajKxp",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Bo25PBTNqBdajKxp"
+}

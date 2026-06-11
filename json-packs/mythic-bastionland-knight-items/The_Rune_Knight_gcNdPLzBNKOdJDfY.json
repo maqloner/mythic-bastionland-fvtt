@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Rune Knight",
+  "system": {
+    "name": "",
+    "description": "Under gleam of lumenlight, in skin or stone ascratch. Strands of faten path unveiled, a starry scrawl to match",
+    "flavor": "The crystal flask",
+    "flavorLabel1": "If Shaken",
+    "flavorLabel2": "If Smashed"
+  },
+  "folder": "cTOSzlVSroPXBg8k",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686423137,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "gcNdPLzBNKOdJDfY",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!gcNdPLzBNKOdJDfY"
+}

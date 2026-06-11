@@ -1,0 +1,174 @@
+{
+  "name": "Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Always land safely",
+      "_id": "988hNwujJK4L2Aoi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.988hNwujJK4L2Aoi"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Jump twice as high",
+      "_id": "8ibu9XrDhxlsDlc9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.8ibu9XrDhxlsDlc9"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sprint silently",
+      "_id": "5E4yE4JJpis5ZCGE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.5E4yE4JJpis5ZCGE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Animals won’t attack you unprovoked",
+      "_id": "Cd8GvSr9HtjSJKEs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.Cd8GvSr9HtjSJKEs"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Knights who strike the first blow against you lose [[/roll d6]] SPI",
+      "_id": "IjQWQeo7CT6ykojG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.IjQWQeo7CT6ykojG"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Appear as real wings",
+      "_id": "aOAtg8v0EXUfHOAM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HVVMpWDAmCfbMMCc.aOAtg8v0EXUfHOAM"
+    }
+  ],
+  "folder": "XU3Y8mdQiqjGlp5m",
+  "_id": "HVVMpWDAmCfbMMCc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!HVVMpWDAmCfbMMCc"
+}

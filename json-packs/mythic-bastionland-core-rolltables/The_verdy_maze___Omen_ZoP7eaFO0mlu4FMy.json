@@ -1,0 +1,174 @@
+{
+  "name": "The verdy maze - Omen",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Riders Approaching",
+      "_id": "ze7pW3wdHRldq43o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.ze7pW3wdHRldq43o"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Frantic Movement in the Branches",
+      "_id": "KxcRnmhu43GNJY3C",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.KxcRnmhu43GNJY3C"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Twisting in the Roots",
+      "_id": "msbocFwXWlz1yDLj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.msbocFwXWlz1yDLj"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fading Light",
+      "_id": "t5KgfPEDctAeaXZ7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.t5KgfPEDctAeaXZ7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Rising Mist",
+      "_id": "G10QMtO32VGLA9Nq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.G10QMtO32VGLA9Nq"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Watching Eyes",
+      "_id": "GSvDKeb4YMZJ3xdX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ZoP7eaFO0mlu4FMy.GSvDKeb4YMZJ3xdX"
+    }
+  ],
+  "folder": "TxkVexr8XRFTK5RA",
+  "_id": "ZoP7eaFO0mlu4FMy",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ZoP7eaFO0mlu4FMy"
+}

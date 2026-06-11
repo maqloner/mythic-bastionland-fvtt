@@ -1,0 +1,174 @@
+{
+  "name": "Visible",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Burnt hands",
+      "_id": "ItX7g4fA5lqkxog6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.ItX7g4fA5lqkxog6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Scorched hair",
+      "_id": "iidnkIV3erv8EnOl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.iidnkIV3erv8EnOl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Faded eyes",
+      "_id": "EiWwjqnLkwrUX5Q6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.EiWwjqnLkwrUX5Q6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Missing teeth",
+      "_id": "hPfd4XVxooY83x7D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.hPfd4XVxooY83x7D"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Blistered face",
+      "_id": "sjJAe7y3ZDpSbjCe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.sjJAe7y3ZDpSbjCe"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Branded arm",
+      "_id": "dy7zNh7AW1eBSaRT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!GZsZCeZkGRBfOAtK.dy7zNh7AW1eBSaRT"
+    }
+  ],
+  "folder": "LyHHZbjPDOjhWxYx",
+  "_id": "GZsZCeZkGRBfOAtK",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!GZsZCeZkGRBfOAtK"
+}

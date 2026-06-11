@@ -1,0 +1,174 @@
+{
+  "name": "Special Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Can be thrown ([[/roll d6 #damage]])",
+      "_id": "gJJY2D23sHdLHX5r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.gJJY2D23sHdLHX5r"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Allows you to fall safely from any height",
+      "_id": "ltBrDrqegbRfFbGY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.ltBrDrqegbRfFbGY"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Pattern pains Seers",
+      "_id": "n7D24NICybVtag3E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.n7D24NICybVtag3E"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Always floats",
+      "_id": "HJcPTKUV4ezyUUrk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.HJcPTKUV4ezyUUrk"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Blocks all sound",
+      "_id": "1UjmdA6THte9fs9G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.1UjmdA6THte9fs9G"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Bladed ([[/roll d6 #damage]] in melee)",
+      "_id": "icvkGh3MTk3VW5JT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!R1lFQx0Yx0ingQVB.icvkGh3MTk3VW5JT"
+    }
+  ],
+  "folder": "EkzPuvcSPv4h3ip6",
+  "_id": "R1lFQx0Yx0ingQVB",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!R1lFQx0Yx0ingQVB"
+}

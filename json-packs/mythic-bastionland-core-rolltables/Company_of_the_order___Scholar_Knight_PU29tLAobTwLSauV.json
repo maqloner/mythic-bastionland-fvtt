@@ -1,0 +1,174 @@
+{
+  "name": "Company of the order - Scholar-Knight",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A lone scholar-knight",
+      "_id": "biUmibWIck4ZYwyW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.biUmibWIck4ZYwyW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "2 scholar-knights",
+      "_id": "hLtJKf0rkfU78POS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.hLtJKf0rkfU78POS"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A scholar-knight on foot, their steed slain",
+      "_id": "SXBPsp2gH3IYnwyJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.SXBPsp2gH3IYnwyJ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "3 scholar-knights",
+      "_id": "oUW5LJLcvEpwWNSQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.oUW5LJLcvEpwWNSQ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "1 scholar-knight and their apprentice 5GD, blade (d6)",
+      "_id": "yJ8JQv8VHKFzRrCq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.yJ8JQv8VHKFzRrCq"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "5 scholar-knights",
+      "_id": "4yWisT99K5dUjocg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PU29tLAobTwLSauV.4yWisT99K5dUjocg"
+    }
+  ],
+  "folder": "LcAMe4LIz42IDWhj",
+  "_id": "PU29tLAobTwLSauV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!PU29tLAobTwLSauV"
+}

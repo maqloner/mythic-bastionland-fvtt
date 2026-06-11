@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Gossip",
+  "system": {
+    "description": "Restore SPI when you share or receive gossip."
+  },
+  "folder": "dbSzpPyOcpZjsk0M",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686473822,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Jx5NRVB9PSyh4r5c",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Jx5NRVB9PSyh4r5c"
+}

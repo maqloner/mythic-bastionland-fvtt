@@ -1,0 +1,318 @@
+{
+  "name": "KEEP - Centrepiece",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Hearth",
+      "_id": "3jTTrpuzZewBwaND",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.3jTTrpuzZewBwaND"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Throne",
+      "_id": "qzlc7itSSIz2SVqH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.qzlc7itSSIz2SVqH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Musicians",
+      "_id": "0njOKbzU05Niglmc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.0njOKbzU05Niglmc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pool",
+      "_id": "jIORUngbh77XJBXH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.jIORUngbh77XJBXH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Advisers",
+      "_id": "dEzworRFKxcQ3UMx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.dEzworRFKxcQ3UMx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Servants",
+      "_id": "xMGDElQbsL4i6fVY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.xMGDElQbsL4i6fVY"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Shrine",
+      "_id": "lNstMpJ254hPcAlb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.lNstMpJ254hPcAlb"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Table",
+      "_id": "flIpUSPijnUVXArj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.flIpUSPijnUVXArj"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Reliquary",
+      "_id": "TfnRO0caZTMtFbsd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.TfnRO0caZTMtFbsd"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Cauldron",
+      "_id": "0EB1PR735cQ4KtFk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.0EB1PR735cQ4KtFk"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Chandelier",
+      "_id": "ApZvu009WvByNApG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.ApZvu009WvByNApG"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Guards",
+      "_id": "jpmHKCIGxU1m9P1S",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Q514NrEqOqePLykZ.jpmHKCIGxU1m9P1S"
+    }
+  ],
+  "folder": "zqAqD9UZgSZFBVBx",
+  "_id": "Q514NrEqOqePLykZ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Q514NrEqOqePLykZ"
+}

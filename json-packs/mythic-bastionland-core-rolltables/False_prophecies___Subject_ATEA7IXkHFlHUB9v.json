@@ -1,0 +1,174 @@
+{
+  "name": "False prophecies - Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A Company member",
+      "_id": "A8JT5OzHHGxUbMUH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.A8JT5OzHHGxUbMUH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A nearby Knight",
+      "_id": "p8vqwv0u0R7zGxaJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.p8vqwv0u0R7zGxaJ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A nearby commoner",
+      "_id": "nMJi0oa1phGMfax5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.nMJi0oa1phGMfax5"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A nearby Seer",
+      "_id": "8wGSOkysWha5mp23",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.8wGSOkysWha5mp23"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "The Wraith",
+      "_id": "ijimju4NMe9g5LRE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.ijimju4NMe9g5LRE"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A nearby Myth",
+      "_id": "40YbKuy0xPWCPexc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ATEA7IXkHFlHUB9v.40YbKuy0xPWCPexc"
+    }
+  ],
+  "folder": "ZMSVTWsfarVjLNN5",
+  "_id": "ATEA7IXkHFlHUB9v",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ATEA7IXkHFlHUB9v"
+}

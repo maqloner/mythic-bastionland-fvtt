@@ -1,0 +1,318 @@
+{
+  "name": "WOE - Incident",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Disease",
+      "_id": "FZAtB1glkHxHTXPi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.FZAtB1glkHxHTXPi"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Famine",
+      "_id": "I2OHz7URohm00Bfb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.I2OHz7URohm00Bfb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Raids",
+      "_id": "4mzSLY1qJmOIRUZh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.4mzSLY1qJmOIRUZh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Invasion",
+      "_id": "sPGvzvKeGidPhern",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.sPGvzvKeGidPhern"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Abduction",
+      "_id": "0IFmpYHzCdp9oLA9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.0IFmpYHzCdp9oLA9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Storm",
+      "_id": "M9IzRrncjj7nGA8E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.M9IzRrncjj7nGA8E"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Fire",
+      "_id": "3K87MG0uaxqKqRu6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.3K87MG0uaxqKqRu6"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Revolt",
+      "_id": "aBa45T7LmpLZjwzA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.aBa45T7LmpLZjwzA"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Exodus",
+      "_id": "7OjCWWhiwJ31MPTY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.7OjCWWhiwJ31MPTY"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Beast",
+      "_id": "JEWmbZROyAqg5GXh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.JEWmbZROyAqg5GXh"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Killing",
+      "_id": "DaVFmPB1Ruy82CbJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.DaVFmPB1Ruy82CbJ"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Theft",
+      "_id": "V1dlp8qbUFi1u9vu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vgIhtteHWs3I2tkb.V1dlp8qbUFi1u9vu"
+    }
+  ],
+  "folder": "zqAqD9UZgSZFBVBx",
+  "_id": "vgIhtteHWs3I2tkb",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!vgIhtteHWs3I2tkb"
+}

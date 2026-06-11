@@ -1,0 +1,174 @@
+{
+  "name": "Crimes of the bat - Proof",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A song",
+      "_id": "KolF7XzK8GJ7ZoBT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.KolF7XzK8GJ7ZoBT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "One eyewitness",
+      "_id": "Slt23DKH4TSazvAU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.Slt23DKH4TSazvAU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Popular rumour",
+      "_id": "HEYmI477D8I5GyN3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.HEYmI477D8I5GyN3"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Proclaimed by Seer",
+      "_id": "SwzNwYC7F6Yj2iGK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.SwzNwYC7F6Yj2iGK"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Dubious confession",
+      "_id": "4upiA8LKUKo1neRs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.4upiA8LKUKo1neRs"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "It’s self-evident!",
+      "_id": "Ls3fp4f2iai6wGNa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bnX8YEQiinatOplJ.Ls3fp4f2iai6wGNa"
+    }
+  ],
+  "folder": "R300gItFejKmJgnY",
+  "_id": "bnX8YEQiinatOplJ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bnX8YEQiinatOplJ"
+}

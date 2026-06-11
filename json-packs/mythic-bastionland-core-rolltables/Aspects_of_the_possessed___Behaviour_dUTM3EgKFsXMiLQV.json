@@ -1,0 +1,174 @@
+{
+  "name": "Aspects of the possessed - Behaviour",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fiery temperPf",
+      "_id": "btd1ngP9foJa6fgA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.btd1ngP9foJa6fgA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sinister whisper",
+      "_id": "ReSUEEhu5EpEqdVA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.ReSUEEhu5EpEqdVA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Total amnesia",
+      "_id": "cLOiDbn0U1l47FCB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.cLOiDbn0U1l47FCB"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Morbid cruelty",
+      "_id": "IPctFJqvy4z9CdeN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.IPctFJqvy4z9CdeN"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "No boundaries",
+      "_id": "zUKqkJcp1rnANHSP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.zUKqkJcp1rnANHSP"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Paranoid delusions",
+      "_id": "xx8aqIJPPhb2PV9M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dUTM3EgKFsXMiLQV.xx8aqIJPPhb2PV9M"
+    }
+  ],
+  "folder": "uRy1PHH9vkLzwYYZ",
+  "_id": "dUTM3EgKFsXMiLQV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!dUTM3EgKFsXMiLQV"
+}

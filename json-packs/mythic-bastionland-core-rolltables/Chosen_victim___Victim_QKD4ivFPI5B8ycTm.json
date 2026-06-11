@@ -1,0 +1,174 @@
+{
+  "name": "Chosen victim - Victim",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ruler of the Realm",
+      "_id": "Dv9OuaNKLyEKOR97",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.Dv9OuaNKLyEKOR97"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Known Knight",
+      "_id": "g6Yw6TneO8k1PUFI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.g6Yw6TneO8k1PUFI"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Known Seer",
+      "_id": "96bkG7L4sNu3dNIq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.96bkG7L4sNu3dNIq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Known Vassal",
+      "_id": "1Zf6RTseMjNbO52Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.1Zf6RTseMjNbO52Q"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "The last person the Company spoke to",
+      "_id": "YnNTwK43wmu4eWkg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.YnNTwK43wmu4eWkg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The next person the Company meets",
+      "_id": "K5e3qo7gfAkdhi6D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QKD4ivFPI5B8ycTm.K5e3qo7gfAkdhi6D"
+    }
+  ],
+  "folder": "hPiw8oL26ubwOjGn",
+  "_id": "QKD4ivFPI5B8ycTm",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QKD4ivFPI5B8ycTm"
+}

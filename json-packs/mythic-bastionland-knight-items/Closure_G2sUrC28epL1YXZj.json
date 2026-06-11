@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Closure",
+  "system": {
+    "description": "Restore SPI when you get an answer that you’ve been seeking for some time."
+  },
+  "folder": "Uv2YuXgdMm8OaxYS",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686459606,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "G2sUrC28epL1YXZj",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!G2sUrC28epL1YXZj"
+}

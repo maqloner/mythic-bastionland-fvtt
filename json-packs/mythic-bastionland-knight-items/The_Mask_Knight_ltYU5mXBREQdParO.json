@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Mask Knight",
+  "system": {
+    "name": "",
+    "description": "You call for the truth from me?. I will not offer you that which cannot be found",
+    "flavor": "Masked armour",
+    "flavorLabel1": "Appearance",
+    "flavorLabel2": "Design"
+  },
+  "folder": "iZzpjKeO1dP9xqEQ",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686439915,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ltYU5mXBREQdParO",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ltYU5mXBREQdParO"
+}

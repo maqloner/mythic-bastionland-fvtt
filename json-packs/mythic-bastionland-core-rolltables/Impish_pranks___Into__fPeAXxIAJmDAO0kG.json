@@ -1,0 +1,174 @@
+{
+  "name": "Impish pranks - Into…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Wormy earth",
+      "_id": "XMnMieBHVL4BrGyT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.XMnMieBHVL4BrGyT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "sheets Bog peat",
+      "_id": "kepATBevogZR2Okj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.kepATBevogZR2Okj"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Hot ash",
+      "_id": "if8w5g17bVFVxDEO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.if8w5g17bVFVxDEO"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Choking smoke",
+      "_id": "SaSoRHqQM6qtupWh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.SaSoRHqQM6qtupWh"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fatty grease",
+      "_id": "LZ4cxiXrMkuStxhD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.LZ4cxiXrMkuStxhD"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Vinegar-soaked rags",
+      "_id": "R4uLh2AAnl63wJpd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fPeAXxIAJmDAO0kG.R4uLh2AAnl63wJpd"
+    }
+  ],
+  "folder": "oObhMFrUwdiOeDe2",
+  "_id": "fPeAXxIAJmDAO0kG",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fPeAXxIAJmDAO0kG"
+}

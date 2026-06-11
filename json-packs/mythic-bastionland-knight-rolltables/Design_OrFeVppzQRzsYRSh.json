@@ -1,0 +1,174 @@
+{
+  "name": "Design",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Red/white diamonds",
+      "_id": "egZdfqvaZdeEyTjn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.egZdfqvaZdeEyTjn"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Blue/yellow rings",
+      "_id": "YqviwsuTy870kkcL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.YqviwsuTy870kkcL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Green/silver spiral",
+      "_id": "gIm37slrzpQFxxaP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.gIm37slrzpQFxxaP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Purple/gold chevrons",
+      "_id": "vpETAo7dbd5Ws5w0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.vpETAo7dbd5Ws5w0"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Black/blue bars",
+      "_id": "NpDLa2g84q73I0d9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.NpDLa2g84q73I0d9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Orange/black waves",
+      "_id": "1M8WTZnpj5VfFjxI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OrFeVppzQRzsYRSh.1M8WTZnpj5VfFjxI"
+    }
+  ],
+  "folder": "WA8jRobcb1eS56u1",
+  "_id": "OrFeVppzQRzsYRSh",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!OrFeVppzQRzsYRSh"
+}

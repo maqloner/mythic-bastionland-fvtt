@@ -1,0 +1,34 @@
+{
+  "type": "misc",
+  "name": "Rare poison",
+  "system": {
+    "description": "Death plus speed, secrecy, or suffering.",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    },
+    "value": 1
+  },
+  "folder": "M7AwWxsLSb0bFXYG",
+  "_id": "x4xmAiXuTzGi1oQB",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146672081,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!x4xmAiXuTzGi1oQB"
+}

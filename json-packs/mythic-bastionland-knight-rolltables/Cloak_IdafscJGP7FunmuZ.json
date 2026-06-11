@@ -1,0 +1,174 @@
+{
+  "name": "Cloak",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Velvet",
+      "_id": "rzCwB3n2Z7K8JIbX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.rzCwB3n2Z7K8JIbX"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Torn",
+      "_id": "DwqbtnEnaiqyhhT6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.DwqbtnEnaiqyhhT6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Weathered",
+      "_id": "VFVR84ThduunEVHs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.VFVR84ThduunEVHs"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Layered",
+      "_id": "ttNGKauK3XZUQLsH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.ttNGKauK3XZUQLsH"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Embroidered",
+      "_id": "3gso8nZ53kqiyya9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.3gso8nZ53kqiyya9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Faded pattern",
+      "_id": "ocJCw1s7lgdxA7Zt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!IdafscJGP7FunmuZ.ocJCw1s7lgdxA7Zt"
+    }
+  ],
+  "folder": "3CjvL2t5KOEWzWDI",
+  "_id": "IdafscJGP7FunmuZ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!IdafscJGP7FunmuZ"
+}

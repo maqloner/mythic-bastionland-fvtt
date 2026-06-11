@@ -1,0 +1,174 @@
+{
+  "name": "Hated Enemy",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Rich Merchant",
+      "_id": "8hTwOBzqfXlPFZ9R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.8hTwOBzqfXlPFZ9R"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Master Blacksmith",
+      "_id": "E28MRA5fEPmJSfYg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.E28MRA5fEPmJSfYg"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Admired Knight",
+      "_id": "Is9gETP9EzkUDhHg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.Is9gETP9EzkUDhHg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bandit Leader",
+      "_id": "BsR0SID9bRGZwz99",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.BsR0SID9bRGZwz99"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Retired General",
+      "_id": "KhL1SFVFw1T9mdE8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.KhL1SFVFw1T9mdE8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Mercenary Captain",
+      "_id": "LNutVhjRoAWEwfMq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f773vcF2gDx8J5lo.LNutVhjRoAWEwfMq"
+    }
+  ],
+  "folder": "nqVlXPnENM9jKt7H",
+  "_id": "f773vcF2gDx8J5lo",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!f773vcF2gDx8J5lo"
+}

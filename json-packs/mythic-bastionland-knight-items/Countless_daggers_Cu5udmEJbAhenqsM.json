@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Countless daggers",
+  "system": {
+    "description": "",
+    "damage": "d6",
+    "hefty": false,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "YzgsClt2FQb5SjiY",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686464552,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Cu5udmEJbAhenqsM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Cu5udmEJbAhenqsM"
+}

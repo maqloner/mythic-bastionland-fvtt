@@ -1,0 +1,174 @@
+{
+  "name": "Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Can be thrown ([[/roll d6 #damage]])",
+      "_id": "luANcecBfPVJFe1D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.luANcecBfPVJFe1D"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Can be recalled to your hand when in sight",
+      "_id": "p17CxnIPX3gA1q8R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.p17CxnIPX3gA1q8R"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "+[[/roll d8 #damage]] vs aquatic beings",
+      "_id": "cUwAg2ZNRxr5uU6A",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.cUwAg2ZNRxr5uU6A"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "[[/roll d8 #damage]] vs flying beings",
+      "_id": "GAKRPjYSoSldXKQg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.GAKRPjYSoSldXKQg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Points to fresh water",
+      "_id": "grNLM1a3QtwBZtrk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.grNLM1a3QtwBZtrk"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Utterly unbreakable",
+      "_id": "HdPei70QM1vR4q3B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!miCK795d40gQjPA4.HdPei70QM1vR4q3B"
+    }
+  ],
+  "folder": "oKMCyZhBWftYz3jV",
+  "_id": "miCK795d40gQjPA4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!miCK795d40gQjPA4"
+}

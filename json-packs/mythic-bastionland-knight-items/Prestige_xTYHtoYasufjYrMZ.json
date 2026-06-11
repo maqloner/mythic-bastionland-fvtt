@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Prestige",
+  "system": {
+    "description": "Restore SPI when you take credit for the deeds of another."
+  },
+  "folder": "de67YUcxZC3qOip9",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404906,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xTYHtoYasufjYrMZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xTYHtoYasufjYrMZ"
+}

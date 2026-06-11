@@ -1,0 +1,174 @@
+{
+  "name": "Mortal afflictions - Attitude",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "I deserve it",
+      "_id": "xbrpUQPtOijeWwac",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.xbrpUQPtOijeWwac"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Anger at the world",
+      "_id": "Pxsxja4erxynW2PP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.Pxsxja4erxynW2PP"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Melancholy",
+      "_id": "KVTjEmOTiUG2i3Ut",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.KVTjEmOTiUG2i3Ut"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fear of death",
+      "_id": "NNo53ugzxWx5KQuU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.NNo53ugzxWx5KQuU"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "In denial",
+      "_id": "BfnaorDUTnoH0WZO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.BfnaorDUTnoH0WZO"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Oblivious",
+      "_id": "5faD7fd7NY2Sli9F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQW2A6LDHE9kafI5.5faD7fd7NY2Sli9F"
+    }
+  ],
+  "folder": "7jEesc9CmVdngief",
+  "_id": "mQW2A6LDHE9kafI5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!mQW2A6LDHE9kafI5"
+}

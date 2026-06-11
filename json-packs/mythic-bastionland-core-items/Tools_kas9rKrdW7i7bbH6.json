@@ -1,0 +1,23 @@
+{
+  "name": "Tools",
+  "type": "Item",
+  "folder": null,
+  "_id": "kas9rKrdW7i7bbH6",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702146669705,
+    "modifiedTime": 1756662958288,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!kas9rKrdW7i7bbH6"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Detail",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Embedded arrowheads",
+      "_id": "LOTnvlqXl9RYt243",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.LOTnvlqXl9RYt243"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Two sets hastily patched together",
+      "_id": "bMnO5Pj3nBE6xFt0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.bMnO5Pj3nBE6xFt0"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Partially burnt",
+      "_id": "8besSG7n8CPsw7If",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.8besSG7n8CPsw7If"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Claw marks",
+      "_id": "dH56ANdw5KM7mu0I",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.dH56ANdw5KM7mu0I"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Faded heraldry",
+      "_id": "eERSpRWVsqIPvPdX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.eERSpRWVsqIPvPdX"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Dried blood",
+      "_id": "QSpmrLmsIpYuVMy8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGZcIsytnleTZaI8.QSpmrLmsIpYuVMy8"
+    }
+  ],
+  "folder": "9LDu3MOjZOqjE9X7",
+  "_id": "gGZcIsytnleTZaI8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!gGZcIsytnleTZaI8"
+}

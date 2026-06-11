@@ -1,0 +1,174 @@
+{
+  "name": "Ardwright projects - Creation",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Watchtower",
+      "_id": "vJWQaLm6DdGucDwv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.vJWQaLm6DdGucDwv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Great hall",
+      "_id": "bRZ9CZhUy3UtiBrQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.bRZ9CZhUy3UtiBrQ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Statue",
+      "_id": "L1kbjugTKEIgvPII",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.L1kbjugTKEIgvPII"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ship",
+      "_id": "kikSpRsTp4893MLx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.kikSpRsTp4893MLx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Mausoleum",
+      "_id": "Io56K8EjsdntHygs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.Io56K8EjsdntHygs"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Bridge",
+      "_id": "3U1YR7wQIl22ZyP7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8JryWpsCQ4ix2ra4.3U1YR7wQIl22ZyP7"
+    }
+  ],
+  "folder": "yXJytNtXTbrckcSu",
+  "_id": "8JryWpsCQ4ix2ra4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!8JryWpsCQ4ix2ra4"
+}

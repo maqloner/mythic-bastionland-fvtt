@@ -1,0 +1,174 @@
+{
+  "name": "Arbitrary punishment - Later Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Eyes fall out",
+      "_id": "ugRqpAHhVMChklaw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.ugRqpAHhVMChklaw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Constant coldness",
+      "_id": "5Xub37Zcb7x2poh5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.5Xub37Zcb7x2poh5"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Loss of taste",
+      "_id": "3nfMLv5ldIDXZEkb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.3nfMLv5ldIDXZEkb"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Broken limb",
+      "_id": "SQbEm2SwuvCJtDML",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.SQbEm2SwuvCJtDML"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Severed hand",
+      "_id": "tziJXTFaYxDqoBll",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.tziJXTFaYxDqoBll"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Teeth fall out",
+      "_id": "f3qv3bQ88mT3f6an",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vTL3VOXdCx1g1pkl.f3qv3bQ88mT3f6an"
+    }
+  ],
+  "folder": "fayKLxRMO7eZABty",
+  "_id": "vTL3VOXdCx1g1pkl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!vTL3VOXdCx1g1pkl"
+}

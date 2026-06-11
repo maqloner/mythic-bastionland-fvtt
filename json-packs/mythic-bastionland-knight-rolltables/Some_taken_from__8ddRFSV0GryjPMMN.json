@@ -1,0 +1,174 @@
+{
+  "name": "Some taken from…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fallen soldiers",
+      "_id": "U87N1hFqKRtDeB1u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.U87N1hFqKRtDeB1u"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ancient tomb",
+      "_id": "k7SFOoXXlMrGMXRm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.k7SFOoXXlMrGMXRm"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Shipwreck",
+      "_id": "9m8pUz5GutwdSOz2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.9m8pUz5GutwdSOz2"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A fighting pit",
+      "_id": "WeEe5j76heMdOufX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.WeEe5j76heMdOufX"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A defeated Knight",
+      "_id": "NqBThB03lW6Lb4rk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.NqBThB03lW6Lb4rk"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Thankful militia",
+      "_id": "PceEeou0yg8EjLMm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8ddRFSV0GryjPMMN.PceEeou0yg8EjLMm"
+    }
+  ],
+  "folder": "fwTLnu7xV5BUfMLt",
+  "_id": "8ddRFSV0GryjPMMN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!8ddRFSV0GryjPMMN"
+}

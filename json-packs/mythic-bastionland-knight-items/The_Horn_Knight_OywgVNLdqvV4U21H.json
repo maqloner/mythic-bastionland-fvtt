@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Horn Knight",
+  "system": {
+    "name": "",
+    "description": "Horn cried, hearts asank, blood awoke. In its wail our fates all sealed as the feast for death",
+    "flavor": "The wild horn",
+    "flavorLabel1": "Shape",
+    "flavorLabel2": "Sound"
+  },
+  "folder": "t0VmWWwIHpeGW0YI",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686409510,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "OywgVNLdqvV4U21H",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!OywgVNLdqvV4U21H"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Shield Knight",
+  "system": {
+    "name": "",
+    "description": "In wood, hide, or iron, as armour meek or grand. No greater shield for the weak than the oath-sworn Knight’s own hand",
+    "flavor": "Soothing salve",
+    "flavorLabel1": "Aroma",
+    "flavorLabel2": "Side Effect"
+  },
+  "folder": "Ot2dSfwXDbdlYTN1",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686407505,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dQcAt4ZOYU73RwkE",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dQcAt4ZOYU73RwkE"
+}

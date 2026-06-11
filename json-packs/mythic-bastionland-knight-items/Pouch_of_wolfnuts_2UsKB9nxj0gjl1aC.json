@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Pouch of wolfnuts",
+  "system": {
+    "description": "Repellent to canines",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "xntYFomQNcoEbLdk",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686436154,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2UsKB9nxj0gjl1aC",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2UsKB9nxj0gjl1aC"
+}

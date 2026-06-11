@@ -1,0 +1,174 @@
+{
+  "name": "The hound within - Day Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Enhanced smell",
+      "_id": "xlWMW5KL7RGN0Odz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.xlWMW5KL7RGN0Odz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Enhanced hearing",
+      "_id": "ng4hoYVrVrGKg5W6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.ng4hoYVrVrGKg5W6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Enhanced vision",
+      "_id": "3pbNWr9aiEbDKcPN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.3pbNWr9aiEbDKcPN"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Can eat raw and rotten meat",
+      "_id": "LzSV5L5mdjhCAJKl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.LzSV5L5mdjhCAJKl"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Animals respect you",
+      "_id": "DhaIuzKUMvjaWm7y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.DhaIuzKUMvjaWm7y"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Powerful jaws (d8)",
+      "_id": "mHP6eN9e9RsLvvV2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ooxnND3rrPdT4QEg.mHP6eN9e9RsLvvV2"
+    }
+  ],
+  "folder": "BpJGbeGyTfLDVRR7",
+  "_id": "ooxnND3rrPdT4QEg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ooxnND3rrPdT4QEg"
+}

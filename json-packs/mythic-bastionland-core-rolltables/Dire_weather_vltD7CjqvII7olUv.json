@@ -1,0 +1,102 @@
+{
+  "name": "Dire weather",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Dire Weather. You can’t leave the Hex and can’t get proper sleep.",
+      "_id": "3SEnGKH29suaWjjE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vltD7CjqvII7olUv.3SEnGKH29suaWjjE"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "description": "Looming Threat. If this is rolled a second consecutive time, treat as Dire Weather",
+      "_id": "T84cTgqMPS1lYZA6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vltD7CjqvII7olUv.T84cTgqMPS1lYZA6"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "description": "Fine weather for travel.",
+      "_id": "ROVSUZg3Au1k2roF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!vltD7CjqvII7olUv.ROVSUZg3Au1k2roF"
+    }
+  ],
+  "folder": "cacCHLt5mNIvUMAi",
+  "_id": "vltD7CjqvII7olUv",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!vltD7CjqvII7olUv"
+}

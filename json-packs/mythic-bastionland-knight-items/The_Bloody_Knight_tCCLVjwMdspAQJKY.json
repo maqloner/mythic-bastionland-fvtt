@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Bloody Knight",
+  "system": {
+    "name": "",
+    "description": "Some were born to fight. This one birthed from the very blood of battle.",
+    "flavor": "Rage Fuel",
+    "flavorLabel1": "Alcohol",
+    "flavorLabel2": "Hatred"
+  },
+  "folder": "uyPSw4DSmoRUPcrU",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398729,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tCCLVjwMdspAQJKY",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!tCCLVjwMdspAQJKY"
+}

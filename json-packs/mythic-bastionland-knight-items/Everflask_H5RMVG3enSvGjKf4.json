@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Everflask",
+  "system": {
+    "description": "Contains an endless supply of fresh water as  as its thirst is sated with each use, see below",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "OKBRDb1wy4Z0eK50",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686443625,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "H5RMVG3enSvGjKf4",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!H5RMVG3enSvGjKf4"
+}

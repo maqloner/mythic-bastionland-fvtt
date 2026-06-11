@@ -1,0 +1,174 @@
+{
+  "name": "Yfran’s big score - Plot",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Knight Murder",
+      "_id": "3UTdgMZtPOVT8mFv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.3UTdgMZtPOVT8mFv"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Identity theft",
+      "_id": "IPYgid5dt22fFJvx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.IPYgid5dt22fFJvx"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Burglary",
+      "_id": "E3arBCxt3TYR0LrN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.E3arBCxt3TYR0LrN"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Blackmail",
+      "_id": "vtfvgEURHkVxYfJq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.vtfvgEURHkVxYfJq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Confidence trick",
+      "_id": "Xz83VQ4zL1V9WY52",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.Xz83VQ4zL1V9WY52"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Long con",
+      "_id": "gCbV0nqIJvTCaVy1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RmFQvCQRNLxiLRmK.gCbV0nqIJvTCaVy1"
+    }
+  ],
+  "folder": "Yhw7pUcm69MutWhc",
+  "_id": "RmFQvCQRNLxiLRmK",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RmFQvCQRNLxiLRmK"
+}

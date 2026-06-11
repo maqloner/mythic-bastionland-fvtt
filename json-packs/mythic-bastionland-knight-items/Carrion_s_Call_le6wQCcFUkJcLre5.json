@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Carrion’s Call",
+  "system": {
+    "description": "Speak with scavenger creatures, and summon them to you. They’re only helpful if you’re providing them with food."
+  },
+  "folder": "t22VP4Og2RPTyAl6",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686425347,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "le6wQCcFUkJcLre5",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!le6wQCcFUkJcLre5"
+}

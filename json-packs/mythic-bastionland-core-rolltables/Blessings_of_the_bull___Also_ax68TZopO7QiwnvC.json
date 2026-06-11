@@ -1,0 +1,174 @@
+{
+  "name": "Blessings of the bull - Also",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Perfect weather",
+      "_id": "L8YCPgbiGfS91TO1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.L8YCPgbiGfS91TO1"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Lost items return",
+      "_id": "i9MX1CkiBlys6GxB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.i9MX1CkiBlys6GxB"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "New fruit flourishes",
+      "_id": "zpTvIYc9ZecJ4ENW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.zpTvIYc9ZecJ4ENW"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fish leap into nets",
+      "_id": "eBzEpPmxrynDqmj5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.eBzEpPmxrynDqmj5"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Music sounds sweeter",
+      "_id": "KIZ0bMLuW15rQ8pz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.KIZ0bMLuW15rQ8pz"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Breathtaking aurora",
+      "_id": "mXh61yYTY8vr5OdW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ax68TZopO7QiwnvC.mXh61yYTY8vr5OdW"
+    }
+  ],
+  "folder": "QmK2E7F4JEgjWChs",
+  "_id": "ax68TZopO7QiwnvC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ax68TZopO7QiwnvC"
+}

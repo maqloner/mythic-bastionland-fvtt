@@ -1,0 +1,174 @@
+{
+  "name": "The cost of unlife - The Cost",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Intolerance of sunlight",
+      "_id": "UtmRJEUlRbNfSTb9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.UtmRJEUlRbNfSTb9"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Hatred of plant life",
+      "_id": "vkux2kiUPIvQehjl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.vkux2kiUPIvQehjl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fear of running water",
+      "_id": "3mwpfPQrg15635uF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.3mwpfPQrg15635uF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Vulnerability to fire",
+      "_id": "n5lCpZJMK9N8eokJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.n5lCpZJMK9N8eokJ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Craven cowardice",
+      "_id": "DJly8C3sJ1qA2xt9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.DJly8C3sJ1qA2xt9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Insatiable hunger",
+      "_id": "XQhtaaWYytsE3a6F",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!J7qQQZR7pnvfgVOr.XQhtaaWYytsE3a6F"
+    }
+  ],
+  "folder": "omfpH87oJWR7VRdP",
+  "_id": "J7qQQZR7pnvfgVOr",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!J7qQQZR7pnvfgVOr"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "People",
+  "type": "Actor",
+  "folder": null,
+  "_id": "as4zDDy1GQzkRGUh",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702144404500,
+    "modifiedTime": 1756663018053,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!as4zDDy1GQzkRGUh"
+}

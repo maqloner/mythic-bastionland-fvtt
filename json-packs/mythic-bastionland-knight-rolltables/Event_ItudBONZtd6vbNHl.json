@@ -1,0 +1,174 @@
+{
+  "name": "Event",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Birth of…",
+      "_id": "JX7NSOxNycf6d6nw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.JX7NSOxNycf6d6nw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Great deeds of…",
+      "_id": "HaU29aLOJJEzbUp9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.HaU29aLOJJEzbUp9"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Ambitions of…",
+      "_id": "A76qHSuiX1zPVx7a",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.A76qHSuiX1zPVx7a"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Shameful death of…",
+      "_id": "hKz81DBUdY0idl83",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.hKz81DBUdY0idl83"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Glorious death of…",
+      "_id": "z7l1PeDIDkIgaFF6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.z7l1PeDIDkIgaFF6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Peaceful death of…",
+      "_id": "KvvxAPaZL1gZlBCq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ItudBONZtd6vbNHl.KvvxAPaZL1gZlBCq"
+    }
+  ],
+  "folder": "Pec1WXbSBqFLjDa5",
+  "_id": "ItudBONZtd6vbNHl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ItudBONZtd6vbNHl"
+}

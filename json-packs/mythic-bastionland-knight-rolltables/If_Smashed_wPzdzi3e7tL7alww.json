@@ -1,0 +1,174 @@
+{
+  "name": "If Smashed",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sudden thunderstorm",
+      "_id": "DLp8DKpZ3mkewYi3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.DLp8DKpZ3mkewYi3"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Summer arrives",
+      "_id": "g6PvtBpoj1IRfOxp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.g6PvtBpoj1IRfOxp"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Night arrives",
+      "_id": "YdnJfQMxzPSwq2cb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.YdnJfQMxzPSwq2cb"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Deafening scream",
+      "_id": "TPfDcU5iGSblrhnf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.TPfDcU5iGSblrhnf"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Plague of locusts",
+      "_id": "RpWnt6m1ao9mEAGF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.RpWnt6m1ao9mEAGF"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Freezes nearby water",
+      "_id": "LZWB6weDzDz97XF6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!wPzdzi3e7tL7alww.LZWB6weDzDz97XF6"
+    }
+  ],
+  "folder": "4d0AJ3lzWtolTkZx",
+  "_id": "wPzdzi3e7tL7alww",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!wPzdzi3e7tL7alww"
+}

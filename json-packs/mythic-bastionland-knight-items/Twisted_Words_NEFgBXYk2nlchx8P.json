@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Twisted Words",
+  "system": {
+    "description": "Speak, but choose two different meanings, as different as you wish, even total opposites. Choose which meaning each listener takes from the words."
+  },
+  "folder": "qSMl87r3AWuKQbiY",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686401957,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NEFgBXYk2nlchx8P",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NEFgBXYk2nlchx8P"
+}

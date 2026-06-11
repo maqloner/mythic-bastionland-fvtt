@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Weaver of Fate",
+  "system": {
+    "description": "Just before night falls, tell a story related to a nearby place, noting two details past, present, or future. The Referee secretly chooses one of them to become truth. This can only be performed once per location."
+  },
+  "folder": "7L51hf6FBgkGtzcR",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686411026,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xyGpUzkJs8pdYqfO",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!xyGpUzkJs8pdYqfO"
+}

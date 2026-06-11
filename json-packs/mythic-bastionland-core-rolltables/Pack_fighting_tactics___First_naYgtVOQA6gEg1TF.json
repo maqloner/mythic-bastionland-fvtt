@@ -1,0 +1,174 @@
+{
+  "name": "Pack fighting tactics - First",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Target the strong",
+      "_id": "ulnnXewCwQRa6GPM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.ulnnXewCwQRa6GPM"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bite their legs",
+      "_id": "Xi5CIQug1hfK8MrZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.Xi5CIQug1hfK8MrZ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Terrorise them",
+      "_id": "138TPae3jAvr53Tf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.138TPae3jAvr53Tf"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Start a fire with claw and stone",
+      "_id": "p3eMU8gn5mrVcSvP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.p3eMU8gn5mrVcSvP"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Disarm them with jaw",
+      "_id": "wwbBKd8xCA8XEplm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.wwbBKd8xCA8XEplm"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Target the weak",
+      "_id": "nDNDuiskydN2gORP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!naYgtVOQA6gEg1TF.nDNDuiskydN2gORP"
+    }
+  ],
+  "folder": "5sT9iCnWq7y7Qw8C",
+  "_id": "naYgtVOQA6gEg1TF",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!naYgtVOQA6gEg1TF"
+}

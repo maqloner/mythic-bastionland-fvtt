@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Dove Knight",
+  "system": {
+    "name": "",
+    "description": "In serenous moon the best of us can rest in docile light. That quietest bird in impure times must soar in bloody flight",
+    "flavor": "Winged armour",
+    "flavorLabel1": "Ability",
+    "flavorLabel2": "Limitation"
+  },
+  "folder": "gLPR9HpxFnaPRbHk",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686410096,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uodvSSHTRStTckW3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uodvSSHTRStTckW3"
+}

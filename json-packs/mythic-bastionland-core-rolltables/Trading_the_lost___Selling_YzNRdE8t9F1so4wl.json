@@ -1,0 +1,174 @@
+{
+  "name": "Trading the lost - Selling",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Keys",
+      "_id": "g1G3WN1WGV3V1ssT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.g1G3WN1WGV3V1ssT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Letters",
+      "_id": "or7nWmh2AfZCCyCP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.or7nWmh2AfZCCyCP"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rings",
+      "_id": "38lYf2YbnXwLveEu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.38lYf2YbnXwLveEu"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Memories",
+      "_id": "RXftvplQYwb97hY2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.RXftvplQYwb97hY2"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Birds",
+      "_id": "P8jwfO6JK5MzS3lp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.P8jwfO6JK5MzS3lp"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Scarves",
+      "_id": "j0wIsPMqzPhu7oIN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!YzNRdE8t9F1so4wl.j0wIsPMqzPhu7oIN"
+    }
+  ],
+  "folder": "ebwYk8um3ivtzRh3",
+  "_id": "YzNRdE8t9F1so4wl",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!YzNRdE8t9F1so4wl"
+}

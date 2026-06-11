@@ -1,0 +1,102 @@
+{
+  "name": "Crisis roll",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Calamity: Immediately gain 2 Crises.",
+      "_id": "DdRqhQtDdALihxQB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uIOjdbzmv1WuE6Rk.DdRqhQtDdALihxQB"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "description": "Dilemma: Choose between 2 Crises.",
+      "_id": "28JBPZcxSqNGE6AS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uIOjdbzmv1WuE6Rk.28JBPZcxSqNGE6AS"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "description": "Prosperity: Times are good.",
+      "_id": "5McHpDlD7nKzFQKd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uIOjdbzmv1WuE6Rk.5McHpDlD7nKzFQKd"
+    }
+  ],
+  "folder": "EB1xM0HGTtBeibzu",
+  "_id": "uIOjdbzmv1WuE6Rk",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!uIOjdbzmv1WuE6Rk"
+}

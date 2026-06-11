@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Will of the Irons",
+  "system": {
+    "description": "Move a single chain that you touch as if it was a limb. You can lash out with both ends ([[/roll d6 #damage]] each), grasp opponents, and otherwise move it to your will."
+  },
+  "folder": "jwjCw9UVmT0AMbpU",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686405969,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "buplBt9T7AVotx29",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!buplBt9T7AVotx29"
+}

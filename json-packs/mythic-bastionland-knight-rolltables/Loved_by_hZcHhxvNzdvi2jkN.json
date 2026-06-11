@@ -1,0 +1,174 @@
+{
+  "name": "Loved by",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Children",
+      "_id": "rsORNpL85TyFaPpZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.rsORNpL85TyFaPpZ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cats",
+      "_id": "iv9SvTiBWGPhnuEL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.iv9SvTiBWGPhnuEL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Nobles",
+      "_id": "joSEJ5B0I8t2To6k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.joSEJ5B0I8t2To6k"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Knights Your",
+      "_id": "mubq4FnGMIGXtAQ4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.mubq4FnGMIGXtAQ4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Birds of prey",
+      "_id": "p10UeG26UndgpDBq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.p10UeG26UndgpDBq"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Sea creatures",
+      "_id": "TlXKbaADyScoNMpv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hZcHhxvNzdvi2jkN.TlXKbaADyScoNMpv"
+    }
+  ],
+  "folder": "TnetoKxcB4e0s9Zc",
+  "_id": "hZcHhxvNzdvi2jkN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hZcHhxvNzdvi2jkN"
+}

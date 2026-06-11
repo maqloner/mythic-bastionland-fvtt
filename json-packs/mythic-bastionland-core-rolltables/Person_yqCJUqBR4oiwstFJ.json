@@ -1,0 +1,1758 @@
+{
+  "name": "Person",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Tired scout",
+      "_id": "13aadw15XlXhGkGA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.13aadw15XlXhGkGA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Young alchemist",
+      "_id": "lEs87Hj1W66q28G8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.lEs87Hj1W66q28G8"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bread monk",
+      "_id": "wfVzOvCLOdWrYz1v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.wfVzOvCLOdWrYz1v"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Adoring apprentice",
+      "_id": "2WH7cuqVRS6IEmHd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.2WH7cuqVRS6IEmHd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lost lad",
+      "_id": "oACf5j7ZAXctcmE2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.oACf5j7ZAXctcmE2"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Legendary sage",
+      "_id": "qXUzjcwUj6iT9q8Y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.qXUzjcwUj6iT9q8Y"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Drunken worshipper",
+      "_id": "fMVDYnYsTevVbwEB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.fMVDYnYsTevVbwEB"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Stocky hunter",
+      "_id": "YlOeReuTvdk9vgEk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.YlOeReuTvdk9vgEk"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Scout sisters",
+      "_id": "pFwqDqhqeKHk2yPs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.pFwqDqhqeKHk2yPs"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Lost Knight",
+      "_id": "KVZbczcDkttqt2P2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.KVZbczcDkttqt2P2"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Argumentative sage",
+      "_id": "CQ0D1euUxrLlUY8l",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.CQ0D1euUxrLlUY8l"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Boisterous poet",
+      "_id": "bX1P4d8h4DVBdiVg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.bX1P4d8h4DVBdiVg"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Elderly tanner",
+      "_id": "BgsWuXKw2lgC2715",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.BgsWuXKw2lgC2715"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Steady cook",
+      "_id": "IJy1uPDdeIwVaR4o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.IJy1uPDdeIwVaR4o"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Cheery stablehand",
+      "_id": "2zNUOE9nJNl1ZTpI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.2zNUOE9nJNl1ZTpI"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Oblivious cartographer",
+      "_id": "GZqaj9MxKXx94nO2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.GZqaj9MxKXx94nO2"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Aggressive carver",
+      "_id": "lMJvppmoIHDNvisC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.lMJvppmoIHDNvisC"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Cruel singer",
+      "_id": "vWNLFNPTVXme5oWU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.vWNLFNPTVXme5oWU"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Novice shepherd",
+      "_id": "jSJPSwT3KsTPrvGp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.jSJPSwT3KsTPrvGp"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Sickly ironsmith",
+      "_id": "ZR8c2wvLUsc0uIQq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.ZR8c2wvLUsc0uIQq"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Relaxed courier",
+      "_id": "pJODpD2kpb64WjcS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.pJODpD2kpb64WjcS"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Repugnant pedlar",
+      "_id": "NbVXghWW15MVmNMY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.NbVXghWW15MVmNMY"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Scarred bounty hunter",
+      "_id": "ngxGrSikN1vERuTu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.ngxGrSikN1vERuTu"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Intolerant herder",
+      "_id": "19s3qL2b4VP5Srgk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.19s3qL2b4VP5Srgk"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Wise farmer",
+      "_id": "zi4nwAD1JfQyoRNV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.zi4nwAD1JfQyoRNV"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Bitter archer",
+      "_id": "aNP35ZC0bwzY4R7c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.aNP35ZC0bwzY4R7c"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Hot-tempered baker",
+      "_id": "XiWaSxP1YFM8FnYj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.XiWaSxP1YFM8FnYj"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Pristine raider",
+      "_id": "vuOckIUqTusD2c5D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.vuOckIUqTusD2c5D"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Influential collector",
+      "_id": "KN0zxcnGBXZoqXXh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.KN0zxcnGBXZoqXXh"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Adored potter",
+      "_id": "3zqQiUszYy6kIyxy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.3zqQiUszYy6kIyxy"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Sneaky cobbler",
+      "_id": "NovwKrHJGqeqyabO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.NovwKrHJGqeqyabO"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Puny guard",
+      "_id": "EbTt8rFjIwk5EBqp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.EbTt8rFjIwk5EBqp"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Skilled bandit",
+      "_id": "gWQCnjRC6PfThmgP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.gWQCnjRC6PfThmgP"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Lazy weaver",
+      "_id": "81DByiuk5GfVCJpg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.81DByiuk5GfVCJpg"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Clumsy messenger",
+      "_id": "zzY2U89YonLFRBex",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.zzY2U89YonLFRBex"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Legendary exile",
+      "_id": "lzY2hvc6pwGxUXEg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.lzY2hvc6pwGxUXEg"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Wary crier",
+      "_id": "ElfjJ6zflaorTMrG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.ElfjJ6zflaorTMrG"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Careless clothier",
+      "_id": "qPiTGwezzy7GLMYy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.qPiTGwezzy7GLMYy"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Ambitious parent",
+      "_id": "Sy26hRjytnlInD17",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.Sy26hRjytnlInD17"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Furious outcast",
+      "_id": "HvaDWZxO0rFseGOw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.HvaDWZxO0rFseGOw"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Aristocratic farrier",
+      "_id": "jd3ELEsCOmD4PiP3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.jd3ELEsCOmD4PiP3"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Inquisitive lumberjack",
+      "_id": "598LiOTuhRqAvfEc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.598LiOTuhRqAvfEc"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Hardened scavenger",
+      "_id": "rxiKbHS3ikbKourt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.rxiKbHS3ikbKourt"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Cowardly diplomat",
+      "_id": "yT6UmxmnwwQgJasM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.yT6UmxmnwwQgJasM"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Pathetic veteran",
+      "_id": "M6pY0pf60UNILY58",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.M6pY0pf60UNILY58"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Greedy disciple",
+      "_id": "tcBPs58ch7gmZXtY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.tcBPs58ch7gmZXtY"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Confused fool",
+      "_id": "z1pM4Vroa9h2vUOy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.z1pM4Vroa9h2vUOy"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Patronising hermit",
+      "_id": "nqVk331iRAmAuVy7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.nqVk331iRAmAuVy7"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Adventurous fugitive",
+      "_id": "3CXmhUn0atFCxLsV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.3CXmhUn0atFCxLsV"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Violent playwright",
+      "_id": "wOQOKbkWONl99oR4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.wOQOKbkWONl99oR4"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Kind brewer",
+      "_id": "SFpWLK1sVqoqlvb0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.SFpWLK1sVqoqlvb0"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Smug prophet",
+      "_id": "anZYR5rfudjH43ri",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.anZYR5rfudjH43ri"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Proud pilgrim",
+      "_id": "4ARIMugS0AEEbPvH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.4ARIMugS0AEEbPvH"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Anxious bellringer",
+      "_id": "xwDTno8Venb2l1qL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.xwDTno8Venb2l1qL"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Zealous student",
+      "_id": "jbkXYpWufoehHLid",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.jbkXYpWufoehHLid"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Wild thatcher",
+      "_id": "Rw1yoE0NGiVP8PKH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.Rw1yoE0NGiVP8PKH"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Cruel charlatan",
+      "_id": "44H4EXuAB5LSNe7a",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.44H4EXuAB5LSNe7a"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Confident assassin",
+      "_id": "qh8zSuzMf0yHJ5Z4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.qh8zSuzMf0yHJ5Z4"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Muddy astrologer",
+      "_id": "tJVWm4gU3ZxOIif9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.tJVWm4gU3ZxOIif9"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Scabby merchant",
+      "_id": "9Nm0zpWRC0H77g0o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.9Nm0zpWRC0H77g0o"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Animal worshipper",
+      "_id": "hgdJjyhDY1AfeOsw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.hgdJjyhDY1AfeOsw"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Athletic warden",
+      "_id": "4S7DcAmq0noTBNMK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.4S7DcAmq0noTBNMK"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Smart inquisitor",
+      "_id": "HF93l7lqSCjHpxPm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.HF93l7lqSCjHpxPm"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Deceitful healer",
+      "_id": "WILvYxeoEkwaqVy1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.WILvYxeoEkwaqVy1"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Hostile scholar",
+      "_id": "6eGWsOUDhMP4Czb9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.6eGWsOUDhMP4Czb9"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Thrifty herald",
+      "_id": "PvNKxU7JTpt2BZ2i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.PvNKxU7JTpt2BZ2i"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Friendly mercenary",
+      "_id": "paCHlpPBYzr4Hw5v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.paCHlpPBYzr4Hw5v"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Armoured miner",
+      "_id": "FLZQsInvUo0BdDdr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.FLZQsInvUo0BdDdr"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Frail herbalist",
+      "_id": "yaBI2wYfO8rJ8hj4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.yaBI2wYfO8rJ8hj4"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Loyal sculptor",
+      "_id": "QLsbnqWNhbGYuLOE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.QLsbnqWNhbGYuLOE"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Antisocial haberdasher",
+      "_id": "CqiwqjrDxaKUmEEf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.CqiwqjrDxaKUmEEf"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Wandering old coot",
+      "_id": "40l0aJOyYT9bf9w4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yqCJUqBR4oiwstFJ.40l0aJOyYT9bf9w4"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "yqCJUqBR4oiwstFJ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!yqCJUqBR4oiwstFJ"
+}

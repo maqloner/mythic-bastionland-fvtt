@@ -1,0 +1,23 @@
+{
+  "name": "Steeds",
+  "type": "Actor",
+  "folder": null,
+  "_id": "XFcmj6gItfajRohW",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702144404641,
+    "modifiedTime": 1756663018053,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!XFcmj6gItfajRohW"
+}

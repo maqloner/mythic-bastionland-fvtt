@@ -1,0 +1,174 @@
+{
+  "name": "Sacred fruit - Type",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Silver berries",
+      "_id": "AAjaiJKFaZATcyGQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.AAjaiJKFaZATcyGQ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bright oranges",
+      "_id": "fiav3zCTgbrdPbb6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.fiav3zCTgbrdPbb6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Translucent grapes",
+      "_id": "obAZuKKYUEUBRBqP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.obAZuKKYUEUBRBqP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Purple pears",
+      "_id": "SdF0g9VXN0t8KfEk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.SdF0g9VXN0t8KfEk"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Star figs",
+      "_id": "22VTWhwwgdzFPsPy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.22VTWhwwgdzFPsPy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Huge peaches",
+      "_id": "xNjn3rXF0XI8dcr5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!88PxdSWqUL5RayEU.xNjn3rXF0XI8dcr5"
+    }
+  ],
+  "folder": "qXPBwMAAgs63Ajg6",
+  "_id": "88PxdSWqUL5RayEU",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!88PxdSWqUL5RayEU"
+}

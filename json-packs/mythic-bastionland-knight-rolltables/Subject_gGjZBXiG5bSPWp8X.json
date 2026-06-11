@@ -1,0 +1,174 @@
+{
+  "name": "Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A random Seer",
+      "_id": "PctRDMcqIAtaqMCl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.PctRDMcqIAtaqMCl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A random Knight",
+      "_id": "twO3ZlHDtP9kvq7B",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.twO3ZlHDtP9kvq7B"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Yourself",
+      "_id": "GAKXjzUH11TkzpkF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.GAKXjzUH11TkzpkF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "One of the Company",
+      "_id": "17TqIa24tmCu0wNY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.17TqIa24tmCu0wNY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "The Realm ruler",
+      "_id": "KtjPx4kiHDRUsDLY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.KtjPx4kiHDRUsDLY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "An unknown figure",
+      "_id": "xdaNVUDwfXCTWM4r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!gGjZBXiG5bSPWp8X.xdaNVUDwfXCTWM4r"
+    }
+  ],
+  "folder": "Pec1WXbSBqFLjDa5",
+  "_id": "gGjZBXiG5bSPWp8X",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!gGjZBXiG5bSPWp8X"
+}

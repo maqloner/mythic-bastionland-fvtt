@@ -1,0 +1,174 @@
+{
+  "name": "How do you know?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Aquatic nightmares",
+      "_id": "XfNpyfsKWTupmlWI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.XfNpyfsKWTupmlWI"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A fish told you",
+      "_id": "DbehYMq9TCGmcI9x",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.DbehYMq9TCGmcI9x"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "It’s cold to the touch",
+      "_id": "70pv19yOWUx4QNqh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.70pv19yOWUx4QNqh"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sudden fear of water",
+      "_id": "kgAiWDJiRh1pnMPG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.kgAiWDJiRh1pnMPG"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Storms call to you",
+      "_id": "xj2BvPOIVnec9d4Y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.xj2BvPOIVnec9d4Y"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The waves rebuke you",
+      "_id": "sRFMIZu8jfLES5K4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qozXa2kOa2HEe71B.sRFMIZu8jfLES5K4"
+    }
+  ],
+  "folder": "vFwt2X8EYGJer4l6",
+  "_id": "qozXa2kOa2HEe71B",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qozXa2kOa2HEe71B"
+}

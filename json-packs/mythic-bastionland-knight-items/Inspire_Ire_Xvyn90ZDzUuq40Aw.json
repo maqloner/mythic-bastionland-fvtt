@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Inspire Ire",
+  "system": {
+    "description": "Activate at the end of your turn. Until the next turn, any enemies that Attack targets other than you lose [[/roll d10]] SPI after the Attack."
+  },
+  "folder": "OKBRDb1wy4Z0eK50",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686442939,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Xvyn90ZDzUuq40Aw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Xvyn90ZDzUuq40Aw"
+}

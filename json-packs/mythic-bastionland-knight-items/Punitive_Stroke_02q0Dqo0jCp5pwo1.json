@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Punitive Stroke",
+  "system": {
+    "description": "Make a melee attack against a known liar. Get +[[/r d10 #damage]] to the attack, ignoring armour."
+  },
+  "folder": "ZGlvO36Hxjz3P4Vt",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686397535,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "02q0Dqo0jCp5pwo1",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!02q0Dqo0jCp5pwo1"
+}

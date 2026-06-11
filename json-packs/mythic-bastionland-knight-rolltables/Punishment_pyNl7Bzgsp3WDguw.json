@@ -1,0 +1,174 @@
+{
+  "name": "Punishment",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sea creatures get +[[/roll d6 #damage]] against you",
+      "_id": "qSK1wvqswhXeKzkP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.qSK1wvqswhXeKzkP"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "You cannot swim in saltwater",
+      "_id": "cf1Oq4ZnYRGZX1tH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.cf1Oq4ZnYRGZX1tH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "River water tastes salty to you",
+      "_id": "9QTry9RdzGBvPpxq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.9QTry9RdzGBvPpxq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sailors distrust you",
+      "_id": "zHWpZebh2snahCPw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.zHWpZebh2snahCPw"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Salt tastes foul to you",
+      "_id": "sDRuQwZ8wbT0QZAa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.sDRuQwZ8wbT0QZAa"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Fish is poison to you",
+      "_id": "f3IlTmbwEAXMRG2M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!pyNl7Bzgsp3WDguw.f3IlTmbwEAXMRG2M"
+    }
+  ],
+  "folder": "vFwt2X8EYGJer4l6",
+  "_id": "pyNl7Bzgsp3WDguw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!pyNl7Bzgsp3WDguw"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Taught By",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Knight-Mentor",
+      "_id": "FbQBEintLDwGLswp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.FbQBEintLDwGLswp"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Father",
+      "_id": "aEtWUq2Xz8X6hIOv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.aEtWUq2Xz8X6hIOv"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mother",
+      "_id": "T3ALOC80kOZxJWMd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.T3ALOC80kOZxJWMd"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Brother",
+      "_id": "4lwQJeQGmgWWFN7R",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.4lwQJeQGmgWWFN7R"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sister",
+      "_id": "ZI40kVFOvGQp5RjN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.ZI40kVFOvGQp5RjN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Self",
+      "_id": "beouEG3Y6cAsvb2P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SsuJ00x7Q0PajzbD.beouEG3Y6cAsvb2P"
+    }
+  ],
+  "folder": "0DO1PU7MBBwGcVWY",
+  "_id": "SsuJ00x7Q0PajzbD",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!SsuJ00x7Q0PajzbD"
+}

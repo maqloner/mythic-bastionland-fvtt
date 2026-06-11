@@ -1,0 +1,174 @@
+{
+  "name": "Quirks of the elf and their kin - Cannot",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Harm animals",
+      "_id": "rYxM9lyFymk4bCCc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.rYxM9lyFymk4bCCc"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Harm plants",
+      "_id": "tsjt8J21To7Dir9o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.tsjt8J21To7Dir9o"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Feel emotion",
+      "_id": "fKHB13A1j25uxwPx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.fKHB13A1j25uxwPx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Speak",
+      "_id": "rEPaZ4oQZ8rHt6bF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.rEPaZ4oQZ8rHt6bF"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Step indoors",
+      "_id": "iTibMIOJp3xEIPQK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.iTibMIOJp3xEIPQK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tolerate music",
+      "_id": "09B6fD1tzYxzPufk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!OVpyMTWgPLAEqVgd.09B6fD1tzYxzPufk"
+    }
+  ],
+  "folder": "EtH5Axhg1rM4xBux",
+  "_id": "OVpyMTWgPLAEqVgd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!OVpyMTWgPLAEqVgd"
+}

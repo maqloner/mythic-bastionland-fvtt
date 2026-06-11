@@ -1,0 +1,174 @@
+{
+  "name": "A truth revealed - Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Knight",
+      "_id": "jvvDQyXWOMpOl2Nc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.jvvDQyXWOMpOl2Nc"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Seer",
+      "_id": "Eqz7lYIBMq5nAxZG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.Eqz7lYIBMq5nAxZG"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Ruler",
+      "_id": "tek8Qx6ORBNqkqJN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.tek8Qx6ORBNqkqJN"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Artisan",
+      "_id": "2xKRrjvVpPzq9vFn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.2xKRrjvVpPzq9vFn"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hermit",
+      "_id": "c40OfoMA0fyCCMtf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.c40OfoMA0fyCCMtf"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Courtier",
+      "_id": "gtYT6sKRWyEoaWS8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bEMmtVTHOnsv6sZk.gtYT6sKRWyEoaWS8"
+    }
+  ],
+  "folder": "aCAs4dCnaSEVijSP",
+  "_id": "bEMmtVTHOnsv6sZk",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bEMmtVTHOnsv6sZk"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Touch of Glass",
+  "system": {
+    "description": "You can see through any surface that you place your hand upon."
+  },
+  "folder": "oytswLXLk4Smtdhf",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686462270,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ch84bDzhgxpNL4Xo",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ch84bDzhgxpNL4Xo"
+}

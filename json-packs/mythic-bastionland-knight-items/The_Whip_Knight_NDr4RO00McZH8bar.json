@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Whip Knight",
+  "system": {
+    "name": "",
+    "description": "Some draw screams from wrent flesh and bone. Others have ways to make very soul moan",
+    "flavor": "Strange herbs",
+    "flavorLabel1": "Positive Effect",
+    "flavorLabel2": "Side Effect"
+  },
+  "folder": "P9tsnQbPwgaF4cnH",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686408140,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NDr4RO00McZH8bar",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NDr4RO00McZH8bar"
+}

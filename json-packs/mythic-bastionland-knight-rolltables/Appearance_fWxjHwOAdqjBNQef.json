@@ -1,0 +1,174 @@
+{
+  "name": "Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Tiny",
+      "_id": "h9zGpr2Q3ijpeWvS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.h9zGpr2Q3ijpeWvS"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Runic carvings",
+      "_id": "dKppNpEnx98GLZsG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.dKppNpEnx98GLZsG"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Ruby encrusted",
+      "_id": "NGnhO1OxqRqj36rk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.NGnhO1OxqRqj36rk"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Volcanic rock",
+      "_id": "AQ4ToAEHNP03hV3T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.AQ4ToAEHNP03hV3T"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Painted battle scene",
+      "_id": "AIM5ZidLVAvHT7jL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.AIM5ZidLVAvHT7jL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Huge",
+      "_id": "DHyGGe10sbtkmGsO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fWxjHwOAdqjBNQef.DHyGGe10sbtkmGsO"
+    }
+  ],
+  "folder": "H5C0rzRz1I1RKWqw",
+  "_id": "fWxjHwOAdqjBNQef",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fWxjHwOAdqjBNQef"
+}

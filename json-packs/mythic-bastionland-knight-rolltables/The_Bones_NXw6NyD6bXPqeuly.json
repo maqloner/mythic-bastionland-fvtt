@@ -1,0 +1,174 @@
+{
+  "name": "The Bones",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sorted by age",
+      "_id": "s1txkXyQCjd8ZyhC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.s1txkXyQCjd8ZyhC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sorted by size",
+      "_id": "rMxedpO8WqXxDT0W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.rMxedpO8WqXxDT0W"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sorted by habitat",
+      "_id": "bBPzRgUVYkaJlPPF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.bBPzRgUVYkaJlPPF"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Sorted by beauty",
+      "_id": "QeEywpaKX2pJZVaz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.QeEywpaKX2pJZVaz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sorted by virtue",
+      "_id": "pDueudQqcn5T6KX4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.pDueudQqcn5T6KX4"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Unsorted chaos",
+      "_id": "xMAcLTIgPuvs4ri8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!NXw6NyD6bXPqeuly.xMAcLTIgPuvs4ri8"
+    }
+  ],
+  "folder": "xtqW90QSG3Rdi1KS",
+  "_id": "NXw6NyD6bXPqeuly",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!NXw6NyD6bXPqeuly"
+}

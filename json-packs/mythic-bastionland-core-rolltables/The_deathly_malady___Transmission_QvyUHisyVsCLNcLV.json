@@ -1,0 +1,174 @@
+{
+  "name": "The deathly malady - Transmission",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Skin Contact",
+      "_id": "AFglwLiiDPAmVdYM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.AFglwLiiDPAmVdYM"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Breath",
+      "_id": "5XnLe5LaTlkTIhg5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.5XnLe5LaTlkTIhg5"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bodily Fluids",
+      "_id": "fmIyNkzeJ0w7RKIn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.fmIyNkzeJ0w7RKIn"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ingestion",
+      "_id": "s9lAwzzky4UZtqdJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.s9lAwzzky4UZtqdJ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Rats",
+      "_id": "JHGDnEG3hr0C9AFE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.JHGDnEG3hr0C9AFE"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Flies",
+      "_id": "XqGleWzicXPG40Mk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QvyUHisyVsCLNcLV.XqGleWzicXPG40Mk"
+    }
+  ],
+  "folder": "4xkUVBjXuEaxrp0C",
+  "_id": "QvyUHisyVsCLNcLV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!QvyUHisyVsCLNcLV"
+}

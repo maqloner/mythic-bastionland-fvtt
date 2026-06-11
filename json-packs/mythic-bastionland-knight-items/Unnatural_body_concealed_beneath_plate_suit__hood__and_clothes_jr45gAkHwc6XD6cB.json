@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Unnatural body concealed beneath plate suit, hood, and clothes",
+  "system": {
+    "description": "See below",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "JwSlq0kHm9krfvwt",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686439596,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jr45gAkHwc6XD6cB",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!jr45gAkHwc6XD6cB"
+}

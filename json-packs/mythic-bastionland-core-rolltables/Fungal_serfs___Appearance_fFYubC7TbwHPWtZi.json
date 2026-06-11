@@ -1,0 +1,174 @@
+{
+  "name": "Fungal serfs - Appearance",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Huge head, teetering",
+      "_id": "ZvVWiXWHQ25spZuy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.ZvVWiXWHQ25spZuy"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spindly limbs",
+      "_id": "ZiNHBNzuDcl2TELj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.ZiNHBNzuDcl2TELj"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Bloated body",
+      "_id": "faSglsPmtQx7YHF6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.faSglsPmtQx7YHF6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Broad cap",
+      "_id": "OcZX9cGOaifs7kPl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.OcZX9cGOaifs7kPl"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Covered in gills",
+      "_id": "VwatGlpg6h8faVLk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.VwatGlpg6h8faVLk"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tall and clumsy",
+      "_id": "hbYUpS7a39Lh4mKr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!fFYubC7TbwHPWtZi.hbYUpS7a39Lh4mKr"
+    }
+  ],
+  "folder": "HzsxePMsiT2tpc58",
+  "_id": "fFYubC7TbwHPWtZi",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!fFYubC7TbwHPWtZi"
+}

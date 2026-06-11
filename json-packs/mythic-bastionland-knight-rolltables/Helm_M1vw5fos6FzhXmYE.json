@@ -1,0 +1,174 @@
+{
+  "name": "Helm",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Veiled Leather Cowl",
+      "_id": "cFKmGHjJ3zStOPfR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.cFKmGHjJ3zStOPfR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Long Mail Hood",
+      "_id": "uW6Fm4ueKAd5mg35",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.uW6Fm4ueKAd5mg35"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Full Heavy Bucket",
+      "_id": "SAECqzVWLz9UztGE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.SAECqzVWLz9UztGE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Crow-Beaked",
+      "_id": "EumhmT5jgZB787Gg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.EumhmT5jgZB787Gg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Caged Visor",
+      "_id": "pUvA0mRvGNci8lRD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.pUvA0mRvGNci8lRD"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Kettle Cap",
+      "_id": "kcBPywlu8hoaZe8X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M1vw5fos6FzhXmYE.kcBPywlu8hoaZe8X"
+    }
+  ],
+  "folder": "XHaMW7XskDdX8MrA",
+  "_id": "M1vw5fos6FzhXmYE",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!M1vw5fos6FzhXmYE"
+}

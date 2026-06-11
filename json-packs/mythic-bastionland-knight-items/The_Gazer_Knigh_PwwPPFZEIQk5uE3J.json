@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Gazer Knigh",
+  "system": {
+    "name": "",
+    "description": "The blood sees through time aflow. To certain souls, a glimpse they show",
+    "flavor": "Tapestry story",
+    "flavorLabel1": "Event",
+    "flavorLabel2": "Subject"
+  },
+  "folder": "ZBzJxIRxkPsMkEsu",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686428943,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "PwwPPFZEIQk5uE3J",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!PwwPPFZEIQk5uE3J"
+}

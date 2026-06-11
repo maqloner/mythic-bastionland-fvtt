@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Pearl Knight",
+  "system": {
+    "name": "",
+    "description": "Why lurk shellbound in abyssal depths, solitary for life?. All the best secrets come from the mouths and eyes of others",
+    "flavor": "A blade taken from the sea",
+    "flavorLabel1": "How do you know?",
+    "flavorLabel2": "Punishment"
+  },
+  "folder": "dbSzpPyOcpZjsk0M",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686473305,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5kH0tYhx61X4b8rD",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5kH0tYhx61X4b8rD"
+}

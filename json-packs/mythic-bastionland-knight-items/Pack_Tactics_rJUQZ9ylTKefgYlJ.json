@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Pack Tactics",
+  "system": {
+    "description": "Use before attacking with at least one ally. You may combine any number of dice into larger dice with a value equal to the total of the combined dice, to a maximum of d12 Damage. For example, combining a d4 and a d8 into a d12."
+  },
+  "folder": "de67YUcxZC3qOip9",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404814,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "rJUQZ9ylTKefgYlJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!rJUQZ9ylTKefgYlJ"
+}

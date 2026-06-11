@@ -1,0 +1,174 @@
+{
+  "name": "Bodypart",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Hand",
+      "_id": "hy0IWXQuXCkE0xEx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.hy0IWXQuXCkE0xEx"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Skull",
+      "_id": "2t7o7LqsfXfhNYy4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.2t7o7LqsfXfhNYy4"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Heart",
+      "_id": "wDeo2izeCZiC9ASr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.wDeo2izeCZiC9ASr"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ribs",
+      "_id": "mQx3rjooybPKnhy2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.mQx3rjooybPKnhy2"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Eye",
+      "_id": "K8sPQtwiExPIppp1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.K8sPQtwiExPIppp1"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Unknown organ",
+      "_id": "9CRfhdyQYzCoQR6p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!cwVhqoSDIl49POsp.9CRfhdyQYzCoQR6p"
+    }
+  ],
+  "folder": "78rTSYRcvoDkd1vP",
+  "_id": "cwVhqoSDIl49POsp",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!cwVhqoSDIl49POsp"
+}

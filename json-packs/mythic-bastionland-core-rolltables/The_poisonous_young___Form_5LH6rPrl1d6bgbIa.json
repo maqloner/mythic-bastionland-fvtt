@@ -1,0 +1,174 @@
+{
+  "name": "The poisonous young - Form",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Adder",
+      "_id": "bq0RNdqhiAQvoJsD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.bq0RNdqhiAQvoJsD"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Newt",
+      "_id": "qfOLauBGwmkVU6cq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.qfOLauBGwmkVU6cq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Frog",
+      "_id": "u11WigC9xCNIp0zB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.u11WigC9xCNIp0zB"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Weasel",
+      "_id": "LKNXjLYDvDgpadhT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.LKNXjLYDvDgpadhT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Scorpion",
+      "_id": "jYuWJ9CH3NzvnHCZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.jYuWJ9CH3NzvnHCZ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Swan",
+      "_id": "wN2tCpqF2QfBOgvo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5LH6rPrl1d6bgbIa.wN2tCpqF2QfBOgvo"
+    }
+  ],
+  "folder": "wY78KPUyrHjVk0sh",
+  "_id": "5LH6rPrl1d6bgbIa",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!5LH6rPrl1d6bgbIa"
+}

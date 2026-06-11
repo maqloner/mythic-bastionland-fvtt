@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Lowly Shroud",
+  "system": {
+    "description": "At any time you may choose to have somebody observing you be utterly convinced that you are just a humble, unarmed peasant, and your steed a mule."
+  },
+  "folder": "Pboz62IXdNeYBGHf",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686430647,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "j763ANPRtI0czzzN",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!j763ANPRtI0czzzN"
+}

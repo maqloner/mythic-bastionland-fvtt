@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Pair of rings",
+  "system": {
+    "description": "See below, can only be put on or removed at sunrise",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "UwXKNc9uaDh7NOsJ",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686421490,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1Z3PV6CB4h1SfFlh",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1Z3PV6CB4h1SfFlh"
+}

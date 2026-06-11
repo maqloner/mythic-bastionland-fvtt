@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Tankard Knight",
+  "system": {
+    "name": "",
+    "description": "Abrash and bold, renowned and rued. Their presence cheered on one breath, damned anext",
+    "flavor": "Scar story",
+    "flavorLabel1": "Who Scarred You?",
+    "flavorLabel2": "Your Betrayal"
+  },
+  "folder": "ptQffBtFitpF3khi",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686415538,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "0Nar1iNt5cgTFYxz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0Nar1iNt5cgTFYxz"
+}

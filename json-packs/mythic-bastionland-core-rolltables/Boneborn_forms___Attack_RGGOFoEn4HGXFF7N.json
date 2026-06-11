@@ -1,0 +1,174 @@
+{
+  "name": "Boneborn forms - Attack",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Bone maul (d10)",
+      "_id": "YiRQfmNi5kvOUXdA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.YiRQfmNi5kvOUXdA"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Shoulder blade (2d6)",
+      "_id": "HUYF3fZSH92ffjCJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.HUYF3fZSH92ffjCJ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Deadtouch (2d12 slow)",
+      "_id": "oPwAHOcDg8asGzL4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.oPwAHOcDg8asGzL4"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fire burst (d8 blast)",
+      "_id": "j4PHUhzCOEKH954Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.j4PHUhzCOEKH954Q"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Spring slash (d8, free move after the Attack)",
+      "_id": "9M5nDD4ZlTNg76Ex",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.9M5nDD4ZlTNg76Ex"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Spine javelins (d6, throw 2 each turn)",
+      "_id": "aRZrg0CPHZjllbvM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RGGOFoEn4HGXFF7N.aRZrg0CPHZjllbvM"
+    }
+  ],
+  "folder": "ZibrFh7AgkepPSdi",
+  "_id": "RGGOFoEn4HGXFF7N",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RGGOFoEn4HGXFF7N"
+}

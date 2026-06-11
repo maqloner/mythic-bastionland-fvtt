@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Light Beyond Light",
+  "system": {
+    "description": "You can cause any metal object you hold to emit a bright light that only you can see. Bees, butterflies, and hedgehogs can also see the light."
+  },
+  "folder": "rGkfLmUvRkZXSGXd",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686444037,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "umpz0hLdaEwmw50w",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!umpz0hLdaEwmw50w"
+}

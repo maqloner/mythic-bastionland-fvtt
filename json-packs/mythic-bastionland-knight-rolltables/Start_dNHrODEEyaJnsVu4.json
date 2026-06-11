@@ -1,0 +1,174 @@
+{
+  "name": "Start",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Twin Knights are lost in the woods",
+      "_id": "hnJALvbnNyrFeSrx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.hnJALvbnNyrFeSrx"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "The Lion and the Lizard are bitter rivals",
+      "_id": "GCkdchrygV2qK0yA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.GCkdchrygV2qK0yA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A mother hates her six ugly sons",
+      "_id": "aMcXjPD4KRX9Coeu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.aMcXjPD4KRX9Coeu"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A hermit lambasts the stars for his sad life",
+      "_id": "8w2gJiw7M36hfXv4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.8w2gJiw7M36hfXv4"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A clever chicken outwits a farmer",
+      "_id": "zfL50gjOFrSr7zeb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.zfL50gjOFrSr7zeb"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A poet wastes her life fleeing from death",
+      "_id": "jKaW3oqTKBq0AiMe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!dNHrODEEyaJnsVu4.jKaW3oqTKBq0AiMe"
+    }
+  ],
+  "folder": "HcDeS1yeH1MnT2J5",
+  "_id": "dNHrODEEyaJnsVu4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!dNHrODEEyaJnsVu4"
+}

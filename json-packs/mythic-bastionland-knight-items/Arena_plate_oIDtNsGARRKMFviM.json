@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Arena plate",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "WnueJk8sruRH8kIR",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398440,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oIDtNsGARRKMFviM",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oIDtNsGARRKMFviM"
+}

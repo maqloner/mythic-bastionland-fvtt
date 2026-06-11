@@ -1,0 +1,174 @@
+{
+  "name": "Things in the troll lair - Condition",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Muddy",
+      "_id": "Jyem5wZ8s1LzXwbu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.Jyem5wZ8s1LzXwbu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Bloody",
+      "_id": "2nVVIAxuuoXXH5Jq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.2nVVIAxuuoXXH5Jq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Broken",
+      "_id": "5egYsVrMAku2238V",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.5egYsVrMAku2238V"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Flattened",
+      "_id": "jYLQgFqsVUeKTNrG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.jYLQgFqsVUeKTNrG"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Chewed",
+      "_id": "5aW9CYoAzxbxwmKU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.5aW9CYoAzxbxwmKU"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Pristin",
+      "_id": "rQpGcICLAno5KqTa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!uQjSI4iImIVJZJza.rQpGcICLAno5KqTa"
+    }
+  ],
+  "folder": "gWvdkqtzwMYucw1g",
+  "_id": "uQjSI4iImIVJZJza",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!uQjSI4iImIVJZJza"
+}

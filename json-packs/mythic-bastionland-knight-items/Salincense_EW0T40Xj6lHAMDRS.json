@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Salincense",
+  "system": {
+    "description": "Smoke from this candle causes plants to wither and die in seconds",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "dbSzpPyOcpZjsk0M",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686474897,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "EW0T40Xj6lHAMDRS",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!EW0T40Xj6lHAMDRS"
+}

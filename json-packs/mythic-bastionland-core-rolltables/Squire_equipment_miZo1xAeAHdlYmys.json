@@ -1,0 +1,248 @@
+{
+  "folder": null,
+  "name": "Squire equipment",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "cePZCXIdNIlYJc7U",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cudgel",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.D7KligWUa4TuyPeh",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.cePZCXIdNIlYJc7U"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "OQUocHwkLD8VZLqz",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Axe",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.mXuYU5KlhSFCcKYD",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.OQUocHwkLD8VZLqz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "wpNIS2IYFdK19122",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hatchet",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.jZ0tEqTHNCCPcxpC",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.wpNIS2IYFdK19122"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "Otc3G2wUO5fy4Yb7",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shortbow",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.AeP0VudyzpW91zLH",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.Otc3G2wUO5fy4Yb7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "GByE2JvS6uNQzlF6",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/shield.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Round shield",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.IXIzxXGM5LoFUFPD",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.GByE2JvS6uNQzlF6"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "KCqqkfKZ6npGkosk",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Javelin",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.qdCUZGvqrcQmrNZ7",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.KCqqkfKZ6npGkosk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "MxVOXDiFZzjLM9wK",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Javelin",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.qdCUZGvqrcQmrNZ7",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.MxVOXDiFZzjLM9wK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "EtjH1hoyGvRey4s3",
+      "flags": {},
+      "img": "systems/mythicbastionland/tokens/items/weapon.png",
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Javelin",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.qdCUZGvqrcQmrNZ7",
+      "description": "",
+      "_key": "!tables.results!miZo1xAeAHdlYmys.EtjH1hoyGvRey4s3"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "5fV2p77dLBLdIuri": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1701631038537,
+    "modifiedTime": 1756663079811,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "d6",
+  "_id": "miZo1xAeAHdlYmys",
+  "sort": 300000,
+  "_key": "!tables!miZo1xAeAHdlYmys"
+}

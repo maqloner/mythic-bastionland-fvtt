@@ -1,0 +1,174 @@
+{
+  "name": "Coven conflicts - Exacerbated",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "The other member",
+      "_id": "j0mPyF0G0WXDmi9L",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.j0mPyF0G0WXDmi9L"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A physical fight",
+      "_id": "F5mom6MGV0zrG2IU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.F5mom6MGV0zrG2IU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Decades of resentment",
+      "_id": "TBURAL4jqlAdSZpd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.TBURAL4jqlAdSZpd"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Alcohol",
+      "_id": "23Q9GXuFpcSQAKzV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.23Q9GXuFpcSQAKzV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A petty lie",
+      "_id": "CHH1YFaw9oP7vKk7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.CHH1YFaw9oP7vKk7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Heartbreak",
+      "_id": "uX8AMZGwBd2DLOYe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!sMFrIQzatzdl5zCr.uX8AMZGwBd2DLOYe"
+    }
+  ],
+  "folder": "PQnNmZNL3VmhLMWR",
+  "_id": "sMFrIQzatzdl5zCr",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!sMFrIQzatzdl5zCr"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Tiger Knight",
+  "system": {
+    "name": "",
+    "description": "The ignorant deem beastly realms as mere anarchy. In truth, the structure runs much deeper than our own",
+    "flavor": "A tattooed steed",
+    "flavorLabel1": "Design",
+    "flavorLabel2": "Why?"
+  },
+  "folder": "Uv2YuXgdMm8OaxYS",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686459268,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8H571kCKUaajJJ8i",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8H571kCKUaajJJ8i"
+}

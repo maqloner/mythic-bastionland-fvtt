@@ -1,0 +1,7 @@
+#! /bin/bash
+
+for src in packs/*/; do
+	pack=${src%*/} # remove the trailing "/"
+	pack=${pack##*/} # get everything after the final "/"
+	fvtt package --id mythicbastionland --type System unpack ${pack} -c --json --in "packs" --out "json-packs/${pack}"
+done

@@ -1,0 +1,34 @@
+{
+  "type": "misc",
+  "name": "Common poison",
+  "system": {
+    "description": "Sickness and discomfort.",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    },
+    "value": 1
+  },
+  "folder": "M7AwWxsLSb0bFXYG",
+  "_id": "TSzO6RcCoUtNjCHi",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1702146671970,
+    "modifiedTime": 1756662958297,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!TSzO6RcCoUtNjCHi"
+}

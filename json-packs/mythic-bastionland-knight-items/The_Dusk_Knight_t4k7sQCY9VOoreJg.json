@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Dusk Knight",
+  "system": {
+    "name": "",
+    "description": "Each touch of iron takes a price, in breath or blood or bone. A nasty cut takes something worse, the warmth of distant home",
+    "flavor": "A tattered poem",
+    "flavorLabel1": "Start",
+    "flavorLabel2": "End"
+  },
+  "folder": "xntYFomQNcoEbLdk",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686435244,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "t4k7sQCY9VOoreJg",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!t4k7sQCY9VOoreJg"
+}

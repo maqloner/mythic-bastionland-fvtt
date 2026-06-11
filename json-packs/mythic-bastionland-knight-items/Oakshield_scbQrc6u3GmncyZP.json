@@ -1,0 +1,31 @@
+{
+  "type": "shield",
+  "name": "Oakshield",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "damage": "d4",
+    "equipped": false
+  },
+  "folder": "EseqJ2Nucgqdw4fZ",
+  "img": "systems/mythicbastionland/tokens/items/shield.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686468956,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "scbQrc6u3GmncyZP",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!scbQrc6u3GmncyZP"
+}

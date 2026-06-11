@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Two-pronged pike",
+  "system": {
+    "description": "",
+    "damage": "d10",
+    "hefty": false,
+    "long": true,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "oytswLXLk4Smtdhf",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686462634,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "IL45UkYdM9kfHQ0m",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IL45UkYdM9kfHQ0m"
+}

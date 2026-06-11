@@ -1,0 +1,174 @@
+{
+  "name": "Destined future - Subject",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ruler of the Realm",
+      "_id": "sO03Dba6Ke9Dsfou",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.sO03Dba6Ke9Dsfou"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A Seer",
+      "_id": "NmLOwscDI5laIgss",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.NmLOwscDI5laIgss"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A member of the Company",
+      "_id": "TOP1pYZu4cDFvxNm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.TOP1pYZu4cDFvxNm"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A Knight",
+      "_id": "XccusfffNiNYo0E6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.XccusfffNiNYo0E6"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A Vassal",
+      "_id": "tukrynlIkASXHZZh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.tukrynlIkASXHZZh"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A courtier",
+      "_id": "tXpDPcTbHTEZZa6p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S0gmKL2YsOYGiG83.tXpDPcTbHTEZZa6p"
+    }
+  ],
+  "folder": "IxT57h2A2x2mCnm7",
+  "_id": "S0gmKL2YsOYGiG83",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!S0gmKL2YsOYGiG83"
+}

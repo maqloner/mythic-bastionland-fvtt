@@ -1,0 +1,174 @@
+{
+  "name": "Out of a…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Vibrant forest",
+      "_id": "RvXIceFf1GpwoUqH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.RvXIceFf1GpwoUqH"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "High waterfall",
+      "_id": "v1OhlzDOqwyvIMLL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.v1OhlzDOqwyvIMLL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Roaring sea",
+      "_id": "OIrOSwSkAp0KyD3y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.OIrOSwSkAp0KyD3y"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Broken boulder",
+      "_id": "fIreCtmmMCPKjKbZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.fIreCtmmMCPKjKbZ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Narrow cave",
+      "_id": "1PCaKhwO1tD3SdRR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.1PCaKhwO1tD3SdRR"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Dead tree",
+      "_id": "wv35Zvqz1YYAgD0M",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Dlw064ko5nShwPuT.wv35Zvqz1YYAgD0M"
+    }
+  ],
+  "folder": "kOPleQpT0arcZSqT",
+  "_id": "Dlw064ko5nShwPuT",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Dlw064ko5nShwPuT"
+}

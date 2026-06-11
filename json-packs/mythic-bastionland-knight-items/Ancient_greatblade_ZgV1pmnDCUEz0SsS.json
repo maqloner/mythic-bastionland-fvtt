@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Ancient greatblade",
+  "system": {
+    "description": "",
+    "damage": "2d10",
+    "hefty": false,
+    "long": false,
+    "slow": true,
+    "equipped": false
+  },
+  "folder": "4X6Jyg4RLDgzr1uK",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404303,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ZgV1pmnDCUEz0SsS",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZgV1pmnDCUEz0SsS"
+}

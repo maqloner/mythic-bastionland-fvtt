@@ -1,0 +1,174 @@
+{
+  "name": "Aspects of the spider - Head",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Extra eyes",
+      "_id": "x8Z8jPhKNW6l28Ro",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.x8Z8jPhKNW6l28Ro"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Huge jaw",
+      "_id": "CPlOcbqnXdFq4615",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.CPlOcbqnXdFq4615"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Mottled skin",
+      "_id": "jGRBlseWNOqVDVv2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.jGRBlseWNOqVDVv2"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Wide head",
+      "_id": "CfyBreJQggkjenEK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.CfyBreJQggkjenEK"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sharp fangs",
+      "_id": "97SuKYQrG2ZwwjFJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.97SuKYQrG2ZwwjFJ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "No nose",
+      "_id": "ff2TaIvCOLrkYeWq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CdnFwg1aZNEviqpN.ff2TaIvCOLrkYeWq"
+    }
+  ],
+  "folder": "M6acLTLKwl8xXHfy",
+  "_id": "CdnFwg1aZNEviqpN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!CdnFwg1aZNEviqpN"
+}

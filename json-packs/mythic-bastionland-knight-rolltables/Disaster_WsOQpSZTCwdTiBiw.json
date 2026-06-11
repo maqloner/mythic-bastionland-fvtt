@@ -1,0 +1,174 @@
+{
+  "name": "Disaster",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Death",
+      "_id": "bwYoeAMLafNXqPu5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.bwYoeAMLafNXqPu5"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "War",
+      "_id": "xjXOf3FmZLabkevb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.xjXOf3FmZLabkevb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Famine",
+      "_id": "ROkeUShPkHs6RAM5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.ROkeUShPkHs6RAM5"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Plague",
+      "_id": "Br4bHnCPA4dthxuD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.Br4bHnCPA4dthxuD"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fire",
+      "_id": "fzibyGVImBdmJ4qH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.fzibyGVImBdmJ4qH"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Flood",
+      "_id": "q0srQE9Q3KKlWNuk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!WsOQpSZTCwdTiBiw.q0srQE9Q3KKlWNuk"
+    }
+  ],
+  "folder": "iNP0kcpuRDbAszKK",
+  "_id": "WsOQpSZTCwdTiBiw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!WsOQpSZTCwdTiBiw"
+}

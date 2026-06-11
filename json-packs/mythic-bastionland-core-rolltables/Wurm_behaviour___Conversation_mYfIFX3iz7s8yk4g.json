@@ -1,0 +1,174 @@
+{
+  "name": "Wurm behaviour - Conversation",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Spout Hatred",
+      "_id": "QNxJdgOkm5oybGp1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.QNxJdgOkm5oybGp1"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spread Fear",
+      "_id": "jAIgKDq93NoYPyUs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.jAIgKDq93NoYPyUs"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Aggrandise",
+      "_id": "NmroAQJdLnAse5SY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.NmroAQJdLnAse5SY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Insult Enemies",
+      "_id": "zySfsy8iJsLWjqgY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.zySfsy8iJsLWjqgY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Seek Submission",
+      "_id": "95TrRrVL03RmVBxB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.95TrRrVL03RmVBxB"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Entice Fealty",
+      "_id": "xhp9lnW71PuzJHNj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mYfIFX3iz7s8yk4g.xhp9lnW71PuzJHNj"
+    }
+  ],
+  "folder": "aAlLx2Nrgfyb30BU",
+  "_id": "mYfIFX3iz7s8yk4g",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!mYfIFX3iz7s8yk4g"
+}

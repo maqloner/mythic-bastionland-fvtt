@@ -1,0 +1,174 @@
+{
+  "name": "The harp, played by its creator - Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Fall into deep sleep",
+      "_id": "4MJ2uILIDgfT6WFT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.4MJ2uILIDgfT6WFT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Shadows vanish",
+      "_id": "5kTUrhPBjsWd9YNJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.5kTUrhPBjsWd9YNJ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "The sun darkens",
+      "_id": "YJ9GW0anF1s1hweA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.YJ9GW0anF1s1hweA"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Strong body (VIG 18)",
+      "_id": "ELTfPphE6AgF4SoM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.ELTfPphE6AgF4SoM"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sharp senses (CLA 18)",
+      "_id": "Yb2iLAWzsEe1n7ss",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.Yb2iLAWzsEe1n7ss"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Light heart (SPI 18)",
+      "_id": "ze8t2Gop6fWFgala",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!bAHCrorvRicty4cW.ze8t2Gop6fWFgala"
+    }
+  ],
+  "folder": "RxAH1imFxPpvKpOl",
+  "_id": "bAHCrorvRicty4cW",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!bAHCrorvRicty4cW"
+}

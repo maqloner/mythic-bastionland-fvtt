@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Bone Knight",
+  "system": {
+    "name": "",
+    "description": "Ribble rabble, ronky donk, they bounce a duckle dine. Clatter clink, clanky tank, a rib, a skull, a spine",
+    "flavor": "Box of bones",
+    "flavorLabel1": "The Box",
+    "flavorLabel2": "The Bones"
+  },
+  "folder": "HhHJavgfybZaNLwU",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686441606,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "HqimuAQbxEtOIOqw",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!HqimuAQbxEtOIOqw"
+}

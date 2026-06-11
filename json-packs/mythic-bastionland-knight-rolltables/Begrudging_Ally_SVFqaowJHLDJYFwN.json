@@ -1,0 +1,174 @@
+{
+  "name": "Begrudging Ally",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Eccentric Alchemist",
+      "_id": "MSgVc8tAng4BDBzQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.MSgVc8tAng4BDBzQ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Humble Chronicler",
+      "_id": "GLuOX8NhedkTCEnu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.GLuOX8NhedkTCEnu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Surly Brewer",
+      "_id": "N96cPCt6yrdmlaSO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.N96cPCt6yrdmlaSO"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Horse Breeder",
+      "_id": "5JyyetBpglLqlonV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.5JyyetBpglLqlonV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Elderly Innkeeper",
+      "_id": "9VggeqfEmp8o9OCu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.9VggeqfEmp8o9OCu"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Petty Burglar",
+      "_id": "9OWfM94DFFJmgPG1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!SVFqaowJHLDJYFwN.9OWfM94DFFJmgPG1"
+    }
+  ],
+  "folder": "nqVlXPnENM9jKt7H",
+  "_id": "SVFqaowJHLDJYFwN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!SVFqaowJHLDJYFwN"
+}

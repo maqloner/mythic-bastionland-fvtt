@@ -1,0 +1,174 @@
+{
+  "name": "Side Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Numbs taste and smell",
+      "_id": "4FF8Rfi8uIslbQ6b",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.4FF8Rfi8uIslbQ6b"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Very filling",
+      "_id": "EpbqkYvcU0yMDJFR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.EpbqkYvcU0yMDJFR"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Addictive",
+      "_id": "AUckqxtyRMryQxE6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.AUckqxtyRMryQxE6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "VIG Save or vomit",
+      "_id": "q9xCoIo52Q2CwZby",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.q9xCoIo52Q2CwZby"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "CLA Save or go blind for a moment",
+      "_id": "BFdI3JIOB4t7bH59",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.BFdI3JIOB4t7bH59"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "SPI Save or weep with intense sorrow",
+      "_id": "IYxAFM5aBWNIF7Tv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!j8M5nweV2A7Ub240.IYxAFM5aBWNIF7Tv"
+    }
+  ],
+  "folder": "IgDBLZ7nCQhfzlSQ",
+  "_id": "j8M5nweV2A7Ub240",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!j8M5nweV2A7Ub240"
+}

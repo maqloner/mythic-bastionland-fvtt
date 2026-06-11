@@ -1,0 +1,174 @@
+{
+  "name": "Crimes of the bat - Act",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Mass murder",
+      "_id": "Ks264R6z9wQNXOTm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.Ks264R6z9wQNXOTm"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Devouring cattle",
+      "_id": "1MaVLOgbraAbSpx7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.1MaVLOgbraAbSpx7"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Spoiling crops",
+      "_id": "6fFFFHSGtiQ2FoZY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.6fFFFHSGtiQ2FoZY"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Spreading plague",
+      "_id": "h65oPtehNcmR9opv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.h65oPtehNcmR9opv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Shortening summer",
+      "_id": "QSaS8aCO4s4gT4pD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.QSaS8aCO4s4gT4pD"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Causing nightmares",
+      "_id": "cOvvCHIEJC7r8L3P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qn3gFT6jKQChoOOV.cOvvCHIEJC7r8L3P"
+    }
+  ],
+  "folder": "R300gItFejKmJgnY",
+  "_id": "qn3gFT6jKQChoOOV",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qn3gFT6jKQChoOOV"
+}

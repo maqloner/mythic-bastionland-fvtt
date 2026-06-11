@@ -1,0 +1,174 @@
+{
+  "name": "Title",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "The Light of…",
+      "_id": "cL5gbAbcmaM94ysz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.cL5gbAbcmaM94ysz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Those who long for…",
+      "_id": "X5FxZxmseAApWSmu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.X5FxZxmseAApWSmu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Death &amp;…",
+      "_id": "orXT7C5Y3tEbjwuj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.orXT7C5Y3tEbjwuj"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Merits of…",
+      "_id": "IjZlWx9LxGHXlyMC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.IjZlWx9LxGHXlyMC"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Of Domain and…",
+      "_id": "YRtGN0YlSP2nJFxF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.YRtGN0YlSP2nJFxF"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "In the Garden of…",
+      "_id": "puU8TkJqD5cvLZbL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!eiAVqrF3XsK9y9Rg.puU8TkJqD5cvLZbL"
+    }
+  ],
+  "folder": "T3cLDGmwujVIR1Fz",
+  "_id": "eiAVqrF3XsK9y9Rg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!eiAVqrF3XsK9y9Rg"
+}

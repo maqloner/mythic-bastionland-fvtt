@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Star Fall",
+  "system": {
+    "description": "You never suffer Damage from falling, unless landing on something harmful. When you land from a fall of at least 12ft you may release a shockwave ([[/roll d8 #damage]] blast)."
+  },
+  "folder": "6khpsKpSZW0F7UUX",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686427954,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XkPpebjuQM6LPaaY",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XkPpebjuQM6LPaaY"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Past wielders - Tragic End",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Throat cut",
+      "_id": "lrHjknvhRUrCiE6S",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.lrHjknvhRUrCiE6S"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Hanged from tree",
+      "_id": "EuQqXAMO5zldsoJx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.EuQqXAMO5zldsoJx"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Poisoned feast",
+      "_id": "oPJUOBuqUiUYNCoM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.oPJUOBuqUiUYNCoM"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Crushed by boulder",
+      "_id": "j7gjUPhAPvbgbdxY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.j7gjUPhAPvbgbdxY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lost underground",
+      "_id": "Kud7Za5rOjCPuzGb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.Kud7Za5rOjCPuzGb"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Drowned in river",
+      "_id": "IB7fqy5xgY1h5jke",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ylBihl2QwNt2JiIr.IB7fqy5xgY1h5jke"
+    }
+  ],
+  "folder": "AuDv75wYABz7flTN",
+  "_id": "ylBihl2QwNt2JiIr",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ylBihl2QwNt2JiIr"
+}

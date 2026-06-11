@@ -1,0 +1,318 @@
+{
+  "name": "SOLDIER - Type",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Skirmisher",
+      "_id": "xTfW1D4chVEC8HzF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.xTfW1D4chVEC8HzF"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Archer",
+      "_id": "HgjWgKJ40KnVjaFZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.HgjWgKJ40KnVjaFZ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Scout",
+      "_id": "QPnWsVcQhYc9PZI6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.QPnWsVcQhYc9PZI6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Levy",
+      "_id": "ODr2UTGgFUddU7ie",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.ODr2UTGgFUddU7ie"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Guard",
+      "_id": "oVMRwJTC2wuNN1Lj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.oVMRwJTC2wuNN1Lj"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Infiltrator",
+      "_id": "kKUddK8HYOJ9Obpw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.kKUddK8HYOJ9Obpw"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Raider",
+      "_id": "Nmjr97mFqlO2DQPk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.Nmjr97mFqlO2DQPk"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Veteran",
+      "_id": "myV9rQlo63hqKfWv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.myV9rQlo63hqKfWv"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Infantry",
+      "_id": "jcBFFO2zTGdJzX6i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.jcBFFO2zTGdJzX6i"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Rider",
+      "_id": "CWRXQJQGkBZvUVBe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.CWRXQJQGkBZvUVBe"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Charger",
+      "_id": "hPggnIYnPC3STlVo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.hPggnIYnPC3STlVo"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Knight",
+      "_id": "PVN8eprKc1MAqHyy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!hnlPQX5ynmswBxss.PVN8eprKc1MAqHyy"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "hnlPQX5ynmswBxss",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!hnlPQX5ynmswBxss"
+}

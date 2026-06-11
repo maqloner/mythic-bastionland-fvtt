@@ -1,0 +1,174 @@
+{
+  "name": "Wurm behaviour - Combat",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Cut off escape",
+      "_id": "85lTJfurVmcb3Enw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.85lTJfurVmcb3Enw"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Trap them and leave",
+      "_id": "voWbg6JqJyWhTFuJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.voWbg6JqJyWhTFuJ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Self Target the weak",
+      "_id": "98qj8ZY3VFSodzgt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.98qj8ZY3VFSodzgt"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Break their arms",
+      "_id": "thylkMyOIGmneaJU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.thylkMyOIGmneaJU"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Flee to better ground",
+      "_id": "oMJWhVMgfdjuH1cs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.oMJWhVMgfdjuH1cs"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Blunt assault",
+      "_id": "tObGjV85YsvpH7Bg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!juRgRxltVo63DuEr.tObGjV85YsvpH7Bg"
+    }
+  ],
+  "folder": "aAlLx2Nrgfyb30BU",
+  "_id": "juRgRxltVo63DuEr",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!juRgRxltVo63DuEr"
+}

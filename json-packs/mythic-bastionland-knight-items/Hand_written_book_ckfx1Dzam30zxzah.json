@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Hand-written book",
+  "system": {
+    "description": "“Of Time-Tested Guidance in the Construction and Destruction of Fortresses, Ramparts, and Castles”",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "EvsCYdqcBl1UiHTq",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686415301,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ckfx1Dzam30zxzah",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ckfx1Dzam30zxzah"
+}

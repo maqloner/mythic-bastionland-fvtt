@@ -1,0 +1,102 @@
+{
+  "name": "Wilderness roll",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Encounter the next Omen from a Random Myth [/roll d6] in this Realm.",
+      "_id": "pSufec4WOWLi1VD1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Aj6jktXLYMfbUWHu.pSufec4WOWLi1VD1"
+    },
+    {
+      "range": [
+        2,
+        3
+      ],
+      "description": "Encounter the next Omen from the Nearest Myth.",
+      "_id": "6LtxEYqV1L6vAqQh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Aj6jktXLYMfbUWHu.6LtxEYqV1L6vAqQh"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "description": "Encounter the Hex’s Landmark. Otherwise All Clear.",
+      "_id": "jd5nMjiCVjUzguLM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Aj6jktXLYMfbUWHu.jd5nMjiCVjUzguLM"
+    }
+  ],
+  "folder": "cacCHLt5mNIvUMAi",
+  "_id": "Aj6jktXLYMfbUWHu",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Aj6jktXLYMfbUWHu"
+}

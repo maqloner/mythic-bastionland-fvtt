@@ -1,0 +1,174 @@
+{
+  "name": "Schemes of the hedgehog - Goal",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Steal food",
+      "_id": "PxOaqWMptZ9Ct9KU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.PxOaqWMptZ9Ct9KU"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Acquire better home",
+      "_id": "zeW7GYYEE5H5sOMA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.zeW7GYYEE5H5sOMA"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Murder rival",
+      "_id": "AqOSXrHJzxS08umO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.AqOSXrHJzxS08umO"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Steal treasure",
+      "_id": "BkRRkuqUDrY1EUYJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.BkRRkuqUDrY1EUYJ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Defeat predator",
+      "_id": "ASltBbj8vvNqvyNn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.ASltBbj8vvNqvyNn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Expand dynasty",
+      "_id": "hweFXaE5EvVXxrLj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!RLs1ZypqElzc45yi.hweFXaE5EvVXxrLj"
+    }
+  ],
+  "folder": "Xa0W5MTrQjZOrrAc",
+  "_id": "RLs1ZypqElzc45yi",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!RLs1ZypqElzc45yi"
+}

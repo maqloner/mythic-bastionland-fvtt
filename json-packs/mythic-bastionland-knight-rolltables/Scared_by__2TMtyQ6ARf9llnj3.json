@@ -1,0 +1,174 @@
+{
+  "name": "Scared by…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Other steeds",
+      "_id": "D3DdaRfATzR2G40s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.D3DdaRfATzR2G40s"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Fire",
+      "_id": "OiZABFPZEBrxE3eL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.OiZABFPZEBrxE3eL"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Darkness",
+      "_id": "gYoQbLtQHQhJTVwg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.gYoQbLtQHQhJTVwg"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Children",
+      "_id": "5nrWYG5Htxew3blN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.5nrWYG5Htxew3blN"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Music",
+      "_id": "JbPsn0vOoM76hdtk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.JbPsn0vOoM76hdtk"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Being alone",
+      "_id": "aUzQ0Mgl4qswkqEp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2TMtyQ6ARf9llnj3.aUzQ0Mgl4qswkqEp"
+    }
+  ],
+  "folder": "zH0i6N7AHnpGnJzg",
+  "_id": "2TMtyQ6ARf9llnj3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2TMtyQ6ARf9llnj3"
+}

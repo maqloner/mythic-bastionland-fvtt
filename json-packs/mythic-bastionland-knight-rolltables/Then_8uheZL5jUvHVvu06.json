@@ -1,0 +1,174 @@
+{
+  "name": "Then",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Through ice",
+      "_id": "rLVeATnck3Mfrnf7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.rLVeATnck3Mfrnf7"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Through dirt",
+      "_id": "pdJARc0GZuFkKkeN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.pdJARc0GZuFkKkeN"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Out of a mountain",
+      "_id": "MC1klbK9KtTuN6vW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.MC1klbK9KtTuN6vW"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Out of a tomb",
+      "_id": "hOFC3h0YKHN72jib",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.hOFC3h0YKHN72jib"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Up from a well",
+      "_id": "zYaQrPeLnt5aPrxc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.zYaQrPeLnt5aPrxc"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Out of a lake",
+      "_id": "ZT7RAUWm4UIdv29y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!8uheZL5jUvHVvu06.ZT7RAUWm4UIdv29y"
+    }
+  ],
+  "folder": "Sssb3gfYoBIPh9sM",
+  "_id": "8uheZL5jUvHVvu06",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!8uheZL5jUvHVvu06"
+}

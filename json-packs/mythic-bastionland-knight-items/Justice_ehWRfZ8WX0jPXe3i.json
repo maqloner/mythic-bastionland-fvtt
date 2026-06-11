@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Justice",
+  "system": {
+    "description": "Restore SPI when you restore the balance of justice."
+  },
+  "folder": "uyPSw4DSmoRUPcrU",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398834,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ehWRfZ8WX0jPXe3i",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ehWRfZ8WX0jPXe3i"
+}

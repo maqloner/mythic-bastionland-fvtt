@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Patient Strike",
+  "system": {
+    "description": "Make a melee Attack when you have not moved this turn. +[[/roll d10 #damage]] to the Attack. Ignore the target’s Armour and immunities of any sort. If this fails to defeat the opponent, take [[/roll d6 #damage]] Damage yourself."
+  },
+  "folder": "4X6Jyg4RLDgzr1uK",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686404144,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "c9e4EcQUaa78EQNh",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c9e4EcQUaa78EQNh"
+}

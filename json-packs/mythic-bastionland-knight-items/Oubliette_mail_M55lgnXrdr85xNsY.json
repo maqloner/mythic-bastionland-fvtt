@@ -1,0 +1,30 @@
+{
+  "type": "coat",
+  "name": "Oubliette mail",
+  "system": {
+    "description": "Wrapped in a Long iron chain",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "jwjCw9UVmT0AMbpU",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686406276,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "M55lgnXrdr85xNsY",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!M55lgnXrdr85xNsY"
+}

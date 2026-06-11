@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Questing Knight",
+  "system": {
+    "name": "",
+    "description": "Dream of the commoner, tragedy of the knight. To die at rest, at peace, at quiet",
+    "flavor": "Ancient sword",
+    "flavorLabel1": "Appearance",
+    "flavorLabel2": "Who gave it to you?"
+  },
+  "folder": "5oFy3zoaV89VgISo",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686419619,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "hhm9QWfn8mX7bh5J",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hhm9QWfn8mX7bh5J"
+}

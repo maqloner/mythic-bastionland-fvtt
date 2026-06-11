@@ -1,0 +1,174 @@
+{
+  "name": "Pastime",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Painting",
+      "_id": "yaqm4SyKJvs5Va0l",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.yaqm4SyKJvs5Va0l"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Miniature sculpture",
+      "_id": "dzilkMWrI7lqpDB6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.dzilkMWrI7lqpDB6"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Embroidery",
+      "_id": "mHkaQwjjD6vq6sIH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.mHkaQwjjD6vq6sIH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Pottery",
+      "_id": "3Jyf9SbJEL3w6DxQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.3Jyf9SbJEL3w6DxQ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Drawing",
+      "_id": "0Enc9ALiPD4ICnu8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.0Enc9ALiPD4ICnu8"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Flower pressing",
+      "_id": "H8lm36HMnOW3pcDE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JUZsUvbMS1geeE11.H8lm36HMnOW3pcDE"
+    }
+  ],
+  "folder": "0DO1PU7MBBwGcVWY",
+  "_id": "JUZsUvbMS1geeE11",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JUZsUvbMS1geeE11"
+}

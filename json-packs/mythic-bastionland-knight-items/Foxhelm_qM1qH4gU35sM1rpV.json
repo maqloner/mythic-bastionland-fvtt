@@ -1,0 +1,30 @@
+{
+  "type": "helm",
+  "name": "Foxhelm",
+  "system": {
+    "description": "",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "FlkIxiIR7YXiJjrS",
+  "img": "systems/mythicbastionland/tokens/items/helm.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686450425,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qM1qH4gU35sM1rpV",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!qM1qH4gU35sM1rpV"
+}

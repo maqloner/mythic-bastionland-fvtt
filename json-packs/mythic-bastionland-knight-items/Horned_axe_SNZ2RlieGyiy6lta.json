@@ -1,0 +1,33 @@
+{
+  "type": "weapon",
+  "name": "Horned axe",
+  "system": {
+    "description": "",
+    "damage": "d8",
+    "hefty": true,
+    "long": false,
+    "slow": false,
+    "equipped": false
+  },
+  "folder": "0G8yeSi5T3dhnEDJ",
+  "img": "systems/mythicbastionland/tokens/items/weapon.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686413149,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SNZ2RlieGyiy6lta",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!SNZ2RlieGyiy6lta"
+}

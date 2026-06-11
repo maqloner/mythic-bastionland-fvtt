@@ -1,0 +1,294 @@
+{
+  "type": "npc",
+  "name": "Sellsword",
+  "items": [
+    {
+      "type": "coat",
+      "name": "Coat",
+      "system": {
+        "description": "",
+        "armor": 1,
+        "equipped": true
+      },
+      "_id": "ySwe0E7mUC9pPQND",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.353",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sdQ6W6o6ui5i1BWr.ySwe0E7mUC9pPQND"
+    },
+    {
+      "type": "plate",
+      "name": "Plate",
+      "system": {
+        "description": "",
+        "armor": 1,
+        "equipped": true
+      },
+      "_id": "KsIV2QesQz5D3Rbk",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.353",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sdQ6W6o6ui5i1BWr.KsIV2QesQz5D3Rbk"
+    },
+    {
+      "type": "helm",
+      "name": "Helm",
+      "system": {
+        "description": "",
+        "armor": 1,
+        "equipped": true
+      },
+      "_id": "E4eEfPbNRrCU30vN",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.353",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sdQ6W6o6ui5i1BWr.E4eEfPbNRrCU30vN"
+    },
+    {
+      "type": "shield",
+      "name": "Shield",
+      "system": {
+        "description": "",
+        "armor": 1,
+        "damage": "d4",
+        "equipped": true
+      },
+      "_id": "d4pIkUxwdEWfUUW6",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.353",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sdQ6W6o6ui5i1BWr.d4pIkUxwdEWfUUW6"
+    },
+    {
+      "type": "weapon",
+      "name": "Longsword",
+      "system": {
+        "description": "",
+        "damage": "2d8",
+        "hefty": true,
+        "long": false,
+        "slow": false,
+        "equipped": true
+      },
+      "_id": "srZKNmaC2mLMQ0Vm",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.353",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_key": "!actors.items!sdQ6W6o6ui5i1BWr.srZKNmaC2mLMQ0Vm"
+    }
+  ],
+  "system": {
+    "biography": "",
+    "virtues": {
+      "vigour": {
+        "min": 0,
+        "max": 10,
+        "value": 10
+      },
+      "clarity": {
+        "min": 0,
+        "max": 10,
+        "value": 10
+      },
+      "spirit": {
+        "min": 0,
+        "max": 10,
+        "value": 10
+      }
+    },
+    "guard": {
+      "min": 0,
+      "max": 7,
+      "value": 7
+    },
+    "actors": [],
+    "age": "young",
+    "description": "Generally only agrees to fights that they are confident they can win"
+  },
+  "folder": "as4zDDy1GQzkRGUh",
+  "_id": "sdQ6W6o6ui5i1BWr",
+  "img": "systems/mythicbastionland/tokens/actors/npc.png",
+  "prototypeToken": {
+    "name": "Sellsword",
+    "displayName": 0,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "systems/mythicbastionland/tokens/actors/npc-token.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "guard"
+    },
+    "bar2": {
+      "attribute": "virtues.vigour"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "negative": false,
+      "priority": 0,
+      "color": null
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": {},
+    "flags": {},
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "depth": 1
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "14.353",
+    "createdTime": 1702144404586,
+    "modifiedTime": 1756663018075,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!sdQ6W6o6ui5i1BWr"
+}

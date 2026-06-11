@@ -1,0 +1,174 @@
+{
+  "name": "Blind spot for…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "People’s names",
+      "_id": "sVfWvhEoltIU3vEj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.sVfWvhEoltIU3vEj"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Place names",
+      "_id": "bYj5Zltdo1rwJjfX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.bYj5Zltdo1rwJjfX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Faces",
+      "_id": "XhN3zfbyFMZ6zeXE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.XhN3zfbyFMZ6zeXE"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Geography",
+      "_id": "r9ZeyI928dRbE3A3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.r9ZeyI928dRbE3A3"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Relationships",
+      "_id": "nomkXZFt02gj3qzE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.nomkXZFt02gj3qzE"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Time",
+      "_id": "yOcvlyHKkkY3XySQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PGsweNbKBWWTZ45t.yOcvlyHKkkY3XySQ"
+    }
+  ],
+  "folder": "ni0yeXQxQk3ihymc",
+  "_id": "PGsweNbKBWWTZ45t",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!PGsweNbKBWWTZ45t"
+}

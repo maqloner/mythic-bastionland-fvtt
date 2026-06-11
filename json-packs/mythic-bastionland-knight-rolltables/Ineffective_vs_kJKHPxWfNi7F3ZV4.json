@@ -1,0 +1,174 @@
+{
+  "name": "Ineffective vs",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Axes",
+      "_id": "sJKhLmLdepXqbO7p",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.sJKhLmLdepXqbO7p"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Arrows",
+      "_id": "m1M99AhY9b9XWgxS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.m1M99AhY9b9XWgxS"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Birds",
+      "_id": "zQRzv5CQtx9S4XvD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.zQRzv5CQtx9S4XvD"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Spears and polearms",
+      "_id": "0wd4s2116xGGv4KX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.0wd4s2116xGGv4KX"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Swords",
+      "_id": "niOGNriFmkQkhehS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.niOGNriFmkQkhehS"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Blunt arms",
+      "_id": "v2RMG5bfAAp8aaHm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kJKHPxWfNi7F3ZV4.v2RMG5bfAAp8aaHm"
+    }
+  ],
+  "folder": "EkzPuvcSPv4h3ip6",
+  "_id": "kJKHPxWfNi7F3ZV4",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!kJKHPxWfNi7F3ZV4"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Strange behaviour - Hates",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Darkness",
+      "_id": "ry2yNE3nphFr2Ejl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.ry2yNE3nphFr2Ejl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Rain",
+      "_id": "93buxB3FoJXy9X4O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.93buxB3FoJXy9X4O"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Birds",
+      "_id": "hAJRmlll26MmaElD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.hAJRmlll26MmaElD"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Trees",
+      "_id": "EkDzE7KWciRzvTeI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.EkDzE7KWciRzvTeI"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Armour",
+      "_id": "2G0CfkVjmjs0FgSg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.2G0CfkVjmjs0FgSg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "One of the Knights",
+      "_id": "rocdsDqLUlx9xnmH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!E8h46niDWyaSxqeg.rocdsDqLUlx9xnmH"
+    }
+  ],
+  "folder": "A5GdfVih50UGlHRq",
+  "_id": "E8h46niDWyaSxqeg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!E8h46niDWyaSxqeg"
+}

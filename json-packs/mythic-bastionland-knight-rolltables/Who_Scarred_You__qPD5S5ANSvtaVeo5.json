@@ -1,0 +1,174 @@
+{
+  "name": "Who Scarred You?",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ruler of a nearby Holding",
+      "_id": "vGNjM25ubcKmjejd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.vGNjM25ubcKmjejd"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Ruler of the Seat of Power",
+      "_id": "UlcwRPp2mLiasSdq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.UlcwRPp2mLiasSdq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Wandering Knight",
+      "_id": "L3pXG4OtMnkf6O6G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.L3pXG4OtMnkf6O6G"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A whole village",
+      "_id": "A2hPH7E018XYNJWg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.A2hPH7E018XYNJWg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A ship’s captain",
+      "_id": "koXVaKfWsNyL4XX6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.koXVaKfWsNyL4XX6"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A member of your Company",
+      "_id": "4gTuj1LvQIE3atdp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!qPD5S5ANSvtaVeo5.4gTuj1LvQIE3atdp"
+    }
+  ],
+  "folder": "9YON9p9OqQVW1Ubt",
+  "_id": "qPD5S5ANSvtaVeo5",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!qPD5S5ANSvtaVeo5"
+}

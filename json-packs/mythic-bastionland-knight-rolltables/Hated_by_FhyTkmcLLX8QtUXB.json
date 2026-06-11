@@ -1,0 +1,174 @@
+{
+  "name": "Hated by",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Everybody else",
+      "_id": "IKBQQKBOTwxS5Cpu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.IKBQQKBOTwxS5Cpu"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Proper musicians",
+      "_id": "EPaBUnnAxjBljETV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.EPaBUnnAxjBljETV"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rodents",
+      "_id": "i4WexciFs3SfKmif",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.i4WexciFs3SfKmif"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Company",
+      "_id": "cmLHNGJ5RX3SmIur",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.cmLHNGJ5RX3SmIur"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Seers",
+      "_id": "42WbhJLvJvzx2626",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.42WbhJLvJvzx2626"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Songbirds",
+      "_id": "DLQikMQR2tUtlbMg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FhyTkmcLLX8QtUXB.DLQikMQR2tUtlbMg"
+    }
+  ],
+  "folder": "TnetoKxcB4e0s9Zc",
+  "_id": "FhyTkmcLLX8QtUXB",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!FhyTkmcLLX8QtUXB"
+}

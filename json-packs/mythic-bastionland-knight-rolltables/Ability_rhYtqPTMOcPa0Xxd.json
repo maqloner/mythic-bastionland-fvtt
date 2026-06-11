@@ -1,0 +1,174 @@
+{
+  "name": "Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Hidden within your shadow",
+      "_id": "FYwJhMeqgOorhcuB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.FYwJhMeqgOorhcuB"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Can be thrown any distance",
+      "_id": "v2hzIL0yrnZILgIr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.v2hzIL0yrnZILgIr"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "+[[/roll 2d10 #damage]] vs somebody who trusts you",
+      "_id": "IdrfBSdGANVN0BRG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.IdrfBSdGANVN0BRG"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Appears as a twig",
+      "_id": "Ao8ztpsDxPEMfItT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.Ao8ztpsDxPEMfItT"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Splits into two blades",
+      "_id": "MNO5rbDjMBhEfMQc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.MNO5rbDjMBhEfMQc"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Harmless to you",
+      "_id": "AFtau2i9qnLNC0Of",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!rhYtqPTMOcPa0Xxd.AFtau2i9qnLNC0Of"
+    }
+  ],
+  "folder": "KbJAgJE0ZyBPCln6",
+  "_id": "rhYtqPTMOcPa0Xxd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!rhYtqPTMOcPa0Xxd"
+}

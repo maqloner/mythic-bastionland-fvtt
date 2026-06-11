@@ -1,0 +1,174 @@
+{
+  "name": "The crown whispers - Warning",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Death is coming",
+      "_id": "AQKbqd8Of50XayMW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.AQKbqd8Of50XayMW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Invaders are looming",
+      "_id": "dZIX0OJpGU5BOB4n",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.dZIX0OJpGU5BOB4n"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Rebellion stirs",
+      "_id": "Is9HjrLeaD084zQV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.Is9HjrLeaD084zQV"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "You are not worthy",
+      "_id": "nW2ul016ZkVaBABo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.nW2ul016ZkVaBABo"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "You are immortal",
+      "_id": "q9G2mk8YE4cCZ2Ki",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.q9G2mk8YE4cCZ2Ki"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "The City is a lie",
+      "_id": "ko8WDR9mtFrL0UUG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!H989WaD0Wg775eUp.ko8WDR9mtFrL0UUG"
+    }
+  ],
+  "folder": "9KpLnHtCOEF7zFWR",
+  "_id": "H989WaD0Wg775eUp",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!H989WaD0Wg775eUp"
+}

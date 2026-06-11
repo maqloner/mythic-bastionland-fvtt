@@ -1,0 +1,174 @@
+{
+  "name": "Use",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Instantly cools any liquid it touches",
+      "_id": "x1LEjcPNZQlfSE7Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.x1LEjcPNZQlfSE7Q"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Insects hate the smell",
+      "_id": "Kf7hZKyO4gT5mLQq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.Kf7hZKyO4gT5mLQq"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "It transforms into 20ft of rope when shaken",
+      "_id": "TwH2lJz9cLrG6tfm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.TwH2lJz9cLrG6tfm"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Terrifies snakes, eels, and worms",
+      "_id": "SEZi2N5HkANE4af8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.SEZi2N5HkANE4af8"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "One end is extremely sticky",
+      "_id": "Hux7bI3Sj2jEEaP0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.Hux7bI3Sj2jEEaP0"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Seers believe it is a blessing upon you",
+      "_id": "YSpI0jfY2ntvIkku",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!JMq5ZBCrbU9lH1Qu.YSpI0jfY2ntvIkku"
+    }
+  ],
+  "folder": "rdjabOJtO9DuTHX8",
+  "_id": "JMq5ZBCrbU9lH1Qu",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!JMq5ZBCrbU9lH1Qu"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ability",
+  "name": "Sink Teeth",
+  "system": {
+    "description": "You can bite (d6) someone, choosing one of the following effects before the bite, occurring only if you Wound them: Regain VIG equal to the VIG that they lose, lower them into normal sleep, show them one of your memories"
+  },
+  "folder": "IMsyPPOAxYu9Fk7W",
+  "img": "systems/mythicbastionland/tokens/items/ability.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686471410,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "T8SQCIb1Knhrmygi",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!T8SQCIb1Knhrmygi"
+}

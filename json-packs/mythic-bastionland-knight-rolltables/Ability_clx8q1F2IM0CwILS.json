@@ -1,0 +1,174 @@
+{
+  "name": "Ability",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "+[[/roll d6 #damage]] in a duel",
+      "_id": "2U7FX6U9RiEl8ji6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.2U7FX6U9RiEl8ji6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "+[[/roll d6 #damage]] vs steeds",
+      "_id": "4enKrD2TgT2VVg4y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.4enKrD2TgT2VVg4y"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "+[[/roll d6 #damage]] vs fleeing targets",
+      "_id": "tF7SMEP5tguton0D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.tF7SMEP5tguton0D"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "+[[/roll d6 #damage]] vs mounted targets",
+      "_id": "LPDxecS5Lb9sdkuB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.LPDxecS5Lb9sdkuB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "+[[/roll d6 #damage]] vs flying targets",
+      "_id": "FHN0CSf0oqx7wLh5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.FHN0CSf0oqx7wLh5"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "+[[/roll d6 #damage]] vs targets without a shield",
+      "_id": "MvBhNdeALnw6OFM6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!clx8q1F2IM0CwILS.MvBhNdeALnw6OFM6"
+    }
+  ],
+  "folder": "z8fXI9m8hHldyqmR",
+  "_id": "clx8q1F2IM0CwILS",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!clx8q1F2IM0CwILS"
+}

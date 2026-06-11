@@ -1,0 +1,174 @@
+{
+  "name": "Positive Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Heightened hearing",
+      "_id": "WZMVk50GEbmYnwWC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.WZMVk50GEbmYnwWC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Breathe fire once([[/roll d8 #damage]] blast)",
+      "_id": "AfFgldCA6KizNBBW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.AfFgldCA6KizNBBW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Speak remotely with any one person",
+      "_id": "mgGVkT59QoNDcpP4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.mgGVkT59QoNDcpP4"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "No pain (A1)",
+      "_id": "rG2Id5GE4AeTec42",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.rG2Id5GE4AeTec42"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Restore one Virtue",
+      "_id": "4hhGkmVvsX43zRnT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.4hhGkmVvsX43zRnT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Restore all Virtues",
+      "_id": "9YKtDBZZROHiFJw1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!jGMcJ05Lq3iUaSFi.9YKtDBZZROHiFJw1"
+    }
+  ],
+  "folder": "eEeqOBkAdvCMdX2v",
+  "_id": "jGMcJ05Lq3iUaSFi",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!jGMcJ05Lq3iUaSFi"
+}

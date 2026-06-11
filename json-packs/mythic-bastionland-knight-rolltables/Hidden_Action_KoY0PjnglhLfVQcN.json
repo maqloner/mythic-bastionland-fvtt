@@ -1,0 +1,174 @@
+{
+  "name": "Hidden Action",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Strike a wounded enemy",
+      "_id": "qsJPS3ZCBbQVFMIV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.qsJPS3ZCBbQVFMIV"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Make animal calls",
+      "_id": "HcqUdH0oEcKloc7l",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.HcqUdH0oEcKloc7l"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Throw stones",
+      "_id": "s3JCzcj0CLHsCy9c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.s3JCzcj0CLHsCy9c"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Grab a non-alert enemy",
+      "_id": "ona3KGx9v574rN06",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.ona3KGx9v574rN06"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Move slowly",
+      "_id": "U9RSSoZlvn2xjpsT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.U9RSSoZlvn2xjpsT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Whisper to allies",
+      "_id": "BSWmp91o5HYv1Mh7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!KoY0PjnglhLfVQcN.BSWmp91o5HYv1Mh7"
+    }
+  ],
+  "folder": "qATdCmzvfoEz9Ljy",
+  "_id": "KoY0PjnglhLfVQcN",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!KoY0PjnglhLfVQcN"
+}

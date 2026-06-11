@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Free Knight",
+  "system": {
+    "name": "",
+    "description": "No body, no mind, should live acaged. Yet freedom rarely comes with a whispe",
+    "flavor": "The hexshield",
+    "flavorLabel1": "Ineffective vs",
+    "flavorLabel2": "Special Abilit"
+  },
+  "folder": "i45qsoWiWyChqN9y",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686456804,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pvooaWWtTjz5wt7Q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!pvooaWWtTjz5wt7Q"
+}

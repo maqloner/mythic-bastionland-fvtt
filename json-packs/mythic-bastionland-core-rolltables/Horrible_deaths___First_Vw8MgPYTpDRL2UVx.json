@@ -1,0 +1,174 @@
+{
+  "name": "Horrible deaths - First",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Impaled on ten swords",
+      "_id": "TrBV6EFKBXnDmZDY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.TrBV6EFKBXnDmZDY"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Pressed under a slab",
+      "_id": "BxvhwLT8cbn5uLOO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.BxvhwLT8cbn5uLOO"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Taken to pieces",
+      "_id": "KsfzYHl7KXlrCxn3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.KsfzYHl7KXlrCxn3"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Torn by hounds",
+      "_id": "AdR7OktxllTKu894",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.AdR7OktxllTKu894"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Filled with salt",
+      "_id": "xNP2Qm2N1bu4XM2D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.xNP2Qm2N1bu4XM2D"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Drowned in smoke",
+      "_id": "bjOCy0ASTmV7aZTE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vw8MgPYTpDRL2UVx.bjOCy0ASTmV7aZTE"
+    }
+  ],
+  "folder": "gu5wP6sgUcjvdlu2",
+  "_id": "Vw8MgPYTpDRL2UVx",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Vw8MgPYTpDRL2UVx"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Discord",
+  "system": {
+    "description": "Restore SPI when you disrupt a place of order."
+  },
+  "folder": "EseqJ2Nucgqdw4fZ",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686468377,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "50moo4LkmY1ipqe2",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!50moo4LkmY1ipqe2"
+}

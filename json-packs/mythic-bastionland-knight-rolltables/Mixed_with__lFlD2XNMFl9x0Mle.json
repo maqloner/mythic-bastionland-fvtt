@@ -1,0 +1,174 @@
+{
+  "name": "Mixed with…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Flexible leather",
+      "_id": "aK1JAL19XBkvAyCz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.aK1JAL19XBkvAyCz"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sleek bronze",
+      "_id": "MKSFT8zaiArXZQBu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.MKSFT8zaiArXZQBu"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Polished steel",
+      "_id": "vJeK4YtENMpDWgBU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.vJeK4YtENMpDWgBU"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Brass studs",
+      "_id": "N1N9YdnWSrNwtQgK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.N1N9YdnWSrNwtQgK"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Padded coat",
+      "_id": "FyMKB7VgKBtyH88X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.FyMKB7VgKBtyH88X"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Thick furs",
+      "_id": "kAa8eCHKIGXAcpMP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lFlD2XNMFl9x0Mle.kAa8eCHKIGXAcpMP"
+    }
+  ],
+  "folder": "fwTLnu7xV5BUfMLt",
+  "_id": "lFlD2XNMFl9x0Mle",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!lFlD2XNMFl9x0Mle"
+}

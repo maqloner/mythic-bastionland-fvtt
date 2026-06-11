@@ -1,0 +1,174 @@
+{
+  "name": "Infuriating children - Will Not",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Stay still",
+      "_id": "CkcQhVfpBvqYuYYg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.CkcQhVfpBvqYuYYg"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Use words",
+      "_id": "WTerjzwy6oY2tfd3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.WTerjzwy6oY2tfd3"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Stop crying",
+      "_id": "cawlftUNaZQfsrdu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.cawlftUNaZQfsrdu"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Compromise even a bit",
+      "_id": "EdVrXkZFOBvx0ncI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.EdVrXkZFOBvx0ncI"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Explain themselves properly",
+      "_id": "GBO5k2jBHfQelcFi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.GBO5k2jBHfQelcFi"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Stop grabbing you",
+      "_id": "KAkStlklJbxbnMSq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!2BoyG9cKjZBdmYAR.KAkStlklJbxbnMSq"
+    }
+  ],
+  "folder": "4xHBG6Xs6qBtCbhO",
+  "_id": "2BoyG9cKjZBdmYAR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!2BoyG9cKjZBdmYAR"
+}

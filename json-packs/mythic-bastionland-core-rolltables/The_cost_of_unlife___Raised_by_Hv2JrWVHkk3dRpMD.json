@@ -1,0 +1,174 @@
+{
+  "name": "The cost of unlife - Raised by",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Noble intentions",
+      "_id": "qzDKvu7YoiBGfNYD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.qzDKvu7YoiBGfNYD"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A paranoid castellan",
+      "_id": "7tGJ2m6E8RL0qXqW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.7tGJ2m6E8RL0qXqW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "An ambitious bandit",
+      "_id": "dT6NkVXm8EC5Jwnx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.dT6NkVXm8EC5Jwnx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A deal with death",
+      "_id": "GvfoL98oS4pGhv9J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.GvfoL98oS4pGhv9J"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A curious seer",
+      "_id": "nmw6a509XPogiwr7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.nmw6a509XPogiwr7"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A lonely apothecary",
+      "_id": "OJ81jLurtadGT6Nh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Hv2JrWVHkk3dRpMD.OJ81jLurtadGT6Nh"
+    }
+  ],
+  "folder": "omfpH87oJWR7VRdP",
+  "_id": "Hv2JrWVHkk3dRpMD",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!Hv2JrWVHkk3dRpMD"
+}

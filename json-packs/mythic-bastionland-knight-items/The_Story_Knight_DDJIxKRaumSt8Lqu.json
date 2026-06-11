@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Story Knight",
+  "system": {
+    "name": "",
+    "description": "At last, I’m here!. The one you were waiting for, the one behind the words",
+    "flavor": "Tome of tales",
+    "flavorLabel1": "Style",
+    "flavorLabel2": "Twist"
+  },
+  "folder": "7L51hf6FBgkGtzcR",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686410818,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "DDJIxKRaumSt8Lqu",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!DDJIxKRaumSt8Lqu"
+}

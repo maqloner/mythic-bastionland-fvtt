@@ -1,0 +1,174 @@
+{
+  "name": "Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Wearers share vision",
+      "_id": "yyo8jBtkNxZtrJWt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.yyo8jBtkNxZtrJWt"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Wearers share hearing",
+      "_id": "tSfmDAOCsdlDTc6g",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.tSfmDAOCsdlDTc6g"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Wearers share GD (use total)",
+      "_id": "ckMyCsChwWqTkpFe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.ckMyCsChwWqTkpFe"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Wearers share VIG (use higher)",
+      "_id": "ZIoClmFe9xs2Kfno",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.ZIoClmFe9xs2Kfno"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Wearers share CLA (use higher)",
+      "_id": "tX4afaqSpcp3ldOL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.tX4afaqSpcp3ldOL"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Wearers share SPI (use higher)",
+      "_id": "Kbh4mf9fY4rY1nQz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!LjYlxCIzP5R0o1jt.Kbh4mf9fY4rY1nQz"
+    }
+  ],
+  "folder": "i5uAaS9HDuM8noDo",
+  "_id": "LjYlxCIzP5R0o1jt",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!LjYlxCIzP5R0o1jt"
+}

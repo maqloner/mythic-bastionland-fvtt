@@ -1,0 +1,23 @@
+{
+  "name": "The Goblin",
+  "type": "RollTable",
+  "folder": "mn32j872empIaN1t",
+  "sorting": "a",
+  "_id": "ebwYk8um3ivtzRh3",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393775,
+    "modifiedTime": 1756663393775,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "_key": "!folders!ebwYk8um3ivtzRh3"
+}

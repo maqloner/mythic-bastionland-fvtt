@@ -1,0 +1,174 @@
+{
+  "name": "The signs - First Sign",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Golden Flowers",
+      "_id": "5Xg87hHcMS5Zfpce",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.5Xg87hHcMS5Zfpce"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Violet Sunrise",
+      "_id": "sHjyUr1yfYvYXQIH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.sHjyUr1yfYvYXQIH"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Singing Swans",
+      "_id": "75maqqSWxs3gYfDU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.75maqqSWxs3gYfDU"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Milk to Honey",
+      "_id": "JwgxJzPxnX1FqlEd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.JwgxJzPxnX1FqlEd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Chimes from Below",
+      "_id": "BvkXjfw7VrNCx551",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.BvkXjfw7VrNCx551"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Miraculous Cures",
+      "_id": "kqikoJcy4XPdszA4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!mQzUK5DjDcSd6sw3.kqikoJcy4XPdszA4"
+    }
+  ],
+  "folder": "5rAAqYCNSPdAMYWR",
+  "_id": "mQzUK5DjDcSd6sw3",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!mQzUK5DjDcSd6sw3"
+}

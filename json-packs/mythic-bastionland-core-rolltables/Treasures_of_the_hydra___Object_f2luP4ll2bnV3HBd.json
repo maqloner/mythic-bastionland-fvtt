@@ -1,0 +1,174 @@
+{
+  "name": "Treasures of the hydra - Object",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Crown",
+      "_id": "ogkfr0uWjp6jmN8r",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.ogkfr0uWjp6jmN8r"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Sceptre",
+      "_id": "tXPOP3b1d7EDyNBa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.tXPOP3b1d7EDyNBa"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Longsword",
+      "_id": "J0FoXDW1QjSjbNO6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.J0FoXDW1QjSjbNO6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Chalice",
+      "_id": "vqKM8JoflbuwIBcv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.vqKM8JoflbuwIBcv"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Spear",
+      "_id": "xwetse43Na1yOAz9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.xwetse43Na1yOAz9"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shield",
+      "_id": "cRXnrrpBxPZkyGmx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!f2luP4ll2bnV3HBd.cRXnrrpBxPZkyGmx"
+    }
+  ],
+  "folder": "lM2HenXBLlPvyIKv",
+  "_id": "f2luP4ll2bnV3HBd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!f2luP4ll2bnV3HBd"
+}

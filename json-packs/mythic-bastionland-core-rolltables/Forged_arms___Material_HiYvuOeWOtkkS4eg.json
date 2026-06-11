@@ -1,0 +1,174 @@
+{
+  "name": "Forged arms - Material",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Eternal bone",
+      "_id": "0gFeTP8sU1vgBAP5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.0gFeTP8sU1vgBAP5"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Golden willow",
+      "_id": "CbsMgOYbCt9d0Np7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.CbsMgOYbCt9d0Np7"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Blood bronze",
+      "_id": "jwH7TfPxSnydWxth",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.jwH7TfPxSnydWxth"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Night flint",
+      "_id": "4Wsyzd04rWOBvmKb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.4Wsyzd04rWOBvmKb"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Meteor iron",
+      "_id": "qeeARWQpifpommnT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.qeeARWQpifpommnT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Deep amber",
+      "_id": "fsMgfGo6nAavhw2c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HiYvuOeWOtkkS4eg.fsMgfGo6nAavhw2c"
+    }
+  ],
+  "folder": "t72GAcjYzVdxEI8p",
+  "_id": "HiYvuOeWOtkkS4eg",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!HiYvuOeWOtkkS4eg"
+}

@@ -1,0 +1,330 @@
+{
+  "name": "Scars",
+  "description": "<p>A random table created from the contents of the Scars Folder.</p>",
+  "results": [
+    {
+      "name": "Tear",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.1oGWgivha3gFL1XP",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "EhrLXHUJ8ca67cuT",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.EhrLXHUJ8ca67cuT"
+    },
+    {
+      "name": "Gouge",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.4IwZEjYxqgzR01cz",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "DBqfzFfZw0MZQ6mx",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.DBqfzFfZw0MZQ6mx"
+    },
+    {
+      "name": "Smash",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.FGgayYwekZ4kTF3I",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "kxyyUDtJIWB9Cn1b",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.kxyyUDtJIWB9Cn1b"
+    },
+    {
+      "name": "Mutilation",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.HFJQCAy5QEIiBpRn",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "LEynEtY9IgflbB8v",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.LEynEtY9IgflbB8v"
+    },
+    {
+      "name": "Distress",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.QeSecV7EssdtXSrZ",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "bWbLjD67tyKwtvu5",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.bWbLjD67tyKwtvu5"
+    },
+    {
+      "name": "Agony",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.RxpdU9VXQLzkbX1t",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "LAnZf2WvWPemnqPp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.LAnZf2WvWPemnqPp"
+    },
+    {
+      "name": "Disfigurement",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.U8yGj7jxavqewRKH",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "qqJZtdUqTrmERv7V",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.qqJZtdUqTrmERv7V"
+    },
+    {
+      "name": "Concussion",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.VrgICFiJc6z7dLu1",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "h8ylJilIhHqUGib2",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.h8ylJilIhHqUGib2"
+    },
+    {
+      "name": "Doom",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.WWskoNa262kLpONs",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "mPGiXg9GkvJhmWVG",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.mPGiXg9GkvJhmWVG"
+    },
+    {
+      "name": "Rupture",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.mYOjN7r8t2P5yg7a",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "WzSICfMkc3UYI2hf",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.WzSICfMkc3UYI2hf"
+    },
+    {
+      "name": "Stun",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.rJSE6nT4zNqxqZd2",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "jaHWOVBapjubYIoc",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.jaHWOVBapjubYIoc"
+    },
+    {
+      "name": "Humiliation",
+      "type": "document",
+      "documentUuid": "Compendium.mythicbastionland.mythic-bastionland-core-items.Item.xziHCxFGyNS4ukZy",
+      "img": "systems/mythicbastionland/tokens/items/scar.png",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "HTTKc4qvnVDozO0m",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!HDkgvK58nuScwyna.HTTKc4qvnVDozO0m"
+    }
+  ],
+  "formula": "1d12",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663986583,
+    "modifiedTime": 1756663986583,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "_id": "HDkgvK58nuScwyna",
+  "sort": 0,
+  "_key": "!tables!HDkgvK58nuScwyna"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "passion",
+  "name": "Honesty",
+  "system": {
+    "description": "Restore SPI when you tell the truth where a lie might be more beneficial."
+  },
+  "folder": "ZGlvO36Hxjz3P4Vt",
+  "img": "systems/mythicbastionland/tokens/items/passion.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686397579,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "biGUp0vrxiMDpkge",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!biGUp0vrxiMDpkge"
+}

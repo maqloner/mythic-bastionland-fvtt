@@ -1,0 +1,174 @@
+{
+  "name": "Effect",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Golden Glow",
+      "_id": "8ArC8mBeYg50xmSe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.8ArC8mBeYg50xmSe"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Turns Cold",
+      "_id": "OZg8CYWx7Ya5Nv2y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.OZg8CYWx7Ya5Nv2y"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Gentle Hum",
+      "_id": "TyhylCP86TkxEpdc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.TyhylCP86TkxEpdc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fragrant Aroma",
+      "_id": "PTBEJiN9kravokpB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.PTBEJiN9kravokpB"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Distant Birdcall",
+      "_id": "4HJivvtxjFuLQmr4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.4HJivvtxjFuLQmr4"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Loud Clang",
+      "_id": "hc4CGHXdjW64mKMR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!p3muPnE2rMFp90b9.hc4CGHXdjW64mKMR"
+    }
+  ],
+  "folder": "Sbb6YQbn6xn5MosW",
+  "_id": "p3muPnE2rMFp90b9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!p3muPnE2rMFp90b9"
+}

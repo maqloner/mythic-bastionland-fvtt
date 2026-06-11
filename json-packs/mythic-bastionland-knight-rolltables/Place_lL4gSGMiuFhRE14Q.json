@@ -1,0 +1,174 @@
+{
+  "name": "Place",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "A tower",
+      "_id": "yeN67OPFDgnzwj4h",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.yeN67OPFDgnzwj4h"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "A body of water",
+      "_id": "xWCKM8WN3rfELNrD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.xWCKM8WN3rfELNrD"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "A peak",
+      "_id": "POUCN7f2uE5dvBdH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.POUCN7f2uE5dvBdH"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A village",
+      "_id": "fBNyNOHGI0jP4yLq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.fBNyNOHGI0jP4yLq"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A river",
+      "_id": "u2i8LKSTLdawD4hi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.u2i8LKSTLdawD4hi"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "A cave",
+      "_id": "OZajan6FEhoCZHWF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!lL4gSGMiuFhRE14Q.OZajan6FEhoCZHWF"
+    }
+  ],
+  "folder": "Aa9kCBGDgKw3J2gm",
+  "_id": "lL4gSGMiuFhRE14Q",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!lL4gSGMiuFhRE14Q"
+}

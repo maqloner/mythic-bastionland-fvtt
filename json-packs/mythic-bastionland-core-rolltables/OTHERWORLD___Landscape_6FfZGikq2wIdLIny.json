@@ -1,0 +1,318 @@
+{
+  "name": "OTHERWORLD - Landscape",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Flats",
+      "_id": "tFwPXGkEE8A5vI6u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.tFwPXGkEE8A5vI6u"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Labyrinth",
+      "_id": "oAlErDLgnyhsllkb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.oAlErDLgnyhsllkb"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Pillars",
+      "_id": "Hzgm1ed3mVhLc1P3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.Hzgm1ed3mVhLc1P3"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Stairs",
+      "_id": "ZCxPDanprumba3Yj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.ZCxPDanprumba3Yj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Desert",
+      "_id": "S3FxbRFgJnzriyPN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.S3FxbRFgJnzriyPN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Craters",
+      "_id": "U1kHPvl0r8nzEzdC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.U1kHPvl0r8nzEzdC"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Cavern",
+      "_id": "pMsgzB6L3pgn0ogI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.pMsgzB6L3pgn0ogI"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Jungle",
+      "_id": "U34Nmqcnk4YVIhGp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.U34Nmqcnk4YVIhGp"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Dunes",
+      "_id": "dMnM309Ni2lqnPUm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.dMnM309Ni2lqnPUm"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Tunnels",
+      "_id": "sBBLRuRm0yOEgnIK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.sBBLRuRm0yOEgnIK"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Island",
+      "_id": "5qPUtXyuqXzY4xNY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.5qPUtXyuqXzY4xNY"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Mountain",
+      "_id": "6C6lEQh1lHN67iVR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!6FfZGikq2wIdLIny.6C6lEQh1lHN67iVR"
+    }
+  ],
+  "folder": "MTEoIQiTorUuC8qP",
+  "_id": "6FfZGikq2wIdLIny",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!6FfZGikq2wIdLIny"
+}

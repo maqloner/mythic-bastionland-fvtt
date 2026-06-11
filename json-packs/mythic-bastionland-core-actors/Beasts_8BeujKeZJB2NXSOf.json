@@ -1,0 +1,23 @@
+{
+  "name": "Beasts",
+  "type": "Actor",
+  "folder": null,
+  "_id": "8BeujKeZJB2NXSOf",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702144404594,
+    "modifiedTime": 1756663018053,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!8BeujKeZJB2NXSOf"
+}

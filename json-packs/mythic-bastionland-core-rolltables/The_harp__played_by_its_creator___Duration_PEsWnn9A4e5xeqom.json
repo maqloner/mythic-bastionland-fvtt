@@ -1,0 +1,174 @@
+{
+  "name": "The harp, played by its creator - Duration",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Just a moment",
+      "_id": "UNSCKJgCXBDchSyR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.UNSCKJgCXBDchSyR"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "For the Phase",
+      "_id": "TqLsL078YTufPadM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.TqLsL078YTufPadM"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Until next morning",
+      "_id": "1qeB2ZPx0Mn5wB5U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.1qeB2ZPx0Mn5wB5U"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "A Season",
+      "_id": "uwtV2FyaatVR8ogz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.uwtV2FyaatVR8ogz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "A year",
+      "_id": "zdVfZkwOtqG123eY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.zdVfZkwOtqG123eY"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "An Age",
+      "_id": "9DEDVvRy13ikEt9O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!PEsWnn9A4e5xeqom.9DEDVvRy13ikEt9O"
+    }
+  ],
+  "folder": "RxAH1imFxPpvKpOl",
+  "_id": "PEsWnn9A4e5xeqom",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!PEsWnn9A4e5xeqom"
+}

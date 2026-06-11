@@ -1,0 +1,174 @@
+{
+  "name": "The poisonous young - Abomination",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Barbed Scales",
+      "_id": "mJdoXmYLmmjDWj3O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.mJdoXmYLmmjDWj3O"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Unhinged Jaw",
+      "_id": "ZYIhIagI29hmfdYl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.ZYIhIagI29hmfdYl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Prehensile Tongue",
+      "_id": "BReSSP2XAmN6uXYz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.BReSSP2XAmN6uXYz"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bloated Stomach",
+      "_id": "JhrsapbbjVHkv0TJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.JhrsapbbjVHkv0TJ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Twin Tails",
+      "_id": "HCaSlZ37gPqJAH6y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.HCaSlZ37gPqJAH6y"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Horned Snout",
+      "_id": "TE3p7dmawvdaaAK7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!D32bL1Z2QUUFcBfd.TE3p7dmawvdaaAK7"
+    }
+  ],
+  "folder": "wY78KPUyrHjVk0sh",
+  "_id": "D32bL1Z2QUUFcBfd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!D32bL1Z2QUUFcBfd"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "knight",
+  "name": "The Halo Knight",
+  "system": {
+    "name": "",
+    "description": "A trail of hope across the land. In sorrow’s face, bright reprimand",
+    "flavor": "Repairing the mistvial",
+    "flavorLabel1": "Material Requirement",
+    "flavorLabel2": "Other Requirement"
+  },
+  "folder": "XfEpQyxCnAibdRjg",
+  "img": "systems/mythicbastionland/tokens/items/knight.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686431564,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "s0OmbRv7vtRbizqz",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!s0OmbRv7vtRbizqz"
+}

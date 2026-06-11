@@ -1,0 +1,29 @@
+{
+  "type": "scar",
+  "name": "Smash",
+  "system": {
+    "description": "<p><em>A sudden spray of blood</em></p><p>Lose [[/roll d6]] VIG.</p>"
+  },
+  "folder": "RdZ1nl7NPnGwbCi3",
+  "_id": "FGgayYwekZ4kTF3I",
+  "img": "systems/mythicbastionland/tokens/items/scar.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756662958310,
+    "modifiedTime": 1756662958310,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!items!FGgayYwekZ4kTF3I"
+}

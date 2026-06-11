@@ -1,0 +1,23 @@
+{
+  "name": "Armours",
+  "type": "Item",
+  "folder": null,
+  "_id": "F2JV9SSTb0uUwaLY",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.0",
+    "coreVersion": "13.348",
+    "createdTime": 1702146668959,
+    "modifiedTime": 1756662958288,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "color": null,
+  "_key": "!folders!F2JV9SSTb0uUwaLY"
+}

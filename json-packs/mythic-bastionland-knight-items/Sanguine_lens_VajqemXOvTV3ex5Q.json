@@ -1,0 +1,33 @@
+{
+  "type": "misc",
+  "name": "Sanguine lens",
+  "system": {
+    "description": "Traces of blood appear obvious when viewed through this",
+    "quantity": {
+      "min": 1,
+      "max": null,
+      "value": 1
+    }
+  },
+  "folder": "cCn9139FbJfcmEoU",
+  "img": "systems/mythicbastionland/tokens/items/misc.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686403918,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VajqemXOvTV3ex5Q",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VajqemXOvTV3ex5Q"
+}

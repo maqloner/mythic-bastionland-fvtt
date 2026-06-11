@@ -1,0 +1,174 @@
+{
+  "name": "The deathly malady - Fatal Symptom",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Bleeding",
+      "_id": "1Rooz5GpMV2nqwBO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.1Rooz5GpMV2nqwBO"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Choking",
+      "_id": "8AfQ889Gr0D7kmqG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.8AfQ889Gr0D7kmqG"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Swelling",
+      "_id": "ENzYhiyDa1dtyFuj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.ENzYhiyDa1dtyFuj"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Wasting",
+      "_id": "U1AAM4JEZ7kytP0m",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.U1AAM4JEZ7kytP0m"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Lethargy",
+      "_id": "Luj2cpe8rEMC4vrx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.Luj2cpe8rEMC4vrx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Convulsion",
+      "_id": "w3r2v7BzSyXPOYY8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!yMNRr7yDxZKZ5nMR.w3r2v7BzSyXPOYY8"
+    }
+  ],
+  "folder": "4xkUVBjXuEaxrp0C",
+  "_id": "yMNRr7yDxZKZ5nMR",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!yMNRr7yDxZKZ5nMR"
+}

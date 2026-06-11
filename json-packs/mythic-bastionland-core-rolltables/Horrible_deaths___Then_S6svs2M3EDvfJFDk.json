@@ -1,0 +1,174 @@
+{
+  "name": "Horrible deaths - Then",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Sent to the deep",
+      "_id": "zjLBR7OFpmzHNeA2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.zjLBR7OFpmzHNeA2"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Burned in a forge",
+      "_id": "AHlEwF7vRArMDlMO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.AHlEwF7vRArMDlMO"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Fed to magpies",
+      "_id": "gfPakgNmFOpIvV0w",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.gfPakgNmFOpIvV0w"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Stuffed in a tree",
+      "_id": "np97G72uazvLmuOY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.np97G72uazvLmuOY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Encased in iron",
+      "_id": "I2v1rd0cljnuuWzW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.I2v1rd0cljnuuWzW"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Taken by the Seer",
+      "_id": "ikbcsDB7yDa5EhuX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!S6svs2M3EDvfJFDk.ikbcsDB7yDa5EhuX"
+    }
+  ],
+  "folder": "gu5wP6sgUcjvdlu2",
+  "_id": "S6svs2M3EDvfJFDk",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!S6svs2M3EDvfJFDk"
+}

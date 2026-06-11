@@ -1,0 +1,1758 @@
+{
+  "name": "Dwelling",
+  "formula": "d72",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Shepherd fields",
+      "_id": "2NVIfDeX5QXEtJTc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.2NVIfDeX5QXEtJTc"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Verdant treehouse",
+      "_id": "iqewDtWv2FbEm302",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.iqewDtWv2FbEm302"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Traveller’s inn",
+      "_id": "ZFOoL33HxVFEvg85",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ZFOoL33HxVFEvg85"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Fertile farm",
+      "_id": "kkESrIhp5TV02oRz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.kkESrIhp5TV02oRz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pigeon breeder",
+      "_id": "0jzHKtPLWFvmas8G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.0jzHKtPLWFvmas8G"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Honey farm",
+      "_id": "38gwaLwiCl5tcmq7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.38gwaLwiCl5tcmq7"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Cartographer hut",
+      "_id": "vyH35O8jluemBF3q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.vyH35O8jluemBF3q"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Tea hut",
+      "_id": "PXbqAXqe43Cz1JCK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.PXbqAXqe43Cz1JCK"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Hot spring",
+      "_id": "GrVYn39UgPVgKKsA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.GrVYn39UgPVgKKsA"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Fishing pond",
+      "_id": "Fl2uLsO8UdXAxZqu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.Fl2uLsO8UdXAxZqu"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Artisan brewery",
+      "_id": "E6SrCsncbStYpZB3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.E6SrCsncbStYpZB3"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Guard’s outpost",
+      "_id": "Ef9BlhtOV1TsvTcU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.Ef9BlhtOV1TsvTcU"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Stone quarry",
+      "_id": "W3A6rWsXW2MGBock",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.W3A6rWsXW2MGBock"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Lakeside lodge",
+      "_id": "BYNiIud4t10ZX7nS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.BYNiIud4t10ZX7nS"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Toll bridge",
+      "_id": "k5aGDr9J63QRb13V",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.k5aGDr9J63QRb13V"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Cooling well",
+      "_id": "2QzfjT9OGMFF1MPi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.2QzfjT9OGMFF1MPi"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Hidden cave",
+      "_id": "CAA18JbpaZM0fpw6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.CAA18JbpaZM0fpw6"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Abandoned watchtower",
+      "_id": "7HtPlaFW3nfaITe1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.7HtPlaFW3nfaITe1"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Hilltop house",
+      "_id": "dYwXb5wQRMNdzqZh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.dYwXb5wQRMNdzqZh"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Salmon stream",
+      "_id": "6AF5FD6raOV2kP7E",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.6AF5FD6raOV2kP7E"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Hunting hideout",
+      "_id": "UtOo0ib1Ynt0uABY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.UtOo0ib1Ynt0uABY"
+    },
+    {
+      "range": [
+        22,
+        22
+      ],
+      "description": "Logging camp",
+      "_id": "RgAo74eljnLcS73T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.RgAo74eljnLcS73T"
+    },
+    {
+      "range": [
+        23,
+        23
+      ],
+      "description": "Humble fort",
+      "_id": "zYPFhqjhsdrUGXwF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.zYPFhqjhsdrUGXwF"
+    },
+    {
+      "range": [
+        24,
+        24
+      ],
+      "description": "Open market",
+      "_id": "jdjmyZbuMf2l96C3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.jdjmyZbuMf2l96C3"
+    },
+    {
+      "range": [
+        25,
+        25
+      ],
+      "description": "Tranquil quarry",
+      "_id": "qmIYWm6424lBSRRI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.qmIYWm6424lBSRRI"
+    },
+    {
+      "range": [
+        26,
+        26
+      ],
+      "description": "Music camp",
+      "_id": "ZWAifbwBBOVLcQMp",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ZWAifbwBBOVLcQMp"
+    },
+    {
+      "range": [
+        27,
+        27
+      ],
+      "description": "Bridge tower",
+      "_id": "5o5svXMwvD6FN3k0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.5o5svXMwvD6FN3k0"
+    },
+    {
+      "range": [
+        28,
+        28
+      ],
+      "description": "Jouster field",
+      "_id": "hDSpMWDRjOMoYBVS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.hDSpMWDRjOMoYBVS"
+    },
+    {
+      "range": [
+        29,
+        29
+      ],
+      "description": "Signal tower",
+      "_id": "ksqSeZY4asit2hJG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ksqSeZY4asit2hJG"
+    },
+    {
+      "range": [
+        30,
+        30
+      ],
+      "description": "Great hall",
+      "_id": "sYucmoS00bhUnjlE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.sYucmoS00bhUnjlE"
+    },
+    {
+      "range": [
+        31,
+        31
+      ],
+      "description": "Actor encampment",
+      "_id": "Evd8oh4LcV0Xb9CS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.Evd8oh4LcV0Xb9CS"
+    },
+    {
+      "range": [
+        32,
+        32
+      ],
+      "description": "Trickling fountain",
+      "_id": "QFfI7ivyP6AuInxO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.QFfI7ivyP6AuInxO"
+    },
+    {
+      "range": [
+        33,
+        33
+      ],
+      "description": "Welcoming brewery",
+      "_id": "KqvMLi7s1a8wYyhc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.KqvMLi7s1a8wYyhc"
+    },
+    {
+      "range": [
+        34,
+        34
+      ],
+      "description": "Feasting hall",
+      "_id": "rZ18arTkTnPl8gWO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.rZ18arTkTnPl8gWO"
+    },
+    {
+      "range": [
+        35,
+        35
+      ],
+      "description": "Silk-farming monks",
+      "_id": "6nA1CUkoszLqsnRq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.6nA1CUkoszLqsnRq"
+    },
+    {
+      "range": [
+        36,
+        36
+      ],
+      "description": "Meadowside camp",
+      "_id": "7OirQKi1Q6W9oRPC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.7OirQKi1Q6W9oRPC"
+    },
+    {
+      "range": [
+        37,
+        37
+      ],
+      "description": "Patchwork tent",
+      "_id": "1sLCSGqA0vSX0l0D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.1sLCSGqA0vSX0l0D"
+    },
+    {
+      "range": [
+        38,
+        38
+      ],
+      "description": "Treetop village",
+      "_id": "eGs9eask1KikLzlu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.eGs9eask1KikLzlu"
+    },
+    {
+      "range": [
+        39,
+        39
+      ],
+      "description": "Walled barracks",
+      "_id": "u0N3LTSugHS5GXdu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.u0N3LTSugHS5GXdu"
+    },
+    {
+      "range": [
+        40,
+        40
+      ],
+      "description": "Bog village",
+      "_id": "J4AsfoaysxGCUAUn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.J4AsfoaysxGCUAUn"
+    },
+    {
+      "range": [
+        41,
+        41
+      ],
+      "description": "Sapling village",
+      "_id": "Kw6IzcMFW3DWW9Kl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.Kw6IzcMFW3DWW9Kl"
+    },
+    {
+      "range": [
+        42,
+        42
+      ],
+      "description": "Sage’s den",
+      "_id": "h5rLCMqQ6TQxp7Xa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.h5rLCMqQ6TQxp7Xa"
+    },
+    {
+      "range": [
+        43,
+        43
+      ],
+      "description": "Minstrel’s nook",
+      "_id": "BkS3mTSTP16lSZEB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.BkS3mTSTP16lSZEB"
+    },
+    {
+      "range": [
+        44,
+        44
+      ],
+      "description": "Weaver’s loft",
+      "_id": "1rCaBki7GxEXbZqO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.1rCaBki7GxEXbZqO"
+    },
+    {
+      "range": [
+        45,
+        45
+      ],
+      "description": "Alchemist tower",
+      "_id": "PpnzTrD71SQHID1k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.PpnzTrD71SQHID1k"
+    },
+    {
+      "range": [
+        46,
+        46
+      ],
+      "description": "Falconer’s hut",
+      "_id": "4OutKq0rv3QLR9WD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.4OutKq0rv3QLR9WD"
+    },
+    {
+      "range": [
+        47,
+        47
+      ],
+      "description": "Thistle gatherers",
+      "_id": "XXmxAtyaReomM5DC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.XXmxAtyaReomM5DC"
+    },
+    {
+      "range": [
+        48,
+        48
+      ],
+      "description": "Rambunctious fishery",
+      "_id": "mUttvNQUNRzkNzTB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.mUttvNQUNRzkNzTB"
+    },
+    {
+      "range": [
+        49,
+        49
+      ],
+      "description": "Scribe’s shelter",
+      "_id": "3HYslF7QYe48v6Jq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.3HYslF7QYe48v6Jq"
+    },
+    {
+      "range": [
+        50,
+        50
+      ],
+      "description": "Exile pottery",
+      "_id": "omSKRu11sgxMyVBY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.omSKRu11sgxMyVBY"
+    },
+    {
+      "range": [
+        51,
+        51
+      ],
+      "description": "Harpist gathering",
+      "_id": "QXGUyzp2TZLmB70Q",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.QXGUyzp2TZLmB70Q"
+    },
+    {
+      "range": [
+        52,
+        52
+      ],
+      "description": "Stonecutting camp",
+      "_id": "LXlLWSud8yDxq9kJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.LXlLWSud8yDxq9kJ"
+    },
+    {
+      "range": [
+        53,
+        53
+      ],
+      "description": "Citadel of pipers",
+      "_id": "LoTiihybyzsFee6u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.LoTiihybyzsFee6u"
+    },
+    {
+      "range": [
+        54,
+        54
+      ],
+      "description": "Silk farm",
+      "_id": "fwEL10eVeZ5Eaa9X",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.fwEL10eVeZ5Eaa9X"
+    },
+    {
+      "range": [
+        55,
+        55
+      ],
+      "description": "Nomad camp",
+      "_id": "ZSKSxtM8BNFsTUCb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ZSKSxtM8BNFsTUCb"
+    },
+    {
+      "range": [
+        56,
+        56
+      ],
+      "description": "Humble hearth",
+      "_id": "LduMQY8RpJUb9Q5L",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.LduMQY8RpJUb9Q5L"
+    },
+    {
+      "range": [
+        57,
+        57
+      ],
+      "description": "Canopy outpost",
+      "_id": "ottWyyddTYDu3zQQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ottWyyddTYDu3zQQ"
+    },
+    {
+      "range": [
+        58,
+        58
+      ],
+      "description": "Knight’s rest",
+      "_id": "7RVFueHGoOpvVUwu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.7RVFueHGoOpvVUwu"
+    },
+    {
+      "range": [
+        59,
+        59
+      ],
+      "description": "Moonwatcher settlement",
+      "_id": "v85R3F6I3IiDa4qL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.v85R3F6I3IiDa4qL"
+    },
+    {
+      "range": [
+        60,
+        60
+      ],
+      "description": "Secret vineyard",
+      "_id": "GLxfTRg5eOr4uxy3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.GLxfTRg5eOr4uxy3"
+    },
+    {
+      "range": [
+        61,
+        61
+      ],
+      "description": "Reclusive perfumery",
+      "_id": "vBk9MbgfwRQ6fnNo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.vBk9MbgfwRQ6fnNo"
+    },
+    {
+      "range": [
+        62,
+        62
+      ],
+      "description": "Orchard village",
+      "_id": "pNusu31h1QB5EhMT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.pNusu31h1QB5EhMT"
+    },
+    {
+      "range": [
+        63,
+        63
+      ],
+      "description": "Bright windmill",
+      "_id": "xawYdRBQxKcRqgbb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.xawYdRBQxKcRqgbb"
+    },
+    {
+      "range": [
+        64,
+        64
+      ],
+      "description": "Shepherd tents",
+      "_id": "ySQm6d4uWJbHRw41",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.ySQm6d4uWJbHRw41"
+    },
+    {
+      "range": [
+        65,
+        65
+      ],
+      "description": "Trapper cabin",
+      "_id": "rycdOmjXcHTu5LWC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.rycdOmjXcHTu5LWC"
+    },
+    {
+      "range": [
+        66,
+        66
+      ],
+      "description": "Tiny market",
+      "_id": "vm4QOwBI6zkDcrVc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.vm4QOwBI6zkDcrVc"
+    },
+    {
+      "range": [
+        67,
+        67
+      ],
+      "description": "Peaceful disciples",
+      "_id": "xNxmf2OOyC6WOrwF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.xNxmf2OOyC6WOrwF"
+    },
+    {
+      "range": [
+        68,
+        68
+      ],
+      "description": "Master hunter hut",
+      "_id": "75JSd7kG7ziL3TT9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.75JSd7kG7ziL3TT9"
+    },
+    {
+      "range": [
+        69,
+        69
+      ],
+      "description": "Musical hermit",
+      "_id": "s3yUbjNT1MqGvszW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.s3yUbjNT1MqGvszW"
+    },
+    {
+      "range": [
+        70,
+        70
+      ],
+      "description": "Guardian hearth",
+      "_id": "LWU14SuC8JKRjjCA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.LWU14SuC8JKRjjCA"
+    },
+    {
+      "range": [
+        71,
+        71
+      ],
+      "description": "Dreamweaver’s cocoon",
+      "_id": "IS3Lsag7zNehudQk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.IS3Lsag7zNehudQk"
+    },
+    {
+      "range": [
+        72,
+        72
+      ],
+      "description": "Philosopher tower",
+      "_id": "EoKUk3Qe0oUgePFc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!FGIeWI4SsoCx3jfd.EoKUk3Qe0oUgePFc"
+    }
+  ],
+  "folder": "bpef2NPxuFS1IOip",
+  "_id": "FGIeWI4SsoCx3jfd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!FGIeWI4SsoCx3jfd"
+}

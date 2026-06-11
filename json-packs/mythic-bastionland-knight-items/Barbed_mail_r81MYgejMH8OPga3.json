@@ -1,0 +1,30 @@
+{
+  "type": "coat",
+  "name": "Barbed mail",
+  "system": {
+    "description": "Anyone trying to grab or hold you takes [[/roll d6 #damage]] Damage",
+    "armor": 1,
+    "equipped": false
+  },
+  "folder": "OrFm6gOamKyvqgfk",
+  "img": "systems/mythicbastionland/tokens/items/coat.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686414339,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "r81MYgejMH8OPga3",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!r81MYgejMH8OPga3"
+}

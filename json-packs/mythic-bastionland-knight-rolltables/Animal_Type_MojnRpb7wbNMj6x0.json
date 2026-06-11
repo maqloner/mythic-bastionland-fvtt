@@ -1,0 +1,174 @@
+{
+  "name": "Animal Type",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Turtle",
+      "_id": "BPWLTzfd9P3DPLcf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.BPWLTzfd9P3DPLcf"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Elephant",
+      "_id": "4VmeD7FLSncnmD4N",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.4VmeD7FLSncnmD4N"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Lion cub",
+      "_id": "B73EQ1qHXJ4zGL6O",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.B73EQ1qHXJ4zGL6O"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Seahorse",
+      "_id": "V7jFj0TEqCVwjIlg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.V7jFj0TEqCVwjIlg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Unicorn",
+      "_id": "C4viNaSZV8NmlVrZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.C4viNaSZV8NmlVrZ"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Pigeon",
+      "_id": "xBbBPB1E9E6rHaH9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!MojnRpb7wbNMj6x0.xBbBPB1E9E6rHaH9"
+    }
+  ],
+  "folder": "DPLsNlTjLV7HsJYn",
+  "_id": "MojnRpb7wbNMj6x0",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!MojnRpb7wbNMj6x0"
+}

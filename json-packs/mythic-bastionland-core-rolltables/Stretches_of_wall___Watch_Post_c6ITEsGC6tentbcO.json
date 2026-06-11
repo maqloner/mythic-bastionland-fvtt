@@ -1,0 +1,174 @@
+{
+  "name": "Stretches of wall - Watch Post",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Isolated",
+      "_id": "dfjOnNYr7OfAsQcX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.dfjOnNYr7OfAsQcX"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Overstaffed",
+      "_id": "DAnuaswBgnEQWNyM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.DAnuaswBgnEQWNyM"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "In the Clouds",
+      "_id": "4aB01wMiNKamWdry",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.4aB01wMiNKamWdry"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Leaning",
+      "_id": "mCdyDMetksmdqMEX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.mCdyDMetksmdqMEX"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Hostile",
+      "_id": "uXiGEgHluMiV94Dv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.uXiGEgHluMiV94Dv"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Abandoned",
+      "_id": "NdQflnSMKCHYjY1k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!c6ITEsGC6tentbcO.NdQflnSMKCHYjY1k"
+    }
+  ],
+  "folder": "TZ2BCiWoMRGrJxtb",
+  "_id": "c6ITEsGC6tentbcO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!c6ITEsGC6tentbcO"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Schemes of the hedgehog - Twist",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Wants to get caught",
+      "_id": "NDmOcObdm5epC5QW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.NDmOcObdm5epC5QW"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "In disguise",
+      "_id": "wXCeKUB87Mqqzjvt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.wXCeKUB87Mqqzjvt"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Befriends enemies",
+      "_id": "RW29x0jI74bMpT4w",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.RW29x0jI74bMpT4w"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Play the long game",
+      "_id": "WoLLQ3D5hv83Gota",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.WoLLQ3D5hv83Gota"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fake death",
+      "_id": "PKtTRZqHbw2iq8Cc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.PKtTRZqHbw2iq8Cc"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Exploit superstitions",
+      "_id": "LVjnl5MewA7c4ooX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!aqzYKWqfW9S1thY9.LVjnl5MewA7c4ooX"
+    }
+  ],
+  "folder": "Xa0W5MTrQjZOrrAc",
+  "_id": "aqzYKWqfW9S1thY9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!aqzYKWqfW9S1thY9"
+}

@@ -6,6 +6,8 @@
   "scripts": {
     "build:css": "sass --no-source-map scss/mythic-bastionland.scss css/mythic-bastionland.css --style=expanded",
     "build:watch": "sass --watch --no-source-map scss/mythic-bastionland.scss:css/mythic-bastionland.css",
+    "packs:build": "scripts/build-packs",
+    "packs:extract": "scripts/extract-packs",
     "lint": "eslint --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "lint:fix": "eslint --fix --ext .js ./module --format node_modules/eslint-plugin-i18n-json/formatter.js lang/*",
     "i18n:unused": "i18n-unused display-unused",
@@ -25,6 +27,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.28.0",
     "@eslint/compat": "^1.3.2",
+    "@foundryvtt/foundryvtt-cli": "^3.0.3",
     "@league-of-foundry-developers/foundry-vtt-types": "^13.340.1",
     "@stylistic/eslint-plugin": "^5.2.3",
     "@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",

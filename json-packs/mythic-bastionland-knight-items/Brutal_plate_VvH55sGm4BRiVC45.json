@@ -1,0 +1,30 @@
+{
+  "type": "plate",
+  "name": "Brutal plate",
+  "system": {
+    "description": "A1 only when Wounded",
+    "armor": 0,
+    "equipped": false
+  },
+  "folder": "uyPSw4DSmoRUPcrU",
+  "img": "systems/mythicbastionland/tokens/items/plate.png",
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "coreVersion": "13.348",
+    "createdTime": 1707686398943,
+    "modifiedTime": 1756662987716,
+    "lastModifiedBy": "KQJsJtxYaymNehvs",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VvH55sGm4BRiVC45",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!VvH55sGm4BRiVC45"
+}

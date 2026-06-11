@@ -1,0 +1,174 @@
+{
+  "name": "Distracted by…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Smaller animals",
+      "_id": "86xXK0RGymYOeg5c",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.86xXK0RGymYOeg5c"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Moss",
+      "_id": "8b09O3EqpcnaH6D5",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.8b09O3EqpcnaH6D5"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Water",
+      "_id": "8esp4fexQ2rJG7Ga",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.8esp4fexQ2rJG7Ga"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Salt",
+      "_id": "8bF0vVKKMtJdtNRx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.8bF0vVKKMtJdtNRx"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Fruit",
+      "_id": "xnksBssDAUWHduEd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.xnksBssDAUWHduEd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shiny things",
+      "_id": "QB1jWKS1ufskmChz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!EOFSiM5IIrKjYoeO.QB1jWKS1ufskmChz"
+    }
+  ],
+  "folder": "zH0i6N7AHnpGnJzg",
+  "_id": "EOFSiM5IIrKjYoeO",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!EOFSiM5IIrKjYoeO"
+}

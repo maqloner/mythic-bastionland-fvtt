@@ -1,0 +1,318 @@
+{
+  "name": "WEAPON - Feature",
+  "formula": "d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Blade",
+      "_id": "8LDM5uiOPU22owdJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.8LDM5uiOPU22owdJ"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spear",
+      "_id": "Qb16NCaJVqcfZQqQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.Qb16NCaJVqcfZQqQ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Axe",
+      "_id": "aFVQLyxdBDVwXDvx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.aFVQLyxdBDVwXDvx"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Mace",
+      "_id": "44Fu2INkktBVzu4H",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.44Fu2INkktBVzu4H"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Cleaver",
+      "_id": "128UPg0J1nh7hKJG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.128UPg0J1nh7hKJG"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Hammer",
+      "_id": "XIokD3cklVTlqlCa",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.XIokD3cklVTlqlCa"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Spike",
+      "_id": "EDiFmtDzYhzrWZ2u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.EDiFmtDzYhzrWZ2u"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Hook",
+      "_id": "dt6TO9PvK9CYQI46",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.dt6TO9PvK9CYQI46"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Club",
+      "_id": "TCrSQGDwT53VfXsc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.TCrSQGDwT53VfXsc"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Rod",
+      "_id": "t95QtRqTv5jbnGqU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.t95QtRqTv5jbnGqU"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Fang",
+      "_id": "ycOKQMPFcAPPZ39n",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.ycOKQMPFcAPPZ39n"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Sword",
+      "_id": "KSJKM8bMVLI70A36",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!1GXF3h9MsJYwHoIL.KSJKM8bMVLI70A36"
+    }
+  ],
+  "folder": "IUA10UCYNgb4YwOh",
+  "_id": "1GXF3h9MsJYwHoIL",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!1GXF3h9MsJYwHoIL"
+}

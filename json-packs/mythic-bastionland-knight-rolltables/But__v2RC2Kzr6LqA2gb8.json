@@ -1,0 +1,174 @@
+{
+  "name": "But…",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "It’s long and inconvenient to carry",
+      "_id": "cOAotSkMQ82SH1I3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.cOAotSkMQ82SH1I3"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Dogs always want it",
+      "_id": "oEp6yYPDfuSWpkzG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.oEp6yYPDfuSWpkzG"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "It looks just like every other stick",
+      "_id": "cpnVPnDjBtsryMe6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.cpnVPnDjBtsryMe6"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "It’s very delicate",
+      "_id": "uZg9c2v6SoLNpVRg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.uZg9c2v6SoLNpVRg"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "It’s extremely flammable",
+      "_id": "wJW9pj2GZDHiZJOt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.wJW9pj2GZDHiZJOt"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "It only works in bright sunlight",
+      "_id": "dZ8a8p3M4qrJJQT7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!v2RC2Kzr6LqA2gb8.dZ8a8p3M4qrJJQT7"
+    }
+  ],
+  "folder": "rdjabOJtO9DuTHX8",
+  "_id": "v2RC2Kzr6LqA2gb8",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663691587,
+    "modifiedTime": 1756663691587,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!v2RC2Kzr6LqA2gb8"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Crisis",
+  "formula": "d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Chaos - Lawlessness in the land.",
+      "_id": "Gt3YOcfp8er9GJqS",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.Gt3YOcfp8er9GJqS"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Debt - Dire need of coffer and coin.",
+      "_id": "bU4HbN4mJCl1kwbh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.bU4HbN4mJCl1kwbh"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Famine - Empty plates, empty fields.",
+      "_id": "jdq9N3lb9An9y9va",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.jdq9N3lb9An9y9va"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Lying while bearing the shield.",
+      "_id": "BOQjnMTrZTvljNY7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.BOQjnMTrZTvljNY7"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Omitting key information to you.",
+      "_id": "RloewuDx2kHyYslM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.RloewuDx2kHyYslM"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Lying to you about their intent.",
+      "_id": "wlaQADhtRmkGfBIj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "mythicbastionland",
+        "systemVersion": "1.0.8",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!kN07YmQEabZFt0iz.wlaQADhtRmkGfBIj"
+    }
+  ],
+  "folder": "EB1xM0HGTtBeibzu",
+  "_id": "kN07YmQEabZFt0iz",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "mythicbastionland",
+    "systemVersion": "1.0.8",
+    "createdTime": 1756663393931,
+    "modifiedTime": 1756663393931,
+    "lastModifiedBy": "KQJsJtxYaymNehvs"
+  },
+  "ownership": {
+    "default": 0,
+    "KQJsJtxYaymNehvs": 3
+  },
+  "sort": 0,
+  "_key": "!tables!kN07YmQEabZFt0iz"
+}
